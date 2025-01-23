@@ -12,7 +12,7 @@ class Item:
 		return "\n" + self.title + "\n" + self.link + "\n"
 
 def get_response(url):
-	headers = {'user-agent': 'Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.5938.60 Mobile Safari/537.36'}
+	headers = {'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36'}
 	try:
 		with requests.get(url, headers=headers, timeout = 30) as resp:
 			if resp.status_code == 200:
@@ -32,20 +32,20 @@ def parsing_xml(xml):
 	return item_list
 
 def load_url():
-	with open("url.txt", "r", encoding = "UTF-8") as file:
+	with open("feeds_url.txt", "r", encoding = "UTF-8") as file:
 		url_list = file.read().splitlines()
 		return url_list
 
 def save_url(url_string):
-	with open("url.txt", "w", encoding = "UTF-8") as file:
+	with open("feeds_url.txt", "w", encoding = "UTF-8") as file:
 		file.write(url_string)
 
 def save_result(result_string):
-	with open("result.txt", "w", encoding = "UTF-8") as file:
+	with open("feeds_report_result.txt", "w", encoding = "UTF-8") as file:
 		file.write(result_string)
 
 def save_log(log_string):
-	with open("log.txt", "w", encoding = "UTF-8") as file:
+	with open("feeds_report.log", "w", encoding = "UTF-8") as file:
 		file.write(log_string)
 
 url_list = load_url()
