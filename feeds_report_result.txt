@@ -1,0 +1,97 @@
+# 2025-01-24 09:16:12 Feeds Report 
+
+新年新希望，關了
+https://kaif.io/z/compiling/debates/bKzlXg44cA0
+
+What are the stages of IRDAI regulatory sandbox?
+https://kaif.io/z/startups/debates/bKypVj6Dr2y
+
+Daily Hacker News for 2025-01-23
+https://www.daemonology.net/hn-daily/2025-01-23.html
+
+又再弄了台二手的 EV2736...
+https://blog.gslin.org/archives/2025/01/24/12231/%e5%8f%88%e5%86%8d%e5%bc%84%e4%ba%86%e5%8f%b0%e4%ba%8c%e6%89%8b%e7%9a%84-ev2736/
+
+Subaru車聯網爆重大漏洞，攻擊者可遠端控制車輛、追蹤位置
+https://www.ithome.com.tw/news/167148
+
+供房地產網站使用的WordPress佈景主題、外掛存在重大漏洞，攻擊者有機會得到3萬個網站的管理權限
+https://www.ithome.com.tw/news/167149
+
+Anthropic推出Claude Citations功能，強化AI回應的來源驗證與可信度
+https://www.ithome.com.tw/news/167146
+
+蘋果iOS 18.3、macOS 15.3將自動啟用Apple Intelligence
+https://www.ithome.com.tw/news/167145
+
+OpenAI公布AI代理人Operator，美國Pro方案用戶先試用
+https://www.ithome.com.tw/news/167143
+
+Cisco修補防毒軟體ClamAV DoS漏洞，防止攻擊者中斷防毒掃描
+https://www.ithome.com.tw/news/167139
+
+迷因幣的背後是炒作、信仰還是未來趨勢？
+https://www.inside.com.tw/article/37403-meme-coins-hype-faith-future-of-crypto
+
+越來越難考倒 AI，研究團隊推出「人類最終考試」備戰
+https://www.inside.com.tw/article/37402-ai-ultimate-test-for-humanity
+
+Perplexity 和 OpenAI 同一天推出 AI 代理工具！開放給「所有」Android 用戶
+https://www.inside.com.tw/article/37401-perplexity-assistant
+
+用 Gemini 點亮新年！12 個 AI 創意妙招陪你過春節
+https://www.inside.com.tw/article/37400-google-gemini-for-lunar-new-year
+
+歐盟 2024 太陽能發電首度超過燃煤
+https://www.inside.com.tw/article/37399-eu-solar-power-generation-surpasses-coal-first-time-in-2024
+
+Google 宣布 Gemini Live 推出繁體中文版！台灣使用者可與 AI 自然交流對話
+https://www.inside.com.tw/article/37372-gemini-live-taiwan
+
+白帽駭客發現 SUBARU 車聯網大漏洞，可讓數百萬車主個資、行蹤全曝光
+https://www.inside.com.tw/article/37398-subaru-security-vulnerability-allowed-millions-of-cars-to-be-tracked-unlocked-and-started
+
+OpenAI 推出自家 AI Agent「Operator」，可跟人一樣看懂並操作網頁
+https://www.inside.com.tw/article/37397-openai-chatgpt-operator-agent-control-computer
+
+元大台灣50ETF，0050，大幅調降經理費(Lower Management Fee for 0050)
+https://greenhornfinancefootnote.blogspot.com/2025/01/50etf0050lower-management-fee-for-0050.html
+
+漫談過年音樂：台灣人的聽覺心象
+https://voicettank.org/20250124-2/
+
+川普偶像麥金利：是偉大總統？還是奧茲（唬爛）大王？
+https://voicettank.org/20250123-1/
+
+【書摘】《日本人的台灣美味》
+https://voicettank.org/20250124-1/
+
+【書摘】《白恐牢籠的新綠苗：「台灣文學主義」的嫩芽》
+https://voicettank.org/20250123-2/
+
+執死的槍響，狙擊憲法法庭的心臟
+https://voicettank.org/20250123-3/
+
+可惜我們都不是哥白尼：事實查核在Meta造成的損害比利益多嗎？
+https://voicettank.org/20250113-1/
+
+臉書終止事實查核對台灣的影響與策略
+https://voicettank.org/20250116-1/
+
+Mock JWT with JwtDecoder in JUnit Test
+https://feeds.feedblitz.com/~/911560010/0/baeldung~Mock-JWT-with-JwtDecoder-in-JUnit-Test
+
+Convert Mono Object to Another Mono Object in Spring WebFlux
+https://feeds.feedblitz.com/~/911560013/0/baeldung~Convert-Mono-Object-to-Another-Mono-Object-in-Spring-WebFlux
+
+Introduction to JLine 3
+https://feeds.feedblitz.com/~/911560016/0/baeldung~Introduction-to-JLine
+
+Convert Camel Case to Snake Case in Java
+https://feeds.feedblitz.com/~/911559089/0/baeldung~Convert-Camel-Case-to-Snake-Case-in-Java
+
+Validate List of Values in Spring
+https://feeds.feedblitz.com/~/911559092/0/baeldung~Validate-List-of-Values-in-Spring
+
+Java Weekly, Issue 578
+https://feeds.feedblitz.com/~/911539910/0/baeldung~Java-Weekly-Issue
