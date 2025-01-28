@@ -1,46 +1,22 @@
-# 2025-01-27 09:17:06 Feeds Report 
+# 2025-01-28 09:16:12 Feeds Report 
 
-阻止失能暴衝的立院, 我們需要你！
-https://kaif.io/z/compiling/debates/bKEEcVTLKRg
+Daily Hacker News for 2025-01-27
+https://www.daemonology.net/hn-daily/2025-01-27.html
 
-網路黑手的呢喃 #61
-https://kaif.io/z/compiling/debates/bKEvut9TZqu
+Android 16 Beta強化應用螢幕適應性，預告API等級37將強制支援大螢幕
+https://www.ithome.com.tw/news/167165
 
-Daily Hacker News for 2025-01-26
-https://www.daemonology.net/hn-daily/2025-01-26.html
+Anthropic 計畫為Claude加入雙向語音模式
+https://www.ithome.com.tw/news/167164
 
-ChatGPT Canvas擴及macOS版程式，底層模型升級到o1
-https://www.ithome.com.tw/news/167161
+川普預告TikTok歸屬30天內決定
+https://www.ithome.com.tw/news/167163
 
-Meta將打造130萬顆GPU的AI資料中心
-https://www.ithome.com.tw/news/167160
+Nvidia 重挫近 17%！DeepSeek 的「AI 史普尼克時刻」是實力還是炒作？
+https://www.inside.com.tw/article/37411-nvidia-plunges-nearly-17-is-deepseek%E2%80%99s-ai-sputnik-moment-genuine-or-just-hype
 
-Zyxel防火牆應用程式簽章年前更新出包，USG FLEX、ATP系列需現場修復
-https://www.ithome.com.tw/news/167159
+Fix the Exception “Cannot issue data manipulation statements with executeQuery()”
+https://feeds.feedblitz.com/~/911827529/0/baeldung~Fix-the-Exception-Cannot-issue-data-manipulation-statements-with-executeQuery
 
-【資安月報】2025年1月，國家級駭客的網路間諜攻擊事件不斷，海纜與國家通訊韌性也受到考驗
-https://www.ithome.com.tw/news/167154
-
-群聯推首款122.88 TB的PCIe 5 SSD，提供領先的讀寫效能
-https://www.ithome.com.tw/review/167093
-
-Bun 1.2大更新強化Node.js相容性，原生支援S3與PostgreSQL
-https://www.ithome.com.tw/news/167156
-
-傳美國政府協調甲骨文等公司洽談收購TikTok
-https://www.ithome.com.tw/news/167157
-
-Hugging Face釋出號稱業界最小多模態語言模型，推論單一圖片不用1GB RAM
-https://www.ithome.com.tw/news/167155
-
-為什麼中國 AI DeepSeek 會引起矽谷恐慌？
-https://www.inside.com.tw/article/37410-why-everyone-in-ai-is-freaking-out-about-deepseek
-
-我在同學群組裡談反共剿匪。 得罪舔共親友會怎樣？
-https://ckhung0.blogspot.com/2025/01/anti-ccp.html
-
-川普上任的深層解讀：既是混亂的推手，更是混亂的產物
-https://voicettank.org/20250121-2/
-
-A Guide to One-Time Token Login in Spring Security
-https://feeds.feedblitz.com/~/911759096/0/baeldung~A-Guide-to-OneTime-Token-Login-in-Spring-Security
+Kafka Producer and Consumer Message Acknowledgement Options
+https://feeds.feedblitz.com/~/911827532/0/baeldung~Kafka-Producer-and-Consumer-Message-Acknowledgement-Options
