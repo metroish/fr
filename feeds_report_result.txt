@@ -1,22 +1,52 @@
-# 2025-01-28 09:16:12 Feeds Report 
+# 2025-01-29 09:15:38 Feeds Report 
 
-Daily Hacker News for 2025-01-27
-https://www.daemonology.net/hn-daily/2025-01-27.html
+Daily Hacker News for 2025-01-28
+https://www.daemonology.net/hn-daily/2025-01-28.html
 
-Android 16 Beta強化應用螢幕適應性，預告API等級37將強制支援大螢幕
-https://www.ithome.com.tw/news/167165
+snac：用 C 寫的 ActivityPub instance
+https://blog.gslin.org/archives/2025/01/29/12236/snac%ef%bc%9a%e7%94%a8-c-%e5%af%ab%e7%9a%84-activitypub-instance/
+
+Google 家的 Swiss Table (高效率的 Hash 結構)
+https://blog.gslin.org/archives/2025/01/29/12235/google-%e5%ae%b6%e7%9a%84-swiss-table-%e9%ab%98%e6%95%88%e7%8e%87%e7%9a%84-hash-%e7%b5%90%e6%a7%8b/
 
 Anthropic 計畫為Claude加入雙向語音模式
 https://www.ithome.com.tw/news/167164
 
-川普預告TikTok歸屬30天內決定
-https://www.ithome.com.tw/news/167163
+DeepSeek 震撼白宮：美國 AI 領先中國僅 3 至 6 個月
+https://www.inside.com.tw/article/37416-deepseek-white-house
 
-Nvidia 重挫近 17%！DeepSeek 的「AI 史普尼克時刻」是實力還是炒作？
-https://www.inside.com.tw/article/37411-nvidia-plunges-nearly-17-is-deepseek%E2%80%99s-ai-sputnik-moment-genuine-or-just-hype
+DeepSeek 取代 ChatGPT 成為 App Stare 熱門 App 冠軍
+https://www.inside.com.tw/article/37415-deepseek-displaces-chatgpt-as-the-app-stores-top-app
 
-Fix the Exception “Cannot issue data manipulation statements with executeQuery()”
-https://feeds.feedblitz.com/~/911827529/0/baeldung~Fix-the-Exception-Cannot-issue-data-manipulation-statements-with-executeQuery
+小孩剛出生該接受外派工作嗎？2個層次，評估跨國工作的生涯規劃
+https://www.businessyee.com/article/5388-overseas-posting
 
-Kafka Producer and Consumer Message Acknowledgement Options
-https://feeds.feedblitz.com/~/911827532/0/baeldung~Kafka-Producer-and-Consumer-Message-Acknowledgement-Options
+槓桿ETF是什麼？投資ETF想賺更多，能不能改買0050正2這類槓桿ETF？
+https://www.businessyee.com/article/5385-leveraged-etf
+
+家族有癌症病史，該如何降低風險？3大面向著手：健康、健檢、保險！
+https://www.businessyee.com/article/5381-Reduce-the-risk-of-cancer
+
+私募基金可以買嗎？是詐騙嗎？專家「2招」辨真偽
+https://www.businessyee.com/article/5387-financial-fraud
+
+日銀升息！政策利率達 0.5%，17年來最高水準
+https://www.businessyee.com/article/5397-boj-hikes-rates-2025-jan
+
+【好險有聽】用AI為保戶創造更好的保障——專訪慧保科技執行長楊承益博士
+https://www.businessyee.com/article/5395-bestu
+
+央行理事憂農會信用部成打炒房破口，不排除再祭管制措施
+https://www.businessyee.com/article/5396-cb-house-load-regulation
+
+穩定幣首納加密專法監管，如何與數位新台幣共存成挑戰
+https://www.businessyee.com/article/5394-Stablecoin-vs-CBDC
+
+「東京不是終點」：如何打造新的「在地新創」模式才是
+https://www.businessyee.com/article/5393-WizGroup-TechGALA
+
+【商益書摘】超高齡社會的消費行為學：為熟齡者消除「不安、不滿、不便」，就是商機所在！
+https://www.businessyee.com/article/5392-Hiroyuki-Murata
+
+變局中的抉擇
+https://dushuyizhi.net/greatchoices/
