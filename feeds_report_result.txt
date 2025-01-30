@@ -1,52 +1,34 @@
-# 2025-01-29 09:15:38 Feeds Report 
+# 2025-01-30 09:15:46 Feeds Report 
 
-Daily Hacker News for 2025-01-28
-https://www.daemonology.net/hn-daily/2025-01-28.html
+Daily Hacker News for 2025-01-29
+https://www.daemonology.net/hn-daily/2025-01-29.html
 
-snac：用 C 寫的 ActivityPub instance
-https://blog.gslin.org/archives/2025/01/29/12236/snac%ef%bc%9a%e7%94%a8-c-%e5%af%ab%e7%9a%84-activitypub-instance/
+Coding4Fun - 二元搜尋樹及中序、後序走訪動態展示
+https://blog.darkthread.net/blog/binary-search-tree-demo/
 
-Google 家的 Swiss Table (高效率的 Hash 結構)
-https://blog.gslin.org/archives/2025/01/29/12235/google-%e5%ae%b6%e7%9a%84-swiss-table-%e9%ab%98%e6%95%88%e7%8e%87%e7%9a%84-hash-%e7%b5%90%e6%a7%8b/
+美憂 AI「蒸餾技術」淪防守漏洞，DeepSeek 事件凸顯監管困境
+https://www.inside.com.tw/article/37422-china-deepseek-us-distillation-tech-security-risk
 
-Anthropic 計畫為Claude加入雙向語音模式
-https://www.ithome.com.tw/news/167164
+回應 DeepSeek 橫空出世，OpenAI Sam Altman：算力依然重要
+https://www.inside.com.tw/article/37421-openai-sam-altman-deepseek-compute-importance
 
-DeepSeek 震撼白宮：美國 AI 領先中國僅 3 至 6 個月
-https://www.inside.com.tw/article/37416-deepseek-white-house
+H20 也要禁？彭博：川普政府可能對中國擴大晶片銷售限制
+https://www.inside.com.tw/article/37420-trump-china-chip-ban-h20-bloomberg
 
-DeepSeek 取代 ChatGPT 成為 App Stare 熱門 App 冠軍
-https://www.inside.com.tw/article/37415-deepseek-displaces-chatgpt-as-the-app-stores-top-app
+X 聯手 Visa 進軍金融 「X Money」整合理財功能
+https://www.inside.com.tw/article/37419-x-money
 
-小孩剛出生該接受外派工作嗎？2個層次，評估跨國工作的生涯規劃
-https://www.businessyee.com/article/5388-overseas-posting
+ChatGPT 推政府專用版！OpenAI 搶攻美國公部門
+https://www.inside.com.tw/article/37418-openai-chatgpt-gov
 
-槓桿ETF是什麼？投資ETF想賺更多，能不能改買0050正2這類槓桿ETF？
-https://www.businessyee.com/article/5385-leveraged-etf
+森友學園弊案現曙光！大阪高院撤銷「不開示決定」，日本財務省應公開交給檢方的調查文件
+https://changyuchieh.com/2025/01/30/akagi-disclosure/?utm_source=rss&utm_medium=rss&utm_campaign=akagi-disclosure
 
-家族有癌症病史，該如何降低風險？3大面向著手：健康、健檢、保險！
-https://www.businessyee.com/article/5381-Reduce-the-risk-of-cancer
+Implement Feature Flags in Java With Unleash
+https://feeds.feedblitz.com/~/911939960/0/baeldung~Implement-Feature-Flags-in-Java-With-Unleash
 
-私募基金可以買嗎？是詐騙嗎？專家「2招」辨真偽
-https://www.businessyee.com/article/5387-financial-fraud
+How to Log All Requests and Responses and Exceptions in a Single Place
+https://feeds.feedblitz.com/~/911939384/0/baeldung~How-to-Log-All-Requests-and-Responses-and-Exceptions-in-a-Single-Place
 
-日銀升息！政策利率達 0.5%，17年來最高水準
-https://www.businessyee.com/article/5397-boj-hikes-rates-2025-jan
-
-【好險有聽】用AI為保戶創造更好的保障——專訪慧保科技執行長楊承益博士
-https://www.businessyee.com/article/5395-bestu
-
-央行理事憂農會信用部成打炒房破口，不排除再祭管制措施
-https://www.businessyee.com/article/5396-cb-house-load-regulation
-
-穩定幣首納加密專法監管，如何與數位新台幣共存成挑戰
-https://www.businessyee.com/article/5394-Stablecoin-vs-CBDC
-
-「東京不是終點」：如何打造新的「在地新創」模式才是
-https://www.businessyee.com/article/5393-WizGroup-TechGALA
-
-【商益書摘】超高齡社會的消費行為學：為熟齡者消除「不安、不滿、不便」，就是商機所在！
-https://www.businessyee.com/article/5392-Hiroyuki-Murata
-
-變局中的抉擇
-https://dushuyizhi.net/greatchoices/
+Introduction to New Relic for Java
+https://feeds.feedblitz.com/~/911939387/0/baeldung~Introduction-to-New-Relic-for-Java
