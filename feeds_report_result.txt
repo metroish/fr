@@ -1,34 +1,58 @@
-# 2025-01-30 09:15:46 Feeds Report 
+# 2025-01-31 09:15:35 Feeds Report 
 
-Daily Hacker News for 2025-01-29
-https://www.daemonology.net/hn-daily/2025-01-29.html
+Daily Hacker News for 2025-01-30
+https://www.daemonology.net/hn-daily/2025-01-30.html
 
-Coding4Fun - 二元搜尋樹及中序、後序走訪動態展示
-https://blog.darkthread.net/blog/binary-search-tree-demo/
+PyPI 有 Archive 的狀態了
+https://blog.gslin.org/archives/2025/01/31/12237/pypi-%e6%9c%89-archive-%e7%9a%84%e7%8b%80%e6%85%8b%e4%ba%86/
 
-美憂 AI「蒸餾技術」淪防守漏洞，DeepSeek 事件凸顯監管困境
-https://www.inside.com.tw/article/37422-china-deepseek-us-distillation-tech-security-risk
+懷舊風語音識別之 Speech API 聲控貪吃蛇
+https://blog.darkthread.net/blog/sapi-demo/
 
-回應 DeepSeek 橫空出世，OpenAI Sam Altman：算力依然重要
-https://www.inside.com.tw/article/37421-openai-sam-altman-deepseek-compute-importance
+Hugging Face逆向工程DeepSeek-R1，將打造開放推理模型Open-R1
+https://www.ithome.com.tw/news/167171
 
-H20 也要禁？彭博：川普政府可能對中國擴大晶片銷售限制
-https://www.inside.com.tw/article/37420-trump-china-chip-ban-h20-bloomberg
+加入公雲自研處理器行列，GCP推出高效能Arm執行個體
+https://www.ithome.com.tw/review/166989
 
-X 聯手 Visa 進軍金融 「X Money」整合理財功能
-https://www.inside.com.tw/article/37419-x-money
+爆紅中國AI服務DeepSeek資料庫配置錯誤導致機密日誌外洩
+https://www.ithome.com.tw/news/167169
 
-ChatGPT 推政府專用版！OpenAI 搶攻美國公部門
-https://www.inside.com.tw/article/37418-openai-chatgpt-gov
+Apple Silicon存在SLAP與FLOP側通道攻擊，恐洩漏用戶機敏資料
+https://www.ithome.com.tw/news/167168
 
-森友學園弊案現曙光！大阪高院撤銷「不開示決定」，日本財務省應公開交給檢方的調查文件
-https://changyuchieh.com/2025/01/30/akagi-disclosure/?utm_source=rss&utm_medium=rss&utm_campaign=akagi-disclosure
+Meta 年度獲利激增！但預計第 1 季營收低於預期
+https://www.inside.com.tw/article/37429-meta-annual-profits-surge-q1-revenue-miss
 
-Implement Feature Flags in Java With Unleash
-https://feeds.feedblitz.com/~/911939960/0/baeldung~Implement-Feature-Flags-in-Java-With-Unleash
+蘋果 Q1 服務毛利創有史來最高！彌補 iPhone 銷量下滑，激勵盤後漲 3%
+https://www.inside.com.tw/article/37428-apple-q1-services-gross-margin-record-iphone-sales-drop
 
-How to Log All Requests and Responses and Exceptions in a Single Place
-https://feeds.feedblitz.com/~/911939384/0/baeldung~How-to-Log-All-Requests-and-Responses-and-Exceptions-in-a-Single-Place
+以 FPGA 架構打造的遊戲主機 SuperStation one，可相容 PS、Nintendo 64 與 Saturn 平台遊戲
+https://www.inside.com.tw/article/37427-superstation-one
 
-Introduction to New Relic for Java
-https://feeds.feedblitz.com/~/911939387/0/baeldung~Introduction-to-New-Relic-for-Java
+如何在川普幣賺幾億、為什麼要考無人機執照、星際之門 5000 億美金投資計畫！【塞掐 Side Chat】E311
+https://www.inside.com.tw/feature/side-chat/37426-side-chat-e311
+
+ASML 執行長為何不恐懼 DeepSeek？了解什麼是「傑文斯悖論」
+https://www.inside.com.tw/article/37425-asml-ceo-deepseek-jevons-paradox
+
+微軟引進爭議 AI 模型 R1！OpenAI 最大股東與 DeepSeek 合作引關注
+https://www.inside.com.tw/article/37424-microsoft-ai-r1-openai-investor-deepseek
+
+自衛隊不適用日版性別平等工作法？日本再有女自衛官飽受性騷擾所苦而離職
+https://changyuchieh.com/2025/01/30/jasdf-lawsuit/?utm_source=rss&utm_medium=rss&utm_campaign=jasdf-lawsuit
+
+How to Run a Class Within a WAR File Using the Command Line
+https://feeds.feedblitz.com/~/911998601/0/baeldung~How-to-Run-a-Class-Within-a-WAR-File-Using-the-Command-Line
+
+Read Response Body in JAX-RS Client
+https://feeds.feedblitz.com/~/911998604/0/baeldung~Read-Response-Body-in-JAXRS-Client
+
+Maven Predefined Properties
+https://feeds.feedblitz.com/~/911998607/0/baeldung~Maven-Predefined-Properties
+
+Check Component Vulnerabilities Using OWASP Dependency-Check
+https://feeds.feedblitz.com/~/911960636/0/baeldung~Check-Component-Vulnerabilities-Using-OWASP-DependencyCheck
+
+Unified SSL Support in Spring Framework
+https://feeds.feedblitz.com/~/911959781/0/baeldung~Unified-SSL-Support-in-Spring-Framework
