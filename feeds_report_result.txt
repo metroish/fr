@@ -1,58 +1,31 @@
-# 2025-01-31 09:15:35 Feeds Report 
+# 2025-02-01 09:15:07 Feeds Report 
 
-Daily Hacker News for 2025-01-30
-https://www.daemonology.net/hn-daily/2025-01-30.html
+Daily Hacker News for 2025-01-31
+https://www.daemonology.net/hn-daily/2025-01-31.html
 
-PyPI 有 Archive 的狀態了
-https://blog.gslin.org/archives/2025/01/31/12237/pypi-%e6%9c%89-archive-%e7%9a%84%e7%8b%80%e6%85%8b%e4%ba%86/
+Let's Encrypt 終止 e-mail 通知到期的服務
+https://blog.gslin.org/archives/2025/02/01/12238/lets-encrypt-%e7%b5%82%e6%ad%a2-e-mail-%e9%80%9a%e7%9f%a5%e5%88%b0%e6%9c%9f%e7%9a%84%e6%9c%8d%e5%8b%99/
 
-懷舊風語音識別之 Speech API 聲控貪吃蛇
-https://blog.darkthread.net/blog/sapi-demo/
-
-Hugging Face逆向工程DeepSeek-R1，將打造開放推理模型Open-R1
-https://www.ithome.com.tw/news/167171
-
-加入公雲自研處理器行列，GCP推出高效能Arm執行個體
+加入公雲自研處理器行列，GCP推出新世代高效能Arm執行個體
 https://www.ithome.com.tw/review/166989
 
-爆紅中國AI服務DeepSeek資料庫配置錯誤導致機密日誌外洩
-https://www.ithome.com.tw/news/167169
+川普揚言對進口晶片課重稅，稱拜登的晶片法案「荒謬」
+https://www.inside.com.tw/article/37433-trump-tariffs-chips
 
-Apple Silicon存在SLAP與FLOP側通道攻擊，恐洩漏用戶機敏資料
-https://www.ithome.com.tw/news/167168
+特斯拉 2024 第四季財報出爐，略低於市場預期，但仍有多項指標性成長
+https://www.inside.com.tw/article/37432-tesla-tsla-releases-q4-2024-results-big-miss-leads-to-share-dropping
 
-Meta 年度獲利激增！但預計第 1 季營收低於預期
-https://www.inside.com.tw/article/37429-meta-annual-profits-surge-q1-revenue-miss
+DeepSeek 恐有資安疑慮，數發部：公務機關不得使用
+https://www.inside.com.tw/article/37431-deepseek-raises-cybersecurity-concerns-moda-bans-use-in-government-agencies
 
-蘋果 Q1 服務毛利創有史來最高！彌補 iPhone 銷量下滑，激勵盤後漲 3%
-https://www.inside.com.tw/article/37428-apple-q1-services-gross-margin-record-iphone-sales-drop
+最大股東不是微軟？OpenAI 傳正洽談融資，估值可能達 3400 億美元
+https://www.inside.com.tw/article/37430-openai-in-talks-to-raise-up-to-40-billion-at-340-billion-valuation
 
-以 FPGA 架構打造的遊戲主機 SuperStation one，可相容 PS、Nintendo 64 與 Saturn 平台遊戲
-https://www.inside.com.tw/article/37427-superstation-one
+高階主管全心奉獻卻遭調職？3個方法，避免高階經理人的職涯危機
+https://www.businessyee.com/article/5389-Career-crisis
 
-如何在川普幣賺幾億、為什麼要考無人機執照、星際之門 5000 億美金投資計畫！【塞掐 Side Chat】E311
-https://www.inside.com.tw/feature/side-chat/37426-side-chat-e311
+《皇室典範》是不可碰觸的紅線？日本外務省反制聯合國消除對婦女歧視委員會（CEDAW）
+https://changyuchieh.com/2025/02/01/mofa-cedaw/?utm_source=rss&utm_medium=rss&utm_campaign=mofa-cedaw
 
-ASML 執行長為何不恐懼 DeepSeek？了解什麼是「傑文斯悖論」
-https://www.inside.com.tw/article/37425-asml-ceo-deepseek-jevons-paradox
-
-微軟引進爭議 AI 模型 R1！OpenAI 最大股東與 DeepSeek 合作引關注
-https://www.inside.com.tw/article/37424-microsoft-ai-r1-openai-investor-deepseek
-
-自衛隊不適用日版性別平等工作法？日本再有女自衛官飽受性騷擾所苦而離職
-https://changyuchieh.com/2025/01/30/jasdf-lawsuit/?utm_source=rss&utm_medium=rss&utm_campaign=jasdf-lawsuit
-
-How to Run a Class Within a WAR File Using the Command Line
-https://feeds.feedblitz.com/~/911998601/0/baeldung~How-to-Run-a-Class-Within-a-WAR-File-Using-the-Command-Line
-
-Read Response Body in JAX-RS Client
-https://feeds.feedblitz.com/~/911998604/0/baeldung~Read-Response-Body-in-JAXRS-Client
-
-Maven Predefined Properties
-https://feeds.feedblitz.com/~/911998607/0/baeldung~Maven-Predefined-Properties
-
-Check Component Vulnerabilities Using OWASP Dependency-Check
-https://feeds.feedblitz.com/~/911960636/0/baeldung~Check-Component-Vulnerabilities-Using-OWASP-DependencyCheck
-
-Unified SSL Support in Spring Framework
-https://feeds.feedblitz.com/~/911959781/0/baeldung~Unified-SSL-Support-in-Spring-Framework
+Java Weekly, Issue 579
+https://feeds.feedblitz.com/~/912030197/0/baeldung~Java-Weekly-Issue
