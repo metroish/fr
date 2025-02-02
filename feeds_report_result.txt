@@ -1,31 +1,28 @@
-# 2025-02-01 09:15:07 Feeds Report 
+# 2025-02-02 09:13:40 Feeds Report 
 
-Daily Hacker News for 2025-01-31
-https://www.daemonology.net/hn-daily/2025-01-31.html
+Daily Hacker News for 2025-02-01
+https://www.daemonology.net/hn-daily/2025-02-01.html
 
-Let's Encrypt 終止 e-mail 通知到期的服務
-https://blog.gslin.org/archives/2025/02/01/12238/lets-encrypt-%e7%b5%82%e6%ad%a2-e-mail-%e9%80%9a%e7%9f%a5%e5%88%b0%e6%9c%9f%e7%9a%84%e6%9c%8d%e5%8b%99/
+Weekly Ask Hacker News for 2025-01-26 -- 2025-02-01
+http://www.daemonology.net/hn-weekly-ask/2025-02-01.html
 
-加入公雲自研處理器行列，GCP推出新世代高效能Arm執行個體
-https://www.ithome.com.tw/review/166989
+OCSP 的淡出...
+https://blog.gslin.org/archives/2025/02/02/12239/ocsp-%e7%9a%84%e6%b7%a1%e5%87%ba/
 
-川普揚言對進口晶片課重稅，稱拜登的晶片法案「荒謬」
-https://www.inside.com.tw/article/37433-trump-tariffs-chips
+紐約州電力局批准 3 GW 的再生能源計畫
+https://www.inside.com.tw/article/37436-new-york-power-authority-approves-3gw-renewables-plan
 
-特斯拉 2024 第四季財報出爐，略低於市場預期，但仍有多項指標性成長
-https://www.inside.com.tw/article/37432-tesla-tsla-releases-q4-2024-results-big-miss-leads-to-share-dropping
+川普政府推動化石燃料政策，但石油企業仍未重啟大規模鑽探
+https://www.inside.com.tw/article/37435-oil-companies-embrace-trump-but-not-drill-baby-drill
 
-DeepSeek 恐有資安疑慮，數發部：公務機關不得使用
-https://www.inside.com.tw/article/37431-deepseek-raises-cybersecurity-concerns-moda-bans-use-in-government-agencies
+虛擬資產擬採特許制、機構管理，個人幣商將走入歷史
+https://www.inside.com.tw/article/37434-virtual-assets-to-adopt-licensing-and-institutional-management-signaling-the-end-of-individual-crypto-exchanges
 
-最大股東不是微軟？OpenAI 傳正洽談融資，估值可能達 3400 億美元
-https://www.inside.com.tw/article/37430-openai-in-talks-to-raise-up-to-40-billion-at-340-billion-valuation
+績效面談後，團隊集體離職？用SAM法，從「收穫心態」改善績效
+https://www.businessyee.com/article/5390-performance-appraisal
 
-高階主管全心奉獻卻遭調職？3個方法，避免高階經理人的職涯危機
-https://www.businessyee.com/article/5389-Career-crisis
+The nVidia Way
+https://dushuyizhi.net/the-nvidia-way/
 
-《皇室典範》是不可碰觸的紅線？日本外務省反制聯合國消除對婦女歧視委員會（CEDAW）
-https://changyuchieh.com/2025/02/01/mofa-cedaw/?utm_source=rss&utm_medium=rss&utm_campaign=mofa-cedaw
-
-Java Weekly, Issue 579
-https://feeds.feedblitz.com/~/912030197/0/baeldung~Java-Weekly-Issue
+How to Select Date From Datepicker in Selenium
+https://feeds.feedblitz.com/~/912114908/0/baeldung~How-to-Select-Date-From-Datepicker-in-Selenium
