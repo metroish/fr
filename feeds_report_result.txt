@@ -1,28 +1,85 @@
-# 2025-02-02 09:13:40 Feeds Report 
+# 2025-02-03 09:17:30 Feeds Report 
 
-Daily Hacker News for 2025-02-01
-https://www.daemonology.net/hn-daily/2025-02-01.html
+Daily Hacker News for 2025-02-02
+https://www.daemonology.net/hn-daily/2025-02-02.html
 
-Weekly Ask Hacker News for 2025-01-26 -- 2025-02-01
-http://www.daemonology.net/hn-weekly-ask/2025-02-01.html
+讓人痛苦的 UX：分開的 login code
+https://blog.gslin.org/archives/2025/02/03/12244/%e8%ae%93%e4%ba%ba%e7%97%9b%e8%8b%a6%e7%9a%84-ux%ef%bc%9a%e5%88%86%e9%96%8b%e7%9a%84-login-code/
 
-OCSP 的淡出...
-https://blog.gslin.org/archives/2025/02/02/12239/ocsp-%e7%9a%84%e6%b7%a1%e5%87%ba/
+Google 不打算加 Fact check (歐盟的新法令)
+https://blog.gslin.org/archives/2025/02/03/12243/google-%e4%b8%8d%e6%89%93%e7%ae%97%e5%8a%a0-fact-check-%e6%ad%90%e7%9b%9f%e7%9a%84%e6%96%b0%e6%b3%95%e4%bb%a4/
 
-紐約州電力局批准 3 GW 的再生能源計畫
-https://www.inside.com.tw/article/37436-new-york-power-authority-approves-3gw-renewables-plan
+/usr/bin/env 在 shebang 可以用 -S 展開參數
+https://blog.gslin.org/archives/2025/02/03/12242/usr-bin-env-%e5%9c%a8-shebang-%e5%8f%af%e4%bb%a5%e7%94%a8-s-%e5%b1%95%e9%96%8b%e5%8f%83%e6%95%b8/
 
-川普政府推動化石燃料政策，但石油企業仍未重啟大規模鑽探
-https://www.inside.com.tw/article/37435-oil-companies-embrace-trump-but-not-drill-baby-drill
+gitlab.freedesktop.org 的一些數據
+https://blog.gslin.org/archives/2025/02/03/12241/gitlab-freedesktop-org-%e7%9a%84%e4%b8%80%e4%ba%9b%e6%95%b8%e6%93%9a/
 
-虛擬資產擬採特許制、機構管理，個人幣商將走入歷史
-https://www.inside.com.tw/article/37434-virtual-assets-to-adopt-licensing-and-institutional-management-signaling-the-end-of-individual-crypto-exchanges
+BZip3
+https://blog.gslin.org/archives/2025/02/02/12240/bzip3/
 
-績效面談後，團隊集體離職？用SAM法，從「收穫心態」改善績效
-https://www.businessyee.com/article/5390-performance-appraisal
+Apple開源Xcode建置引擎Swift Build，目標統一跨平臺建置體驗
+https://www.ithome.com.tw/news/167182
 
-The nVidia Way
-https://dushuyizhi.net/the-nvidia-way/
+蘋果修補存在電腦與行動裝置的零時差漏洞，傳出已用於攻擊iPhone用戶
+https://www.ithome.com.tw/news/167181
 
-How to Select Date From Datepicker in Selenium
-https://feeds.feedblitz.com/~/912114908/0/baeldung~How-to-Select-Date-From-Datepicker-in-Selenium
+OpenAI也推可自動執行多步驟線上研究的Deep Research
+https://www.ithome.com.tw/news/167180
+
+傳蘋果取消AR眼鏡計畫
+https://www.ithome.com.tw/news/167179
+
+Mistral開源Mistral Small 3 24B，稱效能超越3倍大的Llama 3.3
+https://www.ithome.com.tw/news/167178
+
+OpenAI具推理能力的模型o3-mini正式推出
+https://www.ithome.com.tw/news/167177
+
+功率達1,250瓩，施耐德電機增設佔地1.2平方公尺的三相UPS
+https://www.ithome.com.tw/review/167170
+
+美關稅風暴席捲，引爆加密貨幣急速下跌
+https://www.inside.com.tw/article/37443-tariff-and-crypto
+
+揭開 DeepSeek 的神話與現實：為何華爾街可能誤讀了這場 AI 革命？
+https://www.inside.com.tw/article/37442-deepseek-myth-reality-wall-street-ai-revolution
+
+Google X 實驗室公布最新畢業生！新創團隊用 AI 快速改善農作物繁殖
+https://www.inside.com.tw/article/37440-google-x-heritable-agriculture
+
+防 Temu、Shein 鑽法規漏洞！川普終結微量免稅優惠
+https://www.inside.com.tw/article/37441-temu-shein-trump-ends-de-minimis-tax-loophole
+
+OpenAI 執行長 Sam Altman 坦承：在開源方面我們站在了歷史的錯誤一方
+https://www.inside.com.tw/article/37438-openai-sam-altman-wrong-on-open-source
+
+一鍵彙整上百份網路資料！OpenAI 推出新 AI 代理人功能「Deep Research」
+https://www.inside.com.tw/article/37437-openai-deep-research
+
+2025一月回顧
+https://greenhornfinancefootnote.blogspot.com/2025/02/2025.html
+
+勞動基金去年大賺逾兆元！新制勞工平均分紅5.49萬
+https://www.businessyee.com/article/5405-labor-fund
+
+00878蛇年首季配息0.5元，年化配息率9%，最晚2/19買進
+https://www.businessyee.com/article/5404-00878-2025-first-dividend
+
+台新金董座吳東亮：新新併邁向最後一哩，盼蛇躍龍門、業績再攀高
+https://www.businessyee.com/article/5403-taishin-snake-year-first-day
+
+20萬買一張太貴？0050傳將啟動分割！每股可望低於40元
+https://www.businessyee.com/article/5402-0050-partition
+
+【聽進理投】人生難題怎麼抉擇？財務顧問幫你釐清金錢價值觀！
+https://www.businessyee.com/article/5379-ep111
+
+新台幣蛇年開紅盤狂殺逾3.8角，早盤摜破33元大關
+https://www.businessyee.com/article/5401-ntd-snake-year-first-day
+
+國泰金董座蔡宏圖看蛇年新局：資源乾坤大挪移，有挑戰也有機會
+https://www.businessyee.com/article/5400-cathay-snake-year-first-day
+
+台股蛇年開紅盤重挫千點！證交所董座林修銘：反應休市期間變數
+https://www.businessyee.com/article/5399-twse-snake-year-first-day
