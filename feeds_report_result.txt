@@ -1,24 +1,33 @@
-# 2025-02-04 09:16:04 Feeds Report 
+# 2025-02-05 09:16:49 Feeds Report 
 
-Daily Hacker News for 2025-02-03
-https://www.daemonology.net/hn-daily/2025-02-03.html
+Daily Hacker News for 2025-02-04
+https://www.daemonology.net/hn-daily/2025-02-04.html
 
-USB 的名字總算是要簡化了？
-https://blog.gslin.org/archives/2025/02/04/12246/usb-%e7%9a%84%e5%90%8d%e5%ad%97%e7%b8%bd%e7%ae%97%e6%98%af%e8%a6%81%e7%b0%a1%e5%8c%96%e4%ba%86%ef%bc%9f/
+OpenSSH for Windows 之 ssh-agent 安裝與私鑰保存探密
+https://blog.darkthread.net/blog/add-sshagent-svc-when-choco/
 
-Let's Encrypt 的 Rate Limit 機制實作的演進
-https://blog.gslin.org/archives/2025/02/03/12245/lets-encrypt-%e7%9a%84-rate-limit-%e6%a9%9f%e5%88%b6%e5%af%a6%e4%bd%9c%e7%9a%84%e6%bc%94%e9%80%b2/
+Netgear公布Wi-Fi無線基地臺、路由器重大層級漏洞，6款設備曝險
+https://www.ithome.com.tw/news/167221
 
-AMD Zen架構處理器存在微指令簽章驗證漏洞，影響SEV-SNP機密運算安全
-https://www.ithome.com.tw/news/167207
+Google修補安卓作業系統核心的零時差漏洞
+https://www.ithome.com.tw/news/167218
 
-印度Tata集團旗下汽車設計公司證實遭遇勒索軟體攻擊
-https://www.ithome.com.tw/news/167201
+微軟悄悄移除舊PC升級Windows 11的說明
+https://www.ithome.com.tw/news/167217
 
-Sophos宣布完成併購Secureworks，將著重MDR業務
-https://www.ithome.com.tw/news/167191
+防範偽冒離線交易的新式詐騙手法，春節期間臺灣有商家暫停使用感應式行動支付
+https://www.ithome.com.tw/news/167216
 
-美國與荷蘭聯手，摧毀39個用於兜售商業郵件詐騙作案工具的網域
+Google對美國平臺與裝置部門啟動自願離職方案
+https://www.ithome.com.tw/news/167215
+
+Alphabet獨立出農業AI子公司Heritable Agriculture
+https://www.ithome.com.tw/news/167212
+
+多家歐洲研究機構啟動OpenEuroLLM專案，獲歐盟資助推動AI透明度與多語言支援
+https://www.ithome.com.tw/news/167211
+
+美國與荷蘭聯手，奪下39個用於兜售商業郵件詐騙作案工具的網域
 https://www.ithome.com.tw/news/167190
 
 Microsoft Defender 2月底終止免費VPN功能
@@ -27,71 +36,68 @@ https://www.ithome.com.tw/news/167189
 OpenAI o1模型將登上美國家實驗室超級電腦
 https://www.ithome.com.tw/news/167186
 
-OpenAI也推可自動執行多步驟線上研究的Deep Research
-https://www.ithome.com.tw/news/167180
+Toyota 強化中國市場佈局，宣布在上海設立 Lexus 電動車工廠
+https://www.inside.com.tw/article/37457-toyota-announces-lexus-ev-plant-in-shanghai
 
-傳蘋果取消AR眼鏡計畫
-https://www.ithome.com.tw/news/167179
+稱「DeepSeek 握有 5 萬顆 H100」Scale AI CEO 汪滔將與川普團隊會面
+https://www.inside.com.tw/article/37456-scale-ai-ceo-alexandr-wang-trump-meeting
 
-Mistral開源Mistral Small 3 24B，稱效能超越3倍大的Llama 3.3
-https://www.ithome.com.tw/news/167178
+日產與本田合併談判恐生變？內部反彈聲浪升高，最快 2 月中旬定案
+https://www.inside.com.tw/feature/era-of-humanoid-robots/37455-nissan-honda-merger-talks-in-jeopardy-as-internal-opposition-grows-decision-expected-by-mid-february
 
-OpenAI具推理能力的模型o3-mini正式推出
-https://www.ithome.com.tw/news/167177
+電動車也要有排氣管？Stellantis 申請「電動車排氣系統」專利
+https://www.inside.com.tw/article/37454-stellantis-ev-exhaust-battery-fires
 
-Google 淪中美關稅戰犧牲品！中國宣布展開反壟斷調查
-https://www.inside.com.tw/article/37448-google-us-china-tariff-war-antitrust-investigation
+Google 更新公司 AI 原則，移除了不將 AI 用在武器、監視技術的禁令
+https://www.inside.com.tw/article/37453-google-updates-ai-principle
 
-日本遊戲機市場 5 年來首陷萎縮，PS5 銷量大減 4 成
-https://www.inside.com.tw/article/37447-japan-console-market-shrink-ps5-sales-drop
+蘋果推出新 App「Apple Invites」！果粉互揪更方便，還可建立相簿保存回憶
+https://www.inside.com.tw/article/37452-apple-invites
 
-Anthropic 提出新模型安全系統，能成功擋下 95% 越獄嘗試
-https://www.inside.com.tw/article/37446-anthropic-constitutional-classifier
+Google 稱讚 DeepSeek，看好 AI 成本下降有助需求量增加
+https://www.inside.com.tw/article/37450-google-praises-deepseek
 
-Meta 最新 AI 政策轉向：祖克伯承諾開放，但這兩類系統將嚴格管制
-https://www.inside.com.tw/article/37445-meta-ai-policy-shift-zuckerberg-openness-strict-controls
+AMD Q4 財報優於預期，為何股價仍下跌？
+https://www.inside.com.tw/article/37451-amd-earnings-beat-stock-decline-reason
 
-Softbank、OpenAI 合資成立日本公司，推動 AI 整合服務「Cristal intelligence」
-https://www.inside.com.tw/article/37444-sb-openai-japan
+揭開影像產業的未來視界，立即報名「伙影社 X  Numbers 影像新視界成果展開幕講座」
+https://www.inside.com.tw/article/37449-PyroImage
 
-把所有帳號的信件都接收到自己的伺服器上 (四)： 郵件標籤/搜尋工具 notmuch
-https://newtoypia.blogspot.com/2025/02/notmuch.html
+Vanguard宣布大幅調降基金與ETF內扣費用(Vanguard Cut Fees of 87 Funds)
+https://greenhornfinancefootnote.blogspot.com/2025/02/vanguardetfvanguard-cut-fees-of-87-funds.html
 
-台股基金與台股ETF 2024年績效回顧2(Analysis of Taiwan Equity Funds and ETF Performance in 2024)—高股息ETF嚴重落後
-https://greenhornfinancefootnote.blogspot.com/2025/02/etf-20242analysis-of-taiwan-equity.html
+蛇年年假：一個總統的武林與兩個人的比劃
+https://voicettank.org/20250204-1/
 
-台灣應該建立保護海底電纜安全的國家級戰略
-https://voicettank.org/20250203-2/
+日本推動司令部地下化及新設海上運輸部隊之戰略意涵
+https://voicettank.org/20250204-3/
 
-大罷免發展將從內政連動到美中對台政策
-https://voicettank.org/20250203-3/
+2025電腦展5/20黃仁勳將來台，可能宣布輝達海外總部地點
+https://www.businessyee.com/article/5420-computex-2025
 
-臺灣是下一個DeepSeek，卻在DeepSink
-https://voicettank.org/20250203-1/
+【Alphabet Q4 財報】營收持續成長，今年砸750億美元繼續投資AI
+https://www.businessyee.com/article/5419-Alphabet-q4-earnings
 
-小資族如何放大資產？口袋證券建議：股利再投入、多元投資ETF
-https://www.businessyee.com/article/5412-Pocket-Securities
+【AMD Q4財報】資料中心營收創新高，財測保守股價跌8%
+https://www.businessyee.com/article/5418-amd-q4-earnings
 
-凱基人壽推「真康健」癌症定期險，重度癌症生活照護金最高五年
-https://www.businessyee.com/article/5411-kgi-cancer-insurance
+Palantir股價一日飆24%，CEO：我們幫美國變強悍
+https://www.businessyee.com/article/5417-palantir-soars
 
-白宮證實：馬斯克非公務員，正式職位是「特殊政府僱員」！
-https://www.businessyee.com/article/5410-white-house-elon-musk
+PayPal Q4 財報展望優於預期，利潤縮水股價大跌13%
+https://www.businessyee.com/article/5415-paypal-2024-q4
 
-【PalantirQ4財報】營收超預期股價飆22%，CEO：20多年努力有成果
-https://www.businessyee.com/article/5409-Palantir-Q4-earnings
+規模2兆美元？美國主權財富基金錢從哪來？用在哪裡？
+https://www.businessyee.com/article/5416-SWF
 
-川普下令成立主權財富基金，TikTok 可能成收購目標
-https://www.businessyee.com/article/5408-trump-tiktok
+金融三業 2024 年稅前盈餘突破兆元大關，年增50%，銀行、證券創新高
+https://www.businessyee.com/article/5414-financial-industry-2024-profit
 
-關稅戰邊打邊談！川普緩課墨加關稅1個月，美股期指聞訊跳高
-https://www.businessyee.com/article/5407-trump-trade-war-2
+大S病逝震撼各界！海外突發疾病險僅五家含法定傳染病，如何理賠有眉角
+https://www.businessyee.com/article/5413-travel-medical-insurance-add-Notifiable-disease
 
-首檔純美股ETF期貨！統一FANG+ETF大小期上市，投資人添四優勢
-https://www.businessyee.com/article/5406-FANG-ETF-future
+A Simple HTTP Server With Java ServerSocket
+https://feeds.feedblitz.com/~/912246938/0/baeldung~A-Simple-HTTP-Server-With-Java-ServerSocket
 
-堅信金融的力量：黃谷涵如何讓老牌券商脫胎換骨？【專訪美好證董座】
-https://www.businessyee.com/article/5323-good-finance-securities-introduce
-
-Revolusi
-https://dushuyizhi.net/revolusi/
+Count Numbers With Unique Digits
+https://feeds.feedblitz.com/~/912246941/0/baeldung~Count-Numbers-With-Unique-Digits
