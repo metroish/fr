@@ -1,13 +1,37 @@
-# 2025-02-05 09:16:49 Feeds Report 
+# 2025-02-06 09:16:24 Feeds Report 
 
-Daily Hacker News for 2025-02-04
-https://www.daemonology.net/hn-daily/2025-02-04.html
+Daily Hacker News for 2025-02-05
+https://www.daemonology.net/hn-daily/2025-02-05.html
 
-OpenSSH for Windows 之 ssh-agent 安裝與私鑰保存探密
-https://blog.darkthread.net/blog/add-sshagent-svc-when-choco/
+在 Linux 下 MITM 的 httptap
+https://blog.gslin.org/archives/2025/02/06/12253/%e5%9c%a8-linux-%e4%b8%8b-mitm-%e7%9a%84-httptap/
 
-Netgear公布Wi-Fi無線基地臺、路由器重大層級漏洞，6款設備曝險
-https://www.ithome.com.tw/news/167221
+GitHub 的 IPv6...
+https://blog.gslin.org/archives/2025/02/06/12251/github-%e7%9a%84-ipv6/
+
+最近 Cloudflare 的 human check
+https://blog.gslin.org/archives/2025/02/05/12250/%e6%9c%80%e8%bf%91-cloudflare-%e7%9a%84-human-check/
+
+WSL 與 Windows 共用 SSH 金鑰登入遠端主機
+https://blog.darkthread.net/blog/share-sshkey-between-win-n-wsl/
+
+Veeam修補本地端與雲端備份軟體漏洞，包括中間人攻擊的重大漏洞
+https://www.ithome.com.tw/news/167241
+
+合勤證實研究人員揭露的漏洞存在於12款DSL CPE設備，呼籲用戶應儘速汰換因應
+https://www.ithome.com.tw/news/167236
+
+政府加速AI算力建置，國科會估2029年我國公共算力可達480PF
+https://www.ithome.com.tw/news/167234
+
+HTTP用戶端工具遭濫用，駭客用來挾持M365帳號
+https://www.ithome.com.tw/news/167233
+
+Google Gemini 2.0 Flash Thinking供所有用戶測試，新增Pro、Flash-Lite版
+https://www.ithome.com.tw/news/167229
+
+Anthropic公開憲法式分類器，大幅降低AI越獄攻擊成功率
+https://www.ithome.com.tw/news/167228
 
 Google修補安卓作業系統核心的零時差漏洞
 https://www.ithome.com.tw/news/167218
@@ -21,83 +45,68 @@ https://www.ithome.com.tw/news/167216
 Google對美國平臺與裝置部門啟動自願離職方案
 https://www.ithome.com.tw/news/167215
 
-Alphabet獨立出農業AI子公司Heritable Agriculture
-https://www.ithome.com.tw/news/167212
+前中華電信董事長郭水義接任將來銀行新董座
+https://www.inside.com.tw/article/37467-next-bank-new-chairman
 
-多家歐洲研究機構啟動OpenEuroLLM專案，獲歐盟資助推動AI透明度與多語言支援
-https://www.ithome.com.tw/news/167211
+福特執行長Jim Farley：純電皮卡與純電大型 SUV 存在「無法解決」的問題
+https://www.inside.com.tw/article/37464-ford-large-ev-trucks-have-unresolvable-problems
 
-美國與荷蘭聯手，奪下39個用於兜售商業郵件詐騙作案工具的網域
-https://www.ithome.com.tw/news/167190
+劍橋研究指出：若歐洲 2030 年再生能源目標達成，將有助於穩定歐洲電價
+https://www.inside.com.tw/article/37466-cambridge-study-finds-achieving-europe%E2%80%99s-2030-renewable-energy-goals-will-help-stabilize-electricity-prices
 
-Microsoft Defender 2月底終止免費VPN功能
-https://www.ithome.com.tw/news/167189
+美媒：DeepSeek 內含「中國移動」相關程式碼，北京當局可能存取用戶數據
+https://www.inside.com.tw/article/37465-abc-news-reports-deepseek-contains-china-mobile-code-suggesting-beijing-may-access-user-data
 
-OpenAI o1模型將登上美國家實驗室超級電腦
-https://www.ithome.com.tw/news/167186
+Google 宣布 Gemini 2.0 全面推出，3 款版本有何不同？
+https://www.inside.com.tw/article/37462-gemini-20-all-user
 
-Toyota 強化中國市場佈局，宣布在上海設立 Lexus 電動車工廠
-https://www.inside.com.tw/article/37457-toyota-announces-lexus-ev-plant-in-shanghai
+法拉利將推出首款電動車，計劃於今年第四季推出
+https://www.inside.com.tw/article/37461-ferrari-launch-first-bev-year
 
-稱「DeepSeek 握有 5 萬顆 H100」Scale AI CEO 汪滔將與川普團隊會面
-https://www.inside.com.tw/article/37456-scale-ai-ceo-alexandr-wang-trump-meeting
+Arm 坦言難達全年營收預估區間上緣 盤後重挫 6%
+https://www.inside.com.tw/article/37460-chip-tech-provider-arm-forecasts-quarterly-revenue-above-expectations
 
-日產與本田合併談判恐生變？內部反彈聲浪升高，最快 2 月中旬定案
-https://www.inside.com.tw/feature/era-of-humanoid-robots/37455-nissan-honda-merger-talks-in-jeopardy-as-internal-opposition-grows-decision-expected-by-mid-february
+亞馬遜 AI 升級版 Alexa 助理即將發表
+https://www.inside.com.tw/article/37459-amazon-set-release-alexa-generative-ai
 
-電動車也要有排氣管？Stellantis 申請「電動車排氣系統」專利
-https://www.inside.com.tw/article/37454-stellantis-ev-exhaust-battery-fires
+賺到群創以上、聯電未滿，主打色色內容的 OnlyFans 的 3 個「策略位置」
+https://www.inside.com.tw/article/37458-onlyfans-strategy
 
-Google 更新公司 AI 原則，移除了不將 AI 用在武器、監視技術的禁令
-https://www.inside.com.tw/article/37453-google-updates-ai-principle
+”時間讓回憶變得更美”為何是個投資陷阱(Memory is Not Reliable in Investing)
+https://greenhornfinancefootnote.blogspot.com/2025/02/memory-is-not-reliable-in-investing.html
 
-蘋果推出新 App「Apple Invites」！果粉互揪更方便，還可建立相簿保存回憶
-https://www.inside.com.tw/article/37452-apple-invites
+IG境外保單投資陷阱再現！金管會揭非法招攬手法與風險
+https://www.businessyee.com/article/5430-illegal-insurance-trap
 
-Google 稱讚 DeepSeek，看好 AI 成本下降有助需求量增加
-https://www.inside.com.tw/article/37450-google-praises-deepseek
+謝金河：建議台積電跟川普解釋為什麼能幫助美國再次偉大
+https://www.businessyee.com/article/5429-hsieh-chin-ho
 
-AMD Q4 財報優於預期，為何股價仍下跌？
-https://www.inside.com.tw/article/37451-amd-earnings-beat-stock-decline-reason
+台北國際書展論壇：出版衰退，電子書跟多元通路是解方嗎？
+https://www.businessyee.com/article/5428-tibe
 
-揭開影像產業的未來視界，立即報名「伙影社 X  Numbers 影像新視界成果展開幕講座」
-https://www.inside.com.tw/article/37449-PyroImage
+Fed 官員憂川普關稅恐推高通膨
+https://www.businessyee.com/article/5427-fed-concerns-trumps-tariffs
 
-Vanguard宣布大幅調降基金與ETF內扣費用(Vanguard Cut Fees of 87 Funds)
-https://greenhornfinancefootnote.blogspot.com/2025/02/vanguardetfvanguard-cut-fees-of-87-funds.html
+GoogleCEO、美超微唱旺Blackwell平台 輝達股價大漲5%
+https://www.businessyee.com/article/5426-Blackwell-demand
 
-蛇年年假：一個總統的武林與兩個人的比劃
-https://voicettank.org/20250204-1/
+【高通Q4財報】手機晶片營收創新高，但股價跌5%
+https://www.businessyee.com/article/5425-Qualcomm-q4-earnings
 
-日本推動司令部地下化及新設海上運輸部隊之戰略意涵
-https://voicettank.org/20250204-3/
+迪士尼財報優於預期，娛樂業務成長強勁，直營串流連兩季轉盈
+https://www.businessyee.com/article/5424-disney-2025-q1
 
-2025電腦展5/20黃仁勳將來台，可能宣布輝達海外總部地點
-https://www.businessyee.com/article/5420-computex-2025
+【聽進理投】想為孩子賺教育基金，主動投資可行嗎？要注意哪些事？
+https://www.businessyee.com/article/5422-ep112
 
-【Alphabet Q4 財報】營收持續成長，今年砸750億美元繼續投資AI
-https://www.businessyee.com/article/5419-Alphabet-q4-earnings
+30年來首見！台鐵票價調漲26.8%，北高自強號漲至975元
+https://www.businessyee.com/article/5423-taiwan-railway-rise-ticket-price
 
-【AMD Q4財報】資料中心營收創新高，財測保守股價跌8%
-https://www.businessyee.com/article/5418-amd-q4-earnings
+Using Amazon Nova Models With Spring AI
+https://feeds.feedblitz.com/~/912378740/0/baeldung~Using-Amazon-Nova-Models-With-Spring-AI
 
-Palantir股價一日飆24%，CEO：我們幫美國變強悍
-https://www.businessyee.com/article/5417-palantir-soars
+How to Execute Load Tests Using the k6 Framework
+https://feeds.feedblitz.com/~/912377963/0/baeldung~How-to-Execute-Load-Tests-Using-the-k-Framework
 
-PayPal Q4 財報展望優於預期，利潤縮水股價大跌13%
-https://www.businessyee.com/article/5415-paypal-2024-q4
-
-規模2兆美元？美國主權財富基金錢從哪來？用在哪裡？
-https://www.businessyee.com/article/5416-SWF
-
-金融三業 2024 年稅前盈餘突破兆元大關，年增50%，銀行、證券創新高
-https://www.businessyee.com/article/5414-financial-industry-2024-profit
-
-大S病逝震撼各界！海外突發疾病險僅五家含法定傳染病，如何理賠有眉角
-https://www.businessyee.com/article/5413-travel-medical-insurance-add-Notifiable-disease
-
-A Simple HTTP Server With Java ServerSocket
-https://feeds.feedblitz.com/~/912246938/0/baeldung~A-Simple-HTTP-Server-With-Java-ServerSocket
-
-Count Numbers With Unique Digits
-https://feeds.feedblitz.com/~/912246941/0/baeldung~Count-Numbers-With-Unique-Digits
+Preconditions in Liquibase
+https://feeds.feedblitz.com/~/912318320/0/baeldung~Preconditions-in-Liquibase
