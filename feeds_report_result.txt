@@ -1,22 +1,34 @@
-# 2025-02-07 09:15:52 Feeds Report 
+# 2025-02-08 09:13:53 Feeds Report 
 
-Daily Hacker News for 2025-02-06
-https://www.daemonology.net/hn-daily/2025-02-06.html
+Daily Hacker News for 2025-02-07
+https://www.daemonology.net/hn-daily/2025-02-07.html
 
-GoDaddy 被 FTC 要求改善資安問題
-https://blog.gslin.org/archives/2025/02/07/12256/godaddy-%e8%a2%ab-ftc-%e8%a6%81%e6%b1%82%e6%94%b9%e5%96%84%e8%b3%87%e5%ae%89%e5%95%8f%e9%a1%8c/
+Knuth 去年年底 (2024) 在 Stanford 給的 Christmas Lecture
+https://blog.gslin.org/archives/2025/02/08/12259/knuth-%e5%8e%bb%e5%b9%b4%e5%b9%b4%e5%ba%95-2024-%e5%9c%a8-stanford-%e7%b5%a6%e7%9a%84-christmas-lecture/
 
-Dating app 的數據
-https://blog.gslin.org/archives/2025/02/07/12255/dating-app-%e7%9a%84%e6%95%b8%e6%93%9a/
+Mistral AI推出聊天機器人Le Chat手機版App，1秒可輸出1,000字
+https://www.ithome.com.tw/news/167282
 
-駭客組織Silver Fox假借提供瀏覽器、簡訊服務名義，意圖散布惡意軟體ValleyRAT
-https://www.ithome.com.tw/news/167254
+逾3千個曝露的ASP. NET金鑰遭到濫用，攻擊者用於散布惡意程式框架
+https://www.ithome.com.tw/news/167281
 
-義國政府疑用Paragon間諜軟體監控記者、異議人士，業者急切割
-https://www.ithome.com.tw/news/167253
+三位臺灣AI專家發起DeepSeek R1改造計畫，要打造繁中版開源授權的推理模型
+https://www.ithome.com.tw/news/167280
 
-美國另一研究團隊以20美元開發效能超越o1-preview的AI模型
-https://www.ithome.com.tw/news/167252
+DeepSeek R1大型語言模型存在資安弱點，恐被越獄用於網路犯罪
+https://www.ithome.com.tw/news/167279
+
+傳英國要求蘋果開啟存取iCloud加密備份的後門
+https://www.ithome.com.tw/news/167278
+
+研究人員發現DeepSeek iOS App多項漏洞，還將資料傳送到中國
+https://www.ithome.com.tw/news/167276
+
+GitHub Copilot加入AI代理人模式，自動化程式開發任務
+https://www.ithome.com.tw/news/167258
+
+美國眾議院跨黨派要禁聯邦政府公務設備使用DeepSeek AI
+https://www.ithome.com.tw/news/167255
 
 勒索軟體駭客利用VMware虛擬化平臺的SSH加密存取，意圖建立存取受害組織內部環境的隱密管道
 https://www.ithome.com.tw/news/167251
@@ -24,92 +36,62 @@ https://www.ithome.com.tw/news/167251
 思科修補網路存取控制系統ISE重大漏洞
 https://www.ithome.com.tw/news/167250
 
-ChatGPT開放免登入搜尋 恐直接威脅Google
-https://www.ithome.com.tw/news/167249
+無人機競爭白熱化，美台軍售新局下的台灣國防自主挑戰
+https://www.inside.com.tw/article/37487-trump-defense-reform-pentagon-taiwan-arms-sales
 
-Stack Exchange測試AI回答機制，社群憂影響知識品質
-https://www.ithome.com.tw/news/167243
+軍工科技新秀 Anduril 擬融資 25 億美元 估值挑戰 280 億美元
+https://www.inside.com.tw/article/37485-anduril-new-fund
 
-Go模組快取機制遭濫用，惡意後門套件潛伏多年未被察覺
-https://www.ithome.com.tw/news/167247
+中國車廠宣布：導入 DeepSeek 進入車用 AI
+https://www.inside.com.tw/article/37483-deepseek-ai-china-ev-geely
 
-即知即行
-https://www.ithome.com.tw/voice/167240
+軟銀集團投資 OpenAI 最新金額：400 億美元！估值上看 3000 億美元
+https://www.inside.com.tw/article/37482-softbank-set-to-invest-40-billion-in-openai-at-260-billion-valuation-sources-say
 
-導入NIST CSF資安認證，臺灣金融業首例出爐
-https://www.ithome.com.tw/article/167239
+潘健成：群聯電子執行長｜「隨身碟之父」揭秘低成本 AI 硬體如何顛覆市場【塞掐 Side Chat】E314
+https://www.inside.com.tw/feature/side-chat/37478-side-chat-e314
 
-【務實推動企業資安持續強化】富邦人壽率先通過NIST CSF驗證的過程大解析
-https://www.ithome.com.tw/news/167238
+Google 正式解除 AI 武器禁令，吳恩達：大力支持
+https://www.inside.com.tw/article/37481-google-ai-weapons-ban-lifted-andrew-ng-support
 
-【富邦人壽以全球最佳資安框架，締造金融新防線】成為臺灣金融業率先通過NIST CSF驗證的公司
-https://www.ithome.com.tw/news/167237
+Volvo 全車系大改款全新 UX！同部支援至 2020 年後車款
+https://www.inside.com.tw/article/37480-volvo-new-car-ux
 
-如何管理日益複雜的IT系統？亞馬遜20年技術老將揭6大心法
-https://www.ithome.com.tw/people/167235
+生物武器資訊恐遭濫用！Anthropic CEO：DeepSeek AI 模型完全無限制
+https://www.inside.com.tw/article/37479-nthropic-ceo-says-deepseek-worst-data-safety-test-critical-bioweapons
 
-黑色皮衣CEO的領導哲學
-https://www.ithome.com.tw/article/167175
+【電車世代】雙向充電重要嗎？電動車的 V2L、V2G、V2X 技術解析
+https://www.inside.com.tw/article/37477-ev-v2l-v2g-v2x
 
-個人專案從零到一
-https://www.ithome.com.tw/article/167173
+“資產配置戰略總覽”2024十一月台中班學員課後回饋
+https://greenhornfinancefootnote.blogspot.com/2025/02/2024.html
 
-HTTP用戶端工具遭濫用，駭客用來挾持M365帳號
-https://www.ithome.com.tw/news/167233
+不該讓美國棄台論擴大並成真
+https://voicettank.org/20250207-2/
 
-Google Gemini 2.0 Flash Thinking供所有用戶測試，新增Pro、Flash-Lite版
-https://www.ithome.com.tw/news/167229
+用圖像軟化嚴肅的歷史：談台灣學運漫畫《青春自由夢》
+https://voicettank.org/20250207-3/
 
-鴻海可能成為日產新盟友？本田與日產破局後，日產正積極尋找新合作夥伴
-https://www.inside.com.tw/article/37475-nissan-scambling-find-new-ev-partners-panic-sets-in
+四大雲端服務商今年 AI 投資突破 3000 億美元，投資人不買單
+https://www.businessyee.com/article/5440-csp-ai-capex-2025
 
-傳軟銀擬 65 億美元收購 Ampere，加速 AI 晶片布局
-https://www.inside.com.tw/article/37476-softbank-in-talks-with-ampere
+用對工具傳承資產，稅務專家朱家棟談《遺產＆贈與稅的節稅新思維》
+https://www.businessyee.com/article/5421-Estate-and-Gift-Tax-Act-mindset
 
-研究顯示：輪胎成為阿爾卑斯山奈米塑膠的最大污染源
-https://www.inside.com.tw/article/37474-nanoplastics-pollution-vehicle-tires-alps
+軟銀砸400億美元投資OpenAI，超越微軟成為最大投資者
+https://www.businessyee.com/article/5439-SoftBank-OpenAI
 
-不只外觀改變，煥新版 Model Y 還做了哪些調整？特斯拉高層一次說明
-https://www.inside.com.tw/article/37472-tesla-reveals-new-features-on-model-y-juniper
+日月光投控董座獨子張能傑46歲猝逝，接班議題受關注
+https://www.businessyee.com/article/5438-ase-holding-%20successor-passes-away
 
-成功搶下高階筆電一成市佔，高通：進軍 PC 領域終於成功
-https://www.inside.com.tw/article/37473-qualcomm-claims-it-owns-10-percent-of-u-s-windows-pc-retail-market-for-devices-priced-800
+凱基金1月獲利36.56億、年增三成，壽險新契約、投資挹注
+https://www.businessyee.com/article/5437-
 
-一口氣推多款新品？彭博：Apple Store 的 iPad Air 與 MacBook Air 正減少
-https://www.inside.com.tw/article/37471-ipad-macbook-air-stocks-dwindling
+單月新高！永豐金1月大賺29億，年增14％，銀行財管、法金亮眼
+https://www.businessyee.com/article/5436-SinoPac-2025-01-profit
 
-彭博：新款 iPhone SE 下周直接推出，蘋果不辦發表會
-https://www.inside.com.tw/article/37470-bloomberg-iphone-se-launch-no-apple-event
+Java Weekly, Issue 580
+https://feeds.feedblitz.com/~/912481238/0/baeldung~Java-Weekly-Issue
 
-2025 Next on Netflix 華語內容發表會 搶先曝光四部全新華語影集
-https://www.inside.com.tw/article/37468-2025-next-on-netflix
-
-Silicon Labs BG22L及BG24L精巧版SoC提供應用優化的 超低功耗藍牙®連接
-https://www.inside.com.tw/article/37469-
-
-定期定額投入美國ETF績效分析---以VTI為例(Dollar-cost Averaging into Vanguard Total Stock Market ETF，2025更新)
-https://greenhornfinancefootnote.blogspot.com/2025/02/etf-vtidollar-cost-averaging-into.html
-
-【書摘】《蛇妖、賽蓮、 漩渦：來自海洋的冒險與神話》
-https://voicettank.org/20250206-2/
-
-巴拿馬運河、蘇伊士運河與美國的全球霸權
-https://voicettank.org/20250206-1/
-
-產業政策再思考：起源、邏輯、工具與限制
-https://voicettank.org/20250206-3/
-
-中信金1月獲利68.27億元，年減22%，工作天數少、去年基期高
-https://www.businessyee.com/article/5435-ctbc-2025-01-profit
-
-安聯：台灣2050年老年人口扶養比至73%，考驗年金財政穩定性
-https://www.businessyee.com/article/5434-Taiwan-elderly-population-dependency
-
-全台首檔！國泰世華攜手第一金投信與維梧資本，推生技私募基金
-https://www.businessyee.com/article/5433-cathay-bank-biotech-PEFund
-
-滙豐：台灣企業家重視人脈具國際觀，接班規劃不足成挑戰
-https://www.businessyee.com/article/5432-hsbc-Taiwanese-entrepreneur-report-2024
-
-【亞馬遜Q4財報】AWS營收年增20%，2025資本支出1,000億美元
-https://www.businessyee.com/article/5431-amazon-q4-earnings
+Execute a JAR File From a Java Program
+https://feeds.feedblitz.com/~/912468569/0/baeldung~Execute-a-JAR-File-From-a-Java-Program
