@@ -1,19 +1,13 @@
-# 2025-02-08 09:13:53 Feeds Report 
+# 2025-02-09 09:13:49 Feeds Report 
 
-Daily Hacker News for 2025-02-07
-https://www.daemonology.net/hn-daily/2025-02-07.html
+Daily Hacker News for 2025-02-08
+https://www.daemonology.net/hn-daily/2025-02-08.html
 
-Knuth 去年年底 (2024) 在 Stanford 給的 Christmas Lecture
-https://blog.gslin.org/archives/2025/02/08/12259/knuth-%e5%8e%bb%e5%b9%b4%e5%b9%b4%e5%ba%95-2024-%e5%9c%a8-stanford-%e7%b5%a6%e7%9a%84-christmas-lecture/
+Weekly Ask Hacker News for 2025-02-02 -- 2025-02-08
+http://www.daemonology.net/hn-weekly-ask/2025-02-08.html
 
-Mistral AI推出聊天機器人Le Chat手機版App，1秒可輸出1,000字
-https://www.ithome.com.tw/news/167282
-
-逾3千個曝露的ASP. NET金鑰遭到濫用，攻擊者用於散布惡意程式框架
-https://www.ithome.com.tw/news/167281
-
-三位臺灣AI專家發起DeepSeek R1改造計畫，要打造繁中版開源授權的推理模型
-https://www.ithome.com.tw/news/167280
+哈佛法學院放出 data.gov 的備份資料
+https://blog.gslin.org/archives/2025/02/08/12260/%e5%93%88%e4%bd%9b%e6%b3%95%e5%ad%b8%e9%99%a2%e6%94%be%e5%87%ba-data-gov-%e7%9a%84%e5%82%99%e4%bb%bd%e8%b3%87%e6%96%99/
 
 DeepSeek R1大型語言模型存在資安弱點，恐被越獄用於網路犯罪
 https://www.ithome.com.tw/news/167279
@@ -24,74 +18,11 @@ https://www.ithome.com.tw/news/167278
 研究人員發現DeepSeek iOS App多項漏洞，還將資料傳送到中國
 https://www.ithome.com.tw/news/167276
 
-GitHub Copilot加入AI代理人模式，自動化程式開發任務
-https://www.ithome.com.tw/news/167258
+NCC：反映行政成本，網購國外手機與藍牙耳機等射頻器材需支付 750 元審查費
+https://www.inside.com.tw/article/37489-import-fee
 
-美國眾議院跨黨派要禁聯邦政府公務設備使用DeepSeek AI
-https://www.ithome.com.tw/news/167255
+川普急轉彎，延後取消小額包裹關稅豁免，中國電商 Temu、Shein 暫獲喘息
+https://www.inside.com.tw/article/37488-de-minimis-exemption
 
-勒索軟體駭客利用VMware虛擬化平臺的SSH加密存取，意圖建立存取受害組織內部環境的隱密管道
-https://www.ithome.com.tw/news/167251
-
-思科修補網路存取控制系統ISE重大漏洞
-https://www.ithome.com.tw/news/167250
-
-無人機競爭白熱化，美台軍售新局下的台灣國防自主挑戰
-https://www.inside.com.tw/article/37487-trump-defense-reform-pentagon-taiwan-arms-sales
-
-軍工科技新秀 Anduril 擬融資 25 億美元 估值挑戰 280 億美元
-https://www.inside.com.tw/article/37485-anduril-new-fund
-
-中國車廠宣布：導入 DeepSeek 進入車用 AI
-https://www.inside.com.tw/article/37483-deepseek-ai-china-ev-geely
-
-軟銀集團投資 OpenAI 最新金額：400 億美元！估值上看 3000 億美元
-https://www.inside.com.tw/article/37482-softbank-set-to-invest-40-billion-in-openai-at-260-billion-valuation-sources-say
-
-潘健成：群聯電子執行長｜「隨身碟之父」揭秘低成本 AI 硬體如何顛覆市場【塞掐 Side Chat】E314
-https://www.inside.com.tw/feature/side-chat/37478-side-chat-e314
-
-Google 正式解除 AI 武器禁令，吳恩達：大力支持
-https://www.inside.com.tw/article/37481-google-ai-weapons-ban-lifted-andrew-ng-support
-
-Volvo 全車系大改款全新 UX！同部支援至 2020 年後車款
-https://www.inside.com.tw/article/37480-volvo-new-car-ux
-
-生物武器資訊恐遭濫用！Anthropic CEO：DeepSeek AI 模型完全無限制
-https://www.inside.com.tw/article/37479-nthropic-ceo-says-deepseek-worst-data-safety-test-critical-bioweapons
-
-【電車世代】雙向充電重要嗎？電動車的 V2L、V2G、V2X 技術解析
-https://www.inside.com.tw/article/37477-ev-v2l-v2g-v2x
-
-“資產配置戰略總覽”2024十一月台中班學員課後回饋
-https://greenhornfinancefootnote.blogspot.com/2025/02/2024.html
-
-不該讓美國棄台論擴大並成真
-https://voicettank.org/20250207-2/
-
-用圖像軟化嚴肅的歷史：談台灣學運漫畫《青春自由夢》
-https://voicettank.org/20250207-3/
-
-四大雲端服務商今年 AI 投資突破 3000 億美元，投資人不買單
-https://www.businessyee.com/article/5440-csp-ai-capex-2025
-
-用對工具傳承資產，稅務專家朱家棟談《遺產＆贈與稅的節稅新思維》
-https://www.businessyee.com/article/5421-Estate-and-Gift-Tax-Act-mindset
-
-軟銀砸400億美元投資OpenAI，超越微軟成為最大投資者
-https://www.businessyee.com/article/5439-SoftBank-OpenAI
-
-日月光投控董座獨子張能傑46歲猝逝，接班議題受關注
-https://www.businessyee.com/article/5438-ase-holding-%20successor-passes-away
-
-凱基金1月獲利36.56億、年增三成，壽險新契約、投資挹注
-https://www.businessyee.com/article/5437-
-
-單月新高！永豐金1月大賺29億，年增14％，銀行財管、法金亮眼
-https://www.businessyee.com/article/5436-SinoPac-2025-01-profit
-
-Java Weekly, Issue 580
-https://feeds.feedblitz.com/~/912481238/0/baeldung~Java-Weekly-Issue
-
-Execute a JAR File From a Java Program
-https://feeds.feedblitz.com/~/912468569/0/baeldung~Execute-a-JAR-File-From-a-Java-Program
+【好險有聽】住宅火險要保嗎？賠什麼？關於住火險的5個真實案例
+https://www.businessyee.com/article/5398-ep19
