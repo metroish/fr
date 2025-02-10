@@ -1,5 +1,7 @@
 __pycache__
 node_modules
+package-lock.json
+package.json
 feeds_report_result.txt
 feeds_report.log
 env/
