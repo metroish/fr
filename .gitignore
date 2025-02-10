@@ -1,4 +1,5 @@
 __pycache__
+node_modules
 feeds_report_result.txt
 feeds_report.log
 env/
