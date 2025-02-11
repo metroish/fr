@@ -1,13 +1,31 @@
-# 2025-02-10 09:17:15 Feeds Report 
+# 2025-02-11 09:16:36 Feeds Report 
 
-Daily Hacker News for 2025-02-09
-https://www.daemonology.net/hn-daily/2025-02-09.html
+Daily Hacker News for 2025-02-10
+https://www.daemonology.net/hn-daily/2025-02-10.html
 
-Coding4Fun - AVL 樹新手練習區
-https://blog.darkthread.net/blog/avl-tree-playground/
+覆寫 .NET 程式用到的環境變數
+https://blog.darkthread.net/blog/overwrite-envvar-4-dotnet/
 
-DeepSeek的AI服務隱私防護遭質疑！資安業者指控恐將用戶輸入資料傳至中國國營電信業者
-https://www.ithome.com.tw/news/167289
+大規模暴力破解攻擊專門針對網路邊緣裝置而來，駭客透過280萬個IP位址發動攻勢
+https://www.ithome.com.tw/news/167311
+
+WordPress管理流程強化外掛存在高風險漏洞，逾10萬網站恐曝險
+https://www.ithome.com.tw/news/167310
+
+Pi0機器人模型整合到Hugging Face LeRobot
+https://www.ithome.com.tw/news/167305
+
+程式碼管理工具Google Tag Manager遭濫用，攻擊者用來對Magento網站側錄信用卡資料
+https://www.ithome.com.tw/news/167304
+
+Google將付費版NotebookLM Plus推向一般用戶
+https://www.ithome.com.tw/news/167303
+
+蘋果針對iPhone、iPad用戶修補已遭利用的零時差漏洞
+https://www.ithome.com.tw/news/167302
+
+馬斯克提案以974億美元收購OpenAI
+https://www.ithome.com.tw/news/167300
 
 【資安週報】0203~0208，DeepSeek服務資安風險成焦點，包括資料庫裸奔、無法抵擋基本越獄手法，以及資料與隱私安全問題
 https://www.ithome.com.tw/news/167287
@@ -15,59 +33,71 @@ https://www.ithome.com.tw/news/167287
 OpenAI拿下最大教育合作案，一舉新增50萬ChatGPT Edu用戶
 https://www.ithome.com.tw/news/167286
 
-蘋果公布Pixar檯燈的家用機器人開發框架，會說話還會坐下
-https://www.ithome.com.tw/news/167285
+美國環保署遭資金凍結，民主黨議員強烈譴責：無法接受削弱 EPA
+https://www.inside.com.tw/article/37512-epa-trump-unconstitutional-funding-freeze
 
-FTX 首波理賠計畫 2 月 18 日起透過兩大平台發放
-https://www.inside.com.tw/article/37501-ftx-repay
+共享乘車平台 Lyft 預告 2026 將在美國達拉斯推出 Mobileye 無人計程車
+https://www.inside.com.tw/article/37516-lyft-mobileye-robotaxis-us-2026
 
-特斯拉於澳洲 Collie Megapack 旁建設電池維修設施，擴展亞太儲能業務
-https://www.inside.com.tw/article/37500-tesla-megapacks-storage-projects-australia
+廣告獎勵影響遊戲體驗，Steam 新規明文禁止
+https://www.inside.com.tw/article/37515-no-more-in-game-ads-rewards
 
-Kneron AI 進化：結合 DeepSeek-R1 訓練技巧，讓 LLM 學會「思考」與「推理」
-https://www.inside.com.tw/article/37499-kneron-Aai-ddepseek-chain-of-thought-reasoning-reflection
+OpenAI 自製 AI 晶片計畫順利！台積電 3 奈米製程、最快明年量產
+https://www.inside.com.tw/article/37514-openai-in-house-chip-tsmc-3nm
 
-一輛特斯拉 Cybertruck 開著 FSD V13 撞上路緣與燈柱，事故在網路上爆紅
-https://www.inside.com.tw/article/37498-tesla-cybertruck-crash-on-full-self-driving-v13-goes-viral
+Instagram 負責人親自解說：「青少年帳號」如何保護孩童上網安全？
+https://www.inside.com.tw/article/37513-adam-mosseri-interview
 
-台積電 11 日美國董事會：全球擴廠計畫受矚目
-https://www.inside.com.tw/article/37495-tsmc-us
+藍牙耳機「750 元審查費」挨批暫緩，NCC：重新思考收費合理性
+https://www.inside.com.tw/article/37511-ncc-suspends-controversial-bluetooth-headphone-review-fee-after-criticism
 
-Appier 活動實記：將 AI 轉化為 ROI！如何精準抓住高價值使用者的心？
-https://www.inside.com.tw/article/37497-appier-shows-how-ai-drives-roi-by-targeting-high-value-users
+Google DeepMind 執行長評 DeepSeek：很棒，但炒作過度
+https://www.inside.com.tw/article/37510-google-deepmind-ceo-calls-deepseek-impressive-but-overhyped
 
-美對中晶片新制衝擊比想像大？傳台積電「極端謹慎」應對
-https://www.inside.com.tw/article/37496-us-china-chip-rules-tsmc-extreme-caution
+AWS 推出五項資料庫和分析服務功能，提升 PB 級資料處理能力
+https://www.inside.com.tw/feature/2019aws/37504-AWS
 
-巴黎 AI 峰會焦點：法國將獲 3.7 兆元新投資
-https://www.inside.com.tw/article/37494-ai-summit-in-paris
+馬斯克爆正在號召一群投資者，猛砸 974 億美元收購 OpenAI
+https://www.inside.com.tw/article/37509-these-are-the-investors-funding-musks-97-billion-openai-takeover-attempt
 
-Temu、Shein 等跨境電商，怎被川普關稅政策當包裹「左擺右搖」地甩？
-https://www.inside.com.tw/article/37493-how-trump-tariff-policy-impacts-cross-border-commerce-giants-temu-and-shein
+支付寶海外版圖添生力軍 楊江明接掌螞蟻國際創新長
+https://www.inside.com.tw/article/37508-ant-international
 
-Meta 為何要打造永遠無法商品化的「用腦打字帽」？
-https://www.inside.com.tw/article/37492-meta-has-an-ai-for-brain-typing-but-its-stuck-in-the-lab
+“Just Keep Buying”(持續買進)讀後感8---一直覺得自己不夠有錢會有什麼問題
+https://greenhornfinancefootnote.blogspot.com/2025/02/just-keep-buying8.html
 
-台股基金與台股ETF 2024年績效回顧3(Analysis of Taiwan Equity Funds and ETF Performance in 2024)—指數化投資的單年勝利
-https://greenhornfinancefootnote.blogspot.com/2025/02/etf-20243analysis-of-taiwan-equity.html
+台灣在達沃斯世界經濟論壇的缺席
+https://voicettank.org/20250210-3/
 
-昔日技術先驅能否重振旗鼓？蓋茲直言： Intel已經「迷失方向」
-https://www.businessyee.com/article/5446-bill-gates-intel
+川普為何要對「小額豁免」政策開刀？
+https://voicettank.org/20250210-2/
 
-友達宇沛的「隱形清淨術」：零耗能、無異味，用科技顛覆異味管理
-https://www.businessyee.com/article/5006-AUOE
+我們從沒Woke過：以及祖克柏說現代企業「太娘了」
+https://voicettank.org/20250210-1/
 
-台積電1月營收2933億元、年增35.9%創同月新高！地震損失53億、首季毛利率不變
-https://www.businessyee.com/article/5445-tsmc-earning-jan-2025
+馬斯克率財團砸974億美元收購 OpenAI，奧特曼幽默回嗆一句話！
+https://www.businessyee.com/article/5449-musk-bid-for-OpenAI
 
-川普：本週宣布進口鋼鋁課25%關稅
-https://www.businessyee.com/article/5444-trump-steel-and-aluminum-tariffs
+AI 加持拚兆元市值！中華電董座預告今年股利會有驚喜
+https://www.businessyee.com/article/5450-Chunghwa-Telecom-2025-dividend
 
-南山理賠數據：熟齡失智長照佔 17%，年輕保戶自殺身故攀升
-https://www.businessyee.com/article/5443-nanshan-data-2025
+不想依賴NVIDIA，OpenAI傳自行設計晶片請台積電代工
+https://www.businessyee.com/article/5448-openai-tsmc
 
-美國晶片新制重創中國晶片開發業者
-https://www.businessyee.com/article/5442-chip-control
+【月營收評比】六大通路1月營收：富邦媒疫後首見年減！電商遜色，3C通路起死回生？
+https://www.businessyee.com/article/5447-channel-revenue-jan-2025
 
-台北國際書展6天57萬人次參觀
-https://www.businessyee.com/article/5441-tibe
+The Boy Who Lived
+https://dushuyizhi.net/the-boy-who-lived/
+
+Testing LLM Responses Using Spring AI Evaluators
+https://feeds.feedblitz.com/~/912662426/0/baeldung~Testing-LLM-Responses-Using-Spring-AI-Evaluators
+
+Integrating Pkl With Spring Boot
+https://feeds.feedblitz.com/~/912661361/0/baeldung~Integrating-Pkl-With-Spring-Boot
+
+Introduction to Pulumi With Java
+https://feeds.feedblitz.com/~/912661364/0/baeldung~Introduction-to-Pulumi-With-Java
+
+Putting Value Into Map if Not Null in Java
+https://feeds.feedblitz.com/~/912660632/0/baeldung~Putting-Value-Into-Map-if-Not-Null-in-Java
