@@ -1,19 +1,28 @@
-# 2025-02-11 09:16:36 Feeds Report 
+# 2025-02-12 09:16:18 Feeds Report 
 
-Daily Hacker News for 2025-02-10
-https://www.daemonology.net/hn-daily/2025-02-10.html
+Daily Hacker News for 2025-02-11
+https://www.daemonology.net/hn-daily/2025-02-11.html
 
-覆寫 .NET 程式用到的環境變數
-https://blog.darkthread.net/blog/overwrite-envvar-4-dotnet/
+Backblaze 的 2024 年全年統計
+https://blog.gslin.org/archives/2025/02/12/12261/backblaze-%e7%9a%84-2024-%e5%b9%b4%e5%85%a8%e5%b9%b4%e7%b5%b1%e8%a8%88/
 
-大規模暴力破解攻擊專門針對網路邊緣裝置而來，駭客透過280萬個IP位址發動攻勢
-https://www.ithome.com.tw/news/167311
+SAP發布2月例行更新，修補19項資安漏洞
+https://www.ithome.com.tw/news/167332
 
-WordPress管理流程強化外掛存在高風險漏洞，逾10萬網站恐曝險
-https://www.ithome.com.tw/news/167310
+2025年2月馬偕醫院遭勒索軟體攻擊事件歷程總整理（持續更新中）
+https://www.ithome.com.tw/news/167327
 
-Pi0機器人模型整合到Hugging Face LeRobot
-https://www.ithome.com.tw/news/167305
+微軟發布二月例行更新，修補4個零時差漏洞
+https://www.ithome.com.tw/news/167325
+
+微軟將美國防部220億美元智慧MR頭戴裝置案，交給Oculus創始人的新創公司主導
+https://www.ithome.com.tw/news/167322
+
+Deepmind AlphaGeometry2模型幾何解題能力已超越IMO金牌選手
+https://www.ithome.com.tw/news/167321
+
+Mirantis開源k0rdent簡化K8s管理，提升企業多雲維運效率
+https://www.ithome.com.tw/news/167317
 
 程式碼管理工具Google Tag Manager遭濫用，攻擊者用來對Magento網站側錄信用卡資料
 https://www.ithome.com.tw/news/167304
@@ -24,80 +33,65 @@ https://www.ithome.com.tw/news/167303
 蘋果針對iPhone、iPad用戶修補已遭利用的零時差漏洞
 https://www.ithome.com.tw/news/167302
 
-馬斯克提案以974億美元收購OpenAI
-https://www.ithome.com.tw/news/167300
+傳 Meta 正考慮收購由三星工程師創立的韓國 AI 晶片新創 FuriosaAI
+https://www.inside.com.tw/article/37527-meta-furiosaai-korean-ai-chip-startup-acquisition
 
-【資安週報】0203~0208，DeepSeek服務資安風險成焦點，包括資料庫裸奔、無法抵擋基本越獄手法，以及資料與隱私安全問題
-https://www.ithome.com.tw/news/167287
+Podcast 季度訂閱額破 600 萬！Firstory 公布 2025 趨勢預測
+https://www.inside.com.tw/article/37526-fistory-2025-podcast
 
-OpenAI拿下最大教育合作案，一舉新增50萬ChatGPT Edu用戶
-https://www.ithome.com.tw/news/167286
+Google Calendar 改版取消多項文化活動引爭議，稱提升維護效率
+https://www.inside.com.tw/article/37528-google-calendar-holidays
 
-美國環保署遭資金凍結，民主黨議員強烈譴責：無法接受削弱 EPA
-https://www.inside.com.tw/article/37512-epa-trump-unconstitutional-funding-freeze
+LINE 新開放免費字型「芫荽」支援客語、台語及原住民族語
+https://www.inside.com.tw/article/37525-en-sui-font-in-line
 
-共享乘車平台 Lyft 預告 2026 將在美國達拉斯推出 Mobileye 無人計程車
-https://www.inside.com.tw/article/37516-lyft-mobileye-robotaxis-us-2026
+台積電董事會：季配息維持每股配 4.5 元，對美國關稅戰冷處理
+https://www.inside.com.tw/article/37523-tsmc-board-maintains-4-5-dollar-quarterly-dividend-downplays-us-tariff-concerns
 
-廣告獎勵影響遊戲體驗，Steam 新規明文禁止
-https://www.inside.com.tw/article/37515-no-more-in-game-ads-rewards
+Google I/O 2025 將於 5/20 舉辦，焦點將是 Gemini 以及 Android 16
+https://www.inside.com.tw/article/37521-when-is-google-io-2025
 
-OpenAI 自製 AI 晶片計畫順利！台積電 3 奈米製程、最快明年量產
-https://www.inside.com.tw/article/37514-openai-in-house-chip-tsmc-3nm
+劉揚偉證實與日產大股東雷諾談股權！目的是「合作」非併購
+https://www.inside.com.tw/article/37520-foxconn-ceo-young-liu-renault-nissan-partnership
 
-Instagram 負責人親自解說：「青少年帳號」如何保護孩童上網安全？
-https://www.inside.com.tw/article/37513-adam-mosseri-interview
+馬斯克「見縫插針」想用 974 億美元買 OpenAI 的複雜點在哪？
+https://www.inside.com.tw/article/37519-what-drives-musk-97-4-billion-dollar-bid-for-openai
 
-藍牙耳機「750 元審查費」挨批暫緩，NCC：重新思考收費合理性
-https://www.inside.com.tw/article/37511-ncc-suspends-controversial-bluetooth-headphone-review-fee-after-criticism
+美國副總統 J.D. Vance：過度管控 AI 會扼殺創新，並誓言成全球標竿
+https://www.inside.com.tw/article/37518-us-vp-vance-warns-against-ai-overregulation-pledges-global-leadership
 
-Google DeepMind 執行長評 DeepSeek：很棒，但炒作過度
-https://www.inside.com.tw/article/37510-google-deepmind-ceo-calls-deepseek-impressive-but-overhyped
+“ETF關鍵報告”2024十一月台中班學員課後回饋
+https://greenhornfinancefootnote.blogspot.com/2025/02/etf2024.html
 
-AWS 推出五項資料庫和分析服務功能，提升 PB 級資料處理能力
-https://www.inside.com.tw/feature/2019aws/37504-AWS
+美軍規劃在印太部署衛星干擾器之戰略意涵
+https://voicettank.org/20250211-3/
 
-馬斯克爆正在號召一群投資者，猛砸 974 億美元收購 OpenAI
-https://www.inside.com.tw/article/37509-these-are-the-investors-funding-musks-97-billion-openai-takeover-attempt
+【MSCI調整】台股權重三升，納入台光電、嘉澤，刪除華新、南亞科
+https://www.businessyee.com/article/5460-msci-quarters-ajust-2025Q1
 
-支付寶海外版圖添生力軍 楊江明接掌螞蟻國際創新長
-https://www.inside.com.tw/article/37508-ant-international
+台積電董事會決議：增資北美子公司不超過100億美元；配息維持4.5元
+https://www.businessyee.com/article/5459-tsmc-board-of-directors-meeting-2025-q1
 
-“Just Keep Buying”(持續買進)讀後感8---一直覺得自己不夠有錢會有什麼問題
-https://greenhornfinancefootnote.blogspot.com/2025/02/just-keep-buying8.html
+避險買盤湧進！台銀黃金存摺牌價今年漲1成，每公克賣出價近3100元新高
+https://www.businessyee.com/article/5458-gold-price-up
 
-台灣在達沃斯世界經濟論壇的缺席
-https://voicettank.org/20250210-3/
+劉揚偉證實接觸日產大股東雷諾！不併購、願合作：強調不進入汽車品牌
+https://www.businessyee.com/article/5457-honhai-nissan-ev-m-and-a
 
-川普為何要對「小額豁免」政策開刀？
-https://voicettank.org/20250210-2/
+現金無處可去！中國企業掀起史上最高配息、庫藏股回購潮
+https://www.businessyee.com/article/5456-china-companies-highest-dividend
 
-我們從沒Woke過：以及祖克柏說現代企業「太娘了」
-https://voicettank.org/20250210-1/
+【美超微Q4財報】看好今年AI基礎建設需求，股價於盤後上漲8%
+https://www.businessyee.com/article/5455-SMCI-q2-earnings
 
-馬斯克率財團砸974億美元收購 OpenAI，奧特曼幽默回嗆一句話！
-https://www.businessyee.com/article/5449-musk-bid-for-OpenAI
+【Shopify Q4 財報】營收優但成長將放緩，旗下電商受「小額豁免」新政餘震波及？
+https://www.businessyee.com/article/5454-shopify-earnings-2024-q4
 
-AI 加持拚兆元市值！中華電董座預告今年股利會有驚喜
-https://www.businessyee.com/article/5450-Chunghwa-Telecom-2025-dividend
+比亞迪掀自駕車價格戰，特斯拉股價創三個月來新低
+https://www.businessyee.com/article/5453-byd
 
-不想依賴NVIDIA，OpenAI傳自行設計晶片請台積電代工
-https://www.businessyee.com/article/5448-openai-tsmc
+明晚元宵夜：「就決定是你了」！一石三鳥的燈會IP聯名策略
+https://www.businessyee.com/article/5452-kaohsiung-travel-and-chiikawa-2025
 
-【月營收評比】六大通路1月營收：富邦媒疫後首見年減！電商遜色，3C通路起死回生？
-https://www.businessyee.com/article/5447-channel-revenue-jan-2025
-
-The Boy Who Lived
-https://dushuyizhi.net/the-boy-who-lived/
-
-Testing LLM Responses Using Spring AI Evaluators
-https://feeds.feedblitz.com/~/912662426/0/baeldung~Testing-LLM-Responses-Using-Spring-AI-Evaluators
-
-Integrating Pkl With Spring Boot
-https://feeds.feedblitz.com/~/912661361/0/baeldung~Integrating-Pkl-With-Spring-Boot
-
-Introduction to Pulumi With Java
-https://feeds.feedblitz.com/~/912661364/0/baeldung~Introduction-to-Pulumi-With-Java
-
-Putting Value Into Map if Not Null in Java
-https://feeds.feedblitz.com/~/912660632/0/baeldung~Putting-Value-Into-Map-if-Not-Null-in-Java
+勞保不是只有退休金！一文了解勞保理賠範圍與權益
+https://www.businessyee.com/article/5451-labor-Insurance
