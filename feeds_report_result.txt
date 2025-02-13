@@ -1,97 +1,103 @@
-# 2025-02-12 09:16:18 Feeds Report 
+# 2025-02-13 09:16:30 Feeds Report 
 
-Daily Hacker News for 2025-02-11
-https://www.daemonology.net/hn-daily/2025-02-11.html
+Daily Hacker News for 2025-02-12
+https://www.daemonology.net/hn-daily/2025-02-12.html
 
-Backblaze 的 2024 年全年統計
-https://blog.gslin.org/archives/2025/02/12/12261/backblaze-%e7%9a%84-2024-%e5%b9%b4%e5%85%a8%e5%b9%b4%e7%b5%b1%e8%a8%88/
+.NET Console 如何實現 appsettings.json、環境變數、CLI 參數的讀取順序
+https://blog.darkthread.net/blog/appsetting-fallback-in-console-app/
 
-SAP發布2月例行更新，修補19項資安漏洞
-https://www.ithome.com.tw/news/167332
+有人聲稱從OpenAI竊得2千萬組帳密資料，該公司表示他們並未遭到入侵
+https://www.ithome.com.tw/news/167356
 
-2025年2月馬偕醫院遭勒索軟體攻擊事件歷程總整理（持續更新中）
-https://www.ithome.com.tw/news/167327
+數發部開放更多衛星可用頻段，首次開放衛星行動通信可用頻段
+https://www.ithome.com.tw/news/167349
 
-微軟發布二月例行更新，修補4個零時差漏洞
-https://www.ithome.com.tw/news/167325
+OpenSSL修補RPK金鑰認證不良漏洞，若不處理恐被用於中間人攻擊
+https://www.ithome.com.tw/news/167345
+
+Fintech周報第260期：X和Visa合作，將在今年推出P2P支付工具XMoney；川普媒體與技術集團宣布進軍投資產品和去中心化金融領域，今年將推出金融科技品牌
+https://www.ithome.com.tw/news/167298
+
+博通第7代FC交換器進入最終階段，推出入門款24埠機型
+https://www.ithome.com.tw/review/167261
+
+勒索軟體Sarcoma聲稱攻擊PCB大廠欣興電子，竊得337 GB內部資料
+https://www.ithome.com.tw/news/167342
+
+OpenAI將推出GPT-4.5，o3整合到GPT家族以簡化產品線
+https://www.ithome.com.tw/news/167339
+
+Swift官方接手社群VS Code擴充套件，全力投入跨平臺開發支援
+https://www.ithome.com.tw/news/167336
 
 微軟將美國防部220億美元智慧MR頭戴裝置案，交給Oculus創始人的新創公司主導
 https://www.ithome.com.tw/news/167322
 
-Deepmind AlphaGeometry2模型幾何解題能力已超越IMO金牌選手
-https://www.ithome.com.tw/news/167321
+蔡崇信證實：阿里巴巴與蘋果合作
+https://www.inside.com.tw/article/37543-apple-intelligence-alibaba
 
-Mirantis開源k0rdent簡化K8s管理，提升企業多雲維運效率
-https://www.ithome.com.tw/news/167317
+美國國務院預算驚見 4 億美元「裝甲特斯拉」，採購類別竟歸類食品製造業？
+https://www.inside.com.tw/article/37539-us-state-department-has-budget-line-for-armored-teslas-worth-400-million
 
-程式碼管理工具Google Tag Manager遭濫用，攻擊者用來對Magento網站側錄信用卡資料
-https://www.ithome.com.tw/news/167304
+Amazon 2/26 將大秀新一代 Alexa！LLM 將搭配新款 Echo 喇叭
+https://www.inside.com.tw/article/37538-amazon-next-gen-alexa-llm-echo-speaker-launch
 
-Google將付費版NotebookLM Plus推向一般用戶
-https://www.ithome.com.tw/news/167303
+蘋果開放在不同 Apple 帳號間移轉購買！使用限制和步驟一次看
+https://www.inside.com.tw/article/37537-apple-account-transfer
 
-蘋果針對iPhone、iPad用戶修補已遭利用的零時差漏洞
-https://www.ithome.com.tw/news/167302
+Apple TV app 推出 Android 版本！可透過 Google Play 下載和訂閱
+https://www.inside.com.tw/article/37536-apple-tv-android-app
 
-傳 Meta 正考慮收購由三星工程師創立的韓國 AI 晶片新創 FuriosaAI
-https://www.inside.com.tw/article/37527-meta-furiosaai-korean-ai-chip-startup-acquisition
+AWS 推出四項新的儲存服務和功能 為客戶提供功能強大且成本低廉的資料存取和保護
+https://www.inside.com.tw/feature/2019aws/37542-AWS
 
-Podcast 季度訂閱額破 600 萬！Firstory 公布 2025 趨勢預測
-https://www.inside.com.tw/article/37526-fistory-2025-podcast
+OpenAI 取消 o3 模型發布！改未來幾個月推出 GPT-5 統整各項技術
+https://www.inside.com.tw/article/37534-openai-cancels-o3
 
-Google Calendar 改版取消多項文化活動引爭議，稱提升維護效率
-https://www.inside.com.tw/article/37528-google-calendar-holidays
+美政府直接插手？傳台積電將營運 Intel 晶圓廠，新公司還可獲補助
+https://www.inside.com.tw/article/37535-tsmc-operate-intel-fab-us-subsidies
 
-LINE 新開放免費字型「芫荽」支援客語、台語及原住民族語
-https://www.inside.com.tw/article/37525-en-sui-font-in-line
+高效率背後有代價：研究指出 AI 使用率越高，批判思考能力越低
+https://www.inside.com.tw/article/37533-ai-efficiency-critical-thinking-decline
 
-台積電董事會：季配息維持每股配 4.5 元，對美國關稅戰冷處理
-https://www.inside.com.tw/article/37523-tsmc-board-maintains-4-5-dollar-quarterly-dividend-downplays-us-tariff-concerns
+AWS 宣佈推出 Amazon IoT TwinMaker
+https://www.inside.com.tw/feature/2019aws/37541-AWS
 
-Google I/O 2025 將於 5/20 舉辦，焦點將是 Gemini 以及 Android 16
-https://www.inside.com.tw/article/37521-when-is-google-io-2025
+人工智慧生成內容與著作權──關於著作權保護與合理使用？
+https://voicettank.org/20250212-2/
 
-劉揚偉證實與日產大股東雷諾談股權！目的是「合作」非併購
-https://www.inside.com.tw/article/37520-foxconn-ceo-young-liu-renault-nissan-partnership
+印太國家強化兩棲載台建設之研析
+https://voicettank.org/20250212-3/
 
-馬斯克「見縫插針」想用 974 億美元買 OpenAI 的複雜點在哪？
-https://www.inside.com.tw/article/37519-what-drives-musk-97-4-billion-dollar-bid-for-openai
+這是一場公民忍無可忍的抗暴活動
+https://voicettank.org/20250212-1/
 
-美國副總統 J.D. Vance：過度管控 AI 會扼殺創新，並誓言成全球標竿
-https://www.inside.com.tw/article/37518-us-vp-vance-warns-against-ai-overregulation-pledges-global-leadership
+【軟銀Q3財報】願景基金投資失利，軟銀意外虧損24億美元
+https://www.businessyee.com/article/5470-softbank-third-quarter-loss
 
-“ETF關鍵報告”2024十一月台中班學員課後回饋
-https://greenhornfinancefootnote.blogspot.com/2025/02/etf2024.html
+傳美政府促成Intel、台積電合資！專家：可能技術外流，比課關稅不利
+https://www.businessyee.com/article/5471-intel-tsmc-new-fab
 
-美軍規劃在印太部署衛星干擾器之戰略意涵
-https://voicettank.org/20250211-3/
+FED：通膨率未達標，今年降息機率低
+https://www.businessyee.com/article/5469-hot-CPI
 
-【MSCI調整】台股權重三升，納入台光電、嘉澤，刪除華新、南亞科
-https://www.businessyee.com/article/5460-msci-quarters-ajust-2025Q1
+鐵了心要課「對等關稅」，川普：這兩天就簽命令
+https://www.businessyee.com/article/5467-trump-reciprocal-tariffs
 
-台積電董事會決議：增資北美子公司不超過100億美元；配息維持4.5元
-https://www.businessyee.com/article/5459-tsmc-board-of-directors-meeting-2025-q1
+Robinhood淨利遠超預期，盤後飆15%，今年進軍亞太市場
+https://www.businessyee.com/article/5465-hood-2024-q4-earningcall
 
-避險買盤湧進！台銀黃金存摺牌價今年漲1成，每公克賣出價近3100元新高
-https://www.businessyee.com/article/5458-gold-price-up
+【思科Q4財報】看好AI基礎建設營收潛力，上調全年財測股價漲7%
+https://www.businessyee.com/article/5466-Cisco-earnings-q4
 
-劉揚偉證實接觸日產大股東雷諾！不併購、願合作：強調不進入汽車品牌
-https://www.businessyee.com/article/5457-honhai-nissan-ev-m-and-a
+【聽進理投】身為主管如何不心累？專訪《教練力》專家侯安璐
+https://www.businessyee.com/article/5461-ep113
 
-現金無處可去！中國企業掀起史上最高配息、庫藏股回購潮
-https://www.businessyee.com/article/5456-china-companies-highest-dividend
+證交稅減稅優惠政策有期限！券商公會籲朝向制度化
+https://www.businessyee.com/article/5464-TWSE-Tax-Reduction
 
-【美超微Q4財報】看好今年AI基礎建設需求，股價於盤後上漲8%
-https://www.businessyee.com/article/5455-SMCI-q2-earnings
+平均每人分紅超過200萬元！台積電分紅總額1405億創新高
+https://www.businessyee.com/article/5463-tsmc
 
-【Shopify Q4 財報】營收優但成長將放緩，旗下電商受「小額豁免」新政餘震波及？
-https://www.businessyee.com/article/5454-shopify-earnings-2024-q4
-
-比亞迪掀自駕車價格戰，特斯拉股價創三個月來新低
-https://www.businessyee.com/article/5453-byd
-
-明晚元宵夜：「就決定是你了」！一石三鳥的燈會IP聯名策略
-https://www.businessyee.com/article/5452-kaohsiung-travel-and-chiikawa-2025
-
-勞保不是只有退休金！一文了解勞保理賠範圍與權益
-https://www.businessyee.com/article/5451-labor-Insurance
+Difference Between isA() and anyObject() in EasyMock
+https://feeds.feedblitz.com/~/912826709/0/baeldung~Difference-Between-isA-and-anyObject-in-EasyMock
