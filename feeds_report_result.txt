@@ -1,22 +1,37 @@
-# 2025-02-13 09:16:30 Feeds Report 
+# 2025-02-14 09:16:23 Feeds Report 
 
-Daily Hacker News for 2025-02-12
-https://www.daemonology.net/hn-daily/2025-02-12.html
+Daily Hacker News for 2025-02-13
+https://www.daemonology.net/hn-daily/2025-02-13.html
 
-.NET Console 如何實現 appsettings.json、環境變數、CLI 參數的讀取順序
-https://blog.darkthread.net/blog/appsetting-fallback-in-console-app/
+亞馬遜如何向下貫徹領導力原則
+https://www.ithome.com.tw/article/167377
 
-有人聲稱從OpenAI竊得2千萬組帳密資料，該公司表示他們並未遭到入侵
-https://www.ithome.com.tw/news/167356
+第一銀行數據分析雲端平臺正式上線，未來還要建立數據湖平臺
+https://www.ithome.com.tw/news/167378
 
-數發部開放更多衛星可用頻段，首次開放衛星行動通信可用頻段
-https://www.ithome.com.tw/news/167349
+南山人壽揭加速轉型秘訣，靠企業架構有序轉型
+https://www.ithome.com.tw/people/167371
 
-OpenSSL修補RPK金鑰認證不良漏洞，若不處理恐被用於中間人攻擊
-https://www.ithome.com.tw/news/167345
+新興AI生產力平臺OmniGPT驚傳資料外洩，駭客聲稱握有3萬用戶個資、3,400萬筆聊天記錄
+https://www.ithome.com.tw/news/167370
 
-Fintech周報第260期：X和Visa合作，將在今年推出P2P支付工具XMoney；川普媒體與技術集團宣布進軍投資產品和去中心化金融領域，今年將推出金融科技品牌
-https://www.ithome.com.tw/news/167298
+馬斯克向OpenAI正式提議收購，OpenAI認目的在消滅競爭對手
+https://www.ithome.com.tw/news/167369
+
+Palo Alto Networks修補防火牆作業系統身分驗證繞過漏洞
+https://www.ithome.com.tw/news/167368
+
+零售IT雙周報第51期：不在站上也查得到！Amazon開始支援搜尋品牌官網商品，還能支援訂單履行
+https://www.ithome.com.tw/news/167367
+
+Go 1.24推出泛型型別別名與WebAssembly強化，效能再提升
+https://www.ithome.com.tw/news/167366
+
+Anthropic執行長警告AI發展速度超過預期，各國須加速應對安全與經濟衝擊
+https://www.ithome.com.tw/news/167363
+
+良好資料架構的原則
+https://www.ithome.com.tw/article/167174
 
 博通第7代FC交換器進入最終階段，推出入門款24埠機型
 https://www.ithome.com.tw/review/167261
@@ -24,80 +39,74 @@ https://www.ithome.com.tw/review/167261
 勒索軟體Sarcoma聲稱攻擊PCB大廠欣興電子，竊得337 GB內部資料
 https://www.ithome.com.tw/news/167342
 
-OpenAI將推出GPT-4.5，o3整合到GPT家族以簡化產品線
-https://www.ithome.com.tw/news/167339
+Arm 進軍自製晶片市場！內部挖角客戶高層與高通搶訂單
+https://www.inside.com.tw/article/37552-arm-recruits-customers-it-plans-sell-its-own-chips
 
-Swift官方接手社群VS Code擴充套件，全力投入跨平臺開發支援
-https://www.ithome.com.tw/news/167336
+Appier：2027 年營收目標上看 700 億日圓
+https://www.inside.com.tw/article/37554-appier-sets-revenue-target-at-70-billion-yen-for-2027
 
-微軟將美國防部220億美元智慧MR頭戴裝置案，交給Oculus創始人的新創公司主導
-https://www.ithome.com.tw/news/167322
+TikTok 美國禁令寬限期延長！已重新在蘋果、Google 上架
+https://www.inside.com.tw/article/37551-tiktok-us-ban-extension-granted-app-returns-to-apple-google-stores
 
-蔡崇信證實：阿里巴巴與蘋果合作
-https://www.inside.com.tw/article/37543-apple-intelligence-alibaba
+YouTube 更新 Shorts 的 AI 生成功能！導入最新一代模型「Veo 2」
+https://www.inside.com.tw/article/37550-dream-screen-veo-2
 
-美國國務院預算驚見 4 億美元「裝甲特斯拉」，採購類別竟歸類食品製造業？
-https://www.inside.com.tw/article/37539-us-state-department-has-budget-line-for-armored-teslas-worth-400-million
+蘋果預告下周三發布新產品，會是傳聞中的新一代 iPhone SE 嗎？
+https://www.inside.com.tw/article/37549-
 
-Amazon 2/26 將大秀新一代 Alexa！LLM 將搭配新款 Echo 喇叭
-https://www.inside.com.tw/article/37538-amazon-next-gen-alexa-llm-echo-speaker-launch
+群聯潘健成：我們還一度被法人罵笨，但就是想做人人都能用的 AI 設備
+https://www.inside.com.tw/article/37548-phison-ceo-our-vision-for-affordable-ai-devices-faced-early-criticism
 
-蘋果開放在不同 Apple 帳號間移轉購買！使用限制和步驟一次看
-https://www.inside.com.tw/article/37537-apple-account-transfer
+AI 驅動永續零售創新：恆隆行 restyle2050 與 AccuFlow.ai 共創循環經濟新藍圖
+https://www.inside.com.tw/article/37532-hengstyle
 
-Apple TV app 推出 Android 版本！可透過 Google Play 下載和訂閱
-https://www.inside.com.tw/article/37536-apple-tv-android-app
+Volvo EX30 試駕：Volvo 全新世代車型首發，小小身軀下，藏著超凡的動力
+https://www.inside.com.tw/article/37547-volvo-ex30-test-drive
 
-AWS 推出四項新的儲存服務和功能 為客戶提供功能強大且成本低廉的資料存取和保護
-https://www.inside.com.tw/feature/2019aws/37542-AWS
+Pi Network 六年等待結束 2 月 20 日正式開放主網
+https://www.inside.com.tw/article/37545-pi-network
 
-OpenAI 取消 o3 模型發布！改未來幾個月推出 GPT-5 統整各項技術
-https://www.inside.com.tw/article/37534-openai-cancels-o3
+NCC 750 元審查費、馬斯克揪團收購 OpenAI【塞掐 Side Chat】E315
+https://www.inside.com.tw/feature/side-chat/37540-side-chat-e315
 
-美政府直接插手？傳台積電將營運 Intel 晶圓廠，新公司還可獲補助
-https://www.inside.com.tw/article/37535-tsmc-operate-intel-fab-us-subsidies
+防止 gmail 信件誤入 「封存」 (archive) 黑洞
+https://newtoypia.blogspot.com/2025/02/gmail-archive.html
 
-高效率背後有代價：研究指出 AI 使用率越高，批判思考能力越低
-https://www.inside.com.tw/article/37533-ai-efficiency-critical-thinking-decline
+國民黨為何全面棄守統治合法性？（下）──黨中央的衰敗
+https://voicettank.org/20250213-3/
 
-AWS 宣佈推出 Amazon IoT TwinMaker
-https://www.inside.com.tw/feature/2019aws/37541-AWS
+【書摘】《我逃離的帝國：從毛澤東到習近平，橫亙兩代人的覺醒之路》
+https://voicettank.org/20250213-2/
 
-人工智慧生成內容與著作權──關於著作權保護與合理使用？
-https://voicettank.org/20250212-2/
+【Airbnb Q4財報】營收優又善良，盤後股價漲14%
+https://www.businessyee.com/article/5480-airbnb-q4-earnings
 
-印太國家強化兩棲載台建設之研析
-https://voicettank.org/20250212-3/
+選後加密市場反彈推升，Coinbase上季營收激增逾 140%
+https://www.businessyee.com/article/5479-coinbase-2024-q4-result
 
-這是一場公民忍無可忍的抗暴活動
-https://voicettank.org/20250212-1/
+買對了嗎？日跨境批發平台告訴你2025年情人節巧克力3大趨勢！
+https://www.businessyee.com/article/5478-super-delivery-valentines-day-chocolate
 
-【軟銀Q3財報】願景基金投資失利，軟銀意外虧損24億美元
-https://www.businessyee.com/article/5470-softbank-third-quarter-loss
+川普「對等關稅」對台衝擊不大？學者：要求晶片產能轉移到美更值得關注
+https://www.businessyee.com/article/5477-trump-reciprocal-trade-and-tariffs
 
-傳美政府促成Intel、台積電合資！專家：可能技術外流，比課關稅不利
-https://www.businessyee.com/article/5471-intel-tsmc-new-fab
+川普：美中俄國防預算應砍半！軍火股嚇跌
+https://www.businessyee.com/article/5476-trump-military-doge
 
-FED：通膨率未達標，今年降息機率低
-https://www.businessyee.com/article/5469-hot-CPI
+【Sony Q3財報】遊戲事業節節高升，財測估獲利年增11%新高！將回購500億日圓庫藏股
+https://www.businessyee.com/article/5475-sony-earnings-2024-q3
 
-鐵了心要課「對等關稅」，川普：這兩天就簽命令
-https://www.businessyee.com/article/5467-trump-reciprocal-tariffs
+虛擬資產專法進入討論階段，發虛擬貨幣未上架不受規範
+https://www.businessyee.com/article/5474-vasp-draft
 
-Robinhood淨利遠超預期，盤後飆15%，今年進軍亞太市場
-https://www.businessyee.com/article/5465-hood-2024-q4-earningcall
+路透：多家私募基金競逐收購趨勢科技
+https://www.businessyee.com/article/5473-trend-micro-m-and-a
 
-【思科Q4財報】看好AI基礎建設營收潛力，上調全年財測股價漲7%
-https://www.businessyee.com/article/5466-Cisco-earnings-q4
+台中新光三越氣爆！四產險共保商火險，公共意外險新產獨保
+https://www.businessyee.com/article/5472-shinkong-department-store-explosive
 
-【聽進理投】身為主管如何不心累？專訪《教練力》專家侯安璐
-https://www.businessyee.com/article/5461-ep113
+Resolving ClassCastException: Ljava.lang.Object; cannot be cast to Ljava.lang.Integer
+https://feeds.feedblitz.com/~/912932009/0/baeldung~Resolving-ClassCastException-LjavalangObject-cannot-be-cast-to-LjavalangInteger
 
-證交稅減稅優惠政策有期限！券商公會籲朝向制度化
-https://www.businessyee.com/article/5464-TWSE-Tax-Reduction
-
-平均每人分紅超過200萬元！台積電分紅總額1405億創新高
-https://www.businessyee.com/article/5463-tsmc
-
-Difference Between isA() and anyObject() in EasyMock
-https://feeds.feedblitz.com/~/912826709/0/baeldung~Difference-Between-isA-and-anyObject-in-EasyMock
+Using Greater-Than-Or-Equal-to in a Switch Statement in Java
+https://feeds.feedblitz.com/~/912932012/0/baeldung~Using-GreaterThanOrEqualto-in-a-Switch-Statement-in-Java
