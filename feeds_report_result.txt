@@ -1,16 +1,16 @@
-# 2025-02-14 09:16:23 Feeds Report 
+# 2025-02-15 09:15:09 Feeds Report 
 
-Daily Hacker News for 2025-02-13
-https://www.daemonology.net/hn-daily/2025-02-13.html
+Daily Hacker News for 2025-02-14
+https://www.daemonology.net/hn-daily/2025-02-14.html
 
-亞馬遜如何向下貫徹領導力原則
-https://www.ithome.com.tw/article/167377
+Kagi 用 Privacy Pass 讓搜尋引擎不知道身份
+https://blog.gslin.org/archives/2025/02/15/12263/kagi-%e7%94%a8-privacy-pass-%e8%ae%93%e6%90%9c%e5%b0%8b%e5%bc%95%e6%93%8e%e4%b8%8d%e7%9f%a5%e9%81%93%e8%ba%ab%e4%bb%bd/
 
-第一銀行數據分析雲端平臺正式上線，未來還要建立數據湖平臺
-https://www.ithome.com.tw/news/167378
+打破疊床架屋架構，提升溝通效率
+https://www.ithome.com.tw/voice/167384
 
-南山人壽揭加速轉型秘訣，靠企業架構有序轉型
-https://www.ithome.com.tw/people/167371
+JetBrains取消Fleet的Kotlin多平臺支援，開發重心轉向IntelliJ平臺
+https://www.ithome.com.tw/news/167381
 
 新興AI生產力平臺OmniGPT驚傳資料外洩，駭客聲稱握有3萬用戶個資、3,400萬筆聊天記錄
 https://www.ithome.com.tw/news/167370
@@ -24,89 +24,38 @@ https://www.ithome.com.tw/news/167368
 零售IT雙周報第51期：不在站上也查得到！Amazon開始支援搜尋品牌官網商品，還能支援訂單履行
 https://www.ithome.com.tw/news/167367
 
-Go 1.24推出泛型型別別名與WebAssembly強化，效能再提升
-https://www.ithome.com.tw/news/167366
+商業中的減法策略：薩莉亞餐廳如何在餐飲寒冬逆勢成長
+https://www.inside.com.tw/article/37563-subtraction-strategy-in-business-how-saizeriya-thrives-amid-the-restaurant-industry-downturn
 
-Anthropic執行長警告AI發展速度超過預期，各國須加速應對安全與經濟衝擊
-https://www.ithome.com.tw/news/167363
+既然蔬菜變貴了，我們就把蔬菜變迷你吧！
+https://www.inside.com.tw/article/37562-if-vegetables-are-getting-expensive-lets-make-them-min
 
-良好資料架構的原則
-https://www.ithome.com.tw/article/167174
+Alex Liu 劉邦彥：新芽網路共同創辦人暨執行長｜SurveyCake AI 市調革命：從數據分析到虛擬焦點團體【塞掐 Side Chat】E316
+https://www.inside.com.tw/feature/side-chat/37559-side-chat-e316
 
-博通第7代FC交換器進入最終階段，推出入門款24埠機型
-https://www.ithome.com.tw/review/167261
+Instagram 證實正在測試「不喜歡」按鈕，讓使用者能更有效反應令人反感或不相關的評論內容
+https://www.inside.com.tw/article/37561-instagram-confirms-it-is-testing-a-dislike-button-to-allow-users-to-more-effectively-respond-to-offensive-or-irrelevant-comments
 
-勒索軟體Sarcoma聲稱攻擊PCB大廠欣興電子，竊得337 GB內部資料
-https://www.ithome.com.tw/news/167342
+OpenAI 移除多元承諾頁面，轉向更廣泛的團隊文化敘事
+https://www.inside.com.tw/article/37560-openai-removes-diversity-commitment-page-and-shifts-to-a-broader-team-culture-narrative
 
-Arm 進軍自製晶片市場！內部挖角客戶高層與高通搶訂單
-https://www.inside.com.tw/article/37552-arm-recruits-customers-it-plans-sell-its-own-chips
+蘋果 2025 發表會 2 月 19 日登場！iPhone SE 4 可望現身
+https://www.inside.com.tw/article/37558-apple-event
 
-Appier：2027 年營收目標上看 700 億日圓
-https://www.inside.com.tw/article/37554-appier-sets-revenue-target-at-70-billion-yen-for-2027
+BuzzFeed 乾坤一擲：要從內容農場轉型成社群平台
+https://www.inside.com.tw/article/37556-buzzfeed-takes-bold-pivot-from-content-farm-to-social-platform
 
-TikTok 美國禁令寬限期延長！已重新在蘋果、Google 上架
-https://www.inside.com.tw/article/37551-tiktok-us-ban-extension-granted-app-returns-to-apple-google-stores
+PS5 全球銷量飆升至 7490 萬台！Sony 2024 第三季報捷
+https://www.inside.com.tw/article/37557-sony-2024-q3
 
-YouTube 更新 Shorts 的 AI 生成功能！導入最新一代模型「Veo 2」
-https://www.inside.com.tw/article/37550-dream-screen-veo-2
+對台灣晶片課高關稅將造成美國企業出逃
+https://voicettank.org/20250214-3/
 
-蘋果預告下周三發布新產品，會是傳聞中的新一代 iPhone SE 嗎？
-https://www.inside.com.tw/article/37549-
+【好險有聽】開店要保商業火險嗎？四個真實案例了解保障範圍
+https://www.businessyee.com/article/5482-ep20
 
-群聯潘健成：我們還一度被法人罵笨，但就是想做人人都能用的 AI 設備
-https://www.inside.com.tw/article/37548-phison-ceo-our-vision-for-affordable-ai-devices-faced-early-criticism
+主動式ETF元年啟動！富邦投信推旗艦 50 ETF，動能策略搶先布局
+https://www.businessyee.com/article/5481-009802-etf-ipo
 
-AI 驅動永續零售創新：恆隆行 restyle2050 與 AccuFlow.ai 共創循環經濟新藍圖
-https://www.inside.com.tw/article/37532-hengstyle
-
-Volvo EX30 試駕：Volvo 全新世代車型首發，小小身軀下，藏著超凡的動力
-https://www.inside.com.tw/article/37547-volvo-ex30-test-drive
-
-Pi Network 六年等待結束 2 月 20 日正式開放主網
-https://www.inside.com.tw/article/37545-pi-network
-
-NCC 750 元審查費、馬斯克揪團收購 OpenAI【塞掐 Side Chat】E315
-https://www.inside.com.tw/feature/side-chat/37540-side-chat-e315
-
-防止 gmail 信件誤入 「封存」 (archive) 黑洞
-https://newtoypia.blogspot.com/2025/02/gmail-archive.html
-
-國民黨為何全面棄守統治合法性？（下）──黨中央的衰敗
-https://voicettank.org/20250213-3/
-
-【書摘】《我逃離的帝國：從毛澤東到習近平，橫亙兩代人的覺醒之路》
-https://voicettank.org/20250213-2/
-
-【Airbnb Q4財報】營收優又善良，盤後股價漲14%
-https://www.businessyee.com/article/5480-airbnb-q4-earnings
-
-選後加密市場反彈推升，Coinbase上季營收激增逾 140%
-https://www.businessyee.com/article/5479-coinbase-2024-q4-result
-
-買對了嗎？日跨境批發平台告訴你2025年情人節巧克力3大趨勢！
-https://www.businessyee.com/article/5478-super-delivery-valentines-day-chocolate
-
-川普「對等關稅」對台衝擊不大？學者：要求晶片產能轉移到美更值得關注
-https://www.businessyee.com/article/5477-trump-reciprocal-trade-and-tariffs
-
-川普：美中俄國防預算應砍半！軍火股嚇跌
-https://www.businessyee.com/article/5476-trump-military-doge
-
-【Sony Q3財報】遊戲事業節節高升，財測估獲利年增11%新高！將回購500億日圓庫藏股
-https://www.businessyee.com/article/5475-sony-earnings-2024-q3
-
-虛擬資產專法進入討論階段，發虛擬貨幣未上架不受規範
-https://www.businessyee.com/article/5474-vasp-draft
-
-路透：多家私募基金競逐收購趨勢科技
-https://www.businessyee.com/article/5473-trend-micro-m-and-a
-
-台中新光三越氣爆！四產險共保商火險，公共意外險新產獨保
-https://www.businessyee.com/article/5472-shinkong-department-store-explosive
-
-Resolving ClassCastException: Ljava.lang.Object; cannot be cast to Ljava.lang.Integer
-https://feeds.feedblitz.com/~/912932009/0/baeldung~Resolving-ClassCastException-LjavalangObject-cannot-be-cast-to-LjavalangInteger
-
-Using Greater-Than-Or-Equal-to in a Switch Statement in Java
-https://feeds.feedblitz.com/~/912932012/0/baeldung~Using-GreaterThanOrEqualto-in-a-Switch-Statement-in-Java
+Java Weekly, Issue 581
+https://feeds.feedblitz.com/~/912963116/0/baeldung~Java-Weekly-Issue
