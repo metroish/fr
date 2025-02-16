@@ -1,61 +1,46 @@
-# 2025-02-15 09:15:09 Feeds Report 
+# 2025-02-16 09:13:58 Feeds Report 
 
-Daily Hacker News for 2025-02-14
-https://www.daemonology.net/hn-daily/2025-02-14.html
+Daily Hacker News for 2025-02-15
+https://www.daemonology.net/hn-daily/2025-02-15.html
 
-Kagi 用 Privacy Pass 讓搜尋引擎不知道身份
-https://blog.gslin.org/archives/2025/02/15/12263/kagi-%e7%94%a8-privacy-pass-%e8%ae%93%e6%90%9c%e5%b0%8b%e5%bc%95%e6%93%8e%e4%b8%8d%e7%9f%a5%e9%81%93%e8%ba%ab%e4%bb%bd/
+Weekly Ask Hacker News for 2025-02-09 -- 2025-02-15
+http://www.daemonology.net/hn-weekly-ask/2025-02-15.html
+
+用「加法」來計算浮點數乘法的近似值
+https://blog.gslin.org/archives/2025/02/16/12265/%e7%94%a8%e3%80%8c%e5%8a%a0%e6%b3%95%e3%80%8d%e4%be%86%e8%a8%88%e7%ae%97%e6%b5%ae%e9%bb%9e%e6%95%b8%e4%b9%98%e6%b3%95%e7%9a%84%e8%bf%91%e4%bc%bc%e5%80%bc/
+
+在輕前端網頁顯示數學公式 - 使用 KaTeX
+https://blog.darkthread.net/blog/katex/
+
+2025 年，解決 ASP.NET Core 專案無法 Minify 現代 JavaScript 的問題
+https://blog.darkthread.net/blog/minify-bundle-js-for-aspnetcore/
+
+微軟Graph API遭到濫用，駭客鎖定南美外交單位散布惡意軟體FinalDraft
+https://www.ithome.com.tw/news/167382
+
+俄羅斯駭客Sandworm旗下團體發起攻擊行動BadPilot，利用已知漏洞掌握初始入侵管道
+https://www.ithome.com.tw/news/167386
 
 打破疊床架屋架構，提升溝通效率
 https://www.ithome.com.tw/voice/167384
 
-JetBrains取消Fleet的Kotlin多平臺支援，開發重心轉向IntelliJ平臺
-https://www.ithome.com.tw/news/167381
+AI 競爭升級：中國發表 Kimi AI 1.5，挑戰 ChatGPT 與 DeepSeek
+https://www.inside.com.tw/article/37565-kimi-ai-new-chinese-model-to-rival-chatgpt-and-deepseek
 
-新興AI生產力平臺OmniGPT驚傳資料外洩，駭客聲稱握有3萬用戶個資、3,400萬筆聊天記錄
-https://www.ithome.com.tw/news/167370
+IEA 預測全球電力需求年增 3.9%，即使再生能源能供應 95% 的新增需求，但高碳排放仍難避免
+https://www.inside.com.tw/article/37564-more-renewables-high-emissions-as-iea-projects-3-9-annual-growth-in-electricity-demand
 
-馬斯克向OpenAI正式提議收購，OpenAI認目的在消滅競爭對手
-https://www.ithome.com.tw/news/167369
+Sorting Alphanumeric Strings in Java
+https://feeds.feedblitz.com/~/913054787/0/baeldung~Sorting-Alphanumeric-Strings-in-Java
 
-Palo Alto Networks修補防火牆作業系統身分驗證繞過漏洞
-https://www.ithome.com.tw/news/167368
+How to Distinguish Between Field Absent vs. Null in Jackson
+https://feeds.feedblitz.com/~/913054790/0/baeldung~How-to-Distinguish-Between-Field-Absent-vs-Null-in-Jackson
 
-零售IT雙周報第51期：不在站上也查得到！Amazon開始支援搜尋品牌官網商品，還能支援訂單履行
-https://www.ithome.com.tw/news/167367
+Create Kafka Consumers With Reactor Kafka
+https://feeds.feedblitz.com/~/913054793/0/baeldung~Create-Kafka-Consumers-With-Reactor-Kafka
 
-商業中的減法策略：薩莉亞餐廳如何在餐飲寒冬逆勢成長
-https://www.inside.com.tw/article/37563-subtraction-strategy-in-business-how-saizeriya-thrives-amid-the-restaurant-industry-downturn
+How to Execute Multiple SQL Statements as One in JDBC
+https://feeds.feedblitz.com/~/913053995/0/baeldung~How-to-Execute-Multiple-SQL-Statements-as-One-in-JDBC
 
-既然蔬菜變貴了，我們就把蔬菜變迷你吧！
-https://www.inside.com.tw/article/37562-if-vegetables-are-getting-expensive-lets-make-them-min
-
-Alex Liu 劉邦彥：新芽網路共同創辦人暨執行長｜SurveyCake AI 市調革命：從數據分析到虛擬焦點團體【塞掐 Side Chat】E316
-https://www.inside.com.tw/feature/side-chat/37559-side-chat-e316
-
-Instagram 證實正在測試「不喜歡」按鈕，讓使用者能更有效反應令人反感或不相關的評論內容
-https://www.inside.com.tw/article/37561-instagram-confirms-it-is-testing-a-dislike-button-to-allow-users-to-more-effectively-respond-to-offensive-or-irrelevant-comments
-
-OpenAI 移除多元承諾頁面，轉向更廣泛的團隊文化敘事
-https://www.inside.com.tw/article/37560-openai-removes-diversity-commitment-page-and-shifts-to-a-broader-team-culture-narrative
-
-蘋果 2025 發表會 2 月 19 日登場！iPhone SE 4 可望現身
-https://www.inside.com.tw/article/37558-apple-event
-
-BuzzFeed 乾坤一擲：要從內容農場轉型成社群平台
-https://www.inside.com.tw/article/37556-buzzfeed-takes-bold-pivot-from-content-farm-to-social-platform
-
-PS5 全球銷量飆升至 7490 萬台！Sony 2024 第三季報捷
-https://www.inside.com.tw/article/37557-sony-2024-q3
-
-對台灣晶片課高關稅將造成美國企業出逃
-https://voicettank.org/20250214-3/
-
-【好險有聽】開店要保商業火險嗎？四個真實案例了解保障範圍
-https://www.businessyee.com/article/5482-ep20
-
-主動式ETF元年啟動！富邦投信推旗艦 50 ETF，動能策略搶先布局
-https://www.businessyee.com/article/5481-009802-etf-ipo
-
-Java Weekly, Issue 581
-https://feeds.feedblitz.com/~/912963116/0/baeldung~Java-Weekly-Issue
+Building and Running a Micronaut Application in a Docker Container
+https://feeds.feedblitz.com/~/913053998/0/baeldung~Building-and-Running-a-Micronaut-Application-in-a-Docker-Container
