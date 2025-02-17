@@ -1,46 +1,85 @@
-# 2025-02-16 09:13:58 Feeds Report 
+# 2025-02-17 09:17:53 Feeds Report 
 
-Daily Hacker News for 2025-02-15
-https://www.daemonology.net/hn-daily/2025-02-15.html
+Daily Hacker News for 2025-02-16
+https://www.daemonology.net/hn-daily/2025-02-16.html
 
-Weekly Ask Hacker News for 2025-02-09 -- 2025-02-15
-http://www.daemonology.net/hn-weekly-ask/2025-02-15.html
+Perplexity AI也推出上網研究工具Deep Research，提供免費版
+https://www.ithome.com.tw/news/167399
 
-用「加法」來計算浮點數乘法的近似值
-https://blog.gslin.org/archives/2025/02/16/12265/%e7%94%a8%e3%80%8c%e5%8a%a0%e6%b3%95%e3%80%8d%e4%be%86%e8%a8%88%e7%ae%97%e6%b5%ae%e9%bb%9e%e6%95%b8%e4%b9%98%e6%b3%95%e7%9a%84%e8%bf%91%e4%bc%bc%e5%80%bc/
+【資安週報】0210~0214，馬偕醫院遭勒索軟體CrazyHunter攻擊，攻擊者滲透AD並使用BYOVD提權攻擊手法
+https://www.ithome.com.tw/news/167398
 
-在輕前端網頁顯示數學公式 - 使用 KaTeX
-https://blog.darkthread.net/blog/katex/
+SAP、Databricks合作推出整合SAP與第三方資料的雲端AI分析與開發工具
+https://www.ithome.com.tw/news/167391
 
-2025 年，解決 ASP.NET Core 專案無法 Minify 現代 JavaScript 的問題
-https://blog.darkthread.net/blog/minify-bundle-js-for-aspnetcore/
+JetBrains AI助理允許開發者介接本地模型，強化隱私與運算控制
+https://www.ithome.com.tw/news/167392
 
-微軟Graph API遭到濫用，駭客鎖定南美外交單位散布惡意軟體FinalDraft
-https://www.ithome.com.tw/news/167382
+【資安日報】2月17日，資安業者揭露2024年9月Salt Typhoon攻擊全球電信業者更多細節，利用已知漏洞入侵思科設備
+https://www.ithome.com.tw/news/167393
 
-俄羅斯駭客Sandworm旗下團體發起攻擊行動BadPilot，利用已知漏洞掌握初始入侵管道
-https://www.ithome.com.tw/news/167386
+北韓駭客Kimsuky對韓國企業及政府機關下手，利用PowerShell命令植入惡意程式
+https://www.ithome.com.tw/news/167387
 
-打破疊床架屋架構，提升溝通效率
-https://www.ithome.com.tw/voice/167384
+2024年9月中國駭客入侵美國電信業者事故新事證出爐，近兩個月駭客針對思科設備已知漏洞發動大規模攻擊行動
+https://www.ithome.com.tw/news/167390
 
-AI 競爭升級：中國發表 Kimi AI 1.5，挑戰 ChatGPT 與 DeepSeek
-https://www.inside.com.tw/article/37565-kimi-ai-new-chinese-model-to-rival-chatgpt-and-deepseek
+Google開放免費版Gemini上傳及分析檔案
+https://www.ithome.com.tw/news/167388
 
-IEA 預測全球電力需求年增 3.9%，即使再生能源能供應 95% 的新增需求，但高碳排放仍難避免
-https://www.inside.com.tw/article/37564-more-renewables-high-emissions-as-iea-projects-3-9-annual-growth-in-electricity-demand
+AWS re:Invent 十年有成 雲端服務創新年年有驚喜
+https://www.inside.com.tw/feature/2019aws/37544-AWS
 
-Sorting Alphanumeric Strings in Java
-https://feeds.feedblitz.com/~/913054787/0/baeldung~Sorting-Alphanumeric-Strings-in-Java
+連手機也能用！聯發科全面開源繁中模型 MediaTek Research Breeze 2
+https://www.inside.com.tw/article/37577-mediatek-opens-source-code-for-chinese-language-model-research-breeze-2
 
-How to Distinguish Between Field Absent vs. Null in Jackson
-https://feeds.feedblitz.com/~/913054790/0/baeldung~How-to-Distinguish-Between-Field-Absent-vs-Null-in-Jackson
+SurveyCake 劉邦彥：一個很不 sexy 的產品，如何成為企業都愛用的 SaaS？
+https://www.inside.com.tw/article/37575-how-surveycake-built-unsexy-product-into-popular-enterprise-saas-solution
 
-Create Kafka Consumers With Reactor Kafka
-https://feeds.feedblitz.com/~/913054793/0/baeldung~Create-Kafka-Consumers-With-Reactor-Kafka
+微信「搜一搜」、百度搜索宣布導入 DeepSeek！
+https://www.inside.com.tw/article/37574-weixin-baidu-deepseek
 
-How to Execute Multiple SQL Statements as One in JDBC
-https://feeds.feedblitz.com/~/913053995/0/baeldung~How-to-Execute-Multiple-SQL-Statements-as-One-in-JDBC
+Vision Pro 將迎來 Apple Intelligence！書寫工具、影像樂園功能最快 4 月到
+https://www.inside.com.tw/article/37572-apple-intelligence-in-vision-pro
 
-Building and Running a Micronaut Application in a Docker Container
-https://feeds.feedblitz.com/~/913053998/0/baeldung~Building-and-Running-a-Micronaut-Application-in-a-Docker-Container
+說了好久的固態電池，為何到現在還沒普及？究竟遇到什麼樣的困難？
+https://www.inside.com.tw/article/37573-why-soild-battery-haven-t-popular-yet
+
+不知道動物的感受？科學家透過 AI 準確判斷動物面部表情
+https://www.inside.com.tw/article/37568-ai-can-analyze-animals-facial-expressions
+
+Meta 進軍人形機器人產業！將投入 650 億美元、擴編百人工程團隊
+https://www.inside.com.tw/article/37571-meta-humanoid-robot-65-billion-investment
+
+川普政府有意調整《晶片法案》，獲准補助業者可能受影響
+https://www.inside.com.tw/article/37570-trump-prepares-change-us-chips-act-conditions
+
+台北市 V.S. 高雄市社群行銷學
+https://www.inside.com.tw/article/37569-comparing-social-media-marketing-between-taipei-and-kaohsiung
+
+對台灣晶片課高關稅將造成美國企業出逃
+https://voicettank.org/20250214-3/
+
+生成式AI模型的新曙光 - Amazon SageMaker JumpStart助力企業輕鬆導入
+https://www.businessyee.com/article/5487-AWS
+
+ETF里程碑！00878規模站上4000億、受益人數逼近160萬新高
+https://www.businessyee.com/article/5490-00878-milestone
+
+85萬受益人注意！元大0050擬4/24分割，4/2-4/21電子投票
+https://www.businessyee.com/article/5489-0050-cut
+
+永豐銀挺追星、球迷應援，刷卡最高回饋1,200元
+https://www.businessyee.com/article/5488-sinopac-creditcard
+
+Sony接班團隊多元化！下任社長會是中國出身的陶琳嗎？
+https://www.businessyee.com/article/5485-sony-new-cfo-tao-lin
+
+外資：強迫台積電接手英特爾晶圓廠後果堪慮
+https://www.businessyee.com/article/5484-intel-tsmc
+
+為什麼企業導入生成式AI時應該選擇Amazon SageMaker JumpStart 的3大理由
+https://www.businessyee.com/article/5486-AWS
+
+盯保險業與網紅合作，金管會要求訂自律規範，避免行銷誤導
+https://www.businessyee.com/article/5483-insurance-kol-maketing
