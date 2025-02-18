@@ -1,16 +1,28 @@
-# 2025-02-17 09:17:53 Feeds Report 
+# 2025-02-18 09:16:30 Feeds Report 
 
-Daily Hacker News for 2025-02-16
-https://www.daemonology.net/hn-daily/2025-02-16.html
+Daily Hacker News for 2025-02-17
+https://www.daemonology.net/hn-daily/2025-02-17.html
 
-Perplexity AI也推出上網研究工具Deep Research，提供免費版
-https://www.ithome.com.tw/news/167399
+網頁引用開源 JavaSvcript 程式庫，該從 CDN 拉，還是放在自己家？
+https://blog.darkthread.net/blog/cdn-or-self-host/
 
-【資安週報】0210~0214，馬偕醫院遭勒索軟體CrazyHunter攻擊，攻擊者滲透AD並使用BYOVD提權攻擊手法
-https://www.ithome.com.tw/news/167398
+新型態名稱混淆攻擊手法染指AWS的映像檔！已有數千個AWS帳號淪陷
+https://www.ithome.com.tw/news/167436
 
-SAP、Databricks合作推出整合SAP與第三方資料的雲端AI分析與開發工具
-https://www.ithome.com.tw/news/167391
+X封鎖通往Signal的連結，判定為有害
+https://www.ithome.com.tw/news/167435
+
+內建PQC與零信任硬體防護，博通推新款第7代光纖通道網卡
+https://www.ithome.com.tw/review/167389
+
+手法更高明，macOS惡意軟體XCSSET變種現身
+https://www.ithome.com.tw/news/167434
+
+Nvidia修補圖像處理程式庫漏洞，若不處理攻擊者可藉由特製JPEG2000檔案觸發
+https://www.ithome.com.tw/news/167429
+
+Ivanti旗下SSL VPN系統零時差漏洞再傳遭到利用，駭客去年12月於日本散布惡意軟體SpawnChimera
+https://www.ithome.com.tw/news/167430
 
 JetBrains AI助理允許開發者介接本地模型，強化隱私與運算控制
 https://www.ithome.com.tw/news/167392
@@ -24,62 +36,68 @@ https://www.ithome.com.tw/news/167387
 2024年9月中國駭客入侵美國電信業者事故新事證出爐，近兩個月駭客針對思科設備已知漏洞發動大規模攻擊行動
 https://www.ithome.com.tw/news/167390
 
-Google開放免費版Gemini上傳及分析檔案
-https://www.ithome.com.tw/news/167388
+【應對AI資安威脅 泰富助力企業強化數據安全治理】 泰富資訊安全管理服務 構建企業數據安全防線
+https://www.inside.com.tw/article/37593-
 
-AWS re:Invent 十年有成 雲端服務創新年年有驚喜
-https://www.inside.com.tw/feature/2019aws/37544-AWS
+Shaping the Future of Digital Rights 探索數位內容的真實性
+https://www.inside.com.tw/article/37592-Numbers
 
-連手機也能用！聯發科全面開源繁中模型 MediaTek Research Breeze 2
-https://www.inside.com.tw/article/37577-mediatek-opens-source-code-for-chinese-language-model-research-breeze-2
+中光電智能機器人首度發表 HVTOL 無人機！拓展歐洲市場
+https://www.inside.com.tw/article/37591-circ-hvtol
 
-SurveyCake 劉邦彥：一個很不 sexy 的產品，如何成為企業都愛用的 SaaS？
-https://www.inside.com.tw/article/37575-how-surveycake-built-unsexy-product-into-popular-enterprise-saas-solution
+【Web3 元觀察】AI 正如何影響未來數位錢包樣貌？
+https://www.inside.com.tw/article/37585-ai-future-digital-wallets
 
-微信「搜一搜」、百度搜索宣布導入 DeepSeek！
-https://www.inside.com.tw/article/37574-weixin-baidu-deepseek
+全球最輕小：PLAUD.AI 在台上市 AI 智慧錄音膠囊「PLAUD NotePin」
+https://www.inside.com.tw/article/37589-plaud-ai-launches-smart-recording-device-notepin-in-taiwan
 
-Vision Pro 將迎來 Apple Intelligence！書寫工具、影像樂園功能最快 4 月到
-https://www.inside.com.tw/article/37572-apple-intelligence-in-vision-pro
+xAI Grok 3 正式發表！馬斯克：拿來尋找外星人、追求生命意義
+https://www.inside.com.tw/article/37588-xai-launches-grok-3-musk-claims-it-can-search-aliens-and-life-meaning
 
-說了好久的固態電池，為何到現在還沒普及？究竟遇到什麼樣的困難？
-https://www.inside.com.tw/article/37573-why-soild-battery-haven-t-popular-yet
+Shein IPO 之路阻礙重重，傳投資人要求估值降至 300 億美元
+https://www.inside.com.tw/article/37586-shein-valuation-pressured-to-be-cut
 
-不知道動物的感受？科學家透過 AI 準確判斷動物面部表情
-https://www.inside.com.tw/article/37568-ai-can-analyze-animals-facial-expressions
+挑戰特斯拉？BMW 推出自研 ECU「Heart of Joy」稱可提升 30% 里程
+https://www.inside.com.tw/article/37587-bmw-to-boost-ev-range-efficiency-with-new-heart-of-joy-ecu
 
-Meta 進軍人形機器人產業！將投入 650 億美元、擴編百人工程團隊
-https://www.inside.com.tw/article/37571-meta-humanoid-robot-65-billion-investment
+Meta 目標打造最長海底電纜！串連全球 5 大洲
+https://www.inside.com.tw/article/37584-meta-project-waterworth
 
-川普政府有意調整《晶片法案》，獲准補助業者可能受影響
-https://www.inside.com.tw/article/37570-trump-prepares-change-us-chips-act-conditions
+任天堂宣布正式設立台灣子公司「台灣任天堂股份有限公司」
+https://www.inside.com.tw/article/37583-nintendo-announces-establishment-of-taiwan-subsidiary
 
-台北市 V.S. 高雄市社群行銷學
-https://www.inside.com.tw/article/37569-comparing-social-media-marketing-between-taipei-and-kaohsiung
+Deepseek對台灣企業創新投資的啟發
+https://voicettank.org/20250217-2/
 
-對台灣晶片課高關稅將造成美國企業出逃
-https://voicettank.org/20250214-3/
+進步本土的小黨，如何成為有政治實力的第三勢力？
+https://voicettank.org/20250217-3/
 
-生成式AI模型的新曙光 - Amazon SageMaker JumpStart助力企業輕鬆導入
-https://www.businessyee.com/article/5487-AWS
+Grok 3上線！訂閱戶率先使用，馬斯克：極度追求真相AI
+https://www.businessyee.com/article/5501-xai-Grok3
 
-ETF里程碑！00878規模站上4000億、受益人數逼近160萬新高
-https://www.businessyee.com/article/5490-00878-milestone
+Fed何時降息？鮑曼：通膨未達標，仍須耐心觀望
+https://www.businessyee.com/article/5497-feds-bowman-inflation-rate
 
-85萬受益人注意！元大0050擬4/24分割，4/2-4/21電子投票
-https://www.businessyee.com/article/5489-0050-cut
+外媒曝：博通與台積電擬拆分英特爾
+https://www.businessyee.com/article/5492-broadcom-tsmc-intel
 
-永豐銀挺追星、球迷應援，刷卡最高回饋1,200元
-https://www.businessyee.com/article/5488-sinopac-creditcard
+你的企業終究是要上雲的，那為什麽不一開始就上AWS？
+https://www.businessyee.com/article/5496-AWS
 
-Sony接班團隊多元化！下任社長會是中國出身的陶琳嗎？
-https://www.businessyee.com/article/5485-sony-new-cfo-tao-lin
+全球運能吃緊，川普取消「小額豁免」能幫半導體業搶回貨機空間嗎？
+https://www.businessyee.com/article/5498-de-minimis-exemption-shein-temu-asml-tsmc-air-shipment
 
-外資：強迫台積電接手英特爾晶圓廠後果堪慮
-https://www.businessyee.com/article/5484-intel-tsmc
+AI競賽南韓強勢參戰！代總統崔相穆：今年採購1萬顆GPU
+https://www.businessyee.com/article/5494-korea-buy-nvidia-gpu-for-ai-war
 
-為什麼企業導入生成式AI時應該選擇Amazon SageMaker JumpStart 的3大理由
-https://www.businessyee.com/article/5486-AWS
+生成式AI賦能建築物管理邁向未來 - BrainBox AI與AWS攜手打造ARIA虛擬助理
+https://www.businessyee.com/article/5495-AWS
 
-盯保險業與網紅合作，金管會要求訂自律規範，避免行銷誤導
-https://www.businessyee.com/article/5483-insurance-kol-maketing
+劉德音：技術領先是經濟與國安基石，需要國家級戰略！
+https://www.businessyee.com/article/5493-mark-liu-new-thinktank-tcip
+
+當地緣政治可以被計算，如何跟商人川普談判？
+https://www.businessyee.com/article/5491-us-international-diplomacy
+
+How to Connect Kafka with ElasticSearch
+https://feeds.feedblitz.com/~/913194614/0/baeldung~How-to-Connect-Kafka-with-ElasticSearch
