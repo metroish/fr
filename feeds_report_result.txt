@@ -1,13 +1,31 @@
-# 2025-02-18 09:16:30 Feeds Report 
+# 2025-02-19 09:16:40 Feeds Report 
 
-Daily Hacker News for 2025-02-17
-https://www.daemonology.net/hn-daily/2025-02-17.html
+Daily Hacker News for 2025-02-18
+https://www.daemonology.net/hn-daily/2025-02-18.html
 
-網頁引用開源 JavaSvcript 程式庫，該從 CDN 拉，還是放在自己家？
-https://blog.darkthread.net/blog/cdn-or-self-host/
+Kafka 官方對 Job Queue 的實作進度：KIP-932: Queues for Kafka
+https://blog.gslin.org/archives/2025/02/19/12268/kafka-%e5%ae%98%e6%96%b9%e5%b0%8d-job-queue-%e7%9a%84%e5%af%a6%e4%bd%9c%e9%80%b2%e5%ba%a6%ef%bc%9akip-932-queues-for-kafka/
 
-新型態名稱混淆攻擊手法染指AWS的映像檔！已有數千個AWS帳號淪陷
-https://www.ithome.com.tw/news/167436
+日本企業傳出遭中國駭客APT41旗下團體攻擊，駭客利用ERP系統SQL注入漏洞部署Web Shell
+https://www.ithome.com.tw/news/167454
+
+xAI公布號稱世界最強的Grok 3模型、進階功能DeepSearch，新增SuperGrok訂閱方案
+https://www.ithome.com.tw/news/167453
+
+OpenSSH修補可被用於中間人攻擊、造成阻斷服務的弱點
+https://www.ithome.com.tw/news/167452
+
+美三州政府公務手機禁用DeepSeek，南韓暫停App下載
+https://www.ithome.com.tw/news/167451
+
+HP收購Ai Pin製造商Humane，接收AI、智財、員工
+https://www.ithome.com.tw/news/167449
+
+俄羅斯駭客鎖定歐洲、北美、非洲、中東而來，以要求裝置綁定為幌子進行網釣攻擊
+https://www.ithome.com.tw/news/167448
+
+Mistral推出高效能、小型化區域語言模型Saba，專為中東與南亞市場設計
+https://www.ithome.com.tw/news/167442
 
 X封鎖通往Signal的連結，判定為有害
 https://www.ithome.com.tw/news/167435
@@ -24,80 +42,62 @@ https://www.ithome.com.tw/news/167429
 Ivanti旗下SSL VPN系統零時差漏洞再傳遭到利用，駭客去年12月於日本散布惡意軟體SpawnChimera
 https://www.ithome.com.tw/news/167430
 
-JetBrains AI助理允許開發者介接本地模型，強化隱私與運算控制
-https://www.ithome.com.tw/news/167392
+AWS 推出三項新資料庫功能 助力企業用戶根據需求更輕鬆且更經濟實惠地擴展並執行資料庫
+https://www.inside.com.tw/feature/2019aws/37603-AWS
 
-【資安日報】2月17日，資安業者揭露2024年9月Salt Typhoon攻擊全球電信業者更多細節，利用已知漏洞入侵思科設備
-https://www.ithome.com.tw/news/167393
+小行星撞地球機率增至 3.1%，創現代觀測紀錄新高
+https://www.inside.com.tw/article/37610-asteroid-impact-probability-rises-to-3.1-percent-setting-a-new-record-in-modern-observations
 
-北韓駭客Kimsuky對韓國企業及政府機關下手，利用PowerShell命令植入惡意程式
-https://www.ithome.com.tw/news/167387
+臉書直播影片快備份 2/19 起只保留 30 天
+https://www.inside.com.tw/article/37609-facebook-live-video-30-day-retention-feb-19
 
-2024年9月中國駭客入侵美國電信業者事故新事證出爐，近兩個月駭客針對思科設備已知漏洞發動大規模攻擊行動
-https://www.ithome.com.tw/news/167390
+受分拆消息激勵！英特爾股價飆升 16.1%
+https://www.inside.com.tw/article/37607-intel-stock
 
-【應對AI資安威脅 泰富助力企業強化數據安全治理】 泰富資訊安全管理服務 構建企業數據安全防線
-https://www.inside.com.tw/article/37593-
+2025 NVIDIA GTC 大會三月登場：立即報名免費線上通行證，一次掌握企業端最前沿的 AI 整合服務！
+https://www.inside.com.tw/article/37604-NVIDIA%20GTC%202025
 
-Shaping the Future of Digital Rights 探索數位內容的真實性
-https://www.inside.com.tw/article/37592-Numbers
+比亞迪宣稱： 2027 年推出全固態電池電動車！
+https://www.inside.com.tw/article/37606-byd-confirms-evs-all-solid-state-batteries
 
-中光電智能機器人首度發表 HVTOL 無人機！拓展歐洲市場
-https://www.inside.com.tw/article/37591-circ-hvtol
+統一資訊首成立企業加速器！攜手領濤公司招募新創，聚焦 AI、資安領域
+https://www.inside.com.tw/article/37601-pic-cardinalrain-accelerator
 
-【Web3 元觀察】AI 正如何影響未來數位錢包樣貌？
-https://www.inside.com.tw/article/37585-ai-future-digital-wallets
+OpenAI 前技術長 Mira Murati 成立新 AI 公司！打造適應各種專業領域的系統
+https://www.inside.com.tw/article/37600-thinking-machines-lab
 
-全球最輕小：PLAUD.AI 在台上市 AI 智慧錄音膠囊「PLAUD NotePin」
-https://www.inside.com.tw/article/37589-plaud-ai-launches-smart-recording-device-notepin-in-taiwan
+AWS 推出六項 Amazon SageMaker 新功能 進一步降低機器學習使用門檻並提升資料工作流程處理效率
+https://www.inside.com.tw/feature/2019aws/37602-AWS
 
-xAI Grok 3 正式發表！馬斯克：拿來尋找外星人、追求生命意義
-https://www.inside.com.tw/article/37588-xai-launches-grok-3-musk-claims-it-can-search-aliens-and-life-meaning
+OpenAI 共同創辦人 Ilya Sutskever 的 AI 新創「Safe Superintelligence」估值飆升至 300 億美元
+https://www.inside.com.tw/article/37599-openai-cofounder-ilya-sutskever-new-ai-startup-fundraising-30-billion-valuation
 
-Shein IPO 之路阻礙重重，傳投資人要求估值降至 300 億美元
-https://www.inside.com.tw/article/37586-shein-valuation-pressured-to-be-cut
+從被動到主動：AWS 教你如何打造永不宕機的金融應用
+https://www.businessyee.com/article/5507-AWS
 
-挑戰特斯拉？BMW 推出自研 ECU「Heart of Joy」稱可提升 30% 里程
-https://www.inside.com.tw/article/37587-bmw-to-boost-ev-range-efficiency-with-new-heart-of-joy-ecu
+1年成長110%！006208定期定額交易戶數超越0050
+https://www.businessyee.com/article/5510-0050-006208
 
-Meta 目標打造最長海底電纜！串連全球 5 大洲
-https://www.inside.com.tw/article/37584-meta-project-waterworth
+【ETF市場評論】006208想降管理費，竟要主管機關同意？
+https://www.businessyee.com/article/5509-ETF-expense-ratio
 
-任天堂宣布正式設立台灣子公司「台灣任天堂股份有限公司」
-https://www.inside.com.tw/article/37583-nintendo-announces-establishment-of-taiwan-subsidiary
+工讀生疑性侵案時隔一年，麥當勞：重新檢視職場安全、加強性平教育
+https://www.businessyee.com/article/5508-mcdonalds-sexual-assault-response
 
-Deepseek對台灣企業創新投資的啟發
-https://voicettank.org/20250217-2/
+川普關稅多空交戰！黃金期現貨不同調，瑞銀目標價升至3000美元
+https://www.businessyee.com/article/5505-gold-2025
 
-進步本土的小黨，如何成為有政治實力的第三勢力？
-https://voicettank.org/20250217-3/
+通用汽車剛脫手，TOYOTA證實：15億美元補位LG北美電池廠
+https://www.businessyee.com/article/5504-toyota-is-supporting-lg-battery-plant-with-1-5-billion-order
 
-Grok 3上線！訂閱戶率先使用，馬斯克：極度追求真相AI
-https://www.businessyee.com/article/5501-xai-Grok3
+跨區域部署有眉角：雲端應用開發的 5 個關鍵考量
+https://www.businessyee.com/article/5506-AWS
 
-Fed何時降息？鮑曼：通膨未達標，仍須耐心觀望
-https://www.businessyee.com/article/5497-feds-bowman-inflation-rate
+川普：擬對半導體、進口車課25%關稅！最快4月2日公布
+https://www.businessyee.com/article/5503-trump-says-likely-to-impose-25-tariffs-on-autos-drugs-chips
 
-外媒曝：博通與台積電擬拆分英特爾
-https://www.businessyee.com/article/5492-broadcom-tsmc-intel
+前代錄音卡賣出50萬台！中國公司PLAUD.AI續推全球最小AI轉錄裝置
+https://www.businessyee.com/article/5502-PLAUD-NotePin
 
-你的企業終究是要上雲的，那為什麽不一開始就上AWS？
-https://www.businessyee.com/article/5496-AWS
-
-全球運能吃緊，川普取消「小額豁免」能幫半導體業搶回貨機空間嗎？
-https://www.businessyee.com/article/5498-de-minimis-exemption-shein-temu-asml-tsmc-air-shipment
-
-AI競賽南韓強勢參戰！代總統崔相穆：今年採購1萬顆GPU
-https://www.businessyee.com/article/5494-korea-buy-nvidia-gpu-for-ai-war
-
-生成式AI賦能建築物管理邁向未來 - BrainBox AI與AWS攜手打造ARIA虛擬助理
-https://www.businessyee.com/article/5495-AWS
-
-劉德音：技術領先是經濟與國安基石，需要國家級戰略！
-https://www.businessyee.com/article/5493-mark-liu-new-thinktank-tcip
-
-當地緣政治可以被計算，如何跟商人川普談判？
-https://www.businessyee.com/article/5491-us-international-diplomacy
-
-How to Connect Kafka with ElasticSearch
-https://feeds.feedblitz.com/~/913194614/0/baeldung~How-to-Connect-Kafka-with-ElasticSearch
+習近平罕見會晤馬雲與中企大咖，釋出挺民營企業訊號！
+https://www.businessyee.com/article/5500-xi-jinping-jack-ma-meeting
