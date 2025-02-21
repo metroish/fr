@@ -1,16 +1,46 @@
-# 2025-02-20 09:16:32 Feeds Report 
+# 2025-02-21 09:16:25 Feeds Report 
 
-Daily Hacker News for 2025-02-19
-https://www.daemonology.net/hn-daily/2025-02-19.html
+Daily Hacker News for 2025-02-20
+https://www.daemonology.net/hn-daily/2025-02-20.html
 
-產業系統化創新的崛起
-https://www.ithome.com.tw/voice/167480
+勒索軟體NailaoLocker鎖定歐洲地區醫療機構而來，疑為中國駭客用來掩蓋竊取資料的意圖
+https://www.ithome.com.tw/news/167502
 
-Google、Mozilla發布瀏覽器更新，修補記憶體高風險資安漏洞
-https://www.ithome.com.tw/news/167479
+企業用戶等嘸火大，Google終於將Deep Research推向Workspace用戶
+https://www.ithome.com.tw/news/167500
 
-Google iOS版App不再支援Gemini，要求用戶下載獨立App
-https://www.ithome.com.tw/news/167476
+Amazon將終止支援第三方Android裝置的Appstore、通訊協同服務Chime
+https://www.ithome.com.tw/news/167499
+
+美國警告勒索軟體Ghost橫行，駭客攻擊範圍橫跨全球70個國家
+https://www.ithome.com.tw/news/167498
+
+千億廣告系統如何擺脫8年技術債
+https://www.ithome.com.tw/article/167496
+
+廣告推薦系統上線前，Pinterest如何用廣告投放實戰驗收
+https://www.ithome.com.tw/news/167495
+
+Pinterest如何設計新廣告推薦系統，來有效模組化數十萬行程式碼
+https://www.ithome.com.tw/news/167492
+
+擺脫8年技術債，Pinterest從頭打造千億營收時代的廣告推薦系統
+https://www.ithome.com.tw/news/167482
+
+研究人員揭露LibreOffice近期修補的資安漏洞細節，指出攻擊者利用的過程無需使用者互動
+https://www.ithome.com.tw/news/167494
+
+ChatGPT用戶突破4億；整合o3技術的GPT-5即將推出
+https://www.ithome.com.tw/news/167493
+
+微軟發表全球首款拓撲量子處理器Majorana 1，提升穩定性推進量子運算雲端化
+https://www.ithome.com.tw/news/167488
+
+加密貨幣產業的黑暗面
+https://www.ithome.com.tw/article/167431
+
+淺談動態資料治理
+https://www.ithome.com.tw/article/167176
 
 蘋果推出最新平價版機種iPhone 16e，趕上AI列車
 https://www.ithome.com.tw/news/167474
@@ -21,80 +51,62 @@ https://www.ithome.com.tw/news/167475
 Palo Alto Networks警告防火牆漏洞遭到串連，攻擊者將其用於對網頁管理介面下手
 https://www.ithome.com.tw/news/167473
 
-Rust企業採用率穩步成長，但學習門檻高與工具效能低仍受關注
-https://www.ithome.com.tw/news/167458
+亞馬遜宣布關閉 Android Appstore 軟體市集服務！將於 8 月 20 日終止
+https://www.inside.com.tw/article/37627-amazon-appstore-shutting-down
 
-OpenSSH修補可被用於中間人攻擊、造成阻斷服務的弱點
-https://www.ithome.com.tw/news/167452
+Figure 與 OpenAI 分手後，真在 30 天內成功推自家 AI 模型 Helix
+https://www.inside.com.tw/article/37626-figure-openai-split-helix-ai-model-launch
 
-美三州政府公務手機禁用DeepSeek，南韓暫停App下載
-https://www.ithome.com.tw/news/167451
+OpenAI 每週活躍用戶 4 億！三個月內增長 33%，營運長：大眾看到 AI 價值
+https://www.inside.com.tw/article/37625-openai-hits-400m-weekly-users
 
-xAI：免費開放 Grok 3 給大家用，直到伺服器崩潰！
-https://www.inside.com.tw/article/37620-xai-offers-grok-3-free-access-until-server-overload
+【Tenz科技評論】iPhone 16e 新推出，有什麼不同？該換嗎？
+https://www.inside.com.tw/article/37624-iphone-16e-launch-what-changes-should-you-upgrade
 
-Google Workspace apps 側邊的 Gemini 開始支援繁體中文！
-https://www.inside.com.tw/article/37619-google-workspace-gemini-traditional-mandarin
+微軟 CEO 納德拉最新 AI 預測：運算中心投資過熱、將採更務實策略
+https://www.inside.com.tw/article/37623-microsoft-ceo-nadella-ai-prediction-datacenter-investment-overheating-strategy-shift
 
-波克夏超車！台積電市值跌出全球前 10 位列第 11
-https://www.inside.com.tw/article/37618-tsmc-marketcap-surpassed-by-berkshire
+TNL Mediagene 關鍵評論網媒體集團優化董事會架構，強化全球市場布局
+https://www.inside.com.tw/article/37621-
 
-iPhone 的 Google app 加入「圈選搜尋」 AI 功能！
-https://www.inside.com.tw/article/37617-circle-to-search-to-iphone
+Grok 3 正式發表、蘋果 2025 發表會、Peter Thiel 才是這個世界的大魔王【塞掐 Side Chat】E317
+https://www.inside.com.tw/feature/side-chat/37622-side-chat-e317
 
-Google 推出「co-scientist」系統，由 AI 代理人生成科學假說、研究計畫
-https://www.inside.com.tw/article/37615-google-co-scientist
+從製造到平台：台積電的合作共生
+https://voicettank.org/20250220-3/
 
-台北數位獲 X 廣告總代理 助品牌插旗全球菁英匯聚平台
-https://www.inside.com.tw/article/37616-taipeiads
+川普關稅政策衝擊全球！吳東亮提三策略「化被動為主動」
+https://www.businessyee.com/article/5534-cnaic-advice-trump-shock
 
-Amazon Web Services 公布 2022 年台灣 AWS 合作夥伴獎得主
-https://www.inside.com.tw/feature/2019aws/37605-AWS
+川普影響有限！永續金融先行者聯盟提五承諾，目標No ESG、No Money
+https://www.businessyee.com/article/5533-financial-industry-esg-leaders
 
-Palantir 股價暴跌！國防預算刪減、CEO 拋售計畫引市場恐慌
-https://www.inside.com.tw/article/37614-palantir-stock-pltr-ceo-share-sale-dod-budget-cut
+日本1月CPI上升3.2%，米價飆破7成！日銀總裁：不排除加碼買國債
+https://www.businessyee.com/article/5532-japan-cpi-jan-rice-history-high
 
-世界新紀錄！法國核融合實驗電漿持續破 22 分鐘
-https://www.inside.com.tw/article/37613-france-tokamak-cea-west-fusion-reactor-record-plasma-duration
+【商益書摘】「我在和我爸媽打仗！」比爾・蓋茲小學就進叛逆期，幸運遇見改變一生的諮商師
+https://www.businessyee.com/article/5531-Bill-Gates
 
-微軟量子計算重大突破：Majorana 1 單晶片可容納 100 萬量子位元
-https://www.inside.com.tw/article/37612-microsoft-quantum-computing-majorana-1-processor
+哈佛輟學、半夜離家，不符合母親理想劇本的比爾蓋茲
+https://www.businessyee.com/article/5530-Source-Code
 
-中菲召開第10次南海雙邊磋商會議之觀察
-https://voicettank.org/20250219-3/
+幣圈鬆口氣！SEC撤回上訴，證券經紀商監管未擴及加密產業
+https://www.businessyee.com/article/5529-sec-defi-rugulation
 
-「大罷免運動」錘煉台灣人的獨立精神與反抗意志
-https://voicettank.org/20250219-2/
+歐洲商會、華德士：2025近9成台灣企業擬加薪！高階職位可望漲20%
+https://www.businessyee.com/article/5528-salary-2025
 
-不要讓綏靖幽靈從慕尼黑飄到台海
-https://voicettank.org/20250219-1/
+川普政府狂裁員，誰來執行晶片法案的補貼？
+https://www.businessyee.com/article/5526-Chips-ACT
 
-馬斯克砍預算有成！川普：20%省下的錢想分給全民，還能補赤字！
-https://www.businessyee.com/article/5520-trump-DOGE-taxpayers-cut
+台積電大到影響ETF追蹤誤差！金管會考慮鬆綁 3 成上限
+https://www.businessyee.com/article/5527-tsmc-etf
 
-Fed 會議紀要：憂關稅推高通膨、降息計畫恐延後
-https://www.businessyee.com/article/5517-fed-minutes-january-2025
+TNL Mediagene 關鍵評論網媒體集團優化董事會架構，強化全球市場布局
+https://www.businessyee.com/article/5521-TNMG
 
-日銀升息壓力大！米價年增近倍、菜價飆升，CPI恐突破4%
-https://www.businessyee.com/article/5519-boj-cpi-food-rate-hikes
+Implement SASL Authentication in Kafka With JAAS Config
+https://feeds.feedblitz.com/~/913456490/0/baeldung~Implement-SASL-Authentication-in-Kafka-With-JAAS-Config
 
-個資即灰塵！玉山金提「金融無塵室」，跨行追不法金流
-https://www.businessyee.com/article/5518-e-sun-ai-fintech
-
-【聽進理投】不要吝於花錢與時間，因為有些事無法留到以後再做
-https://www.businessyee.com/article/5516-ep114
-
-純網銀開業4年，3家虧損累計達76億元、樂天存戶墊底
-https://www.businessyee.com/article/5515-virtual-bank
-
-規模創新高！投信基金年增逾四成，統一成長87%稱王
-https://www.businessyee.com/article/5514-fund-Uni-President
-
-美國防預算削減、CEO賣股雙利空！Palantir股價重挫逾10%
-https://www.businessyee.com/article/5513-Palantir-ceo-sell-stock
-
-春節交易日減少！1 月全體券商獲利 60 億，月減 15%
-https://www.businessyee.com/article/5512-taiwan-lunar-new-year-brokerage
-
-閃開讓專業來！「金融科技產業聯盟」衝創新 ，金管會支持但不主導
-https://www.businessyee.com/article/5511-fintech-development
+Introduction to ActiveJ
+https://feeds.feedblitz.com/~/913456493/0/baeldung~Introduction-to-ActiveJ
