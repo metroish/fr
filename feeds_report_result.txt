@@ -1,13 +1,19 @@
-# 2025-02-21 09:16:25 Feeds Report 
+# 2025-02-22 09:15:17 Feeds Report 
 
-Daily Hacker News for 2025-02-20
-https://www.daemonology.net/hn-daily/2025-02-20.html
+Daily Hacker News for 2025-02-21
+https://www.daemonology.net/hn-daily/2025-02-21.html
 
-勒索軟體NailaoLocker鎖定歐洲地區醫療機構而來，疑為中國駭客用來掩蓋竊取資料的意圖
-https://www.ithome.com.tw/news/167502
+<select> 裡的 <option> 總算有可能讓網頁開發者用 css 改樣式了...
+https://blog.gslin.org/archives/2025/02/22/12270/select-%e8%a3%a1%e7%9a%84-option-%e7%b8%bd%e7%ae%97%e6%9c%89%e5%8f%af%e8%83%bd%e8%ae%93%e7%b6%b2%e9%a0%81%e9%96%8b%e7%99%bc%e8%80%85%e7%94%a8-css-%e6%94%b9%e6%a8%a3%e5%bc%8f%e4%ba%86/
 
-企業用戶等嘸火大，Google終於將Deep Research推向Workspace用戶
-https://www.ithome.com.tw/news/167500
+Let's Encrypt 發出第一個六天的 Certificate
+https://blog.gslin.org/archives/2025/02/22/12269/lets-encrypt-%e7%99%bc%e5%87%ba%e7%ac%ac%e4%b8%80%e5%80%8b%e5%85%ad%e5%a4%a9%e7%9a%84-certificate/
+
+網頁設計小工具：為圖檔加上互動區塊
+https://blog.darkthread.net/blog/image-map-editor/
+
+閒聊：謠傳量產 150 歲人瑞的 1875 年出生日期是怎麼來的？
+https://blog.darkthread.net/blog/null-date-as-1875/
 
 Amazon將終止支援第三方Android裝置的Appstore、通訊協同服務Chime
 https://www.ithome.com.tw/news/167499
@@ -30,83 +36,38 @@ https://www.ithome.com.tw/news/167482
 研究人員揭露LibreOffice近期修補的資安漏洞細節，指出攻擊者利用的過程無需使用者互動
 https://www.ithome.com.tw/news/167494
 
-ChatGPT用戶突破4億；整合o3技術的GPT-5即將推出
-https://www.ithome.com.tw/news/167493
+掛在天花板、全身像人類般抽動！波蘭 Clone Robotics 配備千個人造肌肉
+https://www.inside.com.tw/article/37635-clone-robotics-protoclone
 
-微軟發表全球首款拓撲量子處理器Majorana 1，提升穩定性推進量子運算雲端化
-https://www.ithome.com.tw/news/167488
+美方擬切斷 Starlink 服務 施壓烏克蘭讓步礦權談判
+https://www.inside.com.tw/article/37634-
 
-加密貨幣產業的黑暗面
-https://www.ithome.com.tw/article/167431
+蘋果英國用戶個資保護打折！iCloud 加密服務喊停
+https://www.inside.com.tw/article/37633-apple-removes-encryption-advanced-data-protection-adp-uk
 
-淺談動態資料治理
-https://www.ithome.com.tw/article/167176
+美軍首款「無人機剋星」裝甲亮相，可於 4 英里外精準擊落敵方 UAV
+https://www.inside.com.tw/article/37628-us-first-drone-killer-suit
 
-蘋果推出最新平價版機種iPhone 16e，趕上AI列車
-https://www.ithome.com.tw/news/167474
+DeepSeek 下載量破億 下週公開分享 5 代碼庫
+https://www.inside.com.tw/article/37632-deepseek-opensource
 
-分散式資料庫系統Apache Ignite存在9.5分重大漏洞，攻擊者可用來任意執行程式碼
-https://www.ithome.com.tw/news/167475
+林威宇：財報狗產品經理｜如何理解世界、掌握科技與金融的新機會？Peter Thiel、Sam Altman、Elon Musk 科技大佬思維解析【塞掐 Side Chat】E317
+https://www.inside.com.tw/feature/side-chat/37630-side-chat-e318
 
-Palo Alto Networks警告防火牆漏洞遭到串連，攻擊者將其用於對網頁管理介面下手
-https://www.ithome.com.tw/news/167473
+Bybit 遭受加密貨幣史上最嚴重駭侵 損失近 15 億美元
+https://www.inside.com.tw/article/37631-crypto-exchange-bybit-loses-1-5-billion-in-record-hack
 
-亞馬遜宣布關閉 Android Appstore 軟體市集服務！將於 8 月 20 日終止
-https://www.inside.com.tw/article/37627-amazon-appstore-shutting-down
+蘋果可能已經著手測試下一款 Apple C2 連網數據晶片，或許會用在今年秋季推出的 iPhone 17
+https://www.inside.com.tw/article/37629-apple-may-have-begun-testing-its-next-apple-c2-networking-data-chip
 
-Figure 與 OpenAI 分手後，真在 30 天內成功推自家 AI 模型 Helix
-https://www.inside.com.tw/article/37626-figure-openai-split-helix-ai-model-launch
+「幻想工業複合體」：當流水式謊言顛覆真相，民主如何自處？
+https://voicettank.org/20250221-3/
 
-OpenAI 每週活躍用戶 4 億！三個月內增長 33%，營運長：大眾看到 AI 價值
-https://www.inside.com.tw/article/37625-openai-hits-400m-weekly-users
+【好險有聽】水管因為地震損壞，地震險卻不賠？不能不知道的地震險承保範圍
+https://www.businessyee.com/article/5535-earthquake-insurance
 
-【Tenz科技評論】iPhone 16e 新推出，有什麼不同？該換嗎？
-https://www.inside.com.tw/article/37624-iphone-16e-launch-what-changes-should-you-upgrade
+A Christmas Carol
+https://dushuyizhi.net/a-christmas-carol/
 
-微軟 CEO 納德拉最新 AI 預測：運算中心投資過熱、將採更務實策略
-https://www.inside.com.tw/article/37623-microsoft-ceo-nadella-ai-prediction-datacenter-investment-overheating-strategy-shift
-
-TNL Mediagene 關鍵評論網媒體集團優化董事會架構，強化全球市場布局
-https://www.inside.com.tw/article/37621-
-
-Grok 3 正式發表、蘋果 2025 發表會、Peter Thiel 才是這個世界的大魔王【塞掐 Side Chat】E317
-https://www.inside.com.tw/feature/side-chat/37622-side-chat-e317
-
-從製造到平台：台積電的合作共生
-https://voicettank.org/20250220-3/
-
-川普關稅政策衝擊全球！吳東亮提三策略「化被動為主動」
-https://www.businessyee.com/article/5534-cnaic-advice-trump-shock
-
-川普影響有限！永續金融先行者聯盟提五承諾，目標No ESG、No Money
-https://www.businessyee.com/article/5533-financial-industry-esg-leaders
-
-日本1月CPI上升3.2%，米價飆破7成！日銀總裁：不排除加碼買國債
-https://www.businessyee.com/article/5532-japan-cpi-jan-rice-history-high
-
-【商益書摘】「我在和我爸媽打仗！」比爾・蓋茲小學就進叛逆期，幸運遇見改變一生的諮商師
-https://www.businessyee.com/article/5531-Bill-Gates
-
-哈佛輟學、半夜離家，不符合母親理想劇本的比爾蓋茲
-https://www.businessyee.com/article/5530-Source-Code
-
-幣圈鬆口氣！SEC撤回上訴，證券經紀商監管未擴及加密產業
-https://www.businessyee.com/article/5529-sec-defi-rugulation
-
-歐洲商會、華德士：2025近9成台灣企業擬加薪！高階職位可望漲20%
-https://www.businessyee.com/article/5528-salary-2025
-
-川普政府狂裁員，誰來執行晶片法案的補貼？
-https://www.businessyee.com/article/5526-Chips-ACT
-
-台積電大到影響ETF追蹤誤差！金管會考慮鬆綁 3 成上限
-https://www.businessyee.com/article/5527-tsmc-etf
-
-TNL Mediagene 關鍵評論網媒體集團優化董事會架構，強化全球市場布局
-https://www.businessyee.com/article/5521-TNMG
-
-Implement SASL Authentication in Kafka With JAAS Config
-https://feeds.feedblitz.com/~/913456490/0/baeldung~Implement-SASL-Authentication-in-Kafka-With-JAAS-Config
-
-Introduction to ActiveJ
-https://feeds.feedblitz.com/~/913456493/0/baeldung~Introduction-to-ActiveJ
+Java Weekly, Issue 582
+https://feeds.feedblitz.com/~/913480544/0/baeldung~Java-Weekly-Issue
