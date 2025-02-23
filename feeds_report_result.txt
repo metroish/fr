@@ -1,73 +1,22 @@
-# 2025-02-22 09:15:17 Feeds Report 
+# 2025-02-23 09:15:02 Feeds Report 
 
-Daily Hacker News for 2025-02-21
-https://www.daemonology.net/hn-daily/2025-02-21.html
+Daily Hacker News for 2025-02-22
+https://www.daemonology.net/hn-daily/2025-02-22.html
 
-<select> 裡的 <option> 總算有可能讓網頁開發者用 css 改樣式了...
-https://blog.gslin.org/archives/2025/02/22/12270/select-%e8%a3%a1%e7%9a%84-option-%e7%b8%bd%e7%ae%97%e6%9c%89%e5%8f%af%e8%83%bd%e8%ae%93%e7%b6%b2%e9%a0%81%e9%96%8b%e7%99%bc%e8%80%85%e7%94%a8-css-%e6%94%b9%e6%a8%a3%e5%bc%8f%e4%ba%86/
+Weekly Ask Hacker News for 2025-02-16 -- 2025-02-22
+http://www.daemonology.net/hn-weekly-ask/2025-02-22.html
 
-Let's Encrypt 發出第一個六天的 Certificate
-https://blog.gslin.org/archives/2025/02/22/12269/lets-encrypt-%e7%99%bc%e5%87%ba%e7%ac%ac%e4%b8%80%e5%80%8b%e5%85%ad%e5%a4%a9%e7%9a%84-certificate/
+佩佩豬經濟學：如何打造全球最賺錢的兒童IP？
+https://www.businessyee.com/article/5536-Peppa-Pig
 
-網頁設計小工具：為圖檔加上互動區塊
-https://blog.darkthread.net/blog/image-map-editor/
+【分享】前日本自衛隊員五之井里奈專書《声をあげて／勇敢發聲》中譯版在台上市
+https://changyuchieh.com/2025/02/22/gonoi-book/?utm_source=rss&utm_medium=rss&utm_campaign=gonoi-book
 
-閒聊：謠傳量產 150 歲人瑞的 1875 年出生日期是怎麼來的？
-https://blog.darkthread.net/blog/null-date-as-1875/
+Getting Started With jMonkeyEngine
+https://feeds.feedblitz.com/~/913558460/0/baeldung
 
-Amazon將終止支援第三方Android裝置的Appstore、通訊協同服務Chime
-https://www.ithome.com.tw/news/167499
+Composite Item Reader in Spring Batch
+https://feeds.feedblitz.com/~/913557128/0/baeldung
 
-美國警告勒索軟體Ghost橫行，駭客攻擊範圍橫跨全球70個國家
-https://www.ithome.com.tw/news/167498
-
-千億廣告系統如何擺脫8年技術債
-https://www.ithome.com.tw/article/167496
-
-廣告推薦系統上線前，Pinterest如何用廣告投放實戰驗收
-https://www.ithome.com.tw/news/167495
-
-Pinterest如何設計新廣告推薦系統，來有效模組化數十萬行程式碼
-https://www.ithome.com.tw/news/167492
-
-擺脫8年技術債，Pinterest從頭打造千億營收時代的廣告推薦系統
-https://www.ithome.com.tw/news/167482
-
-研究人員揭露LibreOffice近期修補的資安漏洞細節，指出攻擊者利用的過程無需使用者互動
-https://www.ithome.com.tw/news/167494
-
-掛在天花板、全身像人類般抽動！波蘭 Clone Robotics 配備千個人造肌肉
-https://www.inside.com.tw/article/37635-clone-robotics-protoclone
-
-美方擬切斷 Starlink 服務 施壓烏克蘭讓步礦權談判
-https://www.inside.com.tw/article/37634-
-
-蘋果英國用戶個資保護打折！iCloud 加密服務喊停
-https://www.inside.com.tw/article/37633-apple-removes-encryption-advanced-data-protection-adp-uk
-
-美軍首款「無人機剋星」裝甲亮相，可於 4 英里外精準擊落敵方 UAV
-https://www.inside.com.tw/article/37628-us-first-drone-killer-suit
-
-DeepSeek 下載量破億 下週公開分享 5 代碼庫
-https://www.inside.com.tw/article/37632-deepseek-opensource
-
-林威宇：財報狗產品經理｜如何理解世界、掌握科技與金融的新機會？Peter Thiel、Sam Altman、Elon Musk 科技大佬思維解析【塞掐 Side Chat】E317
-https://www.inside.com.tw/feature/side-chat/37630-side-chat-e318
-
-Bybit 遭受加密貨幣史上最嚴重駭侵 損失近 15 億美元
-https://www.inside.com.tw/article/37631-crypto-exchange-bybit-loses-1-5-billion-in-record-hack
-
-蘋果可能已經著手測試下一款 Apple C2 連網數據晶片，或許會用在今年秋季推出的 iPhone 17
-https://www.inside.com.tw/article/37629-apple-may-have-begun-testing-its-next-apple-c2-networking-data-chip
-
-「幻想工業複合體」：當流水式謊言顛覆真相，民主如何自處？
-https://voicettank.org/20250221-3/
-
-【好險有聽】水管因為地震損壞，地震險卻不賠？不能不知道的地震險承保範圍
-https://www.businessyee.com/article/5535-earthquake-insurance
-
-A Christmas Carol
-https://dushuyizhi.net/a-christmas-carol/
-
-Java Weekly, Issue 582
-https://feeds.feedblitz.com/~/913480544/0/baeldung~Java-Weekly-Issue
+How to Add Partitions to an Existing Topic in Kafka
+https://feeds.feedblitz.com/~/913557131/0/baeldung
