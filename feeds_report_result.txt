@@ -1,22 +1,76 @@
-# 2025-02-23 09:15:02 Feeds Report 
+# 2025-02-24 09:18:08 Feeds Report 
 
-Daily Hacker News for 2025-02-22
-https://www.daemonology.net/hn-daily/2025-02-22.html
+Daily Hacker News for 2025-02-23
+https://www.daemonology.net/hn-daily/2025-02-23.html
 
-Weekly Ask Hacker News for 2025-02-16 -- 2025-02-22
-http://www.daemonology.net/hn-weekly-ask/2025-02-22.html
+Mastercard 與 VISA 對日本文化產業的攻勢
+https://blog.gslin.org/archives/2025/02/24/12271/mastercard-%e8%88%87-visa-%e5%b0%8d%e6%97%a5%e6%9c%ac%e6%96%87%e5%8c%96%e7%94%a2%e6%a5%ad%e7%9a%84%e6%94%bb%e5%8b%a2/
 
-佩佩豬經濟學：如何打造全球最賺錢的兒童IP？
-https://www.businessyee.com/article/5536-Peppa-Pig
+Grok 3一度會過濾批評馬斯克和川普散布假訊息的資訊
+https://www.ithome.com.tw/news/167525
 
-【分享】前日本自衛隊員五之井里奈專書《声をあげて／勇敢發聲》中譯版在台上市
-https://changyuchieh.com/2025/02/22/gonoi-book/?utm_source=rss&utm_medium=rss&utm_campaign=gonoi-book
+臺灣資安專家揭開WorstFit，成功探索Windows ANSI字元轉換雷區，找出全新攻擊面與3種攻擊手法
+https://www.ithome.com.tw/news/167515
 
-Getting Started With jMonkeyEngine
-https://feeds.feedblitz.com/~/913558460/0/baeldung
+2024十大網站攻擊技術公布，臺灣資安專家再度稱霸第一
+https://www.ithome.com.tw/news/167513
 
-Composite Item Reader in Spring Batch
-https://feeds.feedblitz.com/~/913557128/0/baeldung
+全球資安研究社群最認可的2024資安漏洞研究出爐，臺灣資安專家揭開Apache HTTP Server模組架構隱藏問題
+https://www.ithome.com.tw/news/167514
 
-How to Add Partitions to an Existing Topic in Kafka
-https://feeds.feedblitz.com/~/913557131/0/baeldung
+OpenAI AI代理人Operator推向英、日、韓等國
+https://www.ithome.com.tw/news/167523
+
+【資安週報】0217~0221，中國駭客組織Salt Typhoon入侵全球電信業後續消息不斷，思科Talos公布入侵手法
+https://www.ithome.com.tw/news/167486
+
+蘋果移除英國iCloud的進階資料防護功能
+https://www.ithome.com.tw/news/167517
+
+網釣工具包Astaroth同時針對Gmail及M365帳號而來，能繞過多因素驗證並挾持帳號
+https://www.ithome.com.tw/news/167516
+
+駭客組織RedCurl利用Adobe元件側載惡意程式，意圖假借求職對法律產業發動攻擊
+https://www.ithome.com.tw/news/167512
+
+你的生成式 AI 之盾 - 善用 CodeWhisperer 安全掃描功能
+https://www.inside.com.tw/feature/2019aws/37645-AWS
+
+iOS 18.4 測試版藏玄機！Apple Intelligence 將整合 Google Gemini？
+https://www.inside.com.tw/article/37642-ios-18-4-apple-intelligence-google-gemini
+
+韓半導體業面臨重要轉折 智庫：技術被中反超
+https://www.inside.com.tw/article/37641-south-korea-semiconductor-china-tech-surpass
+
+OpenAI 揭露中國監控網：ChatGPT 淪為社群監視工具
+https://www.inside.com.tw/article/37640-disrupting-malicious-uses-of-our-models-february-2025-update
+
+新創車廠 Rivian 推出「可放手」的自駕功能！將在數週內上線
+https://www.inside.com.tw/article/37637-rivian-hands-free-driving-r1
+
+美國研究顯示：近三成 CMO 行銷長仍對生成式 AI 持觀望態度
+https://www.inside.com.tw/article/37639-us-study-shows-30-percent-of-cmos-still-cautious-about-generative-ai
+
+Anthropic 的 B2B 行銷策略：用簡潔客戶成功案例一口氣吸引大量流量
+https://www.inside.com.tw/article/37636-understanding-anthropic-b2b-marketing-strategy
+
+Kaik Teachify 採 AWS 雲端，TB 等級影音 24 小時內轉檔不是問題
+https://www.inside.com.tw/feature/2019aws/37644-AWS
+
+快時尚Shein去年淨利驟減4成，倫敦IPO 計劃壓力倍增
+https://www.businessyee.com/article/5542-Shein-profits-slump
+
+又見ETF分割案！國泰臺灣加權正2擬「1拆11」，4/21開會決議
+https://www.businessyee.com/article/5541-00663L-partition
+
+幣圈史上最慘！Bybit 遭駭 15 億美元，引發逾 40 億美元「擠兌潮」
+https://www.businessyee.com/article/5540-bybit-crypto-hack-bank-run
+
+巴菲特滿手現金超過3,000億美元，持續加碼優質美股跟日股
+https://www.businessyee.com/article/5538-buffett-shareholder-letter
+
+韓媒：若Intel遭台積電收購，客戶尋求2nd source將是三星轉捩點
+https://www.businessyee.com/article/5539-trump-tariff-tsmc-intel-samsung-2nd-source
+
+日產、本田合併破局新進展！日方邀特斯拉投資，鴻海尋求四方合作
+https://www.businessyee.com/article/5537-nissan-tesla-honhai
