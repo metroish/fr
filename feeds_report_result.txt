@@ -1,21 +1,45 @@
-# 2025-02-24 09:18:08 Feeds Report 
+# 2025-02-25 09:17:02 Feeds Report 
 
-Daily Hacker News for 2025-02-23
-https://www.daemonology.net/hn-daily/2025-02-23.html
+Daily Hacker News for 2025-02-24
+https://www.daemonology.net/hn-daily/2025-02-24.html
 
-Mastercard 與 VISA 對日本文化產業的攻勢
-https://blog.gslin.org/archives/2025/02/24/12271/mastercard-%e8%88%87-visa-%e5%b0%8d%e6%97%a5%e6%9c%ac%e6%96%87%e5%8c%96%e7%94%a2%e6%a5%ad%e7%9a%84%e6%94%bb%e5%8b%a2/
+你的 Copilot 不是我說的 Copliot 之微軟 Copilot 產品盤點
+https://blog.darkthread.net/blog/ms-copilot-seies/
 
-Grok 3一度會過濾批評馬斯克和川普散布假訊息的資訊
-https://www.ithome.com.tw/news/167525
+繼臺馬二號、三號海纜後，臺澎三號海纜也發生中斷故障
+https://www.ithome.com.tw/news/167546
+
+微軟修補低程式碼網站建置平臺Power Pages零時差漏洞
+https://www.ithome.com.tw/news/167545
+
+Cloud周報第220期：全美資料中心建案暴增但供電恐不足，Meta新全球海纜計畫比地球一圈還長，SAP瞄準AI訓練需求推資料分析雲
+https://www.ithome.com.tw/news/167541
+
+微軟公布能設計電玩的AI模型Muse
+https://www.ithome.com.tw/news/167539
+
+Google公布影片生成AI模型Veo 2費用，每秒0.5美元
+https://www.ithome.com.tw/news/167538
+
+微軟針對WSUS服務棄用再度警告，2個月後將停止驅動程式同步服務
+https://www.ithome.com.tw/news/167537
+
+美國製造優先，蘋果公布4年5,000億美元高科技投資計畫
+https://www.ithome.com.tw/news/167536
+
+針對中國駭客Salt Typhoon利用思科網路設備弱點入侵美國電信業者，思科發表調查報告證實此事
+https://www.ithome.com.tw/news/167535
+
+Docker Hub免費政策變更又惹議，4/1起調整拉取限制
+https://www.ithome.com.tw/news/167527
 
 臺灣資安專家揭開WorstFit，成功探索Windows ANSI字元轉換雷區，找出全新攻擊面與3種攻擊手法
 https://www.ithome.com.tw/news/167515
 
-2024十大網站攻擊技術公布，臺灣資安專家再度稱霸第一
+2024十大網站攻擊技術公布，臺灣資安專家三度稱霸第一
 https://www.ithome.com.tw/news/167513
 
-全球資安研究社群最認可的2024資安漏洞研究出爐，臺灣資安專家揭開Apache HTTP Server模組架構隱藏問題
+全球資安社群選出2024最認可的資安漏洞研究，臺灣資安專家揭開Apache HTTP Server模組架構隱藏問題
 https://www.ithome.com.tw/news/167514
 
 OpenAI AI代理人Operator推向英、日、韓等國
@@ -24,53 +48,68 @@ https://www.ithome.com.tw/news/167523
 【資安週報】0217~0221，中國駭客組織Salt Typhoon入侵全球電信業後續消息不斷，思科Talos公布入侵手法
 https://www.ithome.com.tw/news/167486
 
-蘋果移除英國iCloud的進階資料防護功能
-https://www.ithome.com.tw/news/167517
+Perplexity.ai 將推出原創網頁瀏覽器「Comet」，標榜結合 AI Agent 的搜尋體驗
+https://www.inside.com.tw/article/37653-perplexity-ai-comet
 
-網釣工具包Astaroth同時針對Gmail及M365帳號而來，能繞過多因素驗證並挾持帳號
-https://www.ithome.com.tw/news/167516
+特斯拉核心設計團隊人事異動，兩名資深設計師離開
+https://www.inside.com.tw/article/37652-tesla-loses-two-of-its-top-car-designers
 
-駭客組織RedCurl利用Adobe元件側載惡意程式，意圖假借求職對法律產業發動攻擊
-https://www.ithome.com.tw/news/167512
+傳台積電投資英特爾，郭智輝：經濟部沒收到這個訊息
+https://www.inside.com.tw/article/37651-tsmc-intel-rumors
 
-你的生成式 AI 之盾 - 善用 CodeWhisperer 安全掃描功能
-https://www.inside.com.tw/feature/2019aws/37645-AWS
+【一圖看懂】每一次充電都是為永續未來加速—馳諾瓦的電動車充電生態系統
+https://www.inside.com.tw/article/37484-zerovatech-DB180
 
-iOS 18.4 測試版藏玄機！Apple Intelligence 將整合 Google Gemini？
-https://www.inside.com.tw/article/37642-ios-18-4-apple-intelligence-google-gemini
+回應川普關稅壓力？蘋果宣布 5000 億美元美國投資計畫、未來 4 年創 2 萬工作
+https://www.inside.com.tw/article/37650-apple-says-it-will-add-20-000-jobs-spend-500-billion-produce-ai-servers-in-us
 
-韓半導體業面臨重要轉折 智庫：技術被中反超
-https://www.inside.com.tw/article/37641-south-korea-semiconductor-china-tech-surpass
+Anthropic 推出全新 AI 模型 Claude 3.7 Sonnet，首創「混合 AI 推理」
+https://www.inside.com.tw/article/37649-anthropic-launches-a-new-ai-model-that-thinks-as-long-as-you-want
 
-OpenAI 揭露中國監控網：ChatGPT 淪為社群監視工具
-https://www.inside.com.tw/article/37640-disrupting-malicious-uses-of-our-models-february-2025-update
+看好研發人才與亞太市場，Check Point CPX 2025 公布印度研發中心與 AI 產品策略
+https://www.inside.com.tw/article/37648-check-point-cpx-2025
 
-新創車廠 Rivian 推出「可放手」的自駕功能！將在數週內上線
-https://www.inside.com.tw/article/37637-rivian-hands-free-driving-r1
+特斯拉正式推出煥新版 Model Y 車主手冊
+https://www.inside.com.tw/article/37646-tesla-owners-manual-2025-model-y
 
-美國研究顯示：近三成 CMO 行銷長仍對生成式 AI 持觀望態度
-https://www.inside.com.tw/article/37639-us-study-shows-30-percent-of-cmos-still-cautious-about-generative-ai
+電動車續航力有望翻倍：Toyota 攜手研究團隊研發氟離子電池
+https://www.inside.com.tw/article/37647-ev-range-toyota-solid-state-battery
 
-Anthropic 的 B2B 行銷策略：用簡潔客戶成功案例一口氣吸引大量流量
-https://www.inside.com.tw/article/37636-understanding-anthropic-b2b-marketing-strategy
+川普2.0呼之欲出的達爾文國際路線
+https://voicettank.org/20250224-3/
 
-Kaik Teachify 採 AWS 雲端，TB 等級影音 24 小時內轉檔不是問題
-https://www.inside.com.tw/feature/2019aws/37644-AWS
+川普各項政策的總體經濟可能效應
+https://voicettank.org/20250224-2/
 
-快時尚Shein去年淨利驟減4成，倫敦IPO 計劃壓力倍增
-https://www.businessyee.com/article/5542-Shein-profits-slump
+出不了國界的「百億票房」：《哪吒2》
+https://voicettank.org/20250224-1/
 
-又見ETF分割案！國泰臺灣加權正2擬「1拆11」，4/21開會決議
-https://www.businessyee.com/article/5541-00663L-partition
+「新新併」差最後一哩！新光金董座魏寶生喊話新光銀：應把握成長機會
+https://www.businessyee.com/article/5553-shinkong-2025
 
-幣圈史上最慘！Bybit 遭駭 15 億美元，引發逾 40 億美元「擠兌潮」
-https://www.businessyee.com/article/5540-bybit-crypto-hack-bank-run
+巴菲特帶頭，外資轉向？日、中長期利率已近黃金交叉點
+https://www.businessyee.com/article/5554-warren-buffett-interest-rate-japan-china
 
-巴菲特滿手現金超過3,000億美元，持續加碼優質美股跟日股
-https://www.businessyee.com/article/5538-buffett-shareholder-letter
+【數位經濟加速器】AWS如何讓資料自由流動，推動全球創新與成長？
+https://www.businessyee.com/article/5549-AWS
 
-韓媒：若Intel遭台積電收購，客戶尋求2nd source將是三星轉捩點
-https://www.businessyee.com/article/5539-trump-tariff-tsmc-intel-samsung-2nd-source
+AI需求過剩警訊？微軟突取消不明數量資料中心租約
+https://www.businessyee.com/article/5551-microsoft-reportedly-cancels-some-data-center
 
-日產、本田合併破局新進展！日方邀特斯拉投資，鴻海尋求四方合作
-https://www.businessyee.com/article/5537-nissan-tesla-honhai
+新光人壽投資型保單「穩萬利」報酬與投資標的
+https://www.businessyee.com/article/5552-esg-skl
+
+中企大舉採用DeepSeek低成本AI模型，輝達H20訂單暴增！
+https://www.businessyee.com/article/5550-nvidia-h20-chip-orders-soar
+
+星巴克：將裁員1100人！成立至今最大規模
+https://www.businessyee.com/article/5547-starbucks-lay-off-1100-workers
+
+雲端時代的金融堡壘：AWS 如何重新定義營運韌性
+https://www.businessyee.com/article/5548-AWS
+
+蘋果擴大 AI 投資 5,000 億美元，攜手鴻海在美建新廠
+https://www.businessyee.com/article/5546-apple-invest-us-500bn
+
+追星周邊爆賣是年輕人亂花錢嗎？你不能不懂Z世代「精選消費」帶來的經濟效果
+https://www.businessyee.com/article/5545-z-generation-contrast-consumption
