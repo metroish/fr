@@ -1,22 +1,22 @@
-# 2025-02-25 09:17:02 Feeds Report 
+# 2025-02-26 09:17:30 Feeds Report 
 
-Daily Hacker News for 2025-02-24
-https://www.daemonology.net/hn-daily/2025-02-24.html
+Daily Hacker News for 2025-02-25
+https://www.daemonology.net/hn-daily/2025-02-25.html
 
-你的 Copilot 不是我說的 Copliot 之微軟 Copilot 產品盤點
-https://blog.darkthread.net/blog/ms-copilot-seies/
+微軟悄悄測試具有廣告的Windows版Office
+https://www.ithome.com.tw/news/167581
 
-繼臺馬二號、三號海纜後，臺澎三號海纜也發生中斷故障
-https://www.ithome.com.tw/news/167546
+Google提供免費個人版程式助理Gemini Code Assist
+https://www.ithome.com.tw/news/167570
 
-微軟修補低程式碼網站建置平臺Power Pages零時差漏洞
-https://www.ithome.com.tw/news/167545
+郵件傳輸代理平臺Exim出現嚴重漏洞，攻擊者恐用於注入惡意SQL查詢來影響運作
+https://www.ithome.com.tw/news/167569
 
-Cloud周報第220期：全美資料中心建案暴增但供電恐不足，Meta新全球海纜計畫比地球一圈還長，SAP瞄準AI訓練需求推資料分析雲
-https://www.ithome.com.tw/news/167541
+澳洲政府電腦禁用所有卡巴斯基軟體
+https://www.ithome.com.tw/news/167559
 
-微軟公布能設計電玩的AI模型Muse
-https://www.ithome.com.tw/news/167539
+Anthropic發布市場上首款混合推理模型Claude 3.7 Sonnet
+https://www.ithome.com.tw/news/167547
 
 Google公布影片生成AI模型Veo 2費用，每秒0.5美元
 https://www.ithome.com.tw/news/167538
@@ -30,86 +30,71 @@ https://www.ithome.com.tw/news/167536
 針對中國駭客Salt Typhoon利用思科網路設備弱點入侵美國電信業者，思科發表調查報告證實此事
 https://www.ithome.com.tw/news/167535
 
-Docker Hub免費政策變更又惹議，4/1起調整拉取限制
-https://www.ithome.com.tw/news/167527
+美國研究團隊開發出突破性核電池技術，利用核廢料發電
+https://www.inside.com.tw/article/37671-us-breakthrough-nuclear-battery
 
-臺灣資安專家揭開WorstFit，成功探索Windows ANSI字元轉換雷區，找出全新攻擊面與3種攻擊手法
-https://www.ithome.com.tw/news/167515
+KKday 傳一波裁員！共有 38 位員工選擇「優退」
+https://www.inside.com.tw/article/37672-kkday-reports-layoffs-with-38-employees-taking-voluntary-retirement
 
-2024十大網站攻擊技術公布，臺灣資安專家三度稱霸第一
-https://www.ithome.com.tw/news/167513
+免費無限使用！微軟開放 Copilot 語音功能和深度思考功能
+https://www.inside.com.tw/article/37669-microsoft-announcing-free-unlimited-copilot-voice-and-think-deerper
 
-全球資安社群選出2024最認可的資安漏洞研究，臺灣資安專家揭開Apache HTTP Server模組架構隱藏問題
-https://www.ithome.com.tw/news/167514
+AI 軍備競賽！Meta 傳擬砸 2000 億美元建 AI 資料中心
+https://www.inside.com.tw/article/37668-meta-talks-200-billion-ai-data-center
 
-OpenAI AI代理人Operator推向英、日、韓等國
-https://www.ithome.com.tw/news/167523
+程式碼額度高出競品 90 倍！Google 推免費版 Gemini Code Assist
+https://www.inside.com.tw/article/37667-gemini-code-assist-for-individual
 
-【資安週報】0217~0221，中國駭客組織Salt Typhoon入侵全球電信業後續消息不斷，思科Talos公布入侵手法
-https://www.ithome.com.tw/news/167486
+OpenAI 的 Deep Research 開放給所有付費用戶！Plus 方案每月可使用 10 次
+https://www.inside.com.tw/article/37665-openai-deep-research-opens-to-all-paying-users
 
-Perplexity.ai 將推出原創網頁瀏覽器「Comet」，標榜結合 AI Agent 的搜尋體驗
-https://www.inside.com.tw/article/37653-perplexity-ai-comet
+特斯拉中國 FSD 上線，但問題可能比你想像的多
+https://www.inside.com.tw/article/37666-tesla-china-fsd-launch-faces-more-challenges-than-expected
 
-特斯拉核心設計團隊人事異動，兩名資深設計師離開
-https://www.inside.com.tw/article/37652-tesla-loses-two-of-its-top-car-designers
+跳脫 AI 時代焦慮 VMFIVE 善用 AWS 開啟新商機
+https://www.inside.com.tw/feature/2019aws/37656-AWS
 
-傳台積電投資英特爾，郭智輝：經濟部沒收到這個訊息
-https://www.inside.com.tw/article/37651-tsmc-intel-rumors
+怕馬斯克太分心？特斯拉股價重摔 8%
+https://www.inside.com.tw/article/37664-tesla-stock-plunges-8-percent-over-musk-distraction-concerns
 
-【一圖看懂】每一次充電都是為永續未來加速—馳諾瓦的電動車充電生態系統
-https://www.inside.com.tw/article/37484-zerovatech-DB180
+金融科技產業聯盟成立！金管會政策支持台灣數位金融競爭力提升
+https://www.inside.com.tw/article/37663-fintech-union
 
-回應川普關稅壓力？蘋果宣布 5000 億美元美國投資計畫、未來 4 年創 2 萬工作
-https://www.inside.com.tw/article/37650-apple-says-it-will-add-20-000-jobs-spend-500-billion-produce-ai-servers-in-us
+公股投信整併卡關？財政部：需「合意」且無明顯效益
+https://www.businessyee.com/article/5566-public-asset-managment
 
-Anthropic 推出全新 AI 模型 Claude 3.7 Sonnet，首創「混合 AI 推理」
-https://www.inside.com.tw/article/37649-anthropic-launches-a-new-ai-model-that-thinks-as-long-as-you-want
+蘋果跟川普想法不一樣！股東：DEI很有價值要保留
+https://www.businessyee.com/article/5565-dei-apple
 
-看好研發人才與亞太市場，Check Point CPX 2025 公布印度研發中心與 AI 產品策略
-https://www.inside.com.tw/article/37648-check-point-cpx-2025
+【雲端魔法師的秘笈】如何在AWS上玩轉變更管理，讓創新和穩定齊飛？
+https://www.businessyee.com/article/5556-AWS
 
-特斯拉正式推出煥新版 Model Y 車主手冊
-https://www.inside.com.tw/article/37646-tesla-owners-manual-2025-model-y
+工作壓力太大無法快樂？臭豆腐店老闆娘，教你5個實踐幸福的技巧
+https://www.businessyee.com/article/5564-happiness-skills
 
-電動車續航力有望翻倍：Toyota 攜手研究團隊研發氟離子電池
-https://www.inside.com.tw/article/37647-ev-range-toyota-solid-state-battery
+玉山金2024年EPS 1.63 元創新高！董座黃男州：配息會以現金為主
+https://www.businessyee.com/article/5563-e-sun-2024-dividend
 
-川普2.0呼之欲出的達爾文國際路線
-https://voicettank.org/20250224-3/
+【月營收評比】晶圓廠1月營收消長互見！地震影響毛利率程度輕微，AI 機會繼續升溫
+https://www.businessyee.com/article/5562-foundry-revenue-jan-2025
 
-川普各項政策的總體經濟可能效應
-https://voicettank.org/20250224-2/
+特斯拉股價暴跌8%！馬斯克投身川普新政，歐洲銷量下滑45%
+https://www.businessyee.com/article/5561-musk-trump-tesla-stock-8per-down
 
-出不了國界的「百億票房」：《哪吒2》
-https://voicettank.org/20250224-1/
+投資移民計劃是欺詐？川普擬用1.6億「金卡」取代
+https://www.businessyee.com/article/5560-trump-eb-5-golden-card
 
-「新新併」差最後一哩！新光金董座魏寶生喊話新光銀：應把握成長機會
-https://www.businessyee.com/article/5553-shinkong-2025
+【資安煉金術】為什麼AWS雲端可能比你的伺服器更安全？
+https://www.businessyee.com/article/5555-AWS
 
-巴菲特帶頭，外資轉向？日、中長期利率已近黃金交叉點
-https://www.businessyee.com/article/5554-warren-buffett-interest-rate-japan-china
+台積電開盤下跌10元，美股拖累台股跌破23200點
+https://www.businessyee.com/article/5559-tsmc-taiwan-stock
 
-【數位經濟加速器】AWS如何讓資料自由流動，推動全球創新與成長？
-https://www.businessyee.com/article/5549-AWS
+Hope
+https://dushuyizhi.net/hope/
 
-AI需求過剩警訊？微軟突取消不明數量資料中心租約
-https://www.businessyee.com/article/5551-microsoft-reportedly-cancels-some-data-center
+Printing out a LinkedList Using toString()
+https://feeds.feedblitz.com/~/913737695/0/baeldung
 
-新光人壽投資型保單「穩萬利」報酬與投資標的
-https://www.businessyee.com/article/5552-esg-skl
-
-中企大舉採用DeepSeek低成本AI模型，輝達H20訂單暴增！
-https://www.businessyee.com/article/5550-nvidia-h20-chip-orders-soar
-
-星巴克：將裁員1100人！成立至今最大規模
-https://www.businessyee.com/article/5547-starbucks-lay-off-1100-workers
-
-雲端時代的金融堡壘：AWS 如何重新定義營運韌性
-https://www.businessyee.com/article/5548-AWS
-
-蘋果擴大 AI 投資 5,000 億美元，攜手鴻海在美建新廠
-https://www.businessyee.com/article/5546-apple-invest-us-500bn
-
-追星周邊爆賣是年輕人亂花錢嗎？你不能不懂Z世代「精選消費」帶來的經濟效果
-https://www.businessyee.com/article/5545-z-generation-contrast-consumption
+How to Run Selenium Regression Tests With GitHub Actions
+https://feeds.feedblitz.com/~/913735505/0/baeldung
