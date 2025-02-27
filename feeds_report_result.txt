@@ -1,13 +1,52 @@
-# 2025-02-26 09:17:30 Feeds Report 
+# 2025-02-27 09:17:18 Feeds Report 
 
-Daily Hacker News for 2025-02-25
-https://www.daemonology.net/hn-daily/2025-02-25.html
+Daily Hacker News for 2025-02-26
+https://www.daemonology.net/hn-daily/2025-02-26.html
 
-微軟悄悄測試具有廣告的Windows版Office
-https://www.ithome.com.tw/news/167581
+開發 Git 的人所推薦的 .gitconfig 設定
+https://blog.gslin.org/archives/2025/02/27/12274/%e9%96%8b%e7%99%bc-git-%e7%9a%84%e4%ba%ba%e6%89%80%e6%8e%a8%e8%96%a6%e7%9a%84-gitconfig-%e8%a8%ad%e5%ae%9a/
 
-Google提供免費個人版程式助理Gemini Code Assist
-https://www.ithome.com.tw/news/167570
+AI原生運算系統呼之欲出
+https://www.ithome.com.tw/voice/167606
+
+資料中心硬碟容量大躍進！即將進入40TB時代
+https://www.ithome.com.tw/article/167604
+
+【多碟片與新式磁紀錄技術推動硬碟容量邁向新高點】驅動硬碟容量成長的動力
+https://www.ithome.com.tw/tech/167601
+
+【新技術推動老牌儲存裝置重獲新生】硬碟容量規格邁向新高峰
+https://www.ithome.com.tw/tech/167599
+
+WordPress表單外掛Everest Forms存在重大漏洞，10萬網站曝險
+https://www.ithome.com.tw/news/167602
+
+高達2.84億筆帳密資料收入Have I Been Pwned，都源自駭客盜取的Log資料
+https://www.ithome.com.tw/news/167600
+
+預算刪減危機衝擊，數發部面臨政策落地與產業創新的雙重考驗
+https://www.ithome.com.tw/news/167596
+
+Amazon公布付費AI助理Alexa Plus，整合Echo成智慧家庭中樞
+https://www.ithome.com.tw/news/167595
+
+北美及亞洲政府機關、大學遭Linux後門程式Auto-Color鎖定
+https://www.ithome.com.tw/news/167594
+
+微軟發展自家多模態模型Phi-4-multimodal，56億參數支援裝置端運作
+https://www.ithome.com.tw/news/167591
+
+DevOps快報第2期 ：Google免費版AI開發助手來了，每個月可生成18萬次程式碼
+https://www.ithome.com.tw/news/167592
+
+OpenShift 4.18增強虛擬化與安全管理功能，提升混合雲部署靈活性
+https://www.ithome.com.tw/news/167586
+
+AI深入研究也有本地開源版本DeepSearcher，強調靈活自訂與隱私安全
+https://www.ithome.com.tw/news/167583
+
+Arm發表首款鎖定邊緣AI的Armv9架構運算平臺
+https://www.ithome.com.tw/news/167589
 
 郵件傳輸代理平臺Exim出現嚴重漏洞，攻擊者恐用於注入惡意SQL查詢來影響運作
 https://www.ithome.com.tw/news/167569
@@ -15,86 +54,77 @@ https://www.ithome.com.tw/news/167569
 澳洲政府電腦禁用所有卡巴斯基軟體
 https://www.ithome.com.tw/news/167559
 
-Anthropic發布市場上首款混合推理模型Claude 3.7 Sonnet
-https://www.ithome.com.tw/news/167547
+一個「不喜歡」按鈕，為何能推倒演算法高牆？Meta、X 與 Bluesky 的新戰場
+https://www.inside.com.tw/feature/social-media-algorithms/37689-how-dislike-button-challenges-algorithm-power-the-new-battleground-for-meta-x-and-bluesky
 
-Google公布影片生成AI模型Veo 2費用，每秒0.5美元
-https://www.ithome.com.tw/news/167538
+你的每次按讚，如何被用來分析人格特質與行為模式？
+https://www.inside.com.tw/feature/social-media-algorithms/37688-how-your-social-media-likes-reveal-personality-traits-and-behavior-patterns
 
-微軟針對WSUS服務棄用再度警告，2個月後將停止驅動程式同步服務
-https://www.ithome.com.tw/news/167537
+Volvo EX30 Twin Motor Performance Ultra 上市！售價 174.99 萬起
+https://www.inside.com.tw/article/37681-volvo-ex30-taiwan-launch
 
-美國製造優先，蘋果公布4年5,000億美元高科技投資計畫
-https://www.ithome.com.tw/news/167536
+有望二度登月！美直覺機器登陸器乘 SpaceX 火箭升空
+https://www.inside.com.tw/article/37687-intuitive-machines-athena-spacex
 
-針對中國駭客Salt Typhoon利用思科網路設備弱點入侵美國電信業者，思科發表調查報告證實此事
-https://www.ithome.com.tw/news/167535
+賓士正式推出固態電池上路車！開始上路測試
+https://www.inside.com.tw/article/37686-mercedes-benz-eqs-solid-state-battery
 
-美國研究團隊開發出突破性核電池技術，利用核廢料發電
-https://www.inside.com.tw/article/37671-us-breakthrough-nuclear-battery
+IBM 推出模型 Granite 3.2！內建推理能力，專注於協助企業應用
+https://www.inside.com.tw/article/37683-ibm-granite-3-2
 
-KKday 傳一波裁員！共有 38 位員工選擇「優退」
-https://www.inside.com.tw/article/37672-kkday-reports-layoffs-with-38-employees-taking-voluntary-retirement
+諾貝爾經濟學獎 Daron Acemoglu：未來十年 AI 僅讓 GDP 成長 1.1% 至 1.6%
+https://www.inside.com.tw/article/37684-nobel-economist-acemoglu-predicts-ai-will-add-only-1-1-to-1-6-percent-gdp-growth-in-next-decade
 
-免費無限使用！微軟開放 Copilot 語音功能和深度思考功能
-https://www.inside.com.tw/article/37669-microsoft-announcing-free-unlimited-copilot-voice-and-think-deerper
+川普要求蘋果廢除 DEI，而非僅是「調整」
+https://www.inside.com.tw/article/37685-apple-dei
 
-AI 軍備競賽！Meta 傳擬砸 2000 億美元建 AI 資料中心
-https://www.inside.com.tw/article/37668-meta-talks-200-billion-ai-data-center
+Taboola 推出全新廣告平台「Realize」
+https://www.inside.com.tw/article/37680-taboola-launches-new-advertising-platform-realize
 
-程式碼額度高出競品 90 倍！Google 推免費版 Gemini Code Assist
-https://www.inside.com.tw/article/37667-gemini-code-assist-for-individual
+終於來了：Amazon 推出自家 AI 升級語音助理 Alexa Plus
+https://www.inside.com.tw/article/37679-amazon-alexa-ai-upgrade-artificial-intelligence-smart-assistant
 
-OpenAI 的 Deep Research 開放給所有付費用戶！Plus 方案每月可使用 10 次
-https://www.inside.com.tw/article/37665-openai-deep-research-opens-to-all-paying-users
+以色列箭式飛彈防禦系統研析
+https://voicettank.org/20250226-3/
 
-特斯拉中國 FSD 上線，但問題可能比你想像的多
-https://www.inside.com.tw/article/37666-tesla-china-fsd-launch-faces-more-challenges-than-expected
+MLB的國際化大夢與台灣的棒球強國野望
+https://voicettank.org/20250226-2/
 
-跳脫 AI 時代焦慮 VMFIVE 善用 AWS 開啟新商機
-https://www.inside.com.tw/feature/2019aws/37656-AWS
+四接環評也是一場對環境部與環境運動的體檢
+https://voicettank.org/20250226-1/
 
-怕馬斯克太分心？特斯拉股價重摔 8%
-https://www.inside.com.tw/article/37664-tesla-stock-plunges-8-percent-over-musk-distraction-concerns
+股票也能送禮！永豐金證申請「股票禮品卡」，金管會准試辦一年
+https://www.businessyee.com/article/5582-SinoPac-securities-sanbox
 
-金融科技產業聯盟成立！金管會政策支持台灣數位金融競爭力提升
-https://www.inside.com.tw/article/37663-fintech-union
+黃仁勳：未來AI算力需求比目前多數百萬倍！
+https://www.businessyee.com/article/5580-nvidia
 
-公股投信整併卡關？財政部：需「合意」且無明顯效益
-https://www.businessyee.com/article/5566-public-asset-managment
+【省錢有一套】電商巨頭如何靠雲端財務管理，讓錢包和技術一起成長？
+https://www.businessyee.com/article/5558-AWS
 
-蘋果跟川普想法不一樣！股東：DEI很有價值要保留
-https://www.businessyee.com/article/5565-dei-apple
+美債殖利率倒掛再現！Fed示警：經濟衰退風險升高
+https://www.businessyee.com/article/5577-fed-inverted-yield-curve
 
-【雲端魔法師的秘笈】如何在AWS上玩轉變更管理，讓創新和穩定齊飛？
-https://www.businessyee.com/article/5556-AWS
+【聽進理投】上班族跟爸爸媽媽都可以花錢把時間買回來！
+https://www.businessyee.com/article/5578-ep115
 
-工作壓力太大無法快樂？臭豆腐店老闆娘，教你5個實踐幸福的技巧
-https://www.businessyee.com/article/5564-happiness-skills
+該存金融股嗎？3張圖表看長期持有金融股的潛在風險
+https://www.businessyee.com/article/5576-Financial-stocks
 
-玉山金2024年EPS 1.63 元創新高！董座黃男州：配息會以現金為主
-https://www.businessyee.com/article/5563-e-sun-2024-dividend
+酷澎財報首揭台灣市場數據：Q4季增23%！訂閱制無限免運來勢洶洶
+https://www.businessyee.com/article/5575-coupang-earnings-2024-q4-taiwan
 
-【月營收評比】晶圓廠1月營收消長互見！地震影響毛利率程度輕微，AI 機會繼續升溫
-https://www.businessyee.com/article/5562-foundry-revenue-jan-2025
+玉山金併購何時出手？董事長黃男州預告明年資金將更有彈性
+https://www.businessyee.com/article/5574-e-sun-merge-strategy
 
-特斯拉股價暴跌8%！馬斯克投身川普新政，歐洲銷量下滑45%
-https://www.businessyee.com/article/5561-musk-trump-tesla-stock-8per-down
+【NVIDIA財報】資料中心營收成長曲線趨緩，股價跌1.5%
+https://www.businessyee.com/article/5572-nvidia-q4-earnings
 
-投資移民計劃是欺詐？川普擬用1.6億「金卡」取代
-https://www.businessyee.com/article/5560-trump-eb-5-golden-card
+【Salesforce Q4財報】營收財測遜於預期，市場對AI產品樂觀情緒降溫？
+https://www.businessyee.com/article/5573-salesforce-earnings-2025-q4
 
-【資安煉金術】為什麼AWS雲端可能比你的伺服器更安全？
-https://www.businessyee.com/article/5555-AWS
+Constructing a Lexical Analyzer in Java
+https://feeds.feedblitz.com/~/913805642/0/baeldung
 
-台積電開盤下跌10元，美股拖累台股跌破23200點
-https://www.businessyee.com/article/5559-tsmc-taiwan-stock
-
-Hope
-https://dushuyizhi.net/hope/
-
-Printing out a LinkedList Using toString()
-https://feeds.feedblitz.com/~/913737695/0/baeldung
-
-How to Run Selenium Regression Tests With GitHub Actions
-https://feeds.feedblitz.com/~/913735505/0/baeldung
+How to Display the Last Two Digits of the Current Year in Java
+https://feeds.feedblitz.com/~/913805645/0/baeldung
