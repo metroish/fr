@@ -1,76 +1,52 @@
-# 2025-02-28 09:17:08 Feeds Report 
+# 2025-03-01 09:15:13 Feeds Report 
 
-Daily Hacker News for 2025-02-27
-https://www.daemonology.net/hn-daily/2025-02-27.html
+Daily Hacker News for 2025-02-28
+https://www.daemonology.net/hn-daily/2025-02-28.html
 
-小紅書的明碼 (未加密) 傳輸
-https://blog.gslin.org/archives/2025/02/27/12275/%e5%b0%8f%e7%b4%85%e6%9b%b8%e7%9a%84%e6%98%8e%e7%a2%bc-%e6%9c%aa%e5%8a%a0%e5%af%86-%e5%82%b3%e8%bc%b8/
+Microsoft Edge 開始拔掉 Manifest V2 (所以 uBlock Origin 就不能用了)
+https://blog.gslin.org/archives/2025/03/01/12279/microsoft-edge-%e9%96%8b%e5%a7%8b%e6%8b%94%e6%8e%89-manifest-v2-%e6%89%80%e4%bb%a5-ublock-origin-%e5%b0%b1%e4%b8%8d%e8%83%bd%e7%94%a8%e4%ba%86/
 
-NirSoft InsideClipboard 是惡意軟體？實測 AI 解讀資安檢測結果
-https://blog.darkthread.net/blog/evaluate-virus-scan-report-by-ai/
+微軟 Go 語言手把手教學小記
+https://blog.darkthread.net/blog/ms-go-tutorial/
 
-SRE所需具備的知識集合
-https://www.ithome.com.tw/article/167611
+關於 Go Channel 同步化行為
+https://blog.darkthread.net/blog/go-buffered-channel/
 
-OpenAI將Deep Research推向所有付費用戶
-https://www.ithome.com.tw/news/167610
+OpenAI公布迄今最大LLM GPT-4.5，費用是4o的30倍
+https://www.ithome.com.tw/news/167613
 
-Amazon公布付費AI助理Alexa Plus，整合Echo成智慧家庭中樞
-https://www.ithome.com.tw/news/167595
+Vince Huang：欣新網 CEO｜電商突圍術：品牌代營運、成效廣告、O2O 轉型實戰歷程【塞掐 Side Chat】E320
+https://www.inside.com.tw/feature/side-chat/37703-side-chat-e320
 
-北美及亞洲政府機關、大學遭Linux後門程式Auto-Color鎖定
-https://www.ithome.com.tw/news/167594
+法國新創 CTO 將推出全球首組 5G 毫米波衛星網路
+https://www.inside.com.tw/article/37706-world-first-5g-mmwave-satellite-internet
 
-微軟發展自家多模態模型Phi-4-multimodal，56億參數支援裝置端運作
-https://www.ithome.com.tw/news/167591
+美國 SEC：大多數迷因幣不屬於證券
+https://www.inside.com.tw/article/37705-sec-says-most-meme-coins-are-not-securities
 
-DevOps快報第2期 ：Google免費版AI開發助手來了，每個月可生成18萬次程式碼
-https://www.ithome.com.tw/news/167592
+從真實表現到最新財報，全方位破解  DeepSeek 讓 NVIDIA GPU 前景不佳疑慮
+https://www.inside.com.tw/article/37704-comprehensive-analysis-debunks-deepseek-threat-to-nvidia-gpu-future-through-performance-and-financial-data
 
-在 AWS 上打造 RAG 生成式 AI 解決方案的終極指南
-https://www.inside.com.tw/feature/2019aws/37659-AWS
+台灣特斯拉開賣後輪驅動版新 Model Y！189.9 萬起
+https://www.inside.com.tw/article/37702-tesla-taiwan-launches-rear-wheel-drive-model-y-starting-at-1-899-million
 
-AWS 推量子運算晶片，加速實用量子電腦問世
-https://www.inside.com.tw/article/37698-aws-introduces-quantum-computing-chip-to-accelerate-the-arrival-of-practical-quantum-computers
+時代眼淚：微軟宣布 Skype 退役，5 月 5 日正式告別
+https://www.inside.com.tw/article/37701-microsoft-skype-shutting-down-retirement-may-2025
 
-歐盟推「清潔工業協議」 助減碳轉型？環團憂恐淪空談
-https://www.inside.com.tw/article/37697-eu-climate-goals-dirty-industries-clean-industrial-deal
+OpenAI GPT-4.5 來了！但目前卻陷入「GPU 不夠」窘境
+https://www.inside.com.tw/article/37700-openai-gpt-4-5-orion-ai-model-release
 
-Aston Martin 無法跟上電動車市場，延後了首輛電動車的發表時間，甚至計劃裁掉 5% 的員工
-https://www.inside.com.tw/article/37696-another-luxury-automaker-cuts-jobs-after-failing-to-keep-up-with-evs
+老闆提問不再難倒你！用1張「失效模式與影響分析表」做風險評估
+https://www.businessyee.com/article/5579-FMEA
 
-Meta 員工涉洩密，約 20 人遭解僱
-https://www.inside.com.tw/article/37695-meta-fires-20-employee-leakers
+Java Equivalent to Python’s Easy String Slicing
+https://feeds.feedblitz.com/~/913938407/0/baeldung~Java-Equivalent-to-Pythons-Easy-String-Slicing
 
-Toyota 即將發表全新電動跨界轎跑，預計 3 月 11 日亮相
-https://www.inside.com.tw/article/37694-toyota-new-electric-crossover-teaser
+Integrating Passkeys into Spring Security
+https://feeds.feedblitz.com/~/913938410/0/baeldung~Integrating-Passkeys-into-Spring-Security
 
-預測駭客行為、彌補資安人才缺口：Check Point 的 AI 網路安全攻防
-https://www.inside.com.tw/article/37662-ai-in-cybersecurity
+What Is the Difference Between JDK_JAVA_OPTIONS and JAVA_TOOL_OPTIONS?
+https://feeds.feedblitz.com/~/913938413/0/baeldung~What-Is-the-Difference-Between-JDKJAVAOPTIONS-and-JAVATOOLOPTIONS
 
-AI 驅動成長，2024 財報創新高，AnyMind 加速跨境電商布局
-https://www.inside.com.tw/article/37693-ai-driven-growth-pushes-2024-earnings-to-record-high-as-anymind-accelerates-cross-border-e-commerce-expansion
-
-在 AWS 上打造生成式 AI 應用程式的無限可能性
-https://www.inside.com.tw/feature/2019aws/37658-AWS
-
-在快節奏生活中恣意切換：純電休旅 Mercedes-Benz EQB ，新世代 CEO 的企業永續實踐
-https://www.inside.com.tw/article/37670-EQB
-
-清華大學何須隨翁曉玲起舞
-https://voicettank.org/20250228-2/
-
-【書摘】《獨裁者聯盟：專制政權如何互相幫助與布局跨國金權網路》
-https://voicettank.org/20250228-1/
-
-洗衣機故障，向維修師傅學精準提問！3個提問技巧，突破思維盲點
-https://www.businessyee.com/article/5567-art-of-questioning
-
-保單強制執行介入權適用對象擬擴大，無保險利益人可代償
-https://www.businessyee.com/article/5584-insurances-intervene-right
-
-LinkedIn：知識經濟式微，AI 時代需要的是「人性軟實力」！
-https://www.businessyee.com/article/5581-Soft-skill-humans-ai-era
-
-Java Weekly, Issue 583
-https://feeds.feedblitz.com/~/913874129/0/baeldung~Java-Weekly-Issue
+Add External JAR File to IntelliJ Project
+https://feeds.feedblitz.com/~/913938416/0/baeldung~Add-External-JAR-File-to-IntelliJ-Project
