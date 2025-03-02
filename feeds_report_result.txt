@@ -1,52 +1,22 @@
-# 2025-03-01 09:15:13 Feeds Report 
+# 2025-03-02 09:15:46 Feeds Report 
 
-Daily Hacker News for 2025-02-28
-https://www.daemonology.net/hn-daily/2025-02-28.html
+Daily Hacker News for 2025-03-01
+https://www.daemonology.net/hn-daily/2025-03-01.html
 
-Microsoft Edge 開始拔掉 Manifest V2 (所以 uBlock Origin 就不能用了)
-https://blog.gslin.org/archives/2025/03/01/12279/microsoft-edge-%e9%96%8b%e5%a7%8b%e6%8b%94%e6%8e%89-manifest-v2-%e6%89%80%e4%bb%a5-ublock-origin-%e5%b0%b1%e4%b8%8d%e8%83%bd%e7%94%a8%e4%ba%86/
+Weekly Ask Hacker News for 2025-02-23 -- 2025-03-01
+http://www.daemonology.net/hn-weekly-ask/2025-03-01.html
 
-微軟 Go 語言手把手教學小記
-https://blog.darkthread.net/blog/ms-go-tutorial/
+Skype 將在今年五月謝幕
+https://blog.gslin.org/archives/2025/03/02/12282/skype-%e5%b0%87%e5%9c%a8%e4%bb%8a%e5%b9%b4%e4%ba%94%e6%9c%88%e8%ac%9d%e5%b9%95/
 
-關於 Go Channel 同步化行為
-https://blog.darkthread.net/blog/go-buffered-channel/
+用 nginx 的 client_body_temp_path 實作檔案上傳的功能
+https://blog.gslin.org/archives/2025/03/02/12281/%e7%94%a8-nginx-%e7%9a%84-client_body_temp_path-%e5%af%a6%e4%bd%9c%e6%aa%94%e6%a1%88%e4%b8%8a%e5%82%b3%e7%9a%84%e5%8a%9f%e8%83%bd/
 
-OpenAI公布迄今最大LLM GPT-4.5，費用是4o的30倍
-https://www.ithome.com.tw/news/167613
+Whisper WebAPI 錄音檔轉逐字稿(免 GPU)
+https://blog.darkthread.net/blog/azure-whisper-api-transcribe/
 
-Vince Huang：欣新網 CEO｜電商突圍術：品牌代營運、成效廣告、O2O 轉型實戰歷程【塞掐 Side Chat】E320
-https://www.inside.com.tw/feature/side-chat/37703-side-chat-e320
+公共意外責任險如何求償？理賠範圍是什麼？
+https://www.businessyee.com/article/5583-Public-liability-insurance
 
-法國新創 CTO 將推出全球首組 5G 毫米波衛星網路
-https://www.inside.com.tw/article/37706-world-first-5g-mmwave-satellite-internet
-
-美國 SEC：大多數迷因幣不屬於證券
-https://www.inside.com.tw/article/37705-sec-says-most-meme-coins-are-not-securities
-
-從真實表現到最新財報，全方位破解  DeepSeek 讓 NVIDIA GPU 前景不佳疑慮
-https://www.inside.com.tw/article/37704-comprehensive-analysis-debunks-deepseek-threat-to-nvidia-gpu-future-through-performance-and-financial-data
-
-台灣特斯拉開賣後輪驅動版新 Model Y！189.9 萬起
-https://www.inside.com.tw/article/37702-tesla-taiwan-launches-rear-wheel-drive-model-y-starting-at-1-899-million
-
-時代眼淚：微軟宣布 Skype 退役，5 月 5 日正式告別
-https://www.inside.com.tw/article/37701-microsoft-skype-shutting-down-retirement-may-2025
-
-OpenAI GPT-4.5 來了！但目前卻陷入「GPU 不夠」窘境
-https://www.inside.com.tw/article/37700-openai-gpt-4-5-orion-ai-model-release
-
-老闆提問不再難倒你！用1張「失效模式與影響分析表」做風險評估
-https://www.businessyee.com/article/5579-FMEA
-
-Java Equivalent to Python’s Easy String Slicing
-https://feeds.feedblitz.com/~/913938407/0/baeldung~Java-Equivalent-to-Pythons-Easy-String-Slicing
-
-Integrating Passkeys into Spring Security
-https://feeds.feedblitz.com/~/913938410/0/baeldung~Integrating-Passkeys-into-Spring-Security
-
-What Is the Difference Between JDK_JAVA_OPTIONS and JAVA_TOOL_OPTIONS?
-https://feeds.feedblitz.com/~/913938413/0/baeldung~What-Is-the-Difference-Between-JDKJAVAOPTIONS-and-JAVATOOLOPTIONS
-
-Add External JAR File to IntelliJ Project
-https://feeds.feedblitz.com/~/913938416/0/baeldung~Add-External-JAR-File-to-IntelliJ-Project
+Creating a Custom Linked List Data Structure in Java
+https://feeds.feedblitz.com/~/914023514/0/baeldung~Creating-a-Custom-Linked-List-Data-Structure-in-Java
