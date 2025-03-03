@@ -1,22 +1,91 @@
-# 2025-03-02 09:15:46 Feeds Report 
+# 2025-03-03 09:18:30 Feeds Report 
 
-Daily Hacker News for 2025-03-01
-https://www.daemonology.net/hn-daily/2025-03-01.html
+Daily Hacker News for 2025-03-02
+https://www.daemonology.net/hn-daily/2025-03-02.html
 
-Weekly Ask Hacker News for 2025-02-23 -- 2025-03-01
-http://www.daemonology.net/hn-weekly-ask/2025-03-01.html
+llama.vim 可以設定 Accept 的 Key 了
+https://blog.gslin.org/archives/2025/03/03/12285/llama-vim-%e5%8f%af%e4%bb%a5%e8%a8%ad%e5%ae%9a-accept-%e7%9a%84-key-%e4%ba%86/
 
-Skype 將在今年五月謝幕
-https://blog.gslin.org/archives/2025/03/02/12282/skype-%e5%b0%87%e5%9c%a8%e4%bb%8a%e5%b9%b4%e4%ba%94%e6%9c%88%e8%ac%9d%e5%b9%95/
+第一個.NET 10預覽版登場，重點鎖定C#最佳化、效能提升與跨平臺強化
+https://www.ithome.com.tw/news/167621
 
-用 nginx 的 client_body_temp_path 實作檔案上傳的功能
-https://blog.gslin.org/archives/2025/03/02/12281/%e7%94%a8-nginx-%e7%9a%84-client_body_temp_path-%e5%af%a6%e4%bd%9c%e6%aa%94%e6%a1%88%e4%b8%8a%e5%82%b3%e7%9a%84%e5%8a%9f%e8%83%bd/
+去年有近8成的網路入侵行動不再仰賴惡意程式，語音網路釣魚成為主力
+https://www.ithome.com.tw/news/167620
 
-Whisper WebAPI 錄音檔轉逐字稿(免 GPU)
-https://blog.darkthread.net/blog/azure-whisper-api-transcribe/
+臺灣企業收到聲稱抽查稅務的電子郵件請小心！駭客組織假冒國稅局散布惡意軟體Winos 4.0
+https://www.ithome.com.tw/news/167619
 
-公共意外責任險如何求償？理賠範圍是什麼？
-https://www.businessyee.com/article/5583-Public-liability-insurance
+川普把比特幣、以太幣、XRP、Solana及Cardano納入美國戰略性加密貨幣儲備
+https://www.ithome.com.tw/news/167618
 
-Creating a Custom Linked List Data Structure in Java
-https://feeds.feedblitz.com/~/914023514/0/baeldung~Creating-a-Custom-Linked-List-Data-Structure-in-Java
+Firefox新條款允許Mozilla存取用戶輸入內容，社群質疑隱私保障
+https://www.ithome.com.tw/news/167617
+
+OpenAI計畫將Sora推向ChatGPT
+https://www.ithome.com.tw/news/167616
+
+IBM完成64億美元收購HashiCorp
+https://www.ithome.com.tw/news/167615
+
+Skype 5月退役，微軟未來專注開發Teams
+https://www.ithome.com.tw/news/167614
+
+Forbes、CNN 都中箭，Google 演算法開始重創外稿寫產品評測
+https://www.inside.com.tw/article/37713-google-search-change-product-recommendation-websites
+
+川普公布美國加密貨幣儲備計畫，將納入 XRP、SOL、ADA 等幣種
+https://www.inside.com.tw/article/37712-trump-announced-crypto-reserve-details
+
+挑戰 Uber？特斯拉申請加州叫車服務許可，但仍需「有人」駕駛
+https://www.inside.com.tw/article/37710-tesla-applies-for-ride-hailing-service-in-california-but-with-human-drivers
+
+演算法煉金術：社群媒體如何點石成金，打造數位廣告帝國
+https://www.inside.com.tw/feature/social-media-algorithms/37691-social-media-ads-algorithm
+
+增強型地熱系統或成全球關鍵技術，美國猶他大學領先布局
+https://www.inside.com.tw/article/37709-enhanced-geothermal-systems-may-become-a-key-global-technology-as-university-of-utah-leads-the-way
+
+DeepSeek 宣稱「理論上」每日利潤率可達 545%！
+https://www.inside.com.tw/article/37708-deepseek-theoretical-profit-margin
+
+蘋果 Siri 大革新至少等到 2027 年？彭博：AI 升級計畫進度落後
+https://www.inside.com.tw/article/37707-apple-siri-ai-overhaul-delayed-until-2027
+
+巴菲特罕見評論川普關稅：恐通膨、損害消費者
+https://www.businessyee.com/article/5596-warren-buffett-calls-trumps-tariffs
+
+AWS 讓 AI 使用門檻大幅下降！Amazon Bedrock 省錢神器讓企業節省90%
+https://www.businessyee.com/article/5591-AWS
+
+2024年新制勞退基金大豐收！逾半數勞工分紅逾2萬
+https://www.businessyee.com/article/5595-labor-fund-2025
+
+國壽推「穩盈樂活」美元利變還本終身險，增值回饋、全期身故金
+https://www.businessyee.com/article/5594-
+
+21年傳奇落幕！Skype正式走入歷史，曾經的通訊霸主為何失勢？
+https://www.businessyee.com/article/5592-microsoft-is-retiring-skype
+
+永豐金股東會94%通過併購京城銀，小股東熱情喊：翻滾吧，我的雪球！
+https://www.businessyee.com/article/5593-SinoPac-agree-merge-ktb
+
+AMT聯盟2025 AI+ MarTech亞太品牌峰會3月7日登場
+https://www.businessyee.com/article/5590-amt
+
+Intel「地表最大」晶圓廠計畫延期5年，帶動投資人信心收漲2.79%
+https://www.businessyee.com/article/5589-intel-delay-ohio-fab-to-2030s
+
+美超微壓線交年報股價飆10%，董娘瞬間出清持股套現232萬美元
+https://www.businessyee.com/article/5588-smci
+
+京城銀通過與永豐金合併，董座戴誠志談退休：學習不多想，要找回老同學
+https://www.businessyee.com/article/5587-ktb-bank-shareholders-meeting
+
+Implementing Semantic Search Using Spring AI and PGVector
+https://feeds.feedblitz.com/~/914063474/0/baeldung~Implementing-Semantic-Search-Using-Spring-AI-and-PGVector
+
+Generate Avro Schema From Certain Java Class
+https://feeds.feedblitz.com/~/914063477/0/baeldung~Generate-Avro-Schema-From-Certain-Java-Class
+
+Exploring Model Context Protocol (MCP) With Spring AI
+https://feeds.feedblitz.com/~/914063480/0/baeldung~Exploring-Model-Context-Protocol-MCP-With-Spring-AI
