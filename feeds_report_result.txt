@@ -1,22 +1,28 @@
-# 2025-03-03 09:18:30 Feeds Report 
+# 2025-03-04 09:17:10 Feeds Report 
 
-Daily Hacker News for 2025-03-02
-https://www.daemonology.net/hn-daily/2025-03-02.html
+Daily Hacker News for 2025-03-03
+https://www.daemonology.net/hn-daily/2025-03-03.html
 
-llama.vim 可以設定 Accept 的 Key 了
-https://blog.gslin.org/archives/2025/03/03/12285/llama-vim-%e5%8f%af%e4%bb%a5%e8%a8%ad%e5%ae%9a-accept-%e7%9a%84-key-%e4%ba%86/
+為了輸入 Ctrl-Enter 的設定：WezTerm + tmux
+https://blog.gslin.org/archives/2025/03/04/12291/%e7%82%ba%e4%ba%86%e8%bc%b8%e5%85%a5-ctrl-enter-%e7%9a%84%e8%a8%ad%e5%ae%9a%ef%bc%9awezterm-tmux/
 
-第一個.NET 10預覽版登場，重點鎖定C#最佳化、效能提升與跨平臺強化
-https://www.ithome.com.tw/news/167621
+【茶包射手日記】PowerShell 剪貼簿格式化文字中文亂碼之謎
+https://blog.darkthread.net/blog/copy-to-clipboard-ashtml/
 
-去年有近8成的網路入侵行動不再仰賴惡意程式，語音網路釣魚成為主力
-https://www.ithome.com.tw/news/167620
+AWS量子晶片Ocelot採用「貓量子位元」，成本有望可降至現行技術的20％
+https://www.ithome.com.tw/news/167637
 
-臺灣企業收到聲稱抽查稅務的電子郵件請小心！駭客組織假冒國稅局散布惡意軟體Winos 4.0
-https://www.ithome.com.tw/news/167619
+美國雲端GPU服務供應商CoreWeave申請IPO
+https://www.ithome.com.tw/news/167639
 
-川普把比特幣、以太幣、XRP、Solana及Cardano納入美國戰略性加密貨幣儲備
-https://www.ithome.com.tw/news/167618
+Anthropic增資35億美元，身價達615億美元
+https://www.ithome.com.tw/news/167638
+
+iOS 18.4 Beta 2讓Visual Intelligence支援iPhone 15 Pro
+https://www.ithome.com.tw/news/167635
+
+Gemini Live加入Project Astra AI代理人，能即時翻譯菜單、回答複雜問題
+https://www.ithome.com.tw/news/167634
 
 Firefox新條款允許Mozilla存取用戶輸入內容，社群質疑隱私保障
 https://www.ithome.com.tw/news/167617
@@ -24,68 +30,65 @@ https://www.ithome.com.tw/news/167617
 OpenAI計畫將Sora推向ChatGPT
 https://www.ithome.com.tw/news/167616
 
-IBM完成64億美元收購HashiCorp
-https://www.ithome.com.tw/news/167615
+生成式 AI 提升開發效率的祕密：Accenture 的 Amazon CodeWhisperer 實戰解密
+https://www.inside.com.tw/feature/2019aws/37723-AWS
 
-Skype 5月退役，微軟未來專注開發Teams
-https://www.ithome.com.tw/news/167614
+生成式AI賦能Amazon CloudWatch，啟動雲端監控新時代
+https://www.inside.com.tw/feature/2019aws/37717-AWS
 
-Forbes、CNN 都中箭，Google 演算法開始重創外稿寫產品評測
-https://www.inside.com.tw/article/37713-google-search-change-product-recommendation-websites
+財報狗林威宇：投資，是理解世界的方式
+https://www.inside.com.tw/article/37731-statement-dog-investing-a-way-to-understand-the-world
 
-川普公布美國加密貨幣儲備計畫，將納入 XRP、SOL、ADA 等幣種
-https://www.inside.com.tw/article/37712-trump-announced-crypto-reserve-details
+亞馬遜 Alexa Plus：Panos Panay 揭秘 LLM 如何徹底「改造」語音助理
+https://www.inside.com.tw/article/37730-amazon-alexa-plus-panos-panay-reveals-llm-revolution-voice-assistants
 
-挑戰 Uber？特斯拉申請加州叫車服務許可，但仍需「有人」駕駛
-https://www.inside.com.tw/article/37710-tesla-applies-for-ride-hailing-service-in-california-but-with-human-drivers
+邁達特為全台首獲微軟 Microsoft Azure 「AI 平台」和「基礎設施遷移」雙認證雲端服務代理商，共建 Azure AI 應用生態圈
+https://www.inside.com.tw/article/37729-
 
-演算法煉金術：社群媒體如何點石成金，打造數位廣告帝國
-https://www.inside.com.tw/feature/social-media-algorithms/37691-social-media-ads-algorithm
+台積電千億美元投資美國 經部長：供應鏈不至於整個移往美國
+https://www.inside.com.tw/article/37726-tsmc-100-billion-us-investment-supply-chain-remains-in-taiwan
 
-增強型地熱系統或成全球關鍵技術，美國猶他大學領先布局
-https://www.inside.com.tw/article/37709-enhanced-geothermal-systems-may-become-a-key-global-technology-as-university-of-utah-leads-the-way
+工程師代寫姪女學習歷程，葉丙成：幫孩子作弊非教育
+https://www.inside.com.tw/article/37725-high-school-portfolio
 
-DeepSeek 宣稱「理論上」每日利潤率可達 545%！
-https://www.inside.com.tw/article/37708-deepseek-theoretical-profit-margin
+M4 MacBook Air 要來了？庫克預告本周發表新產品
+https://www.inside.com.tw/article/37724-m4-macbook-air-teased
 
-蘋果 Siri 大革新至少等到 2027 年？彭博：AI 升級計畫進度落後
-https://www.inside.com.tw/article/37707-apple-siri-ai-overhaul-delayed-until-2027
+抖音一響，父母白養？深度解析中國社群平台的演算法下了什麼料
+https://www.inside.com.tw/feature/social-media-algorithms/37719-deep-analysis-what-ingredients-power-chinese-social-media-algorithms
 
-巴菲特罕見評論川普關稅：恐通膨、損害消費者
-https://www.businessyee.com/article/5596-warren-buffett-calls-trumps-tariffs
+美媒：中國買家利用「台灣等地」規避 NVIDIA 晶片禁令
+https://www.inside.com.tw/article/37721-taiwan-becomes-transit-point-for-nvidia-advanced-chips-amid-us-china-tech-rivalry
 
-AWS 讓 AI 使用門檻大幅下降！Amazon Bedrock 省錢神器讓企業節省90%
-https://www.businessyee.com/article/5591-AWS
+爆發台海衝突的金融預警指標—中國為減輕西方制裁衝擊的準備程度
+https://voicettank.org/20250303-3/
 
-2024年新制勞退基金大豐收！逾半數勞工分紅逾2萬
-https://www.businessyee.com/article/5595-labor-fund-2025
+美國、德國新政下的能源政策及其影響
+https://voicettank.org/20250303-2/
 
-國壽推「穩盈樂活」美元利變還本終身險，增值回饋、全期身故金
-https://www.businessyee.com/article/5594-
+統戰PUA：你給我天堂，也給我地獄
+https://voicettank.org/20250303-1/
 
-21年傳奇落幕！Skype正式走入歷史，曾經的通訊霸主為何失勢？
-https://www.businessyee.com/article/5592-microsoft-is-retiring-skype
+台中銀3月起加薪5%，新進行員起薪4.3萬
+https://www.businessyee.com/article/5607-taichuong-bank-rise-salary
 
-永豐金股東會94%通過併購京城銀，小股東熱情喊：翻滾吧，我的雪球！
-https://www.businessyee.com/article/5593-SinoPac-agree-merge-ktb
+AWS首度發表「全球優勢 在地扎根」在台業務戰略 四大推動要點持續深耕台灣市場
+https://www.businessyee.com/article/5598-AWS
 
-AMT聯盟2025 AI+ MarTech亞太品牌峰會3月7日登場
-https://www.businessyee.com/article/5590-amt
+台積電赴美千億投資案，府：事前已充分掌握
+https://www.businessyee.com/article/5606-tsmc-invest-office-of-taiwan-president
 
-Intel「地表最大」晶圓廠計畫延期5年，帶動投資人信心收漲2.79%
-https://www.businessyee.com/article/5589-intel-delay-ohio-fab-to-2030s
+亞馬遜力挺！AI新創 Anthropic最新融資 35億美元，估值飆升至615億
+https://www.businessyee.com/article/5605-ai-anthropic-valued-billions
 
-美超微壓線交年報股價飆10%，董娘瞬間出清持股套現232萬美元
-https://www.businessyee.com/article/5588-smci
+受加墨關稅影響，輝達股價慘跌近 9%、市值蒸發 2650 億美元
+https://www.businessyee.com/article/5604-nvidia-shares-drop-tariff
 
-京城銀通過與永豐金合併，董座戴誠志談退休：學習不多想，要找回老同學
-https://www.businessyee.com/article/5587-ktb-bank-shareholders-meeting
+老字號PC大廠宏碁拼數位轉型，上雲安渡疫情力抗網攻
+https://www.businessyee.com/article/5597-AWS
 
-Implementing Semantic Search Using Spring AI and PGVector
-https://feeds.feedblitz.com/~/914063474/0/baeldung~Implementing-Semantic-Search-Using-Spring-AI-and-PGVector
+美國史上最大！千億美元投資案，台積電怎麼看？
+https://www.businessyee.com/article/5603-tsmc-us-investment-100b
 
-Generate Avro Schema From Certain Java Class
-https://feeds.feedblitz.com/~/914063477/0/baeldung~Generate-Avro-Schema-From-Certain-Java-Class
-
-Exploring Model Context Protocol (MCP) With Spring AI
-https://feeds.feedblitz.com/~/914063480/0/baeldung~Exploring-Model-Context-Protocol-MCP-With-Spring-AI
+川普、魏哲家聯袂白宮宣布：台積電將在美興建5座新廠
+https://www.businessyee.com/article/5602-tsmc-trump-cc-historic-investment
