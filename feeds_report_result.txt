@@ -1,22 +1,40 @@
-# 2025-03-04 09:17:10 Feeds Report 
+# 2025-03-05 09:17:47 Feeds Report 
 
-Daily Hacker News for 2025-03-03
-https://www.daemonology.net/hn-daily/2025-03-03.html
+Daily Hacker News for 2025-03-04
+https://www.daemonology.net/hn-daily/2025-03-04.html
 
-為了輸入 Ctrl-Enter 的設定：WezTerm + tmux
-https://blog.gslin.org/archives/2025/03/04/12291/%e7%82%ba%e4%ba%86%e8%bc%b8%e5%85%a5-ctrl-enter-%e7%9a%84%e8%a8%ad%e5%ae%9a%ef%bc%9awezterm-tmux/
+後知後覺新發現 - 原來 Windows 已內建 curl (附常用語法範例)
+https://blog.darkthread.net/blog/win-builtin-curl/
 
-【茶包射手日記】PowerShell 剪貼簿格式化文字中文亂碼之謎
-https://blog.darkthread.net/blog/copy-to-clipboard-ashtml/
+Walmart數位業務成長強化盈利能力，更用GAI省下一年400萬小時開發時間
+https://www.ithome.com.tw/news/167674
 
-AWS量子晶片Ocelot採用「貓量子位元」，成本有望可降至現行技術的20％
-https://www.ithome.com.tw/news/167637
+【資安週報】0224~0227，海纜安全再成焦點，海巡署押回破壞臺澎三號海纜的貨輪與中國籍人士
+https://www.ithome.com.tw/news/167676
 
-美國雲端GPU服務供應商CoreWeave申請IPO
-https://www.ithome.com.tw/news/167639
+行動應用開發框架React Native新架構成預設，生態系發展更趨成熟
+https://www.ithome.com.tw/news/167670
 
-Anthropic增資35億美元，身價達615億美元
-https://www.ithome.com.tw/news/167638
+Google開源野生動物辨識AI模型
+https://www.ithome.com.tw/news/167673
+
+自動化行銷平臺Mautic存在重大漏洞，攻擊者有機會遠端執行任意程式碼、刪除任意檔案
+https://www.ithome.com.tw/news/167669
+
+Google針對Pixel手機發表AI詐騙偵測功能
+https://www.ithome.com.tw/news/167668
+
+VMware修補虛擬化平臺3項零時差漏洞，風險程度最高達到9.3分
+https://www.ithome.com.tw/news/167667
+
+蘋果公布搭載M3晶片的iPad Air 更強大但價格不變
+https://www.ithome.com.tw/news/167666
+
+CoreWeave將買下AI開發者平臺Weights &amp; Biases
+https://www.ithome.com.tw/news/167665
+
+聯想公布摺疊螢幕、太陽能筆電概念機
+https://www.ithome.com.tw/news/167661
 
 iOS 18.4 Beta 2讓Visual Intelligence支援iPhone 15 Pro
 https://www.ithome.com.tw/news/167635
@@ -24,71 +42,59 @@ https://www.ithome.com.tw/news/167635
 Gemini Live加入Project Astra AI代理人，能即時翻譯菜單、回答複雜問題
 https://www.ithome.com.tw/news/167634
 
-Firefox新條款允許Mozilla存取用戶輸入內容，社群質疑隱私保障
-https://www.ithome.com.tw/news/167617
+台積電千億美元投資美國、川普宣布加密幣儲備、台特斯拉開賣新 Model Y【塞掐 Side Chat】E321
+https://www.inside.com.tw/feature/side-chat/37743-side-chat-e321
 
-OpenAI計畫將Sora推向ChatGPT
-https://www.ithome.com.tw/news/167616
+BMW：最新第六代電池將成 Neue Klasse 車系核心技術
+https://www.inside.com.tw/article/37742-bmw-ev-battery-neue-klasse
 
-生成式 AI 提升開發效率的祕密：Accenture 的 Amazon CodeWhisperer 實戰解密
-https://www.inside.com.tw/feature/2019aws/37723-AWS
+由 AI 訂機票、網購！Opera 推出代理網頁操作的服務  Browser Operator
+https://www.inside.com.tw/article/37741-opera-browser-operator
 
-生成式AI賦能Amazon CloudWatch，啟動雲端監控新時代
-https://www.inside.com.tw/feature/2019aws/37717-AWS
+馬斯克 Starlink 可望獲高達 200 億美元補助，川普擬大改網路普及計畫
+https://www.inside.com.tw/article/37740-us-commerce-to-overhaul-internet-for-all-plan-expanding-starlink-funding-prospects
 
-財報狗林威宇：投資，是理解世界的方式
-https://www.inside.com.tw/article/37731-statement-dog-investing-a-way-to-understand-the-world
+直接迎戰 Apple Vision Pro！三星確認今年推 XR 裝置
+https://www.inside.com.tw/article/37738-samsung-project-moohan-to-launch-this-year
 
-亞馬遜 Alexa Plus：Panos Panay 揭秘 LLM 如何徹底「改造」語音助理
-https://www.inside.com.tw/article/37730-amazon-alexa-plus-panos-panay-reveals-llm-revolution-voice-assistants
+Google Pixel 大更新！推出「外接鏡頭」、可視訊的 Gemini Live
+https://www.inside.com.tw/article/37739-google-pixel-drop-march-2025
 
-邁達特為全台首獲微軟 Microsoft Azure 「AI 平台」和「基礎設施遷移」雙認證雲端服務代理商，共建 Azure AI 應用生態圈
-https://www.inside.com.tw/article/37729-
+Google 開源野生動物辨識 AI 模型「SpeciesNet」，加快相機陷阱資料分析
+https://www.inside.com.tw/article/37737-google-opensources-speciesnet
 
-台積電千億美元投資美國 經部長：供應鏈不至於整個移往美國
-https://www.inside.com.tw/article/37726-tsmc-100-billion-us-investment-supply-chain-remains-in-taiwan
+亞馬遜加入代理型 AI 競賽、成立專門團隊，「將成下個數十億美元業務」
+https://www.inside.com.tw/article/37736-amazons-aws-forms-new-group-focused-agentic-ai
 
-工程師代寫姪女學習歷程，葉丙成：幫孩子作弊非教育
-https://www.inside.com.tw/article/37725-high-school-portfolio
+欣新網 CEO 黃懷恩：電商產業怎麼靠品牌代營運突圍？
+https://www.inside.com.tw/article/37732-hhgalaxy-ceo-how-ecommerce-industry-breaks-through-using-brand-management-operations
 
-M4 MacBook Air 要來了？庫克預告本周發表新產品
-https://www.inside.com.tw/article/37724-m4-macbook-air-teased
+生成式 AI 新帝王 Anthropic Claude3 Opus 震撼登陸 Amazon Bedrock
+https://www.inside.com.tw/feature/2019aws/37722-AWS
 
-抖音一響，父母白養？深度解析中國社群平台的演算法下了什麼料
-https://www.inside.com.tw/feature/social-media-algorithms/37719-deep-analysis-what-ingredients-power-chinese-social-media-algorithms
+美俄總統將舉行會晤之研析
+https://voicettank.org/20250304-3/
 
-美媒：中國買家利用「台灣等地」規避 NVIDIA 晶片禁令
-https://www.inside.com.tw/article/37721-taiwan-becomes-transit-point-for-nvidia-advanced-chips-amid-us-china-tech-rivalry
+台新金股利有發2元實力，總座林維俊笑言：夢到拿到合併核准函
+https://www.businessyee.com/article/5613-taishin-2025-q1
 
-爆發台海衝突的金融預警指標—中國為減輕西方制裁衝擊的準備程度
-https://voicettank.org/20250303-3/
+兩大優勢強化上雲意願，AWS協助南寶樹脂最佳化配置IT資源
+https://www.businessyee.com/article/5600-AWS
 
-美國、德國新政下的能源政策及其影響
-https://voicettank.org/20250303-2/
+VOO、VTI怎麼選？5個角度比較標普500 與美國全市場指數
+https://www.businessyee.com/article/5614-vti-voo
 
-統戰PUA：你給我天堂，也給我地獄
-https://voicettank.org/20250303-1/
+川普國會施政演說再展強硬立場！點名韓國關稅是美4倍
+https://www.businessyee.com/article/5612-trump-proceeds-with-tariffs-on-imports-from-canada-and-mexico
 
-台中銀3月起加薪5%，新進行員起薪4.3萬
-https://www.businessyee.com/article/5607-taichuong-bank-rise-salary
+星展銀行超前佈署數位轉型，不僅安度疫情，更打造創新企業文化
+https://www.businessyee.com/article/5599-AWS
 
-AWS首度發表「全球優勢 在地扎根」在台業務戰略 四大推動要點持續深耕台灣市場
-https://www.businessyee.com/article/5598-AWS
+川普考慮關稅妥協？加墨豁免協商進展，QQQ盤後反彈
+https://www.businessyee.com/article/5611-trump-tariff-expectation
 
-台積電赴美千億投資案，府：事前已充分掌握
-https://www.businessyee.com/article/5606-tsmc-invest-office-of-taiwan-president
+台積電赴美千億投資案：恐排擠對台與他國資本支出，但為何不影響毛利率？
+https://www.businessyee.com/article/5610-tsmc-us-investment-4-issues
 
-亞馬遜力挺！AI新創 Anthropic最新融資 35億美元，估值飆升至615億
-https://www.businessyee.com/article/5605-ai-anthropic-valued-billions
-
-受加墨關稅影響，輝達股價慘跌近 9%、市值蒸發 2650 億美元
-https://www.businessyee.com/article/5604-nvidia-shares-drop-tariff
-
-老字號PC大廠宏碁拼數位轉型，上雲安渡疫情力抗網攻
-https://www.businessyee.com/article/5597-AWS
-
-美國史上最大！千億美元投資案，台積電怎麼看？
-https://www.businessyee.com/article/5603-tsmc-us-investment-100b
-
-川普、魏哲家聯袂白宮宣布：台積電將在美興建5座新廠
-https://www.businessyee.com/article/5602-tsmc-trump-cc-historic-investment
+京城銀2月轉虧1.59億元，公司：9億呆帳未來可望回沖
+https://www.businessyee.com/article/5609-kbs-2025-02-profit
