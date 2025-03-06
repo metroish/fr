@@ -1,28 +1,46 @@
-# 2025-03-05 09:17:47 Feeds Report 
+# 2025-03-06 09:17:23 Feeds Report 
 
-Daily Hacker News for 2025-03-04
-https://www.daemonology.net/hn-daily/2025-03-04.html
+Daily Hacker News for 2025-03-05
+https://www.daemonology.net/hn-daily/2025-03-05.html
 
-後知後覺新發現 - 原來 Windows 已內建 curl (附常用語法範例)
-https://blog.darkthread.net/blog/win-builtin-curl/
+FastDoom 的改善
+https://blog.gslin.org/archives/2025/03/06/12298/fastdoom-%e7%9a%84%e6%94%b9%e5%96%84/
 
-Walmart數位業務成長強化盈利能力，更用GAI省下一年400萬小時開發時間
-https://www.ithome.com.tw/news/167674
+自建郵件伺服器的挑戰
+https://blog.gslin.org/archives/2025/03/06/12297/%e8%87%aa%e5%bb%ba%e9%83%b5%e4%bb%b6%e4%bc%ba%e6%9c%8d%e5%99%a8%e7%9a%84%e6%8c%91%e6%88%b0/
 
-【資安週報】0224~0227，海纜安全再成焦點，海巡署押回破壞臺澎三號海纜的貨輪與中國籍人士
-https://www.ithome.com.tw/news/167676
+AMD CPU microcode 的簽名漏洞
+https://blog.gslin.org/archives/2025/03/06/12295/amd-cpu-microcode-%e7%9a%84%e7%b0%bd%e5%90%8d%e6%bc%8f%e6%b4%9e/
 
-行動應用開發框架React Native新架構成預設，生態系發展更趨成熟
-https://www.ithome.com.tw/news/167670
+【茶包射手筆記】遠端桌面登入 Windows 11 後畫面凍結無反應
+https://blog.darkthread.net/blog/rdp-freeze-after-24h2-update/
 
-Google開源野生動物辨識AI模型
-https://www.ithome.com.tw/news/167673
+微軟示警中國駭客組織Silk Typhoon攻擊IT供應鏈，威脅企業雲端安全
+https://www.ithome.com.tw/news/167715
 
-自動化行銷平臺Mautic存在重大漏洞，攻擊者有機會遠端執行任意程式碼、刪除任意檔案
-https://www.ithome.com.tw/news/167669
+蘋果發表採用M4 Max與M3 Ultra的Mac Studio，以及基於M4的MacBook Air
+https://www.ithome.com.tw/news/167716
 
-Google針對Pixel手機發表AI詐騙偵測功能
-https://www.ithome.com.tw/news/167668
+中國駭客Lotus Blossom鎖定臺灣、菲律賓、越南等國家，散布後門程式Sagerunex
+https://www.ithome.com.tw/news/167712
+
+猶他州通過美國首個要求App Store驗證用戶年齡的法令
+https://www.ithome.com.tw/news/167707
+
+已遭利用的漏洞CVE-2025-22224揭露後，全球目前有超過4萬臺VMware ESXi執行個體曝險
+https://www.ithome.com.tw/news/167706
+
+2024圖靈獎揭曉，強化學習奠基者Andrew Barto與Richard Sutton獲獎
+https://www.ithome.com.tw/news/167700
+
+Google、Mozilla發布Chrome 134、Firefox 136新版瀏覽器，修補高風險越界存取漏洞
+https://www.ithome.com.tw/news/167705
+
+Google Search測試具推理能力的AI Mode、AI Overviews升級為Gemini 2.0
+https://www.ithome.com.tw/news/167704
+
+Salesforce推AgentExchange市集，簡化企業AI代理部署與應用
+https://www.ithome.com.tw/news/167675
 
 VMware修補虛擬化平臺3項零時差漏洞，風險程度最高達到9.3分
 https://www.ithome.com.tw/news/167667
@@ -36,65 +54,68 @@ https://www.ithome.com.tw/news/167665
 聯想公布摺疊螢幕、太陽能筆電概念機
 https://www.ithome.com.tw/news/167661
 
-iOS 18.4 Beta 2讓Visual Intelligence支援iPhone 15 Pro
-https://www.ithome.com.tw/news/167635
+美光延攬劉德音擔任董事！盼助擴大 AI 業務
+https://www.inside.com.tw/article/37751-mark-liu-micron
 
-Gemini Live加入Project Astra AI代理人，能即時翻譯菜單、回答複雜問題
-https://www.ithome.com.tw/news/167634
+一個月要價 2 萬美元？外媒曝：OpenAI 計畫推出一系列 AI 代理人
+https://www.inside.com.tw/article/37750-openai-agent-products
 
-台積電千億美元投資美國、川普宣布加密幣儲備、台特斯拉開賣新 Model Y【塞掐 Side Chat】E321
-https://www.inside.com.tw/feature/side-chat/37743-side-chat-e321
+Google 為搜尋引擎導入更多 AI！新功能「AI Mode」可處理複雜搜尋
+https://www.inside.com.tw/article/37749-google-ai-mode
 
-BMW：最新第六代電池將成 Neue Klasse 車系核心技術
-https://www.inside.com.tw/article/37742-bmw-ev-battery-neue-klasse
+Amazon Bedrock 超進化！百種 AI 模型整合上線加速企業打造專屬 AI
+https://www.inside.com.tw/feature/2019aws/37727-AWS
 
-由 AI 訂機票、網購！Opera 推出代理網頁操作的服務  Browser Operator
-https://www.inside.com.tw/article/37741-opera-browser-operator
+2025 圖靈獎得主：強化學習先驅 Andrew Barto、Richard Sutton
+https://www.inside.com.tw/article/37748-reinforcement-learning-pioneers-andrew-barto-and-richard-sutton-win-2025-turing-award
 
-馬斯克 Starlink 可望獲高達 200 億美元補助，川普擬大改網路普及計畫
-https://www.inside.com.tw/article/37740-us-commerce-to-overhaul-internet-for-all-plan-expanding-starlink-funding-prospects
+Apple 全新 Mac Studio 來了！搭載 M4 Max 和 M3 Ultra 晶片
+https://www.inside.com.tw/article/37747-apple-unveils-new-mac-studio
 
-直接迎戰 Apple Vision Pro！三星確認今年推 XR 裝置
-https://www.inside.com.tw/article/37738-samsung-project-moohan-to-launch-this-year
+M4 MacBook Air 發表！有全新天藍色最低 34900 元起
+https://www.inside.com.tw/article/37746-apple-announces-m4-macbook-air
 
-Google Pixel 大更新！推出「外接鏡頭」、可視訊的 Gemini Live
-https://www.inside.com.tw/article/37739-google-pixel-drop-march-2025
+Apple 發表「效能怪獸」M3 Ultra！ GPU 效能達 M1 Ultra 2.6 倍
+https://www.inside.com.tw/article/37745-apple-m3-ultra
 
-Google 開源野生動物辨識 AI 模型「SpeciesNet」，加快相機陷阱資料分析
-https://www.inside.com.tw/article/37737-google-opensources-speciesnet
+台灣受網路攻擊全球第一！地緣關係緊張下，Check Point 分享資安風險管理策略
+https://www.inside.com.tw/article/37692-check-point-market-strategy
 
-亞馬遜加入代理型 AI 競賽、成立專門團隊，「將成下個數十億美元業務」
-https://www.inside.com.tw/article/37736-amazons-aws-forms-new-group-focused-agentic-ai
+日本將在與那國島部署飛彈部隊之戰略意涵
+https://voicettank.org/20250305-3/
 
-欣新網 CEO 黃懷恩：電商產業怎麼靠品牌代營運突圍？
-https://www.inside.com.tw/article/37732-hhgalaxy-ceo-how-ecommerce-industry-breaks-through-using-brand-management-operations
+轉型正義不落實，台灣的民主就沒有免疫力
+https://voicettank.org/20250305-2/
 
-生成式 AI 新帝王 Anthropic Claude3 Opus 震撼登陸 Amazon Bedrock
-https://www.inside.com.tw/feature/2019aws/37722-AWS
+彭博：全球債市拋售加劇！日債殖利率創 16 年新高
+https://www.businessyee.com/article/5622-global-asian-bond-selloff
 
-美俄總統將舉行會晤之研析
-https://voicettank.org/20250304-3/
+中國兩會登場：貿易競爭升溫！兩會聚焦 AI創新突圍
+https://www.businessyee.com/article/5621-china-doubles-down-on-ai
 
-台新金股利有發2元實力，總座林維俊笑言：夢到拿到合併核准函
-https://www.businessyee.com/article/5613-taishin-2025-q1
+黃仁勳Keynote演講17日登場，輝達GTC大會首度舉辦夜市、量子日
+https://www.businessyee.com/article/5620-gtc
 
-兩大優勢強化上雲意願，AWS協助南寶樹脂最佳化配置IT資源
-https://www.businessyee.com/article/5600-AWS
+【聽進理投】賺得多、花得多的高收入族理財問題如何解？
+https://www.businessyee.com/article/5615-ep116
 
-VOO、VTI怎麼選？5個角度比較標普500 與美國全市場指數
-https://www.businessyee.com/article/5614-vti-voo
+延攬劉德音加入董事會！美光：應對AI帶來的成長機會
+https://www.businessyee.com/article/5619-micron-appoints-mark-liu-board-directors
 
-川普國會施政演說再展強硬立場！點名韓國關稅是美4倍
-https://www.businessyee.com/article/5612-trump-proceeds-with-tariffs-on-imports-from-canada-and-mexico
+【川普國會演說】晶片法無效籲廢除，稱台積電美國投資千億美元全因關稅
+https://www.businessyee.com/article/5618-Trump-address-Congress
 
-星展銀行超前佈署數位轉型，不僅安度疫情，更打造創新企業文化
-https://www.businessyee.com/article/5599-AWS
+TOYOTA北美廠也適用！川普：給汽車產業一個月加墨關稅緩衝期
+https://www.businessyee.com/article/5617-tariffs-cars-mexico-canada-delayed
 
-川普考慮關稅妥協？加墨豁免協商進展，QQQ盤後反彈
-https://www.businessyee.com/article/5611-trump-tariff-expectation
+馬斯克控OpenAI違法營利化，美法官駁回初步禁制令！今秋續審轉型爭議
+https://www.businessyee.com/article/5616-judge-denies-musk-attempt-to-block-openai-from-becoming-for-profit
 
-台積電赴美千億投資案：恐排擠對台與他國資本支出，但為何不影響毛利率？
-https://www.businessyee.com/article/5610-tsmc-us-investment-4-issues
+Building an AI Chatbot Using DeepSeek Models With Spring AI
+https://feeds.feedblitz.com/~/914263478/0/baeldung~Building-an-AI-Chatbot-Using-DeepSeek-Models-With-Spring-AI
 
-京城銀2月轉虧1.59億元，公司：9億呆帳未來可望回沖
-https://www.businessyee.com/article/5609-kbs-2025-02-profit
+How to Ignore Scenarios in Cucumber
+https://feeds.feedblitz.com/~/914245742/0/baeldung~How-to-Ignore-Scenarios-in-Cucumber
+
+How Hibernate Dirty Checking Mechanism Works
+https://feeds.feedblitz.com/~/914245745/0/baeldung~How-Hibernate-Dirty-Checking-Mechanism-Works
