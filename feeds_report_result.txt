@@ -1,31 +1,61 @@
-# 2025-03-06 09:17:23 Feeds Report 
+# 2025-03-07 09:16:48 Feeds Report 
 
-Daily Hacker News for 2025-03-05
-https://www.daemonology.net/hn-daily/2025-03-05.html
+Daily Hacker News for 2025-03-06
+https://www.daemonology.net/hn-daily/2025-03-06.html
 
-FastDoom 的改善
-https://blog.gslin.org/archives/2025/03/06/12298/fastdoom-%e7%9a%84%e6%94%b9%e5%96%84/
+JSON 與 JavaScript 再 Object 裡面元素順序的差異
+https://blog.gslin.org/archives/2025/03/07/12299/json-%e8%88%87-javascript-%e5%86%8d-object-%e8%a3%a1%e9%9d%a2%e5%85%83%e7%b4%a0%e9%a0%86%e5%ba%8f%e7%9a%84%e5%b7%ae%e7%95%b0/
 
-自建郵件伺服器的挑戰
-https://blog.gslin.org/archives/2025/03/06/12297/%e8%87%aa%e5%bb%ba%e9%83%b5%e4%bb%b6%e4%bc%ba%e6%9c%8d%e5%99%a8%e7%9a%84%e6%8c%91%e6%88%b0/
+讓 PowerShell 更親民 - 加上簡易 GUI 操作介面
+https://blog.darkthread.net/blog/ps-winform-ui/
 
-AMD CPU microcode 的簽名漏洞
-https://blog.gslin.org/archives/2025/03/06/12295/amd-cpu-microcode-%e7%9a%84%e7%b0%bd%e5%90%8d%e6%bc%8f%e6%b4%9e/
+AWS推出GameLift Streams，簡化無下載即玩遊戲部署
+https://www.ithome.com.tw/news/167741
 
-【茶包射手筆記】遠端桌面登入 Windows 11 後畫面凍結無反應
-https://blog.darkthread.net/blog/rdp-freeze-after-24h2-update/
+期盼柳暗花明
+https://www.ithome.com.tw/voice/167740
 
-微軟示警中國駭客組織Silk Typhoon攻擊IT供應鏈，威脅企業雲端安全
-https://www.ithome.com.tw/news/167715
+阿里巴巴開源宣稱可媲美DeepSeek-R1的QwQ-32B模型
+https://www.ithome.com.tw/news/167739
 
-蘋果發表採用M4 Max與M3 Ultra的Mac Studio，以及基於M4的MacBook Air
-https://www.ithome.com.tw/news/167716
+因應新世代製程加速數位轉型，鉅鋼機械讓產線流程e化敏捷化
+https://www.ithome.com.tw/people/167738
 
-中國駭客Lotus Blossom鎖定臺灣、菲律賓、越南等國家，散布後門程式Sagerunex
-https://www.ithome.com.tw/news/167712
+【資安日報】3月7日，勒索軟體駭客Akira透過缺乏防護的網路攝影機散布惡意程式，加密網路環境的檔案
+https://www.ithome.com.tw/news/167737
 
-猶他州通過美國首個要求App Store驗證用戶年齡的法令
-https://www.ithome.com.tw/news/167707
+微軟揭露大規模惡意廣告攻擊，GitHub成主要惡意軟體託管平臺
+https://www.ithome.com.tw/news/167733
+
+據傳美國正在審查外國學生社交帳號內容，以撤銷親馬哈斯者的學生簽證
+https://www.ithome.com.tw/news/167736
+
+【用AI重新定義網路威脅防禦方式】AI驅動多種資安產品技術升級，增進效率也降低人工作業負擔
+https://www.ithome.com.tw/news/167732
+
+【網路安全應視為投資而非成本】從資安經濟學思考，網路攻擊影響財務與營運風險
+https://www.ithome.com.tw/news/167731
+
+【從世界經濟論壇展望2025網路安全】威脅態勢日益複雜，6大因素交互影響
+https://www.ithome.com.tw/news/167724
+
+微軟Graph API、SharePoint同時遭到濫用，駭客發起ClickFix攻擊，意圖散布惡意程式框架Havoc
+https://www.ithome.com.tw/news/167735
+
+2025全球資安局勢大解析
+https://www.ithome.com.tw/article/167734
+
+Elastic修補Kibana危險程度近乎滿分的漏洞，攻擊者有機會用來執行任意程式碼
+https://www.ithome.com.tw/news/167726
+
+川普簽署行政命令以建立戰略性比特幣儲備
+https://www.ithome.com.tw/news/167725
+
+物聯網設備成內網資安軟肋！勒索軟體駭客Akira被EDR攔下，竟轉向缺乏防護的網路攝影機下手
+https://www.ithome.com.tw/news/167723
+
+1Password為密碼綑綁地點
+https://www.ithome.com.tw/news/167722
 
 已遭利用的漏洞CVE-2025-22224揭露後，全球目前有超過4萬臺VMware ESXi執行個體曝險
 https://www.ithome.com.tw/news/167706
@@ -36,86 +66,83 @@ https://www.ithome.com.tw/news/167700
 Google、Mozilla發布Chrome 134、Firefox 136新版瀏覽器，修補高風險越界存取漏洞
 https://www.ithome.com.tw/news/167705
 
-Google Search測試具推理能力的AI Mode、AI Overviews升級為Gemini 2.0
-https://www.ithome.com.tw/news/167704
+食安也能 AI 顧？統一資訊發表「Lumine」六大 AI SaaS
+https://www.inside.com.tw/article/37763-pic-lumine-ai-saas
 
-Salesforce推AgentExchange市集，簡化企業AI代理部署與應用
-https://www.ithome.com.tw/news/167675
+SpaceX Starship 第八次試飛失敗了！飛行途中失控墜毀
+https://www.inside.com.tw/article/37762-spacex-starship-spirals-out-of-control-in-second-straight-test-flight-failure
 
-VMware修補虛擬化平臺3項零時差漏洞，風險程度最高達到9.3分
-https://www.ithome.com.tw/news/167667
+從市場需求出發，Bellwether Industries 如何打造未來飛行車？
+https://www.inside.com.tw/article/37761-skycar-bellwether-industries-and-taiwan
 
-蘋果公布搭載M3晶片的iPad Air 更強大但價格不變
-https://www.ithome.com.tw/news/167666
+傳 Google 共同創辦人 Larry Page 成立AI 新創， 著重改善產品製造流程
+https://www.inside.com.tw/article/37759-larry-page-dynatomics
 
-CoreWeave將買下AI開發者平臺Weights &amp; Biases
-https://www.ithome.com.tw/news/167665
+美 Stargate 首座設施配逾 6 萬顆輝達超級晶片
+https://www.inside.com.tw/article/37758-us-stargate-facility-60k-nvidia-superchips
 
-聯想公布摺疊螢幕、太陽能筆電概念機
-https://www.ithome.com.tw/news/167661
+短網址服務 PicSee 玩出「宇宙級武器」 AWS 資料庫加持 成就 50 億次海量點擊
+https://www.inside.com.tw/feature/2019aws/37760-AWS
 
-美光延攬劉德音擔任董事！盼助擴大 AI 業務
-https://www.inside.com.tw/article/37751-mark-liu-micron
+Volvo 發表全新純電 ES90，導入 800V 架構與高效運算技術
+https://www.inside.com.tw/article/37757-volvo-unveils-the-all-new-electric-es90
 
-一個月要價 2 萬美元？外媒曝：OpenAI 計畫推出一系列 AI 代理人
-https://www.inside.com.tw/article/37750-openai-agent-products
+《魔物獵人 荒野》 3 天賣破 800 萬套！PS5 日本銷量飆增 7 倍
+https://www.inside.com.tw/article/37756-monster-hunter-wilds-8m-sales-ps5-japan-surge
 
-Google 為搜尋引擎導入更多 AI！新功能「AI Mode」可處理複雜搜尋
-https://www.inside.com.tw/article/37749-google-ai-mode
+數位發展策略高峰論壇 智慧電力公司來了！ 全球能源革命，產業科技應用大爆發
+https://www.inside.com.tw/feature/2019aws/37728-AWS
 
-Amazon Bedrock 超進化！百種 AI 模型整合上線加速企業打造專屬 AI
-https://www.inside.com.tw/feature/2019aws/37727-AWS
+號稱「真 AI Agent」的中國 Manus 為何迅速爆紅？
+https://www.inside.com.tw/article/37755-why-chinese-true-ai-agent-manus-gained-sudden-popularity
 
-2025 圖靈獎得主：強化學習先驅 Andrew Barto、Richard Sutton
-https://www.inside.com.tw/article/37748-reinforcement-learning-pioneers-andrew-barto-and-richard-sutton-win-2025-turing-award
+【書摘】《物怪故事解：中國亙古流衍的心態》
+https://voicettank.org/20250306-2/
 
-Apple 全新 Mac Studio 來了！搭載 M4 Max 和 M3 Ultra 晶片
-https://www.inside.com.tw/article/37747-apple-unveils-new-mac-studio
+「餓法」亦法——日本的公民不服從運動
+https://voicettank.org/20250306-1/
 
-M4 MacBook Air 發表！有全新天藍色最低 34900 元起
-https://www.inside.com.tw/article/37746-apple-announces-m4-macbook-air
+【書摘】《被推倒的偶像：十二座塑造歷史的雕像》
+https://voicettank.org/20250307-1/
 
-Apple 發表「效能怪獸」M3 Ultra！ GPU 效能達 M1 Ultra 2.6 倍
-https://www.inside.com.tw/article/37745-apple-m3-ultra
+網路科技發達，社會高度不均的中國──評《鍍金的鳥籠》
+https://voicettank.org/20250307-2/
 
-台灣受網路攻擊全球第一！地緣關係緊張下，Check Point 分享資安風險管理策略
-https://www.inside.com.tw/article/37692-check-point-market-strategy
+京城銀配息 or 換股拿現金稅負大不同，今年配發率恐低於五成
+https://www.businessyee.com/article/5633-
 
-日本將在與那國島部署飛彈部隊之戰略意涵
-https://voicettank.org/20250305-3/
+【好險有聽】你的保單你都了解嗎？保戶與業務員都需要的保險科技
+https://www.businessyee.com/article/5632-ep22
 
-轉型正義不落實，台灣的民主就沒有免疫力
-https://voicettank.org/20250305-2/
+Stargate計畫啟動！德州AI資料中心將搭載逾6萬4000顆NVIDIA晶片
+https://www.businessyee.com/article/5631-stargate-nvidia-64000-ai-chip
 
-彭博：全球債市拋售加劇！日債殖利率創 16 年新高
-https://www.businessyee.com/article/5622-global-asian-bond-selloff
+國泰世華銀行《請支援理財》Ep16：換匯專家開課啦，旅遊族的實用換匯攻略！
+https://www.businessyee.com/article/5630-cathaybk
 
-中國兩會登場：貿易競爭升溫！兩會聚焦 AI創新突圍
-https://www.businessyee.com/article/5621-china-doubles-down-on-ai
+第一金股利配發估7成，看好台積電赴美投資，海外獲利拚佔3成
+https://www.businessyee.com/article/5629-first-finance-dividend-2025
 
-黃仁勳Keynote演講17日登場，輝達GTC大會首度舉辦夜市、量子日
-https://www.businessyee.com/article/5620-gtc
+【好市多財報】獲利受關稅、通膨壓力影響，股價於盤後小跌1%
+https://www.businessyee.com/article/5628-Costco-earnings
 
-【聽進理投】賺得多、花得多的高收入族理財問題如何解？
-https://www.businessyee.com/article/5615-ep116
+談保險不尷尬！河馬保險讓保單管理更簡單【執行長Mars專訪】
+https://www.businessyee.com/article/5499-hippo-insurance-ceo-interview
 
-延攬劉德音加入董事會！美光：應對AI帶來的成長機會
-https://www.businessyee.com/article/5619-micron-appoints-mark-liu-board-directors
+【Broadcom Q1財報】AI需求強勁，盤後股價逆勢飆漲16%
+https://www.businessyee.com/article/5627-broadcom-earnings-2025-q1
 
-【川普國會演說】晶片法無效籲廢除，稱台積電美國投資千億美元全因關稅
-https://www.businessyee.com/article/5618-Trump-address-Congress
+券商網紅行銷須簽約並納入內控，違規最高恐罰千萬元
+https://www.businessyee.com/article/5626-securities-dealer-marketing-regulation
 
-TOYOTA北美廠也適用！川普：給汽車產業一個月加墨關稅緩衝期
-https://www.businessyee.com/article/5617-tariffs-cars-mexico-canada-delayed
+接軌IFRS 17！12金控、6保險公司明年起月營收可延至15日公布
+https://www.businessyee.com/article/5625-insurance-IFRS17
 
-馬斯克控OpenAI違法營利化，美法官駁回初步禁制令！今秋續審轉型爭議
-https://www.businessyee.com/article/5616-judge-denies-musk-attempt-to-block-openai-from-becoming-for-profit
+Gradle Equivalents for Maven Commands
+https://feeds.feedblitz.com/~/914353634/0/baeldung~Gradle-Equivalents-for-Maven-Commands
 
-Building an AI Chatbot Using DeepSeek Models With Spring AI
-https://feeds.feedblitz.com/~/914263478/0/baeldung~Building-an-AI-Chatbot-Using-DeepSeek-Models-With-Spring-AI
+Using Google Translate API in a Java Application
+https://feeds.feedblitz.com/~/914353637/0/baeldung~Using-Google-Translate-API-in-a-Java-Application
 
-How to Ignore Scenarios in Cucumber
-https://feeds.feedblitz.com/~/914245742/0/baeldung~How-to-Ignore-Scenarios-in-Cucumber
-
-How Hibernate Dirty Checking Mechanism Works
-https://feeds.feedblitz.com/~/914245745/0/baeldung~How-Hibernate-Dirty-Checking-Mechanism-Works
+Java Weekly, Issue 584
+https://feeds.feedblitz.com/~/914303771/0/baeldung~Java-Weekly-Issue
