@@ -1,25 +1,16 @@
-# 2025-03-07 09:16:48 Feeds Report 
+# 2025-03-08 09:12:59 Feeds Report 
 
-Daily Hacker News for 2025-03-06
-https://www.daemonology.net/hn-daily/2025-03-06.html
+Daily Hacker News for 2025-03-07
+https://www.daemonology.net/hn-daily/2025-03-07.html
 
-JSON 與 JavaScript 再 Object 裡面元素順序的差異
-https://blog.gslin.org/archives/2025/03/07/12299/json-%e8%88%87-javascript-%e5%86%8d-object-%e8%a3%a1%e9%9d%a2%e5%85%83%e7%b4%a0%e9%a0%86%e5%ba%8f%e7%9a%84%e5%b7%ae%e7%95%b0/
+機智 AI 生活雜記 - 輕鬆抓色碼
+https://blog.darkthread.net/blog/ai-notes-extract-color-code/
 
-讓 PowerShell 更親民 - 加上簡易 GUI 操作介面
-https://blog.darkthread.net/blog/ps-winform-ui/
+TLS/SSL 憑證檔內容深度解析
+https://blog.darkthread.net/blog/parsing-cert-pem-asn1/
 
-AWS推出GameLift Streams，簡化無下載即玩遊戲部署
-https://www.ithome.com.tw/news/167741
-
-期盼柳暗花明
-https://www.ithome.com.tw/voice/167740
-
-阿里巴巴開源宣稱可媲美DeepSeek-R1的QwQ-32B模型
-https://www.ithome.com.tw/news/167739
-
-因應新世代製程加速數位轉型，鉅鋼機械讓產線流程e化敏捷化
-https://www.ithome.com.tw/people/167738
+VS Code 1.98版本再強化Copilot整合，推出代理模式與Notebook智慧編輯
+https://www.ithome.com.tw/news/167743
 
 【資安日報】3月7日，勒索軟體駭客Akira透過缺乏防護的網路攝影機散布惡意程式，加密網路環境的檔案
 https://www.ithome.com.tw/news/167737
@@ -27,7 +18,7 @@ https://www.ithome.com.tw/news/167737
 微軟揭露大規模惡意廣告攻擊，GitHub成主要惡意軟體託管平臺
 https://www.ithome.com.tw/news/167733
 
-據傳美國正在審查外國學生社交帳號內容，以撤銷親馬哈斯者的學生簽證
+據傳美國正在審查外國學生社交帳號內容，以撤銷親哈馬斯者的學生簽證
 https://www.ithome.com.tw/news/167736
 
 【用AI重新定義網路威脅防禦方式】AI驅動多種資安產品技術升級，增進效率也降低人工作業負擔
@@ -45,6 +36,9 @@ https://www.ithome.com.tw/news/167735
 2025全球資安局勢大解析
 https://www.ithome.com.tw/article/167734
 
+【資安月報】2025年2月，臺灣海纜遭人為破壞、醫院遭勒索軟體攻擊，關鍵CI防護受考驗
+https://www.ithome.com.tw/news/167727
+
 Elastic修補Kibana危險程度近乎滿分的漏洞，攻擊者有機會用來執行任意程式碼
 https://www.ithome.com.tw/news/167726
 
@@ -57,92 +51,29 @@ https://www.ithome.com.tw/news/167723
 1Password為密碼綑綁地點
 https://www.ithome.com.tw/news/167722
 
-已遭利用的漏洞CVE-2025-22224揭露後，全球目前有超過4萬臺VMware ESXi執行個體曝險
-https://www.ithome.com.tw/news/167706
+🎬 Daniel 謝安：Wētā FX 執行長｜從阿凡達到魔戒，前數字王國執行長接任魔戒導演 Peter Jackson 的特效公司 Wētā，Sean Parker 投資背後的 AI 版圖【塞掐 Side Chat】E322
+https://www.inside.com.tw/feature/side-chat/37765-side-chat-e322
 
-2024圖靈獎揭曉，強化學習奠基者Andrew Barto與Richard Sutton獲獎
-https://www.ithome.com.tw/news/167700
+不只 DeepSeek！這款超紅 AI 硬體為何遭台灣消費者質疑「來自中國」？
+https://www.inside.com.tw/article/37753-ai-hardware-taiwan-consumers-scrutiny
 
-Google、Mozilla發布Chrome 134、Firefox 136新版瀏覽器，修補高風險越界存取漏洞
-https://www.ithome.com.tw/news/167705
+「Cubo Ai」雲云科技驚傳喋血，董座疑因離職糾紛刺死梁姓技術長
+https://www.inside.com.tw/article/37766-cubo-ai-chairman-allegedly-stabs-cto-to-death-in-resignation-dispute
 
-食安也能 AI 顧？統一資訊發表「Lumine」六大 AI SaaS
-https://www.inside.com.tw/article/37763-pic-lumine-ai-saas
+盧秀燕的政治算計：從公安危機到文化建設的雙面手法
+https://voicettank.org/20250307-3/
 
-SpaceX Starship 第八次試飛失敗了！飛行途中失控墜毀
-https://www.inside.com.tw/article/37762-spacex-starship-spirals-out-of-control-in-second-straight-test-flight-failure
+台積電加碼對美投資 晶片戰爭作者：仍根留台灣
+https://www.businessyee.com/article/5635-Chris-Miller
 
-從市場需求出發，Bellwether Industries 如何打造未來飛行車？
-https://www.inside.com.tw/article/37761-skycar-bellwether-industries-and-taiwan
+【AMT峰會】駕馭AI成為行銷助力，人的溫暖無可取代
+https://www.businessyee.com/article/5634-amt
 
-傳 Google 共同創辦人 Larry Page 成立AI 新創， 著重改善產品製造流程
-https://www.inside.com.tw/article/37759-larry-page-dynatomics
+Comparing Long Values Using Collections.sort()
+https://feeds.feedblitz.com/~/914401853/0/baeldung~Comparing-Long-Values-Using-Collectionssort
 
-美 Stargate 首座設施配逾 6 萬顆輝達超級晶片
-https://www.inside.com.tw/article/37758-us-stargate-facility-60k-nvidia-superchips
+Introduction to JanusGraph
+https://feeds.feedblitz.com/~/914401856/0/baeldung~Introduction-to-JanusGraph
 
-短網址服務 PicSee 玩出「宇宙級武器」 AWS 資料庫加持 成就 50 億次海量點擊
-https://www.inside.com.tw/feature/2019aws/37760-AWS
-
-Volvo 發表全新純電 ES90，導入 800V 架構與高效運算技術
-https://www.inside.com.tw/article/37757-volvo-unveils-the-all-new-electric-es90
-
-《魔物獵人 荒野》 3 天賣破 800 萬套！PS5 日本銷量飆增 7 倍
-https://www.inside.com.tw/article/37756-monster-hunter-wilds-8m-sales-ps5-japan-surge
-
-數位發展策略高峰論壇 智慧電力公司來了！ 全球能源革命，產業科技應用大爆發
-https://www.inside.com.tw/feature/2019aws/37728-AWS
-
-號稱「真 AI Agent」的中國 Manus 為何迅速爆紅？
-https://www.inside.com.tw/article/37755-why-chinese-true-ai-agent-manus-gained-sudden-popularity
-
-【書摘】《物怪故事解：中國亙古流衍的心態》
-https://voicettank.org/20250306-2/
-
-「餓法」亦法——日本的公民不服從運動
-https://voicettank.org/20250306-1/
-
-【書摘】《被推倒的偶像：十二座塑造歷史的雕像》
-https://voicettank.org/20250307-1/
-
-網路科技發達，社會高度不均的中國──評《鍍金的鳥籠》
-https://voicettank.org/20250307-2/
-
-京城銀配息 or 換股拿現金稅負大不同，今年配發率恐低於五成
-https://www.businessyee.com/article/5633-
-
-【好險有聽】你的保單你都了解嗎？保戶與業務員都需要的保險科技
-https://www.businessyee.com/article/5632-ep22
-
-Stargate計畫啟動！德州AI資料中心將搭載逾6萬4000顆NVIDIA晶片
-https://www.businessyee.com/article/5631-stargate-nvidia-64000-ai-chip
-
-國泰世華銀行《請支援理財》Ep16：換匯專家開課啦，旅遊族的實用換匯攻略！
-https://www.businessyee.com/article/5630-cathaybk
-
-第一金股利配發估7成，看好台積電赴美投資，海外獲利拚佔3成
-https://www.businessyee.com/article/5629-first-finance-dividend-2025
-
-【好市多財報】獲利受關稅、通膨壓力影響，股價於盤後小跌1%
-https://www.businessyee.com/article/5628-Costco-earnings
-
-談保險不尷尬！河馬保險讓保單管理更簡單【執行長Mars專訪】
-https://www.businessyee.com/article/5499-hippo-insurance-ceo-interview
-
-【Broadcom Q1財報】AI需求強勁，盤後股價逆勢飆漲16%
-https://www.businessyee.com/article/5627-broadcom-earnings-2025-q1
-
-券商網紅行銷須簽約並納入內控，違規最高恐罰千萬元
-https://www.businessyee.com/article/5626-securities-dealer-marketing-regulation
-
-接軌IFRS 17！12金控、6保險公司明年起月營收可延至15日公布
-https://www.businessyee.com/article/5625-insurance-IFRS17
-
-Gradle Equivalents for Maven Commands
-https://feeds.feedblitz.com/~/914353634/0/baeldung~Gradle-Equivalents-for-Maven-Commands
-
-Using Google Translate API in a Java Application
-https://feeds.feedblitz.com/~/914353637/0/baeldung~Using-Google-Translate-API-in-a-Java-Application
-
-Java Weekly, Issue 584
-https://feeds.feedblitz.com/~/914303771/0/baeldung~Java-Weekly-Issue
+Guide to Disable Spring Security
+https://feeds.feedblitz.com/~/914401859/0/baeldung~Guide-to-Disable-Spring-Security
