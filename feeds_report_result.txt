@@ -1,79 +1,16 @@
-# 2025-03-08 09:12:59 Feeds Report 
+# 2025-03-09 09:12:23 Feeds Report 
 
-Daily Hacker News for 2025-03-07
-https://www.daemonology.net/hn-daily/2025-03-07.html
+Daily Hacker News for 2025-03-08
+https://www.daemonology.net/hn-daily/2025-03-08.html
 
-機智 AI 生活雜記 - 輕鬆抓色碼
-https://blog.darkthread.net/blog/ai-notes-extract-color-code/
+Weekly Ask Hacker News for 2025-03-02 -- 2025-03-08
+http://www.daemonology.net/hn-weekly-ask/2025-03-08.html
 
-TLS/SSL 憑證檔內容深度解析
-https://blog.darkthread.net/blog/parsing-cert-pem-asn1/
+讀書筆記 - 資料視覺化常用圖表整理
+https://blog.darkthread.net/blog/data-visualization-charts/
 
-VS Code 1.98版本再強化Copilot整合，推出代理模式與Notebook智慧編輯
-https://www.ithome.com.tw/news/167743
+華為利用空殼公司獲台積電 200 萬顆 AI 晶片！美智庫報告揭露
+https://www.inside.com.tw/article/37768-china-chip-smuggling
 
-【資安日報】3月7日，勒索軟體駭客Akira透過缺乏防護的網路攝影機散布惡意程式，加密網路環境的檔案
-https://www.ithome.com.tw/news/167737
-
-微軟揭露大規模惡意廣告攻擊，GitHub成主要惡意軟體託管平臺
-https://www.ithome.com.tw/news/167733
-
-據傳美國正在審查外國學生社交帳號內容，以撤銷親哈馬斯者的學生簽證
-https://www.ithome.com.tw/news/167736
-
-【用AI重新定義網路威脅防禦方式】AI驅動多種資安產品技術升級，增進效率也降低人工作業負擔
-https://www.ithome.com.tw/news/167732
-
-【網路安全應視為投資而非成本】從資安經濟學思考，網路攻擊影響財務與營運風險
-https://www.ithome.com.tw/news/167731
-
-【從世界經濟論壇展望2025網路安全】威脅態勢日益複雜，6大因素交互影響
-https://www.ithome.com.tw/news/167724
-
-微軟Graph API、SharePoint同時遭到濫用，駭客發起ClickFix攻擊，意圖散布惡意程式框架Havoc
-https://www.ithome.com.tw/news/167735
-
-2025全球資安局勢大解析
-https://www.ithome.com.tw/article/167734
-
-【資安月報】2025年2月，臺灣海纜遭人為破壞、醫院遭勒索軟體攻擊，關鍵CI防護受考驗
-https://www.ithome.com.tw/news/167727
-
-Elastic修補Kibana危險程度近乎滿分的漏洞，攻擊者有機會用來執行任意程式碼
-https://www.ithome.com.tw/news/167726
-
-川普簽署行政命令以建立戰略性比特幣儲備
-https://www.ithome.com.tw/news/167725
-
-物聯網設備成內網資安軟肋！勒索軟體駭客Akira被EDR攔下，竟轉向缺乏防護的網路攝影機下手
-https://www.ithome.com.tw/news/167723
-
-1Password為密碼綑綁地點
-https://www.ithome.com.tw/news/167722
-
-🎬 Daniel 謝安：Wētā FX 執行長｜從阿凡達到魔戒，前數字王國執行長接任魔戒導演 Peter Jackson 的特效公司 Wētā，Sean Parker 投資背後的 AI 版圖【塞掐 Side Chat】E322
-https://www.inside.com.tw/feature/side-chat/37765-side-chat-e322
-
-不只 DeepSeek！這款超紅 AI 硬體為何遭台灣消費者質疑「來自中國」？
-https://www.inside.com.tw/article/37753-ai-hardware-taiwan-consumers-scrutiny
-
-「Cubo Ai」雲云科技驚傳喋血，董座疑因離職糾紛刺死梁姓技術長
-https://www.inside.com.tw/article/37766-cubo-ai-chairman-allegedly-stabs-cto-to-death-in-resignation-dispute
-
-盧秀燕的政治算計：從公安危機到文化建設的雙面手法
-https://voicettank.org/20250307-3/
-
-台積電加碼對美投資 晶片戰爭作者：仍根留台灣
-https://www.businessyee.com/article/5635-Chris-Miller
-
-【AMT峰會】駕馭AI成為行銷助力，人的溫暖無可取代
-https://www.businessyee.com/article/5634-amt
-
-Comparing Long Values Using Collections.sort()
-https://feeds.feedblitz.com/~/914401853/0/baeldung~Comparing-Long-Values-Using-Collectionssort
-
-Introduction to JanusGraph
-https://feeds.feedblitz.com/~/914401856/0/baeldung~Introduction-to-JanusGraph
-
-Guide to Disable Spring Security
-https://feeds.feedblitz.com/~/914401859/0/baeldung~Guide-to-Disable-Spring-Security
+碩士畢業工程師年薪破 200 萬！台積電啟動校園徵才，多元科系皆可應徵
+https://www.inside.com.tw/article/37767-tsmc-talent-scout
