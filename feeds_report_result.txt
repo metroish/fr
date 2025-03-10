@@ -1,16 +1,100 @@
-# 2025-03-09 09:12:23 Feeds Report 
+# 2025-03-10 09:14:54 Feeds Report 
 
-Daily Hacker News for 2025-03-08
-https://www.daemonology.net/hn-daily/2025-03-08.html
+Daily Hacker News for 2025-03-09
+https://www.daemonology.net/hn-daily/2025-03-09.html
 
-Weekly Ask Hacker News for 2025-03-02 -- 2025-03-08
-http://www.daemonology.net/hn-weekly-ask/2025-03-08.html
+3D 列印外殼年久粉碎，帶走樹莓派開發板
+https://blog.darkthread.net/blog/pla-crash/
 
-讀書筆記 - 資料視覺化常用圖表整理
-https://blog.darkthread.net/blog/data-visualization-charts/
+數發部3月底將啟動數位憑證皮夾沙盒試驗，拼12月進行特定應用試營運
+https://www.ithome.com.tw/news/167766
 
-華為利用空殼公司獲台積電 200 萬顆 AI 晶片！美智庫報告揭露
-https://www.inside.com.tw/article/37768-china-chip-smuggling
+CI持續整合工具Jenkins修補多個中度風險漏洞，類型涵蓋CSRF、開放重新導向、機敏資訊曝露
+https://www.ithome.com.tw/news/167764
 
-碩士畢業工程師年薪破 200 萬！台積電啟動校園徵才，多元科系皆可應徵
-https://www.inside.com.tw/article/37767-tsmc-talent-scout
+PHP已知CGI漏洞出現攻擊行動，駭客針對日本科技公司、電信業者、遊戲娛樂產業而來
+https://www.ithome.com.tw/news/167763
+
+中國發表通用型AI助手Manus，吹捧與質疑互見
+https://www.ithome.com.tw/news/167762
+
+Chrome新HTML屬性簡化互動功能開發，強化跨平臺相容性
+https://www.ithome.com.tw/news/167760
+
+【資安週報】0303~0307，彰基醫院遭勒索軟體CrazyHunter攻擊，預期可能出現系統化攻擊狀況，全臺關鍵CI醫院拉警報
+https://www.ithome.com.tw/news/167756
+
+打破傳統AI資料傳輸架構局限，物件儲存另創GPU直連傳輸架構新路徑
+https://www.ithome.com.tw/tech/167755
+
+北京要求當地中小學開設AI課程，秋天開跑
+https://www.ithome.com.tw/news/167754
+
+微軟傳正在建立與OpenAI對抗的AI模型
+https://www.ithome.com.tw/news/167751
+
+傳Google正在開發Pixel 10專用的AI代理人Pixel Sense
+https://www.ithome.com.tw/news/167750
+
+研究人員發現被應用在逾10億藍牙及Wi-Fi裝置的樂鑫晶片上，含有可用來攻擊的隱藏功能
+https://www.ithome.com.tw/news/167749
+
+AI趨勢周報第269期：只靠合成資料，也能訓練精準擺放物體的機器人
+https://www.ithome.com.tw/news/167765
+
+CI/CD 更新工廠也不停工！拆解智影顧問用 AWS 打造「全模組化智慧製造」的秘密
+https://www.inside.com.tw/feature/2019aws/37772-AWS
+
+TIMTOS 2025 台北國際工具機展 產業挑戰與轉型新局
+https://www.inside.com.tw/article/37785-TIMTOS2025
+
+英國新創 Pulsar Fusion 推出核融合火箭「Sunbird」，有望將火星航行時間減半
+https://www.inside.com.tw/article/37784-sunbird-nuclear-fusion-rocket-by-uk-firm-could-cut-mars-travel-time-by-50
+
+Profet AI 瞄準 2027 年 IPO，Domain Twin 助台灣半導體進軍全球
+https://www.inside.com.tw/article/37754-profet-ai-2027-ipo
+
+量子電腦或將顛覆全球金融安全！專家籲金融機構及早布局
+https://www.inside.com.tw/article/37783-quantum-computing-threatens-financial-security
+
+光陽發表最新旗艦電動機車「MiG 9」，售價 109,800 元起
+https://www.inside.com.tw/article/37782-kymco-mig-9
+
+新版 Siri 確定推遲至 2026，附螢幕的 HomePod 也將延後進入市場
+https://www.inside.com.tw/article/37775-apple-homepod-siri-delay
+
+零點擊時代來襲：網路行銷人該如何在 AI 搜尋中突圍？
+https://www.inside.com.tw/article/37774-zero-click-era-arrives-how-marketers-can-break-through-in-ai-search
+
+僅花費 4 週完成訓練！鴻海研究院推繁中 AI 大語言模型
+https://www.inside.com.tw/article/37773-foxconn-research-traditional-chinese-ai-model
+
+中國物聯網晶片 ESP 32 遭發現藏有未紀錄的指令，超過 10 億台裝置使用
+https://www.inside.com.tw/article/37769-esp32-undocumented-command
+
+職業媽媽需要閱讀時間！寸秒寸金的妳該選擇iPad還是電子閱讀器？
+https://www.businessyee.com/article/5639-reading-ipad-e-reader
+
+吹哨者爆料：臉書曾開發審查工具，試圖進軍中國市場
+https://www.businessyee.com/article/5641-facebook-censorship-tool-china
+
+富邦金前二月大賺300億、年增34%，銀行、證券獲利攀高
+https://www.businessyee.com/article/5646-fuban-2025-feb-result
+
+台積電2月營收2600億元，月減11.3%、年增43.1%！仍寫同期新高
+https://www.businessyee.com/article/5642-tsmc-earning-fab-2025
+
+飛利浦PHILIPS行動電源使用心得與評價（DLP4347C）
+https://www.businessyee.com/article/5601-PHILIPS-DLP4347C
+
+馬斯克為華府工作以來，特斯拉股價連跌 7週、股價創新低！
+https://www.businessyee.com/article/5638-tesla-declined-every-week
+
+臉書配合中國言論審查？華郵獨家：為打進中國市場雇300人壓制異見
+https://www.businessyee.com/article/5640-meta-china-facebook-content-review
+
+川普不怪台灣奪晶片業，批前朝政府決策失當
+https://www.businessyee.com/article/5637-trump-not-blame-Taiwan-seizing-chip-industry
+
+安聯人壽投資型保單年增38%，今年新契約總保費拚業界前三
+https://www.businessyee.com/article/5636-allianz-life-taiwan-2025
