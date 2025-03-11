@@ -1,22 +1,34 @@
-# 2025-03-10 09:14:54 Feeds Report 
+# 2025-03-11 09:17:51 Feeds Report 
 
-Daily Hacker News for 2025-03-09
-https://www.daemonology.net/hn-daily/2025-03-09.html
+Daily Hacker News for 2025-03-10
+https://www.daemonology.net/hn-daily/2025-03-10.html
 
-3D 列印外殼年久粉碎，帶走樹莓派開發板
-https://blog.darkthread.net/blog/pla-crash/
+【古蹟維修日記 】log4net 設定無效問題偵錯
+https://blog.darkthread.net/blog/log4net-no-appender/
 
-數發部3月底將啟動數位憑證皮夾沙盒試驗，拼12月進行特定應用試營運
-https://www.ithome.com.tw/news/167766
+AI21發表企業級AI規畫與調度平臺，解決LLM輸出不穩定的問題
+https://www.ithome.com.tw/news/167785
 
-CI持續整合工具Jenkins修補多個中度風險漏洞，類型涵蓋CSRF、開放重新導向、機敏資訊曝露
-https://www.ithome.com.tw/news/167764
+CoreWeave與OpenAI簽署價值可能高達119億美元的合作協議
+https://www.ithome.com.tw/news/167789
 
-PHP已知CGI漏洞出現攻擊行動，駭客針對日本科技公司、電信業者、遊戲娛樂產業而來
-https://www.ithome.com.tw/news/167763
+鴻海要開源700億參數繁中大型語言模型FoxBrain
+https://www.ithome.com.tw/news/167784
 
-中國發表通用型AI助手Manus，吹捧與質疑互見
-https://www.ithome.com.tw/news/167762
+研究人員揭露Nakivo備份軟體任意讀取檔案漏洞
+https://www.ithome.com.tw/news/167782
+
+Asana執行長Dustin Moskovitz宣布退休，盤後股價大跌29%
+https://www.ithome.com.tw/news/167779
+
+北韓駭客Moonstone Sleet傳出將勒索軟體Qilin納入武器庫
+https://www.ithome.com.tw/news/167778
+
+Mistral發表文件OCR API 支援PDF、圖片、影音也看得懂數學
+https://www.ithome.com.tw/news/167776
+
+微軟將於明年10月終止支援Publisher
+https://www.ithome.com.tw/news/167775
 
 Chrome新HTML屬性簡化互動功能開發，強化跨平臺相容性
 https://www.ithome.com.tw/news/167760
@@ -36,65 +48,89 @@ https://www.ithome.com.tw/news/167751
 傳Google正在開發Pixel 10專用的AI代理人Pixel Sense
 https://www.ithome.com.tw/news/167750
 
-研究人員發現被應用在逾10億藍牙及Wi-Fi裝置的樂鑫晶片上，含有可用來攻擊的隱藏功能
-https://www.ithome.com.tw/news/167749
+AWS 助力台灣新創池安科技 打造雲端後量子資安與隱私防護解決方案
+https://www.inside.com.tw/feature/2019aws/37778-AWS
 
-AI趨勢周報第269期：只靠合成資料，也能訓練精準擺放物體的機器人
-https://www.ithome.com.tw/news/167765
+不對稱戰力的天際線：台灣太空防禦韌性該如何建立？
+https://www.inside.com.tw/article/37794-building-taiwans-space-defense-resilience-against-asymmetric-threats
 
-CI/CD 更新工廠也不停工！拆解智影顧問用 AWS 打造「全模組化智慧製造」的秘密
-https://www.inside.com.tw/feature/2019aws/37772-AWS
+從 GPU 挖礦到 AI 掘金！讓 OpenAI 砸下 120 億美元入股的 CoreWeave 是誰？
+https://www.inside.com.tw/article/37795-oreweave-strikes-12-billion-contract-with-openai-ahead-of-ipo
 
-TIMTOS 2025 台北國際工具機展 產業挑戰與轉型新局
-https://www.inside.com.tw/article/37785-TIMTOS2025
+臺灣製造業 28% 已應用 AI！最希望改善績效、降低成本
+https://www.inside.com.tw/article/37792-ai-application
 
-英國新創 Pulsar Fusion 推出核融合火箭「Sunbird」，有望將火星航行時間減半
-https://www.inside.com.tw/article/37784-sunbird-nuclear-fusion-rocket-by-uk-firm-could-cut-mars-travel-time-by-50
+Wētā FX 執行長謝安：當影視特效產業碰上 AI 的未來
+https://www.inside.com.tw/article/37793-side-chat-weta
 
-Profet AI 瞄準 2027 年 IPO，Domain Twin 助台灣半導體進軍全球
-https://www.inside.com.tw/article/37754-profet-ai-2027-ipo
+Jaguar Type 00 亮相巴黎時裝週！但看起來還是像 3D 建模
+https://www.inside.com.tw/article/37790-jaguar-00-concept-weirder-road
 
-量子電腦或將顛覆全球金融安全！專家籲金融機構及早布局
-https://www.inside.com.tw/article/37783-quantum-computing-threatens-financial-security
+【Editor&#039;s Picks】Keychron K2 Max 機械鍵盤，小手人的救命仙丹來啦！
+https://www.inside.com.tw/article/37787-keychron-k2-max
 
-光陽發表最新旗艦電動機車「MiG 9」，售價 109,800 元起
-https://www.inside.com.tw/article/37782-kymco-mig-9
+Eric Schmidt 接掌火箭新創公司 Relativity Space，擔任 CEO
+https://www.inside.com.tw/article/37789-eric-schmidt-relativity-space
 
-新版 Siri 確定推遲至 2026，附螢幕的 HomePod 也將延後進入市場
-https://www.inside.com.tw/article/37775-apple-homepod-siri-delay
+「無法相信我在做這件事」馬斯克坦言 DOGE 工作讓他分身乏術
+https://www.inside.com.tw/article/37788-elon-musk-doge-workload-admission
 
-零點擊時代來襲：網路行銷人該如何在 AI 搜尋中突圍？
-https://www.inside.com.tw/article/37774-zero-click-era-arrives-how-marketers-can-break-through-in-ai-search
+【Editor&#039;s Picks】體驗 FUNTE 三節式升降桌：小矮人居家辦公救星！
+https://www.inside.com.tw/article/37781-funte-inside-review
 
-僅花費 4 週完成訓練！鴻海研究院推繁中 AI 大語言模型
-https://www.inside.com.tw/article/37773-foxconn-research-traditional-chinese-ai-model
+腦袋被中共洗壞掉的症狀 (謝謝黃國昌跟盧秀燕的對談)
+https://ckhung0.blogspot.com/2025/03/brain-washed-by-ccp.html
 
-中國物聯網晶片 ESP 32 遭發現藏有未紀錄的指令，超過 10 億台裝置使用
-https://www.inside.com.tw/article/37769-esp32-undocumented-command
+共筆維護試算表、地圖自動更新
+https://newtoypia.blogspot.com/2025/03/gsheet-umap.html
 
-職業媽媽需要閱讀時間！寸秒寸金的妳該選擇iPad還是電子閱讀器？
-https://www.businessyee.com/article/5639-reading-ipad-e-reader
+中台灣藍營在大罷免海嘯中的政治博弈
+https://voicettank.org/20250310-3/
 
-吹哨者爆料：臉書曾開發審查工具，試圖進軍中國市場
-https://www.businessyee.com/article/5641-facebook-censorship-tool-china
+川普總統強勢回歸，為台積電帶來震撼教育
+https://voicettank.org/20250310-2/
 
-富邦金前二月大賺300億、年增34%，銀行、證券獲利攀高
-https://www.businessyee.com/article/5646-fuban-2025-feb-result
+我們當中只有一個人是對的，而那個人不是我：安愛波邦《獨裁者聯盟》
+https://voicettank.org/20250310-1/
 
-台積電2月營收2600億元，月減11.3%、年增43.1%！仍寫同期新高
-https://www.businessyee.com/article/5642-tsmc-earning-fab-2025
+歷來最重！台銀行員涉詐匯入虛擬幣帳戶洗錢，金管會重罰2200萬
+https://www.businessyee.com/article/5661-taiwan-bank-fraud
 
-飛利浦PHILIPS行動電源使用心得與評價（DLP4347C）
-https://www.businessyee.com/article/5601-PHILIPS-DLP4347C
+【月營收評比】晶圓廠2月營收出爐：淡季營收略降，累計年增率全員成長！
+https://www.businessyee.com/article/5660-foundry-revenue-feb-2025
 
-馬斯克為華府工作以來，特斯拉股價連跌 7週、股價創新低！
-https://www.businessyee.com/article/5638-tesla-declined-every-week
+退休規劃不談錢，還能談什麼？這3種資本你準備好了嗎？
+https://www.businessyee.com/article/5659-Retirement-Plans
 
-臉書配合中國言論審查？華郵獨家：為打進中國市場雇300人壓制異見
-https://www.businessyee.com/article/5640-meta-china-facebook-content-review
+優化支付流程、發展 KOL 經濟，翻轉線上零售模式
+https://www.businessyee.com/article/5644-AWS
 
-川普不怪台灣奪晶片業，批前朝政府決策失當
-https://www.businessyee.com/article/5637-trump-not-blame-Taiwan-seizing-chip-industry
+特斯拉股價重挫15%，馬斯克斜槓白宮要職直呼：非常困難！
+https://www.businessyee.com/article/5658-musk-tesla-doge-stock
 
-安聯人壽投資型保單年增38%，今年新契約總保費拚業界前三
-https://www.businessyee.com/article/5636-allianz-life-taiwan-2025
+賞櫻季開跑！刷萬事達卡世界卡買機票，登錄享海外醫療保險
+https://www.businessyee.com/article/5657-master-card-travel-insurance
+
+台積電全球市占攀升至 67.1%！全球晶圓代工Q4產值再創新高，中系晶圓廠營收略增、市占略減
+https://www.businessyee.com/article/5656-trendforce-foundry-2024-q4-revenue
+
+AI雲端需求旺！甲骨文預測2026、2027 營收增逾15%
+https://www.businessyee.com/article/5655-oracle-cloud-growth-outlook
+
+NVIDIA供應鏈洗牌？17日GTC大會黃仁勳發表GB300將開獎
+https://www.businessyee.com/article/5654-nvidia-gb300-supply-chain
+
+易開科技打造雲端數據中台，由資料驅動新智能零售
+https://www.businessyee.com/article/5643-AWS
+
+Decreasing IntelliJ RAM Usage
+https://feeds.feedblitz.com/~/914576678/0/baeldung~Decreasing-IntelliJ-RAM-Usage
+
+List Matchers with Generics in Mockito
+https://feeds.feedblitz.com/~/914576681/0/baeldung~List-Matchers-with-Generics-in-Mockito
+
+How to Map a Source Object to the Target List Using MapStruct?
+https://feeds.feedblitz.com/~/914576072/0/baeldung~How-to-Map-a-Source-Object-to-the-Target-List-Using-MapStruct
+
+How to Convert Nested Loops to Stream in Java
+https://feeds.feedblitz.com/~/914576075/0/baeldung~How-to-Convert-Nested-Loops-to-Stream-in-Java
