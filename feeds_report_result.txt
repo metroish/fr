@@ -1,22 +1,55 @@
-# 2025-03-11 09:17:51 Feeds Report 
+# 2025-03-12 09:17:42 Feeds Report 
 
-Daily Hacker News for 2025-03-10
-https://www.daemonology.net/hn-daily/2025-03-10.html
+Daily Hacker News for 2025-03-11
+https://www.daemonology.net/hn-daily/2025-03-11.html
 
-【古蹟維修日記 】log4net 設定無效問題偵錯
-https://blog.darkthread.net/blog/log4net-no-appender/
+TypeScript 的 tsc 用 Go 改寫的效果
+https://blog.gslin.org/archives/2025/03/12/12302/typescript-%e7%9a%84-tsc-%e7%94%a8-go-%e6%94%b9%e5%af%ab%e7%9a%84%e6%95%88%e6%9e%9c/
 
-AI21發表企業級AI規畫與調度平臺，解決LLM輸出不穩定的問題
-https://www.ithome.com.tw/news/167785
+把一些 repository 改用 extrepo 加入
+https://blog.gslin.org/archives/2025/03/12/12301/%e6%8a%8a%e4%b8%80%e4%ba%9b-repository-%e6%94%b9%e7%94%a8-extrepo-%e5%8a%a0%e5%85%a5/
 
-CoreWeave與OpenAI簽署價值可能高達119億美元的合作協議
-https://www.ithome.com.tw/news/167789
+110V AC 轉 DC 懷古：從磚頭到鳳梨酥
+https://blog.darkthread.net/blog/heavy-acdc-adapter/
 
-鴻海要開源700億參數繁中大型語言模型FoxBrain
-https://www.ithome.com.tw/news/167784
+ICONICS、三菱電機SCADA系統存在高風險漏洞，恐被用於提升權限、操縱檔案、挾持DLL元件
+https://www.ithome.com.tw/news/167830
 
-研究人員揭露Nakivo備份軟體任意讀取檔案漏洞
-https://www.ithome.com.tw/news/167782
+Databricks四大新工具助企業打造可靠AI代理人
+https://www.ithome.com.tw/news/167827
+
+SpaceX與印度兩大行動營運商簽署合作協議，於當地提供Starlink衛星傳通訊服務
+https://www.ithome.com.tw/news/167828
+
+北韓駭客組織Lazarus仿冒6知名NPM套件，發動軟體供應鏈攻擊
+https://www.ithome.com.tw/news/167821
+
+蘋果修補WebKit零時差漏洞，此弱點疑似已被用於攻擊舊版iOS手機
+https://www.ithome.com.tw/news/167823
+
+微軟5月底將退役Remote Desktop app，改推Windows App，倉促作法令用戶不滿
+https://www.ithome.com.tw/news/167822
+
+Anthropic年化營收達14億美元，Google持有14%股份
+https://www.ithome.com.tw/news/167820
+
+微軟原生移植TypeScript編譯器，型別檢查、專案載入速度提升10倍
+https://www.ithome.com.tw/news/167813
+
+微軟發布3月份例行更新，修補7個零時差漏洞、其中6個已出現攻擊行動
+https://www.ithome.com.tw/news/167819
+
+Manus AI宣布與阿里通義千問合作，以實現Manus的全部功能
+https://www.ithome.com.tw/news/167814
+
+OpenAI提供企業自製代理人的新工具
+https://www.ithome.com.tw/news/167812
+
+eBay升級AI開發平臺以支援自建3兆Token的LLM，下一步要蒸餾出多個小模型以降低應用成本
+https://www.ithome.com.tw/news/167790
+
+PyPI推付費帳戶與治理新條款，開源社群憂平臺營運轉向
+https://www.ithome.com.tw/news/167787
 
 Asana執行長Dustin Moskovitz宣布退休，盤後股價大跌29%
 https://www.ithome.com.tw/news/167779
@@ -27,110 +60,71 @@ https://www.ithome.com.tw/news/167778
 Mistral發表文件OCR API 支援PDF、圖片、影音也看得懂數學
 https://www.ithome.com.tw/news/167776
 
-微軟將於明年10月終止支援Publisher
-https://www.ithome.com.tw/news/167775
+力壓 DeepSeek！Google DeepMind 突襲發表 Gemma 3 可在單一 GPU/TPU 運行
+https://www.inside.com.tw/article/37809-google-gemma-3
 
-Chrome新HTML屬性簡化互動功能開發，強化跨平臺相容性
-https://www.ithome.com.tw/news/167760
+中國科學家突破電池回收技術，以胺基酸回收 99.99% 鋰
+https://www.inside.com.tw/article/37808-amino-acids-for-battery-lithium-extraction
 
-【資安週報】0303~0307，彰基醫院遭勒索軟體CrazyHunter攻擊，預期可能出現系統化攻擊狀況，全臺關鍵CI醫院拉警報
-https://www.ithome.com.tw/news/167756
+Tesla Takedown 運動衝突升級，川普：列為國內恐怖主義
+https://www.inside.com.tw/article/37807-trump-tesla-domestic-terrorism-elon-musk-white-house
 
-打破傳統AI資料傳輸架構局限，物件儲存另創GPU直連傳輸架構新路徑
-https://www.ithome.com.tw/tech/167755
+Meta 開始測試首款自家 AI 訓練晶片，由台積電生產
+https://www.inside.com.tw/article/37805-meta-testing-in-house-training-chip
 
-北京要求當地中小學開設AI課程，秋天開跑
-https://www.ithome.com.tw/news/167754
+路透：台積電提議與 NVIDIA、AMD、博通共組 Intel 代工合資企業
+https://www.inside.com.tw/article/37806-tsmc-pitched-intel-foundry-jv-nvidia-amd-broadcom
 
-微軟傳正在建立與OpenAI對抗的AI模型
-https://www.ithome.com.tw/news/167751
+洗澡 15 分鐘全搞定，AI 還會挑音樂：大阪世博會的未來洗澡機
+https://www.inside.com.tw/feature/osaka-expo-2025/37744-osaka-expo-2025-mirai-ningen-sentakuki
 
-傳Google正在開發Pixel 10專用的AI代理人Pixel Sense
-https://www.ithome.com.tw/news/167750
+OpenAI 推新 API，讓非 LLM 開發者也能打造自己的 Deep Research 和 Operator
+https://www.inside.com.tw/article/37804-openai-ai-agents-responses-api-agents-sdk
 
-AWS 助力台灣新創池安科技 打造雲端後量子資安與隱私防護解決方案
-https://www.inside.com.tw/feature/2019aws/37778-AWS
+Google 持續布局智慧眼鏡！將收購眼動追蹤技術新創 AdHawk
+https://www.inside.com.tw/article/37803-google-to-acquire-adhawk
 
-不對稱戰力的天際線：台灣太空防禦韌性該如何建立？
-https://www.inside.com.tw/article/37794-building-taiwans-space-defense-resilience-against-asymmetric-threats
+投資者蜂擁捧錢！但為什麼中國 DeepSeek 梁文鋒說「現在還不要」？
+https://www.inside.com.tw/article/37802-investors-want-a-piece-of-deepseek-its-founder-says-not-now
 
-從 GPU 挖礦到 AI 掘金！讓 OpenAI 砸下 120 億美元入股的 CoreWeave 是誰？
-https://www.inside.com.tw/article/37795-oreweave-strikes-12-billion-contract-with-openai-ahead-of-ipo
+飲領數據，迷客夏 POS 資料上雲，建立 BI 平臺洞察市場變化與客戶需求
+https://www.inside.com.tw/feature/2019aws/37779-AWS
 
-臺灣製造業 28% 已應用 AI！最希望改善績效、降低成本
-https://www.inside.com.tw/article/37792-ai-application
+賴政府日漸迫切的多重憂患
+https://voicettank.org/20250312-1/
 
-Wētā FX 執行長謝安：當影視特效產業碰上 AI 的未來
-https://www.inside.com.tw/article/37793-side-chat-weta
+菲律賓強化與美澳日紐安全合作之戰略意涵
+https://voicettank.org/20250311-3/
 
-Jaguar Type 00 亮相巴黎時裝週！但看起來還是像 3D 建模
-https://www.inside.com.tw/article/37790-jaguar-00-concept-weirder-road
+中國對台野心所為何來：比較余茂春及華安瀾觀點
+https://voicettank.org/20250311-2/
 
-【Editor&#039;s Picks】Keychron K2 Max 機械鍵盤，小手人的救命仙丹來啦！
-https://www.inside.com.tw/article/37787-keychron-k2-max
+聯邦台灣精彩50 ETF（009804）3/17開募！限個股權重、發行價10元
+https://www.businessyee.com/article/5668-009804-ipo
 
-Eric Schmidt 接掌火箭新創公司 Relativity Space，擔任 CEO
-https://www.inside.com.tw/article/37789-eric-schmidt-relativity-space
+全球投資新趨勢：新加坡老牌券商助您把握致富機會！
+https://www.businessyee.com/article/5608-PhillipCapital
 
-「無法相信我在做這件事」馬斯克坦言 DOGE 工作讓他分身乏術
-https://www.inside.com.tw/article/37788-elon-musk-doge-workload-admission
+加值員工雲端技術職涯！iKala、遠傳與淮南寰宇為何都採用 AWS 雲端培訓計畫？
+https://www.businessyee.com/article/5647-AWS
 
-【Editor&#039;s Picks】體驗 FUNTE 三節式升降桌：小矮人居家辦公救星！
-https://www.inside.com.tw/article/37781-funte-inside-review
+路透獨家：台積電勸進NVIDIA、AMD、Broadcom合資，營運INTEL晶圓廠
+https://www.businessyee.com/article/5667-tsmc-pitched-intel-foundry-jv-nvidia-amd-broadcom-sources-say
 
-腦袋被中共洗壞掉的症狀 (謝謝黃國昌跟盧秀燕的對談)
-https://ckhung0.blogspot.com/2025/03/brain-washed-by-ccp.html
+外送雙雄合併確定破局！Uber付台灣foodpanda 82.8億分手費
+https://www.businessyee.com/article/5666-uber-merge-taiwan-foodpanda
 
-共筆維護試算表、地圖自動更新
-https://newtoypia.blogspot.com/2025/03/gsheet-umap.html
+紡拓會 Co-Fashion 等四大平臺上 AWS，期許成為中小型紡織業數位轉型先鋒
+https://www.businessyee.com/article/5645-AWS
 
-中台灣藍營在大罷免海嘯中的政治博弈
-https://voicettank.org/20250310-3/
+川普改口：「完全」不認為經濟會衰退，比特幣應聲反彈近5%
+https://www.businessyee.com/article/5665-trump-say-no-decline
 
-川普總統強勢回歸，為台積電帶來震撼教育
-https://voicettank.org/20250310-2/
+散戶逆勢加碼！台積電零股交易量與金額居台股之冠
+https://www.businessyee.com/article/5664-tsmc-odd-lot-trading-top
 
-我們當中只有一個人是對的，而那個人不是我：安愛波邦《獨裁者聯盟》
-https://voicettank.org/20250310-1/
+《黃仁勳傳》作者Stephen Witt：黃仁勳如何讓NVIDIA成為全球市值第一大的公司？
+https://www.businessyee.com/article/5663-Thinking-Machine-Jensen-Huang
 
-歷來最重！台銀行員涉詐匯入虛擬幣帳戶洗錢，金管會重罰2200萬
-https://www.businessyee.com/article/5661-taiwan-bank-fraud
-
-【月營收評比】晶圓廠2月營收出爐：淡季營收略降，累計年增率全員成長！
-https://www.businessyee.com/article/5660-foundry-revenue-feb-2025
-
-退休規劃不談錢，還能談什麼？這3種資本你準備好了嗎？
-https://www.businessyee.com/article/5659-Retirement-Plans
-
-優化支付流程、發展 KOL 經濟，翻轉線上零售模式
-https://www.businessyee.com/article/5644-AWS
-
-特斯拉股價重挫15%，馬斯克斜槓白宮要職直呼：非常困難！
-https://www.businessyee.com/article/5658-musk-tesla-doge-stock
-
-賞櫻季開跑！刷萬事達卡世界卡買機票，登錄享海外醫療保險
-https://www.businessyee.com/article/5657-master-card-travel-insurance
-
-台積電全球市占攀升至 67.1%！全球晶圓代工Q4產值再創新高，中系晶圓廠營收略增、市占略減
-https://www.businessyee.com/article/5656-trendforce-foundry-2024-q4-revenue
-
-AI雲端需求旺！甲骨文預測2026、2027 營收增逾15%
-https://www.businessyee.com/article/5655-oracle-cloud-growth-outlook
-
-NVIDIA供應鏈洗牌？17日GTC大會黃仁勳發表GB300將開獎
-https://www.businessyee.com/article/5654-nvidia-gb300-supply-chain
-
-易開科技打造雲端數據中台，由資料驅動新智能零售
-https://www.businessyee.com/article/5643-AWS
-
-Decreasing IntelliJ RAM Usage
-https://feeds.feedblitz.com/~/914576678/0/baeldung~Decreasing-IntelliJ-RAM-Usage
-
-List Matchers with Generics in Mockito
-https://feeds.feedblitz.com/~/914576681/0/baeldung~List-Matchers-with-Generics-in-Mockito
-
-How to Map a Source Object to the Target List Using MapStruct?
-https://feeds.feedblitz.com/~/914576072/0/baeldung~How-to-Map-a-Source-Object-to-the-Target-List-Using-MapStruct
-
-How to Convert Nested Loops to Stream in Java
-https://feeds.feedblitz.com/~/914576075/0/baeldung~How-to-Convert-Nested-Loops-to-Stream-in-Java
+NISSAN社長內田誠卸任，不排除重啟Honda整合案
+https://www.businessyee.com/article/5662-nissan-uchida-makoto-retirement
