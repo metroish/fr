@@ -1,34 +1,37 @@
-# 2025-03-12 09:17:42 Feeds Report 
+# 2025-03-13 09:17:38 Feeds Report 
 
-Daily Hacker News for 2025-03-11
-https://www.daemonology.net/hn-daily/2025-03-11.html
+Daily Hacker News for 2025-03-12
+https://www.daemonology.net/hn-daily/2025-03-12.html
 
-TypeScript 的 tsc 用 Go 改寫的效果
-https://blog.gslin.org/archives/2025/03/12/12302/typescript-%e7%9a%84-tsc-%e7%94%a8-go-%e6%94%b9%e5%af%ab%e7%9a%84%e6%95%88%e6%9e%9c/
+Google釋出1B/4B/12B/27B的 Gemma 3，開始支援多模態
+https://www.ithome.com.tw/news/167850
 
-把一些 repository 改用 extrepo 加入
-https://blog.gslin.org/archives/2025/03/12/12301/%e6%8a%8a%e4%b8%80%e4%ba%9b-repository-%e6%94%b9%e7%94%a8-extrepo-%e5%8a%a0%e5%85%a5/
+OpenInfra基金會加入Linux基金會，加速開源基礎設施跨專案整合
+https://www.ithome.com.tw/news/167848
 
-110V AC 轉 DC 懷古：從磚頭到鳳梨酥
-https://blog.darkthread.net/blog/heavy-acdc-adapter/
+Niantic出售包括《Pokémon GO》在內的遊戲業務，轉型開發地理空間AI模型
+https://www.ithome.com.tw/news/167847
 
-ICONICS、三菱電機SCADA系統存在高風險漏洞，恐被用於提升權限、操縱檔案、挾持DLL元件
-https://www.ithome.com.tw/news/167830
+強化資料自主權與品質，Android Health平臺新增背景讀取、歷史記錄存取等功能
+https://www.ithome.com.tw/news/167841
 
-Databricks四大新工具助企業打造可靠AI代理人
-https://www.ithome.com.tw/news/167827
+【資安日報】3月13日，殭屍網路Ballista綁架6千臺尚未修補的TP-Link無線基地臺
+https://www.ithome.com.tw/news/167845
 
-SpaceX與印度兩大行動營運商簽署合作協議，於當地提供Starlink衛星傳通訊服務
-https://www.ithome.com.tw/news/167828
+殭屍網路Ballista綁架尚未修補的TP-Link設備，逾6千臺遭感染
+https://www.ithome.com.tw/news/167842
 
-北韓駭客組織Lazarus仿冒6知名NPM套件，發動軟體供應鏈攻擊
-https://www.ithome.com.tw/news/167821
+OpenAI訓練會寫虛構故事的AI模型
+https://www.ithome.com.tw/news/167840
 
-蘋果修補WebKit零時差漏洞，此弱點疑似已被用於攻擊舊版iOS手機
-https://www.ithome.com.tw/news/167823
+針對微軟修補的Win32核心子系統零時差漏洞，傳出在2年前就遭到利用
+https://www.ithome.com.tw/news/167839
 
-微軟5月底將退役Remote Desktop app，改推Windows App，倉促作法令用戶不滿
-https://www.ithome.com.tw/news/167822
+英特爾任命陳立武為新任執行長
+https://www.ithome.com.tw/news/167838
+
+Google將禁Chrome擴充功能未經同意插入聯盟行銷連結
+https://www.ithome.com.tw/news/167829
 
 Anthropic年化營收達14億美元，Google持有14%股份
 https://www.ithome.com.tw/news/167820
@@ -48,83 +51,71 @@ https://www.ithome.com.tw/news/167812
 eBay升級AI開發平臺以支援自建3兆Token的LLM，下一步要蒸餾出多個小模型以降低應用成本
 https://www.ithome.com.tw/news/167790
 
-PyPI推付費帳戶與治理新條款，開源社群憂平臺營運轉向
-https://www.ithome.com.tw/news/167787
+Adobe 財測黯淡引發 AI 獲利疑慮，股價應聲下跌逾 4%
+https://www.inside.com.tw/article/37819-adobe-forecast-ai-profit-concerns-stock-drop
 
-Asana執行長Dustin Moskovitz宣布退休，盤後股價大跌29%
-https://www.ithome.com.tw/news/167779
+Google 新型 AI 賦予機器人精細動作能力，可折紙藝、封拉鍊袋、綁鞋帶
+https://www.inside.com.tw/article/37817-google-ai-robot-precision-origami-shoelaces
 
-北韓駭客Moonstone Sleet傳出將勒索軟體Qilin納入武器庫
-https://www.ithome.com.tw/news/167778
+AI 是關在小房間裡的天才：Mosky 揭露 AI 如何降低技術門檻
+https://www.inside.com.tw/article/37655-inside-possible-mosky
 
-Mistral發表文件OCR API 支援PDF、圖片、影音也看得懂數學
-https://www.ithome.com.tw/news/167776
+英國首相施凱爾：要用 AI 大量取代公務員，預計能省 450 億英鎊
+https://www.inside.com.tw/article/37818-uk-prime-minister-starmer-plans-to-replace-civil-servants-with-ai-to-save-45-billion-pounds
 
-力壓 DeepSeek！Google DeepMind 突襲發表 Gemma 3 可在單一 GPU/TPU 運行
-https://www.inside.com.tw/article/37809-google-gemma-3
+除了鋼彈，大阪世博還有哪些讓人期待萬分的動漫元素？
+https://www.inside.com.tw/feature/osaka-expo-2025/37810-beyond-gundam-what-other-anime-elements-excite-fans-at-osaka-expo
 
-中國科學家突破電池回收技術，以胺基酸回收 99.99% 鋰
-https://www.inside.com.tw/article/37808-amino-acids-for-battery-lithium-extraction
+出神入化玩轉 AWS 服務！蓋亞資訊助攻企業打造安全無虞容器服務
+https://www.inside.com.tw/feature/2019aws/37780-AWS
 
-Tesla Takedown 運動衝突升級，川普：列為國內恐怖主義
-https://www.inside.com.tw/article/37807-trump-tesla-domestic-terrorism-elon-musk-white-house
+Intel 新掌門陳立武：半導體老將是否能重振藍色巨人？
+https://www.inside.com.tw/article/37816-can-semiconductor-veteran-patrick-chen-revive-intel-the-blue-giant
 
-Meta 開始測試首款自家 AI 訓練晶片，由台積電生產
-https://www.inside.com.tw/article/37805-meta-testing-in-house-training-chip
+中國 Manus 在紅什麼？Vertical AI 是個好的創業題目嗎？特斯拉股價下跌 15%，馬斯克累了？【塞掐 Side Chat】E323
+https://www.inside.com.tw/feature/side-chat/37813-side-chat-e323
 
-路透：台積電提議與 NVIDIA、AMD、博通共組 Intel 代工合資企業
-https://www.inside.com.tw/article/37806-tsmc-pitched-intel-foundry-jv-nvidia-amd-broadcom
+Uber 被曝：需支付 82.8 億解約費退出 foodpanda 收購案！
+https://www.inside.com.tw/article/37812-uber-eats-foodpanda
 
-洗澡 15 分鐘全搞定，AI 還會挑音樂：大阪世博會的未來洗澡機
-https://www.inside.com.tw/feature/osaka-expo-2025/37744-osaka-expo-2025-mirai-ningen-sentakuki
+美國國務卿魯比歐與日韓外長舉行會談之研析
+https://voicettank.org/20250312-3/
 
-OpenAI 推新 API，讓非 LLM 開發者也能打造自己的 Deep Research 和 Operator
-https://www.inside.com.tw/article/37804-openai-ai-agents-responses-api-agents-sdk
+【書摘】《冷戰 2.0：AI如何影響中美俄新戰略》
+https://voicettank.org/20250313-2/
 
-Google 持續布局智慧眼鏡！將收購眼動追蹤技術新創 AdHawk
-https://www.inside.com.tw/article/37803-google-to-acquire-adhawk
+倒閣跟解散國會會成功嗎？
+https://voicettank.org/20250313-1/
 
-投資者蜂擁捧錢！但為什麼中國 DeepSeek 梁文鋒說「現在還不要」？
-https://www.inside.com.tw/article/37802-investors-want-a-piece-of-deepseek-its-founder-says-not-now
+【聽進理投】什麼是主動式 ETF？主動跟被動投資哪個適合我？專訪台大財經系陳彥行教授
+https://www.businessyee.com/article/5679-ep117
 
-飲領數據，迷客夏 POS 資料上雲，建立 BI 平臺洞察市場變化與客戶需求
-https://www.inside.com.tw/feature/2019aws/37779-AWS
+合作持續深化！繼物聯網、雲端遷移解決方案後，中華電信正式成爲 AWS 培訓合作夥伴 繼物聯網、雲端遷移解決方案後，中華電信正式成爲 AWS 培訓合作夥伴
+https://www.businessyee.com/article/5649-AWS
 
-賴政府日漸迫切的多重憂患
-https://voicettank.org/20250312-1/
+陳立武：我最討厭輸！Intel新任執行長給員工的一封信
+https://www.businessyee.com/article/5678-lip-bu-tan-remaking-our-company-future
 
-菲律賓強化與美澳日紐安全合作之戰略意涵
-https://voicettank.org/20250311-3/
+永豐金股利估優於去年，總座朱士廷鬆口「開始慢慢思考」保險版圖
+https://www.businessyee.com/article/5677-SinoPac-2024q4-earningcall
 
-中國對台野心所為何來：比較余茂春及華安瀾觀點
-https://voicettank.org/20250311-2/
+Niantic 大轉型！賣掉《寶可夢GO》換來 35 億美元，進軍地理空間 AI 模型
+https://www.businessyee.com/article/5676-niantic-next-geospatial-AI
 
-聯邦台灣精彩50 ETF（009804）3/17開募！限個股權重、發行價10元
-https://www.businessyee.com/article/5668-009804-ipo
+央行總裁楊金龍：3月降息機率低，台電、台鐵漲價影響有限
+https://www.businessyee.com/article/5675-rate-decision-2025
 
-全球投資新趨勢：新加坡老牌券商助您把握致富機會！
-https://www.businessyee.com/article/5608-PhillipCapital
+ETF資金大遷徙！0050單週受益人數暴增5萬戶，重回定期定額戶龍頭
+https://www.businessyee.com/article/5674-0050-beneficiaries-increas-sharply
 
-加值員工雲端技術職涯！iKala、遠傳與淮南寰宇為何都採用 AWS 雲端培訓計畫？
-https://www.businessyee.com/article/5647-AWS
+40 年吊扇廠華麗轉型不靠價格戰！在 AWS 上執行 RISE with SAP 加值閎博科技創新力
+https://www.businessyee.com/article/5648-AWS
 
-路透獨家：台積電勸進NVIDIA、AMD、Broadcom合資，營運INTEL晶圓廠
-https://www.businessyee.com/article/5667-tsmc-pitched-intel-foundry-jv-nvidia-amd-broadcom-sources-say
+兆豐金配息現金優先，美國分行具戰略優勢，將掌握台積電東進商機
+https://www.businessyee.com/article/5672-mega-2024q4-earningcall
 
-外送雙雄合併確定破局！Uber付台灣foodpanda 82.8億分手費
-https://www.businessyee.com/article/5666-uber-merge-taiwan-foodpanda
+Intel老將回鍋！陳立武出任新任執行長，盤後股價跳漲11%
+https://www.businessyee.com/article/5673-intel-new-ceo-lip-bu-tan
 
-紡拓會 Co-Fashion 等四大平臺上 AWS，期許成為中小型紡織業數位轉型先鋒
-https://www.businessyee.com/article/5645-AWS
-
-川普改口：「完全」不認為經濟會衰退，比特幣應聲反彈近5%
-https://www.businessyee.com/article/5665-trump-say-no-decline
-
-散戶逆勢加碼！台積電零股交易量與金額居台股之冠
-https://www.businessyee.com/article/5664-tsmc-odd-lot-trading-top
-
-《黃仁勳傳》作者Stephen Witt：黃仁勳如何讓NVIDIA成為全球市值第一大的公司？
-https://www.businessyee.com/article/5663-Thinking-Machine-Jensen-Huang
-
-NISSAN社長內田誠卸任，不排除重啟Honda整合案
-https://www.businessyee.com/article/5662-nissan-uchida-makoto-retirement
+Difference Between Apache Camel and Apache Kafka
+https://feeds.feedblitz.com/~/914685485/0/baeldung~Difference-Between-Apache-Camel-and-Apache-Kafka
