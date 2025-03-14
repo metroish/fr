@@ -1,13 +1,52 @@
-# 2025-03-13 09:17:38 Feeds Report 
+# 2025-03-14 09:17:27 Feeds Report 
 
-Daily Hacker News for 2025-03-12
-https://www.daemonology.net/hn-daily/2025-03-12.html
+Daily Hacker News for 2025-03-13
+https://www.daemonology.net/hn-daily/2025-03-13.html
 
-Google釋出1B/4B/12B/27B的 Gemma 3，開始支援多模態
-https://www.ithome.com.tw/news/167850
+演算法中的玄學 - NP 問題
+https://blog.darkthread.net/blog/np-problem/
 
-OpenInfra基金會加入Linux基金會，加速開源基礎設施跨專案整合
-https://www.ithome.com.tw/news/167848
+Fortinet從總部帶頭節能減碳要在2030年實現零碳排，提高產品節能助企業減碳
+https://www.ithome.com.tw/news/167852
+
+加拿大AI新創Cohere發表只需要兩個A100即可部署的AI模型Command A
+https://www.ithome.com.tw/news/167871
+
+Google Gemini將可根據用戶的Google搜尋歷史紀錄來提供答案
+https://www.ithome.com.tw/news/167870
+
+西門子公告伺服驅動馬達設備Sinamics S200重大漏洞，若不處理攻擊者可用來植入惡意韌體
+https://www.ithome.com.tw/news/167869
+
+Bybit遭遇史上最大加密貨幣竊案，起因是Safe開發者遭供應鏈攻擊
+https://www.ithome.com.tw/news/167851
+
+英特爾新款10GbE網卡省電達50％，內建多道硬體安全防護
+https://www.ithome.com.tw/review/167746
+
+微軟發表Copilot for Gaming提供AI個人化遊戲指引
+https://www.ithome.com.tw/news/167868
+
+零售IT雙周報第52期：國內外零售巨頭怎麼用GenAI，Amazon已經有1,000個專案，Walmart省下400萬小時開發時間
+https://www.ithome.com.tw/news/167857
+
+思科針對IOS XR設備發布2025上半年例行更新，修補10項資安漏洞
+https://www.ithome.com.tw/news/167867
+
+OpenAI與Google希望美國讓AI模型存取受版權保護的資料
+https://www.ithome.com.tw/news/167866
+
+GitLab修補重大層級SAML身分驗證繞過漏洞
+https://www.ithome.com.tw/news/167865
+
+在全社會防衛的基礎上打造國家資安韌性，國家資通安全戰略2025即將正式公布
+https://www.ithome.com.tw/news/167864
+
+進退之間
+https://www.ithome.com.tw/voice/167860
+
+8年耕耘前瞻零售大數據技術，91APP打造零售專屬GenAI
+https://www.ithome.com.tw/people/167859
 
 Niantic出售包括《Pokémon GO》在內的遊戲業務，轉型開發地理空間AI模型
 https://www.ithome.com.tw/news/167847
@@ -27,95 +66,86 @@ https://www.ithome.com.tw/news/167840
 針對微軟修補的Win32核心子系統零時差漏洞，傳出在2年前就遭到利用
 https://www.ithome.com.tw/news/167839
 
-英特爾任命陳立武為新任執行長
-https://www.ithome.com.tw/news/167838
+鴻海：2 個月內與日本電動車客戶簽製造服務合約
+https://www.inside.com.tw/article/37839-foxconn-to-sign-manufacturing-service-contract-with-japanese-ev-client-within-two-months
 
-Google將禁Chrome擴充功能未經同意插入聯盟行銷連結
-https://www.ithome.com.tw/news/167829
+科學家開發出使用濕氣回收塑膠技術，4 小時可回收 94% 塑膠
+https://www.inside.com.tw/article/37837-air-moisture-plastic-recycling
 
-Anthropic年化營收達14億美元，Google持有14%股份
-https://www.ithome.com.tw/news/167820
+Andy 老師商標爭議怎解？經濟部：5 年內可提撤銷
+https://www.inside.com.tw/article/37836-trademark-delisted
 
-微軟原生移植TypeScript編譯器，型別檢查、專案載入速度提升10倍
-https://www.ithome.com.tw/news/167813
+OpenAI 稱 DeepSeek 受國家控制，美國應考慮禁止「中共製造」的模型
+https://www.inside.com.tw/article/37834-openai-ai-action-plan-suggestions
 
-微軟發布3月份例行更新，修補7個零時差漏洞、其中6個已出現攻擊行動
-https://www.ithome.com.tw/news/167819
+【Editors&#039; Picks】考慮了一年，爲什麼最後還是選 HomePod？
+https://www.inside.com.tw/article/37791-sherlock-surprisingly-bought-the-apple-homepod-as-his-stereo
 
-Manus AI宣布與阿里通義千問合作，以實現Manus的全部功能
-https://www.ithome.com.tw/news/167814
+AirPods 將搭載即時翻譯功能？彭博：今年登場！
+https://www.inside.com.tw/article/37835-apple-plans-airpods-feature-that-can-live-translate-conversations
 
-OpenAI提供企業自製代理人的新工具
-https://www.ithome.com.tw/news/167812
+2025 大阪世博將展示 Level 4 自駕電動巴士！探索未來交通新模式
+https://www.inside.com.tw/feature/osaka-expo-2025/37796-2025-osaka-expo-level-4-bus
 
-eBay升級AI開發平臺以支援自建3兆Token的LLM，下一步要蒸餾出多個小模型以降低應用成本
-https://www.ithome.com.tw/news/167790
+賓士發表全新 CLA 純電車！續航里程高達 792 公里
+https://www.inside.com.tw/article/37832-mercedes-benz-cla-ev
 
-Adobe 財測黯淡引發 AI 獲利疑慮，股價應聲下跌逾 4%
-https://www.inside.com.tw/article/37819-adobe-forecast-ai-profit-concerns-stock-drop
+Gemini 整合你的搜尋歷史！Google 推出 AI 個人化回應功能
+https://www.inside.com.tw/article/37833-google-gemini-personalization
 
-Google 新型 AI 賦予機器人精細動作能力，可折紙藝、封拉鍊袋、綁鞋帶
-https://www.inside.com.tw/article/37817-google-ai-robot-precision-origami-shoelaces
+成立九年的 YouTube 頻道「上班不要看」正式宣告結束
+https://www.inside.com.tw/article/37831-nsfw-saying-goodbye-to-audience
 
-AI 是關在小房間裡的天才：Mosky 揭露 AI 如何降低技術門檻
-https://www.inside.com.tw/article/37655-inside-possible-mosky
+進步本土小黨的存在，為何成了原罪？
+https://voicettank.org/20250312-2/
 
-英國首相施凱爾：要用 AI 大量取代公務員，預計能省 450 億英鎊
-https://www.inside.com.tw/article/37818-uk-prime-minister-starmer-plans-to-replace-civil-servants-with-ai-to-save-45-billion-pounds
+川普2.0外交作為……
+https://voicettank.org/20250311-1/
 
-除了鋼彈，大阪世博還有哪些讓人期待萬分的動漫元素？
-https://www.inside.com.tw/feature/osaka-expo-2025/37810-beyond-gundam-what-other-anime-elements-excite-fans-at-osaka-expo
+工匠精神的月球背面：為何大立光被追上
+https://voicettank.org/20250314-1/
 
-出神入化玩轉 AWS 服務！蓋亞資訊助攻企業打造安全無虞容器服務
-https://www.inside.com.tw/feature/2019aws/37780-AWS
+國泰金總座李長庚：爭取配息比去年好，壽險股利上繳正面看待
+https://www.businessyee.com/article/5688-cathay-2024-q4-earningcall
 
-Intel 新掌門陳立武：半導體老將是否能重振藍色巨人？
-https://www.inside.com.tw/article/37816-can-semiconductor-veteran-patrick-chen-revive-intel-the-blue-giant
+他們如何成為CEO？今年必讀7本科技巨頭傳記！
+https://www.businessyee.com/article/5687-7-Classic-Biographies-of-Tech-Titans
 
-中國 Manus 在紅什麼？Vertical AI 是個好的創業題目嗎？特斯拉股價下跌 15%，馬斯克累了？【塞掐 Side Chat】E323
-https://www.inside.com.tw/feature/side-chat/37813-side-chat-e323
+元宇宙時代來臨！AWS 助力甲尚科技完善元宇宙世界
+https://www.businessyee.com/article/5651-AWS
 
-Uber 被曝：需支付 82.8 億解約費退出 foodpanda 收購案！
-https://www.inside.com.tw/article/37812-uber-eats-foodpanda
+川普會加速第三次世界大戰爆發嗎？如何解讀國際局勢與地緣政治？
+https://www.businessyee.com/article/5686-trump-world-war-III
 
-美國國務卿魯比歐與日韓外長舉行會談之研析
-https://voicettank.org/20250312-3/
+網路投保更便宜！富邦產險推出住火地震險「美滿e家2.0」專案
+https://www.businessyee.com/article/5685-house-fire-insurance
 
-【書摘】《冷戰 2.0：AI如何影響中美俄新戰略》
-https://voicettank.org/20250313-2/
+YouTube頻道名稱遭搶註商標？經濟部：5年內可爭取撤銷
+https://www.businessyee.com/article/5684-youtuber-teacher-andy-crowd-trademark
 
-倒閣跟解散國會會成功嗎？
-https://voicettank.org/20250313-1/
+成就辦公新型態，AWS 助力木荷科技打造最佳遠距辦公解決方案
+https://www.businessyee.com/article/5650-AWS
 
-【聽進理投】什麼是主動式 ETF？主動跟被動投資哪個適合我？專訪台大財經系陳彥行教授
-https://www.businessyee.com/article/5679-ep117
+長榮每股狂賺 64.87 元！配息率超過 50%，穩坐貨櫃三雄之冠
+https://www.businessyee.com/article/5683-evergreen-yang-ming-wan-hai
 
-合作持續深化！繼物聯網、雲端遷移解決方案後，中華電信正式成爲 AWS 培訓合作夥伴 繼物聯網、雲端遷移解決方案後，中華電信正式成爲 AWS 培訓合作夥伴
-https://www.businessyee.com/article/5649-AWS
+工作上解決問題總是拖延？3個方法，打造「職場高手」的成長心態
+https://www.businessyee.com/article/5682-procrastination-and-Growth-Mindset
 
-陳立武：我最討厭輸！Intel新任執行長給員工的一封信
-https://www.businessyee.com/article/5678-lip-bu-tan-remaking-our-company-future
+保單抵債門檻出爐！六都與各縣市解約金最低標準一次看
+https://www.businessyee.com/article/5681-insurances-intervene-right-act
 
-永豐金股利估優於去年，總座朱士廷鬆口「開始慢慢思考」保險版圖
-https://www.businessyee.com/article/5677-SinoPac-2024q4-earningcall
+The OpenAI API Java Client
+https://feeds.feedblitz.com/~/897535991/0/baeldung~The-OpenAI-API-Java-Client
 
-Niantic 大轉型！賣掉《寶可夢GO》換來 35 億美元，進軍地理空間 AI 模型
-https://www.businessyee.com/article/5676-niantic-next-geospatial-AI
+Introduction to J2CL
+https://feeds.feedblitz.com/~/914775194/0/baeldung~Introduction-to-JCL
 
-央行總裁楊金龍：3月降息機率低，台電、台鐵漲價影響有限
-https://www.businessyee.com/article/5675-rate-decision-2025
+Labeled Breaks in Java: Useful Tool or Code Smell?
+https://feeds.feedblitz.com/~/914775197/0/baeldung~Labeled-Breaks-in-Java-Useful-Tool-or-Code-Smell
 
-ETF資金大遷徙！0050單週受益人數暴增5萬戶，重回定期定額戶龍頭
-https://www.businessyee.com/article/5674-0050-beneficiaries-increas-sharply
+Enable HTTP2 with Tomcat in Spring Boot
+https://feeds.feedblitz.com/~/914775200/0/baeldung~Enable-HTTP-with-Tomcat-in-Spring-Boot
 
-40 年吊扇廠華麗轉型不靠價格戰！在 AWS 上執行 RISE with SAP 加值閎博科技創新力
-https://www.businessyee.com/article/5648-AWS
-
-兆豐金配息現金優先，美國分行具戰略優勢，將掌握台積電東進商機
-https://www.businessyee.com/article/5672-mega-2024q4-earningcall
-
-Intel老將回鍋！陳立武出任新任執行長，盤後股價跳漲11%
-https://www.businessyee.com/article/5673-intel-new-ceo-lip-bu-tan
-
-Difference Between Apache Camel and Apache Kafka
-https://feeds.feedblitz.com/~/914685485/0/baeldung~Difference-Between-Apache-Camel-and-Apache-Kafka
+Java Weekly, Issue 585
+https://feeds.feedblitz.com/~/914733248/0/baeldung~Java-Weekly-Issue
