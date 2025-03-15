@@ -1,28 +1,22 @@
-# 2025-03-14 09:17:27 Feeds Report 
+# 2025-03-15 09:15:10 Feeds Report 
 
-Daily Hacker News for 2025-03-13
-https://www.daemonology.net/hn-daily/2025-03-13.html
+Daily Hacker News for 2025-03-14
+https://www.daemonology.net/hn-daily/2025-03-14.html
 
-演算法中的玄學 - NP 問題
-https://blog.darkthread.net/blog/np-problem/
+Brother 印表機被發現透過韌體更新拔掉副廠墨水夾的色彩校正功能
+https://blog.gslin.org/archives/2025/03/14/12305/brother-%e5%8d%b0%e8%a1%a8%e6%a9%9f%e8%a2%ab%e7%99%bc%e7%8f%be%e9%80%8f%e9%81%8e%e9%9f%8c%e9%ab%94%e6%9b%b4%e6%96%b0%e6%8b%94%e6%8e%89%e5%89%af%e5%bb%a0%e5%a2%a8%e6%b0%b4%e5%a4%be%e7%9a%84%e8%89%b2/
 
-Fortinet從總部帶頭節能減碳要在2030年實現零碳排，提高產品節能助企業減碳
-https://www.ithome.com.tw/news/167852
+Python 3.14 的 tail-call interpreter 的效能提升來自於繞過 LLVM 的 regression bug
+https://blog.gslin.org/archives/2025/03/14/12304/python-3-14-%e7%9a%84-tail-call-interpreter-%e7%9a%84%e6%95%88%e8%83%bd%e6%8f%90%e5%8d%87%e4%be%86%e8%87%aa%e6%96%bc%e7%b9%9e%e9%81%8e-llvm-%e7%9a%84-regression-bug/
 
-加拿大AI新創Cohere發表只需要兩個A100即可部署的AI模型Command A
-https://www.ithome.com.tw/news/167871
+【茶包射手日常】不是眼見為憑，誰都別信
+https://blog.darkthread.net/blog/autoformat-in-reg/
 
-Google Gemini將可根據用戶的Google搜尋歷史紀錄來提供答案
-https://www.ithome.com.tw/news/167870
+國軍官兵手機遭竊被賣到中國惹議，國防部表示未有機密資料外洩
+https://www.ithome.com.tw/news/167886
 
-西門子公告伺服驅動馬達設備Sinamics S200重大漏洞，若不處理攻擊者可用來植入惡意韌體
-https://www.ithome.com.tw/news/167869
-
-Bybit遭遇史上最大加密貨幣竊案，起因是Safe開發者遭供應鏈攻擊
-https://www.ithome.com.tw/news/167851
-
-英特爾新款10GbE網卡省電達50％，內建多道硬體安全防護
-https://www.ithome.com.tw/review/167746
+承諾支持金融機構穩健運用AI！日本金融廳發布AI討論文件，彙整130家日本金融機構GenAI應用情況、風險挑戰
+https://www.ithome.com.tw/news/167884
 
 微軟發表Copilot for Gaming提供AI個人化遊戲指引
 https://www.ithome.com.tw/news/167868
@@ -42,110 +36,41 @@ https://www.ithome.com.tw/news/167865
 在全社會防衛的基礎上打造國家資安韌性，國家資通安全戰略2025即將正式公布
 https://www.ithome.com.tw/news/167864
 
-進退之間
-https://www.ithome.com.tw/voice/167860
+Apple 將為 iOS 與 Android 間通訊引入加密 RCS 功能
+https://www.inside.com.tw/article/37844-/apple-will-finally-enable-encrypted-rcs-messages-between-ios-and-android
 
-8年耕耘前瞻零售大數據技術，91APP打造零售專屬GenAI
-https://www.ithome.com.tw/people/167859
+「微閃電」可能是地球生命的起源！研究揭示水滴間放電能產生生命基本分子
+https://www.inside.com.tw/article/37843-life-water-drops-lightning-spark
 
-Niantic出售包括《Pokémon GO》在內的遊戲業務，轉型開發地理空間AI模型
-https://www.ithome.com.tw/news/167847
+黃彥霖 (黃豆泥)：數發部制度工程師｜醫生轉職工程師再到公務員，推行比紙本證件還安全的數位憑證皮夾，如何在俄烏戰爭中幫助難民【塞掐 Side Chat】E324
+https://www.inside.com.tw/feature/side-chat/37838-side-chat-e324
 
-強化資料自主權與品質，Android Health平臺新增背景讀取、歷史記錄存取等功能
-https://www.ithome.com.tw/news/167841
+當 AI 成為程式教師：Cursor 不僅拒幫寫程式，還變身職涯導師
+https://www.inside.com.tw/article/37842-cursor-ai-goes-full-mentor-refuses-to-code
 
-【資安日報】3月13日，殭屍網路Ballista綁架6千臺尚未修補的TP-Link無線基地臺
-https://www.ithome.com.tw/news/167845
+瑞典先買後付巨頭 Klarna 赴美 IPO 前夕揭露營收成長 24%
+https://www.inside.com.tw/article/37841-swedish-fintech-klarna-reveals-us-ipo-paperwork
 
-殭屍網路Ballista綁架尚未修補的TP-Link設備，逾6千臺遭感染
-https://www.ithome.com.tw/news/167842
+台灣人遊日韓已能掃碼支付，下一步 TWQR 將推展至新加坡等東南亞國家
+https://www.inside.com.tw/article/37840-twqr-sea
 
-OpenAI訓練會寫虛構故事的AI模型
-https://www.ithome.com.tw/news/167840
+【書摘】《什麼！英國女王是蜥蜴人？！：陰謀論、偽歷史與偽科學為什麼吸引我們，透過人性的希望與恐懼，影響我們的決定和行動》
+https://voicettank.org/20250314-2/
 
-針對微軟修補的Win32核心子系統零時差漏洞，傳出在2年前就遭到利用
-https://www.ithome.com.tw/news/167839
+從《不毛地帶》談終戰八十年
+https://voicettank.org/20250314-3/
 
-鴻海：2 個月內與日本電動車客戶簽製造服務合約
-https://www.inside.com.tw/article/37839-foxconn-to-sign-manufacturing-service-contract-with-japanese-ev-client-within-two-months
+買鍋就是買回你的時間！可丟洗碗機的11款韓國製炒鍋這裡找
+https://www.businessyee.com/article/5693-korea-wok-dishwasher-buy-back-your-time
 
-科學家開發出使用濕氣回收塑膠技術，4 小時可回收 94% 塑膠
-https://www.inside.com.tw/article/37837-air-moisture-plastic-recycling
+2025報稅季來臨！綜所稅四大減稅新規，遺贈稅提前規劃省更多
+https://www.businessyee.com/article/5671-
 
-Andy 老師商標爭議怎解？經濟部：5 年內可提撤銷
-https://www.inside.com.tw/article/37836-trademark-delisted
+國泰金總座李長庚：市場動盪不應盲目抄底，等趨勢明朗再加碼
+https://www.businessyee.com/article/5691-cathay-2024-q4-earnin-cal-2
 
-OpenAI 稱 DeepSeek 受國家控制，美國應考慮禁止「中共製造」的模型
-https://www.inside.com.tw/article/37834-openai-ai-action-plan-suggestions
+台灣基金經理人大出走？國泰金總座李長庚：別把人才當賊管
+https://www.businessyee.com/article/5690-Taiwanese-fund-managers-on-the-run
 
-【Editors&#039; Picks】考慮了一年，爲什麼最後還是選 HomePod？
-https://www.inside.com.tw/article/37791-sherlock-surprisingly-bought-the-apple-homepod-as-his-stereo
-
-AirPods 將搭載即時翻譯功能？彭博：今年登場！
-https://www.inside.com.tw/article/37835-apple-plans-airpods-feature-that-can-live-translate-conversations
-
-2025 大阪世博將展示 Level 4 自駕電動巴士！探索未來交通新模式
-https://www.inside.com.tw/feature/osaka-expo-2025/37796-2025-osaka-expo-level-4-bus
-
-賓士發表全新 CLA 純電車！續航里程高達 792 公里
-https://www.inside.com.tw/article/37832-mercedes-benz-cla-ev
-
-Gemini 整合你的搜尋歷史！Google 推出 AI 個人化回應功能
-https://www.inside.com.tw/article/37833-google-gemini-personalization
-
-成立九年的 YouTube 頻道「上班不要看」正式宣告結束
-https://www.inside.com.tw/article/37831-nsfw-saying-goodbye-to-audience
-
-進步本土小黨的存在，為何成了原罪？
-https://voicettank.org/20250312-2/
-
-川普2.0外交作為……
-https://voicettank.org/20250311-1/
-
-工匠精神的月球背面：為何大立光被追上
-https://voicettank.org/20250314-1/
-
-國泰金總座李長庚：爭取配息比去年好，壽險股利上繳正面看待
-https://www.businessyee.com/article/5688-cathay-2024-q4-earningcall
-
-他們如何成為CEO？今年必讀7本科技巨頭傳記！
-https://www.businessyee.com/article/5687-7-Classic-Biographies-of-Tech-Titans
-
-元宇宙時代來臨！AWS 助力甲尚科技完善元宇宙世界
-https://www.businessyee.com/article/5651-AWS
-
-川普會加速第三次世界大戰爆發嗎？如何解讀國際局勢與地緣政治？
-https://www.businessyee.com/article/5686-trump-world-war-III
-
-網路投保更便宜！富邦產險推出住火地震險「美滿e家2.0」專案
-https://www.businessyee.com/article/5685-house-fire-insurance
-
-YouTube頻道名稱遭搶註商標？經濟部：5年內可爭取撤銷
-https://www.businessyee.com/article/5684-youtuber-teacher-andy-crowd-trademark
-
-成就辦公新型態，AWS 助力木荷科技打造最佳遠距辦公解決方案
-https://www.businessyee.com/article/5650-AWS
-
-長榮每股狂賺 64.87 元！配息率超過 50%，穩坐貨櫃三雄之冠
-https://www.businessyee.com/article/5683-evergreen-yang-ming-wan-hai
-
-工作上解決問題總是拖延？3個方法，打造「職場高手」的成長心態
-https://www.businessyee.com/article/5682-procrastination-and-Growth-Mindset
-
-保單抵債門檻出爐！六都與各縣市解約金最低標準一次看
-https://www.businessyee.com/article/5681-insurances-intervene-right-act
-
-The OpenAI API Java Client
-https://feeds.feedblitz.com/~/897535991/0/baeldung~The-OpenAI-API-Java-Client
-
-Introduction to J2CL
-https://feeds.feedblitz.com/~/914775194/0/baeldung~Introduction-to-JCL
-
-Labeled Breaks in Java: Useful Tool or Code Smell?
-https://feeds.feedblitz.com/~/914775197/0/baeldung~Labeled-Breaks-in-Java-Useful-Tool-or-Code-Smell
-
-Enable HTTP2 with Tomcat in Spring Boot
-https://feeds.feedblitz.com/~/914775200/0/baeldung~Enable-HTTP-with-Tomcat-in-Spring-Boot
-
-Java Weekly, Issue 585
-https://feeds.feedblitz.com/~/914733248/0/baeldung~Java-Weekly-Issue
+劉揚偉：鴻海2個月內將與日本電動車客戶簽CDMS
+https://www.businessyee.com/article/5689-hon-hai-ev-japan
