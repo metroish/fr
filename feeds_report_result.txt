@@ -1,76 +1,19 @@
-# 2025-03-15 09:15:10 Feeds Report 
+# 2025-03-16 09:15:01 Feeds Report 
 
-Daily Hacker News for 2025-03-14
-https://www.daemonology.net/hn-daily/2025-03-14.html
+Daily Hacker News for 2025-03-15
+https://www.daemonology.net/hn-daily/2025-03-15.html
 
-Brother 印表機被發現透過韌體更新拔掉副廠墨水夾的色彩校正功能
-https://blog.gslin.org/archives/2025/03/14/12305/brother-%e5%8d%b0%e8%a1%a8%e6%a9%9f%e8%a2%ab%e7%99%bc%e7%8f%be%e9%80%8f%e9%81%8e%e9%9f%8c%e9%ab%94%e6%9b%b4%e6%96%b0%e6%8b%94%e6%8e%89%e5%89%af%e5%bb%a0%e5%a2%a8%e6%b0%b4%e5%a4%be%e7%9a%84%e8%89%b2/
+Weekly Ask Hacker News for 2025-03-09 -- 2025-03-15
+http://www.daemonology.net/hn-weekly-ask/2025-03-15.html
 
-Python 3.14 的 tail-call interpreter 的效能提升來自於繞過 LLVM 的 regression bug
-https://blog.gslin.org/archives/2025/03/14/12304/python-3-14-%e7%9a%84-tail-call-interpreter-%e7%9a%84%e6%95%88%e8%83%bd%e6%8f%90%e5%8d%87%e4%be%86%e8%87%aa%e6%96%bc%e7%b9%9e%e9%81%8e-llvm-%e7%9a%84-regression-bug/
+重新定義資安預防準度與效率，Deep Instinct開闢AI資安新局
+https://www.ithome.com.tw/review/167612
 
-【茶包射手日常】不是眼見為憑，誰都別信
-https://blog.darkthread.net/blog/autoformat-in-reg/
+中國要求標記由AI生成的內容，9月上線
+https://www.ithome.com.tw/news/167887
 
-國軍官兵手機遭竊被賣到中國惹議，國防部表示未有機密資料外洩
-https://www.ithome.com.tw/news/167886
+意外驚喜：Intel 亞利桑那新廠傳出好消息，1.8 奈米級晶圓提前問世
+https://www.inside.com.tw/article/37846-intel-reaches-exciting-milestone-for-18a-1-8nm-class-wafers
 
-承諾支持金融機構穩健運用AI！日本金融廳發布AI討論文件，彙整130家日本金融機構GenAI應用情況、風險挑戰
-https://www.ithome.com.tw/news/167884
-
-微軟發表Copilot for Gaming提供AI個人化遊戲指引
-https://www.ithome.com.tw/news/167868
-
-零售IT雙周報第52期：國內外零售巨頭怎麼用GenAI，Amazon已經有1,000個專案，Walmart省下400萬小時開發時間
-https://www.ithome.com.tw/news/167857
-
-思科針對IOS XR設備發布2025上半年例行更新，修補10項資安漏洞
-https://www.ithome.com.tw/news/167867
-
-OpenAI與Google希望美國讓AI模型存取受版權保護的資料
-https://www.ithome.com.tw/news/167866
-
-GitLab修補重大層級SAML身分驗證繞過漏洞
-https://www.ithome.com.tw/news/167865
-
-在全社會防衛的基礎上打造國家資安韌性，國家資通安全戰略2025即將正式公布
-https://www.ithome.com.tw/news/167864
-
-Apple 將為 iOS 與 Android 間通訊引入加密 RCS 功能
-https://www.inside.com.tw/article/37844-/apple-will-finally-enable-encrypted-rcs-messages-between-ios-and-android
-
-「微閃電」可能是地球生命的起源！研究揭示水滴間放電能產生生命基本分子
-https://www.inside.com.tw/article/37843-life-water-drops-lightning-spark
-
-黃彥霖 (黃豆泥)：數發部制度工程師｜醫生轉職工程師再到公務員，推行比紙本證件還安全的數位憑證皮夾，如何在俄烏戰爭中幫助難民【塞掐 Side Chat】E324
-https://www.inside.com.tw/feature/side-chat/37838-side-chat-e324
-
-當 AI 成為程式教師：Cursor 不僅拒幫寫程式，還變身職涯導師
-https://www.inside.com.tw/article/37842-cursor-ai-goes-full-mentor-refuses-to-code
-
-瑞典先買後付巨頭 Klarna 赴美 IPO 前夕揭露營收成長 24%
-https://www.inside.com.tw/article/37841-swedish-fintech-klarna-reveals-us-ipo-paperwork
-
-台灣人遊日韓已能掃碼支付，下一步 TWQR 將推展至新加坡等東南亞國家
-https://www.inside.com.tw/article/37840-twqr-sea
-
-【書摘】《什麼！英國女王是蜥蜴人？！：陰謀論、偽歷史與偽科學為什麼吸引我們，透過人性的希望與恐懼，影響我們的決定和行動》
-https://voicettank.org/20250314-2/
-
-從《不毛地帶》談終戰八十年
-https://voicettank.org/20250314-3/
-
-買鍋就是買回你的時間！可丟洗碗機的11款韓國製炒鍋這裡找
-https://www.businessyee.com/article/5693-korea-wok-dishwasher-buy-back-your-time
-
-2025報稅季來臨！綜所稅四大減稅新規，遺贈稅提前規劃省更多
-https://www.businessyee.com/article/5671-
-
-國泰金總座李長庚：市場動盪不應盲目抄底，等趨勢明朗再加碼
-https://www.businessyee.com/article/5691-cathay-2024-q4-earnin-cal-2
-
-台灣基金經理人大出走？國泰金總座李長庚：別把人才當賊管
-https://www.businessyee.com/article/5690-Taiwanese-fund-managers-on-the-run
-
-劉揚偉：鴻海2個月內將與日本電動車客戶簽CDMS
-https://www.businessyee.com/article/5689-hon-hai-ev-japan
+年底前消失！Google Assistant 將退場，Gemini 接管所有裝置
+https://www.inside.com.tw/article/37845-google-is-replacing-google-assistant-with-gemini
