@@ -1,19 +1,76 @@
-# 2025-03-16 09:15:01 Feeds Report 
+# 2025-03-17 09:18:50 Feeds Report 
 
-Daily Hacker News for 2025-03-15
-https://www.daemonology.net/hn-daily/2025-03-15.html
+Daily Hacker News for 2025-03-16
+https://www.daemonology.net/hn-daily/2025-03-16.html
 
-Weekly Ask Hacker News for 2025-03-09 -- 2025-03-15
-http://www.daemonology.net/hn-weekly-ask/2025-03-15.html
+裝 Clickbait Remover for Youtube
+https://blog.gslin.org/archives/2025/03/17/12307/%e8%a3%9d-clickbait-remover-for-youtube/
+
+影音檔 Whisper 轉逐字稿之檔案批次處理工具
+https://blog.darkthread.net/blog/mp4-mp3-merge-split-utils/
+
+GitHub修補SAML程式庫ruby-saml重大漏洞，並公布問題細節
+https://www.ithome.com.tw/news/167904
+
+iOS將支援RCS 3.0端對端加密，提升與Android訊息互通安全性
+https://www.ithome.com.tw/news/167897
+
+Fortinet身分驗證繞過漏洞再傳遭濫用，勒索軟體SuperBlack藉此並串連新漏洞入侵受害組織
+https://www.ithome.com.tw/news/167900
+
+Google Gemini Flash Thinking模型升級、強化Deep Research、整合Google App
+https://www.ithome.com.tw/news/167890
+
+Gemini聊天機器人將在今年全面取代Google Assistant
+https://www.ithome.com.tw/news/167889
+
+微軟為誤刪兩款受歡迎的VS Code擴充程式道歉
+https://www.ithome.com.tw/news/167888
 
 重新定義資安預防準度與效率，Deep Instinct開闢AI資安新局
 https://www.ithome.com.tw/review/167612
 
-中國要求標記由AI生成的內容，9月上線
-https://www.ithome.com.tw/news/167887
+大阪世博 2025：科技賦能高齡照護的未來藍圖
+https://www.inside.com.tw/feature/osaka-expo-2025/37764-world-expo-2025-osaka
 
-意外驚喜：Intel 亞利桑那新廠傳出好消息，1.8 奈米級晶圓提前問世
-https://www.inside.com.tw/article/37846-intel-reaches-exciting-milestone-for-18a-1-8nm-class-wafers
+JR 西日本將建全球首個 3D 列印火車站！過程僅需 6 小時
+https://www.inside.com.tw/article/37855-3d-printing-train-station
 
-年底前消失！Google Assistant 將退場，Gemini 接管所有裝置
-https://www.inside.com.tw/article/37845-google-is-replacing-google-assistant-with-gemini
+安麗破百億業績 8 成來自線上！直銷龍頭如何靠數據與雲端科技拓展新商模？
+https://www.inside.com.tw/feature/2019aws/37853-AWS
+
+LINE 備份頻率出現異常，聊天記錄恐全消失！更新步驟一次看
+https://www.inside.com.tw/article/37852-line-backup-frequency-issue
+
+21 歲大學生開發 AI 作弊面試軟體，讓程式設計師輕鬆過關 Google 技術面試
+https://www.inside.com.tw/article/37851-21-year-old-ai-cheat-tool-google-interviews
+
+百度推出最新文心大模型：號稱和DeepSeek R1 能力相當但價格砍半
+https://www.inside.com.tw/article/37848-baidu-new-ernie-model
+
+裕利醫藥打造全台第一輛 VOLVO 醫藥冷鏈電動卡車上路
+https://www.inside.com.tw/article/37850-taiwans-first-volvo-pharmaceutical-cold-chain-electric-truck-hits-the-road
+
+蘋果曾考慮推出無連接埠 iPhone 17 Air，因恐與歐盟法規衝突而擱置
+https://www.inside.com.tw/article/37847-apple-considered-making-the-rumored-iphone-17-air-completely-port-free
+
+從數位憑證皮夾到 Web3 理想——專訪數發部工程師黃彥霖
+https://www.inside.com.tw/article/37830-side-chat-mashbean
+
+【好險有聽】什麼是公共意外責任險？這個保險跟你息息相關！
+https://www.businessyee.com/article/5697-ep23
+
+力抗通縮！中國啟動《提振消費專案行動方案》拚內需帶動經濟！
+https://www.businessyee.com/article/5695-china-boost-domestic-consumption
+
+美財長：「市場修正才健康！但不保證不衰退」期指走軟
+https://www.businessyee.com/article/5694-scott-bessent-adjustment
+
+2025年股東會紀念品：各大公司送什麼？最受歡迎紀念品大公開
+https://www.businessyee.com/article/5692-shareholders-souvenirs-2025
+
+Comparing Java Stream and Flux.fromIterable()
+https://feeds.feedblitz.com/~/914922452/0/baeldung~Comparing-Java-Stream-and-FluxfromIterable
+
+Integrating Jolokia With Spring Boot
+https://feeds.feedblitz.com/~/914922455/0/baeldung~Integrating-Jolokia-With-Spring-Boot
