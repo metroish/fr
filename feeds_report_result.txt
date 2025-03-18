@@ -1,76 +1,106 @@
-# 2025-03-17 09:18:50 Feeds Report 
+# 2025-03-18 09:18:16 Feeds Report 
 
-Daily Hacker News for 2025-03-16
-https://www.daemonology.net/hn-daily/2025-03-16.html
+Daily Hacker News for 2025-03-17
+https://www.daemonology.net/hn-daily/2025-03-17.html
 
-裝 Clickbait Remover for Youtube
-https://blog.gslin.org/archives/2025/03/17/12307/%e8%a3%9d-clickbait-remover-for-youtube/
+ICANN 推動 RDAP 取代 WHOIS
+https://blog.gslin.org/archives/2025/03/17/12308/icann-%e6%8e%a8%e5%8b%95-rdap-%e5%8f%96%e4%bb%a3-whois/
 
-影音檔 Whisper 轉逐字稿之檔案批次處理工具
-https://blog.darkthread.net/blog/mp4-mp3-merge-split-utils/
+Go 小工具 - CLI 版 Token 計數器
+https://blog.darkthread.net/blog/tikcount-go/
 
-GitHub修補SAML程式庫ruby-saml重大漏洞，並公布問題細節
-https://www.ithome.com.tw/news/167904
+思科修補IOS XR的BGP聯盟實作漏洞，若不處理恐面臨DoS服務中斷攻擊
+https://www.ithome.com.tw/news/167916
 
-iOS將支援RCS 3.0端對端加密，提升與Android訊息互通安全性
-https://www.ithome.com.tw/news/167897
+Eclipse基金會推Theia AI開源框架，AI原生IDE與客製化工具建置更簡單
+https://www.ithome.com.tw/news/167915
 
-Fortinet身分驗證繞過漏洞再傳遭濫用，勒索軟體SuperBlack藉此並串連新漏洞入侵受害組織
-https://www.ithome.com.tw/news/167900
+外傳Alphabet再度開價欲以300億美元買下Wiz
+https://www.ithome.com.tw/news/167914
+
+Tomcat漏洞揭露30小時後出現PoC，已被用於實際攻擊
+https://www.ithome.com.tw/news/167913
+
+百度發表Ernie X1以與DeepSeek R1競爭
+https://www.ithome.com.tw/news/167912
+
+Google釋出Chromecast、Chromecast Audio無法運作的修補程式
+https://www.ithome.com.tw/news/167908
 
 Google Gemini Flash Thinking模型升級、強化Deep Research、整合Google App
 https://www.ithome.com.tw/news/167890
 
-Gemini聊天機器人將在今年全面取代Google Assistant
-https://www.ithome.com.tw/news/167889
+TNL Mediagene 關鍵評論網媒體集團宣布推出「Brandformance」廣告策略，培養忠實用戶，提升電商營業績效
+https://www.inside.com.tw/article/37873-tnl-mediagene-brandformance
 
-微軟為誤刪兩款受歡迎的VS Code擴充程式道歉
-https://www.ithome.com.tw/news/167888
+美加關稅戰升溫，加拿大笑稱「核彈級」反制手段：禁美國人使用 PornHub！
+https://www.inside.com.tw/article/37874-canadian-proposes-banning-pornhub
 
-重新定義資安預防準度與效率，Deep Instinct開闢AI資安新局
-https://www.ithome.com.tw/review/167612
+Google 傳與聯發科合作打造成本更低的 TPU，預計 2026 年開始生產
+https://www.inside.com.tw/article/37870-google-taps-mediatek-cheaper-ai-chips
 
-大阪世博 2025：科技賦能高齡照護的未來藍圖
-https://www.inside.com.tw/feature/osaka-expo-2025/37764-world-expo-2025-osaka
+年度科技風向球：NVIDIA GTC 2025 有什麼值得期待的？
+https://www.inside.com.tw/article/37869-what-to-expect-gtc-2025
 
-JR 西日本將建全球首個 3D 列印火車站！過程僅需 6 小時
-https://www.inside.com.tw/article/37855-3d-printing-train-station
+Google 最大收購案重啟！正在洽談以 300 億美元收購 Wiz
+https://www.inside.com.tw/article/37871-alphabet-wiz-30b-deal
 
-安麗破百億業績 8 成來自線上！直銷龍頭如何靠數據與雲端科技拓展新商模？
-https://www.inside.com.tw/feature/2019aws/37853-AWS
+比亞迪推出「超級平台」，宣稱快充可達 1,000 kW
+https://www.inside.com.tw/article/37867-byd-unveils-faster-charging-ev-platform-aims-build-over-4000-charging
 
-LINE 備份頻率出現異常，聊天記錄恐全消失！更新步驟一次看
-https://www.inside.com.tw/article/37852-line-backup-frequency-issue
+德國奧迪集團汽車至 2029 年底裁員 7500 人
+https://www.inside.com.tw/article/37866-audi-group-to-cut-7500-jobs-by-the-end-of-2029
 
-21 歲大學生開發 AI 作弊面試軟體，讓程式設計師輕鬆過關 Google 技術面試
-https://www.inside.com.tw/article/37851-21-year-old-ai-cheat-tool-google-interviews
+3D 物件交易狂飆 187%！專訪 pixiv 剖析 2025 為何是「行動虛擬角色元年」
+https://www.inside.com.tw/article/37811-pixiv-3d-object
 
-百度推出最新文心大模型：號稱和DeepSeek R1 能力相當但價格砍半
-https://www.inside.com.tw/article/37848-baidu-new-ernie-model
+人事搬風！PChome CEO 張瑜珊、財務長周磊辭去董事，擬讓統一參加補選
+https://www.inside.com.tw/article/37864-pchome-ceo-resigns-from-board-position
 
-裕利醫藥打造全台第一輛 VOLVO 醫藥冷鏈電動卡車上路
-https://www.inside.com.tw/article/37850-taiwans-first-volvo-pharmaceutical-cold-chain-electric-truck-hits-the-road
+矽谷加速器 Plug and Play 搶進台灣市場，鎖定 AI 與物聯網
+https://www.inside.com.tw/article/37861-plug-and-play-taoyuan
 
-蘋果曾考慮推出無連接埠 iPhone 17 Air，因恐與歐盟法規衝突而擱置
-https://www.inside.com.tw/article/37847-apple-considered-making-the-rumored-iphone-17-air-completely-port-free
+Homepage
+https://voicettank.org/
 
-從數位憑證皮夾到 Web3 理想——專訪數發部工程師黃彥霖
-https://www.inside.com.tw/article/37830-side-chat-mashbean
+寒流注意？! 史上最強國際政治白話文運動襲來
+https://voicettank.org/20250318-1/
 
-【好險有聽】什麼是公共意外責任險？這個保險跟你息息相關！
-https://www.businessyee.com/article/5697-ep23
+駭客組織威脅我國醫療體系所需的應變策略
+https://voicettank.org/20250317-3/
 
-力抗通縮！中國啟動《提振消費專案行動方案》拚內需帶動經濟！
-https://www.businessyee.com/article/5695-china-boost-domestic-consumption
+王鴻薇挺中配恐攻：侵略靠白臉成事
+https://voicettank.org/20250317-1/
 
-美財長：「市場修正才健康！但不保證不衰退」期指走軟
-https://www.businessyee.com/article/5694-scott-bessent-adjustment
+切合實務的全方位風險管理方案──賴清德總統十七項國安因應策略
+https://voicettank.org/20250317-2/
 
-2025年股東會紀念品：各大公司送什麼？最受歡迎紀念品大公開
-https://www.businessyee.com/article/5692-shareholders-souvenirs-2025
+TNL Mediagene 關鍵評論網媒體集團宣布推出「Brandformance」廣告策略，培養忠實用戶，提升電商營業績效
+https://www.businessyee.com/article/5707-
 
-Comparing Java Stream and Flux.fromIterable()
-https://feeds.feedblitz.com/~/914922452/0/baeldung~Comparing-Java-Stream-and-FluxfromIterable
+實現 AI 轉型，TNL Mediagene 關鍵評論網媒體集團的 Ad2 AI Agent 3 月重磅登場，開啟智慧廣告決策新時代
+https://www.businessyee.com/article/5570-
 
-Integrating Jolokia With Spring Boot
-https://feeds.feedblitz.com/~/914922455/0/baeldung~Integrating-Jolokia-With-Spring-Boot
+中信金股利拚六成配發率，總座高麗雪看川普變化球：全力擊出安打
+https://www.businessyee.com/article/5712-ctbc-2024-earningcall
+
+千萬資產想傳承給妻兒，如何透過保單規劃合法節稅？
+https://www.businessyee.com/article/5711-Estate-and-Tax-Planning
+
+Gogolook 2024 營收再創新高！挟8.7億實力改列一般版上市
+https://www.businessyee.com/article/5710-gogolook-ipo
+
+播放七千萬次的 Firstory 與前進全球的區塊鏈新創 Numbers，AWS 如何協助新創夥伴打造創收管道！
+https://www.businessyee.com/article/5709-AWS
+
+谷歌DeepMind執行長：AI 有望在未來5 到10年內超越人類
+https://www.businessyee.com/article/5706-human-level-ai-Deepmind
+
+【看進華爾街】Palantir前景好嗎？股價合理嗎？PLTR適合長期投資嗎？
+https://www.businessyee.com/article/5705-PLTR
+
+陳立武管理層改革計劃出爐！英特爾聞訊大漲8%
+https://www.businessyee.com/article/5702-intels-new-ceo-plan
+
+富人海外移民、資產傳承如何選擇？中信銀2025報告揭最新趨勢
+https://www.businessyee.com/article/5703-ctbc-high-asset-report-2025
