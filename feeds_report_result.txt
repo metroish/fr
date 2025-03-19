@@ -1,22 +1,37 @@
-# 2025-03-18 09:18:16 Feeds Report 
+# 2025-03-19 09:18:13 Feeds Report 
 
-Daily Hacker News for 2025-03-17
-https://www.daemonology.net/hn-daily/2025-03-17.html
+Daily Hacker News for 2025-03-18
+https://www.daemonology.net/hn-daily/2025-03-18.html
 
-ICANN 推動 RDAP 取代 WHOIS
-https://blog.gslin.org/archives/2025/03/17/12308/icann-%e6%8e%a8%e5%8b%95-rdap-%e5%8f%96%e4%bb%a3-whois/
+Kagi 的台灣付款問題看起來還沒搞定...
+https://blog.gslin.org/archives/2025/03/18/12309/kagi-%e7%9a%84%e5%8f%b0%e7%81%a3%e4%bb%98%e6%ac%be%e5%95%8f%e9%a1%8c%e7%9c%8b%e8%b5%b7%e4%be%86%e9%82%84%e6%b2%92%e6%90%9e%e5%ae%9a/
 
-Go 小工具 - CLI 版 Token 計數器
-https://blog.darkthread.net/blog/tikcount-go/
+ GCC 15首度整合COBOL 預設啟用C23並強化C++26支援
+https://www.ithome.com.tw/news/167945
 
-思科修補IOS XR的BGP聯盟實作漏洞，若不處理恐面臨DoS服務中斷攻擊
-https://www.ithome.com.tw/news/167916
+超過1百萬裝置遭殭屍網路BadBox 2.0綁架，用於廣告詐欺、非法代理伺服器
+https://www.ithome.com.tw/news/167946
 
-Eclipse基金會推Theia AI開源框架，AI原生IDE與客製化工具建置更簡單
-https://www.ithome.com.tw/news/167915
+11組國家級駭客共散播上千個惡意LNK捷徑檔，劍指Windows尚無修布的零時差漏洞
+https://www.ithome.com.tw/news/167944
 
-外傳Alphabet再度開價欲以300億美元買下Wiz
-https://www.ithome.com.tw/news/167914
+Nvidia開源全新推論軟體Dynamo
+https://www.ithome.com.tw/news/167943
+
+Nvidia公布Llama Nemotron AI推理模型，支援開發AI代理人
+https://www.ithome.com.tw/news/167942
+
+Google證實將以320億美元買下Wiz
+https://www.ithome.com.tw/news/167940
+
+Nvidia公布二款個人用AI超級電腦，Project Digits開放預約
+https://www.ithome.com.tw/news/167936
+
+Mistral Small 3.1視覺與語文理解能力領先Google新推的Gemma 3
+https://www.ithome.com.tw/news/167926
+
+Nvidia發表Blackwell Ultra加速AI推理，釋出首個人形機器人開發的開放式基礎模型
+https://www.ithome.com.tw/news/167927
 
 Tomcat漏洞揭露30小時後出現PoC，已被用於實際攻擊
 https://www.ithome.com.tw/news/167913
@@ -24,83 +39,74 @@ https://www.ithome.com.tw/news/167913
 百度發表Ernie X1以與DeepSeek R1競爭
 https://www.ithome.com.tw/news/167912
 
-Google釋出Chromecast、Chromecast Audio無法運作的修補程式
-https://www.ithome.com.tw/news/167908
+自建量子電腦外的新選擇！成大善用 Amazon Braket 悠遊不同量子硬體架構，展開研究！
+https://www.inside.com.tw/feature/2019aws/37857-AWS
 
-Google Gemini Flash Thinking模型升級、強化Deep Research、整合Google App
-https://www.ithome.com.tw/news/167890
+Google 為 Gemini 加料啦！全新 Canvas 和超酷 podcast 功能登場
+https://www.inside.com.tw/article/37890-google-gemini-canvas
 
-TNL Mediagene 關鍵評論網媒體集團宣布推出「Brandformance」廣告策略，培養忠實用戶，提升電商營業績效
-https://www.inside.com.tw/article/37873-tnl-mediagene-brandformance
+特斯拉向加州申請叫車服務許可，但背後另有玄機
+https://www.inside.com.tw/article/37889-tesla-applies-for-ride-hail-permit-in-california-but-theres-a-catch
 
-美加關稅戰升溫，加拿大笑稱「核彈級」反制手段：禁美國人使用 PornHub！
-https://www.inside.com.tw/article/37874-canadian-proposes-banning-pornhub
+台積電合作英特爾？劉鏡清比喻汽柴油很難混燒：董事會從未討論
+https://www.inside.com.tw/article/37887-smc-collaborating-with-intel-liu-jingqing-says-board-has-never-discussed-it
 
-Google 傳與聯發科合作打造成本更低的 TPU，預計 2026 年開始生產
-https://www.inside.com.tw/article/37870-google-taps-mediatek-cheaper-ai-chips
+結束 9 個月滯留！2 名 NASA 太空人乘坐 SpaceX 太空船成功降落
+https://www.inside.com.tw/article/37886-nasa-astronauts-return-after-9-months
 
-年度科技風向球：NVIDIA GTC 2025 有什麼值得期待的？
-https://www.inside.com.tw/article/37869-what-to-expect-gtc-2025
+鴻海佈局智慧城市版圖，以 AI 驅動永續轉型
+https://www.inside.com.tw/article/37885-foxconn-expands-smart-city-development-with-ai-driven-sustainable-transformation
 
-Google 最大收購案重啟！正在洽談以 300 億美元收購 Wiz
-https://www.inside.com.tw/article/37871-alphabet-wiz-30b-deal
+麗臺科技攜手 NVIDIA DLI 深度學習機構，協助企業部署大型語言模型進行安全、有效且準確的對話
+https://www.inside.com.tw/article/37862-leadtek_nvdli_onlinecourse
 
-比亞迪推出「超級平台」，宣稱快充可達 1,000 kW
-https://www.inside.com.tw/article/37867-byd-unveils-faster-charging-ev-platform-aims-build-over-4000-charging
+【NVIDIA GTC 2025】「幾乎整個世界都搞錯了！」黃仁勳如何回應 DeepSeek？
+https://www.inside.com.tw/article/37883-jensen-huang-almost-the-entire-world-got-it-wrong
 
-德國奧迪集團汽車至 2029 年底裁員 7500 人
-https://www.inside.com.tw/article/37866-audi-group-to-cut-7500-jobs-by-the-end-of-2029
+【NVIDIA GTC 2025】NVIDIA 推出「AI 加速器」原始碼推理軟體 Dynamo
+https://www.inside.com.tw/article/37884-nvidia-dynamo-open-source-library-accelerates-and-scales-ai-reasoning-models
 
-3D 物件交易狂飆 187%！專訪 pixiv 剖析 2025 為何是「行動虛擬角色元年」
-https://www.inside.com.tw/article/37811-pixiv-3d-object
+【NVIDIA GTC 2025】NVIDIA 宣布 2026 推出 Rubin GPU、2027 推出 Rubin Ultra，揭露下一代平台 Feyman
+https://www.inside.com.tw/article/37882-nvidia-rubin-feyman
 
-人事搬風！PChome CEO 張瑜珊、財務長周磊辭去董事，擬讓統一參加補選
-https://www.inside.com.tw/article/37864-pchome-ceo-resigns-from-board-position
+美國總統的行政命令所向無敵？
+https://voicettank.org/20250319-2/
 
-矽谷加速器 Plug and Play 搶進台灣市場，鎖定 AI 與物聯網
-https://www.inside.com.tw/article/37861-plug-and-play-taoyuan
+國家安全專門法庭才是現在迫切需要的解方
+https://voicettank.org/20250319-1/
 
-Homepage
-https://voicettank.org/
+日本秋月級驅逐艦通過台海之戰略意涵
+https://voicettank.org/20250318-3/
 
-寒流注意？! 史上最強國際政治白話文運動襲來
-https://voicettank.org/20250318-1/
+美國川普政府將振興造船業之研析
+https://voicettank.org/20250319-3/
 
-駭客組織威脅我國醫療體系所需的應變策略
-https://voicettank.org/20250317-3/
+【保單抵債公聽會】聽金管會意見豁免小額終老險，司法院處境尷尬
+https://www.businessyee.com/article/5721-Insurance-policy-debt-1
 
-王鴻薇挺中配恐攻：侵略靠白臉成事
-https://voicettank.org/20250317-1/
+生成式 AI 落地進行式，打破「零售業」獲利僵局
+https://www.businessyee.com/article/5717-AWS
 
-切合實務的全方位風險管理方案──賴清德總統十七項國安因應策略
-https://voicettank.org/20250317-2/
+錯過400多元的台積電好後悔？4個「思維重置」技巧擁抱變化抓住機會
+https://www.businessyee.com/article/5722-mindset-reset
 
-TNL Mediagene 關鍵評論網媒體集團宣布推出「Brandformance」廣告策略，培養忠實用戶，提升電商營業績效
-https://www.businessyee.com/article/5707-
+Google：擲320億美元收購 Wiz，強化雲端安全業務
+https://www.businessyee.com/article/5718-google-is-buying-wiz-for-32b-to-beef-up-in-cloud-security
 
-實現 AI 轉型，TNL Mediagene 關鍵評論網媒體集團的 Ad2 AI Agent 3 月重磅登場，開啟智慧廣告決策新時代
-https://www.businessyee.com/article/5570-
+【GTC】狂推帶貨Blackwell，黃仁勳：不會幾個月就出新產品嚇你一跳
+https://www.businessyee.com/article/5715-gtc
 
-中信金股利拚六成配發率，總座高麗雪看川普變化球：全力擊出安打
-https://www.businessyee.com/article/5712-ctbc-2024-earningcall
+AWS 助金色三麥精準預估銷量、快速分析顧客心聲 透過數位轉型提升營運效率與服務品質
+https://www.businessyee.com/article/5716-AWS
 
-千萬資產想傳承給妻兒，如何透過保單規劃合法節稅？
-https://www.businessyee.com/article/5711-Estate-and-Tax-Planning
+玉山金砸27.6億併保德信投信，全現金取得91.2%股權
+https://www.businessyee.com/article/5714-esun-merge-PGIM
 
-Gogolook 2024 營收再創新高！挟8.7億實力改列一般版上市
-https://www.businessyee.com/article/5710-gogolook-ipo
+立委爭取小額終老保險納入豁免，保單抵債修法司法院表態
+https://www.businessyee.com/article/5713-insurances-intervene-act-Judicial-Yuan
 
-播放七千萬次的 Firstory 與前進全球的區塊鏈新創 Numbers，AWS 如何協助新創夥伴打造創收管道！
-https://www.businessyee.com/article/5709-AWS
+Stub Getter and Setter in Mockito
+https://feeds.feedblitz.com/~/915062864/0/baeldung~Stub-Getter-and-Setter-in-Mockito
 
-谷歌DeepMind執行長：AI 有望在未來5 到10年內超越人類
-https://www.businessyee.com/article/5706-human-level-ai-Deepmind
-
-【看進華爾街】Palantir前景好嗎？股價合理嗎？PLTR適合長期投資嗎？
-https://www.businessyee.com/article/5705-PLTR
-
-陳立武管理層改革計劃出爐！英特爾聞訊大漲8%
-https://www.businessyee.com/article/5702-intels-new-ceo-plan
-
-富人海外移民、資產傳承如何選擇？中信銀2025報告揭最新趨勢
-https://www.businessyee.com/article/5703-ctbc-high-asset-report-2025
+Dynamically Ignoring Fields in Jackson
+https://feeds.feedblitz.com/~/915016058/0/baeldung~Dynamically-Ignoring-Fields-in-Jackson
