@@ -1,22 +1,37 @@
-# 2025-03-19 09:18:13 Feeds Report 
+# 2025-03-20 09:18:06 Feeds Report 
 
-Daily Hacker News for 2025-03-18
-https://www.daemonology.net/hn-daily/2025-03-18.html
+Daily Hacker News for 2025-03-19
+https://www.daemonology.net/hn-daily/2025-03-19.html
 
-Kagi 的台灣付款問題看起來還沒搞定...
-https://blog.gslin.org/archives/2025/03/18/12309/kagi-%e7%9a%84%e5%8f%b0%e7%81%a3%e4%bb%98%e6%ac%be%e5%95%8f%e9%a1%8c%e7%9c%8b%e8%b5%b7%e4%be%86%e9%82%84%e6%b2%92%e6%90%9e%e5%ae%9a/
+美國法院否定 AI 生成內容有資格取得著作權的判決
+https://blog.gslin.org/archives/2025/03/20/12313/%e7%be%8e%e5%9c%8b%e6%b3%95%e9%99%a2%e5%90%a6%e5%ae%9a-ai-%e7%94%9f%e6%88%90%e5%85%a7%e5%ae%b9%e6%9c%89%e8%b3%87%e6%a0%bc%e5%8f%96%e5%be%97%e8%91%97%e4%bd%9c%e6%ac%8a%e7%9a%84%e5%88%a4%e6%b1%ba/
 
- GCC 15首度整合COBOL 預設啟用C23並強化C++26支援
-https://www.ithome.com.tw/news/167945
+把 rsyslog 訊息串到 Slack 與 Pushover  上
+https://blog.gslin.org/archives/2025/03/20/12312/%e6%8a%8a-rsyslog-%e8%a8%8a%e6%81%af%e4%b8%b2%e5%88%b0-slack-%e8%88%87-pushover-%e4%b8%8a/
 
-超過1百萬裝置遭殭屍網路BadBox 2.0綁架，用於廣告詐欺、非法代理伺服器
-https://www.ithome.com.tw/news/167946
+TAWPA (台灣公益揭弊暨吹哨者保護協會) 網站被植入木馬
+https://blog.gslin.org/archives/2025/03/19/12310/tawpa-%e5%8f%b0%e7%81%a3%e5%85%ac%e7%9b%8a%e6%8f%ad%e5%bc%8a%e6%9a%a8%e5%90%b9%e5%93%a8%e8%80%85%e4%bf%9d%e8%ad%b7%e5%8d%94%e6%9c%83-%e7%b6%b2%e7%ab%99%e8%a2%ab%e6%a4%8d%e5%85%a5%e6%9c%a8%e9%a6%ac/
 
-11組國家級駭客共散播上千個惡意LNK捷徑檔，劍指Windows尚無修布的零時差漏洞
-https://www.ithome.com.tw/news/167944
+Chrome改用Rust重寫字型處理函式庫Skrifa，取代FreeType提升安全性
+https://www.ithome.com.tw/news/167975
 
-Nvidia開源全新推論軟體Dynamo
-https://www.ithome.com.tw/news/167943
+Nvidia與xAI將加入新建及擴大資料中心的AI合作投資框架
+https://www.ithome.com.tw/news/167976
+
+歐盟要求蘋果開放iOS與iPadOS連結功能予第三方裝置
+https://www.ithome.com.tw/news/167974
+
+Firefox憑證過期本周將導致瀏覽器外掛失效、Mozilla籲用戶儘速更新
+https://www.ithome.com.tw/news/167969
+
+IBM公告AIX風險值10分的遠端指令執行漏洞
+https://www.ithome.com.tw/news/167963
+
+PHP已知重大漏洞再傳遭到利用，臺灣是主要攻擊目標
+https://www.ithome.com.tw/news/167962
+
+OpenAI o1-pro開放API存取，價格是o1 10倍
+https://www.ithome.com.tw/news/167958
 
 Nvidia公布Llama Nemotron AI推理模型，支援開發AI代理人
 https://www.ithome.com.tw/news/167942
@@ -27,86 +42,71 @@ https://www.ithome.com.tw/news/167940
 Nvidia公布二款個人用AI超級電腦，Project Digits開放預約
 https://www.ithome.com.tw/news/167936
 
-Mistral Small 3.1視覺與語文理解能力領先Google新推的Gemma 3
-https://www.ithome.com.tw/news/167926
+金融時報：特斯拉高達 14 億資金流向不明
+https://www.inside.com.tw/article/37900-tesla-tsla-accounting-raises-red-flags-as-report-shows-1-4-billion-missing
 
-Nvidia發表Blackwell Ultra加速AI推理，釋出首個人形機器人開發的開放式基礎模型
-https://www.ithome.com.tw/news/167927
+義大利出版了世界上首份全 AI 生成的報紙！
+https://www.inside.com.tw/article/37899-first-ai-generated-newspaper
 
-Tomcat漏洞揭露30小時後出現PoC，已被用於實際攻擊
-https://www.ithome.com.tw/news/167913
+歐盟下令蘋果打開生態系統，確保第三方裝置和 iOS 有互操作性
+https://www.inside.com.tw/article/37898-eu-apple-interoperability-instructions
 
-百度發表Ernie X1以與DeepSeek R1競爭
-https://www.ithome.com.tw/news/167912
+顯卡市場洗牌！AMD 日本市占創新高達 45%，自嘲「不習慣賣這麼多」
+https://www.inside.com.tw/article/37897-amd-reaches-record-45-percent-gpu-market-share-japan
 
-自建量子電腦外的新選擇！成大善用 Amazon Braket 悠遊不同量子硬體架構，展開研究！
-https://www.inside.com.tw/feature/2019aws/37857-AWS
+比亞迪 2024 年電動車日本銷量首次超越 Toyota，總銷量達 2,223 輛
+https://www.inside.com.tw/article/37896-byd-japan
 
-Google 為 Gemini 加料啦！全新 Canvas 和超酷 podcast 功能登場
-https://www.inside.com.tw/article/37890-google-gemini-canvas
+【實機照搶先看】Google 推誠意十足 Pixel 9a！鏡頭是「平的」，還支援微距對焦、天文攝影
+https://www.inside.com.tw/article/37888-google-pixel-9a
 
-特斯拉向加州申請叫車服務許可，但背後另有玄機
-https://www.inside.com.tw/article/37889-tesla-applies-for-ride-hail-permit-in-california-but-theres-a-catch
+科學家 3D 列印「假陰莖」成功！未來有望讓人類使用
+https://www.inside.com.tw/article/37895-scientists-just-3d-printed-a-prosthetic-penis-and-it-actually-works
 
-台積電合作英特爾？劉鏡清比喻汽柴油很難混燒：董事會從未討論
-https://www.inside.com.tw/article/37887-smc-collaborating-with-intel-liu-jingqing-says-board-has-never-discussed-it
+AWS 如何成爲助力企業 ESG 實踐的翱翔利器？
+https://www.inside.com.tw/feature/2019aws/37858-AWS
 
-結束 9 個月滯留！2 名 NASA 太空人乘坐 SpaceX 太空船成功降落
-https://www.inside.com.tw/article/37886-nasa-astronauts-return-after-9-months
+「資料即石油」但石油已接近枯竭，這就是 NVIDIA 要收購合成數據新創 Gretel 主因
+https://www.inside.com.tw/article/37894-data-as-oil-nears-depletion-why-nvidia-acquires-synthetic-data-startup-gretel
 
-鴻海佈局智慧城市版圖，以 AI 驅動永續轉型
-https://www.inside.com.tw/article/37885-foxconn-expands-smart-city-development-with-ai-driven-sustainable-transformation
+【Editors&#039; Picks】如何用番茄鐘工作法提升效率？從入門到本質全解析
+https://www.inside.com.tw/article/37893-how-to-boost-productivity-with-the-pomodoro-technique
 
-麗臺科技攜手 NVIDIA DLI 深度學習機構，協助企業部署大型語言模型進行安全、有效且準確的對話
-https://www.inside.com.tw/article/37862-leadtek_nvdli_onlinecourse
+【書摘】《勇敢發聲：揭發日本自衛隊性暴力黑幕的戰鬥紀實》
+https://voicettank.org/20250320-2/
 
-【NVIDIA GTC 2025】「幾乎整個世界都搞錯了！」黃仁勳如何回應 DeepSeek？
-https://www.inside.com.tw/article/37883-jensen-huang-almost-the-entire-world-got-it-wrong
+「兩蔣日記」是台灣國寶嗎？
+https://voicettank.org/20250320-1/
 
-【NVIDIA GTC 2025】NVIDIA 推出「AI 加速器」原始碼推理軟體 Dynamo
-https://www.inside.com.tw/article/37884-nvidia-dynamo-open-source-library-accelerates-and-scales-ai-reasoning-models
+進步本土小黨莫再道德說教和情緒勒索──敬覆林邑軒
+https://voicettank.org/20250320-3/
 
-【NVIDIA GTC 2025】NVIDIA 宣布 2026 推出 Rubin GPU、2027 推出 Rubin Ultra，揭露下一代平台 Feyman
-https://www.inside.com.tw/article/37882-nvidia-rubin-feyman
+央行利率連四凍！考量公用事業4月漲價，今年CPI估至2.04%
+https://www.businessyee.com/article/5732-central-bank-2025q1
 
-美國總統的行政命令所向無敵？
-https://voicettank.org/20250319-2/
+宏泰人壽去年大賺50.9億、年增141%，淨值比升至4.8%
+https://www.businessyee.com/article/5731-hontai-insurance-2024-result
 
-國家安全專門法庭才是現在迫切需要的解方
-https://voicettank.org/20250319-1/
+CATCHPLAY 長期採用 AWS 服務，帶動 SRE 團隊成長
+https://www.businessyee.com/article/5720-AWS
 
-日本秋月級驅逐艦通過台海之戰略意涵
-https://voicettank.org/20250318-3/
+股東會旺季到！永豐金證券推線上補單、提醒領取紀念品服務
+https://www.businessyee.com/article/5730-sinopac-stockholder-gift-alarm
 
-美國川普政府將振興造船業之研析
-https://voicettank.org/20250319-3/
+高價水果店為何客人不減？3個經營策略，從老闆身上看台積電精神
+https://www.businessyee.com/article/5729-Fruit
 
-【保單抵債公聽會】聽金管會意見豁免小額終老險，司法院處境尷尬
-https://www.businessyee.com/article/5721-Insurance-policy-debt-1
+軟銀斥資65億美元收購Ampere，擴大AI 晶片布局
+https://www.businessyee.com/article/5728-softbank-acquire-ampere
 
-生成式 AI 落地進行式，打破「零售業」獲利僵局
-https://www.businessyee.com/article/5717-AWS
+FOMC：利率不變、4月起放慢縮表；市場估6月降息機率近7成
+https://www.businessyee.com/article/5727-fomc-meeting
 
-錯過400多元的台積電好後悔？4個「思維重置」技巧擁抱變化抓住機會
-https://www.businessyee.com/article/5722-mindset-reset
+決戰股海、毫秒必爭！ AWS Outposts 與中華電信 IDC 雙重加持，富果肇建超低延遲程式交易服務
+https://www.businessyee.com/article/5719-AWS
 
-Google：擲320億美元收購 Wiz，強化雲端安全業務
-https://www.businessyee.com/article/5718-google-is-buying-wiz-for-32b-to-beef-up-in-cloud-security
+【聽進理投】導讀《投資的底層邏輯》ft.政大商學院教授周冠男博士
+https://www.businessyee.com/article/5723-ep118
 
-【GTC】狂推帶貨Blackwell，黃仁勳：不會幾個月就出新產品嚇你一跳
-https://www.businessyee.com/article/5715-gtc
-
-AWS 助金色三麥精準預估銷量、快速分析顧客心聲 透過數位轉型提升營運效率與服務品質
-https://www.businessyee.com/article/5716-AWS
-
-玉山金砸27.6億併保德信投信，全現金取得91.2%股權
-https://www.businessyee.com/article/5714-esun-merge-PGIM
-
-立委爭取小額終老保險納入豁免，保單抵債修法司法院表態
-https://www.businessyee.com/article/5713-insurances-intervene-act-Judicial-Yuan
-
-Stub Getter and Setter in Mockito
-https://feeds.feedblitz.com/~/915062864/0/baeldung~Stub-Getter-and-Setter-in-Mockito
-
-Dynamically Ignoring Fields in Jackson
-https://feeds.feedblitz.com/~/915016058/0/baeldung~Dynamically-Ignoring-Fields-in-Jackson
+黃仁勳否認受邀Intel投資！稱關稅影響有限，強化台積電美廠代工
+https://www.businessyee.com/article/5726-jensen-huang-says-tariff-impact-wont-be-meaningful-in-the-near-term
