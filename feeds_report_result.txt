@@ -1,25 +1,58 @@
-# 2025-03-20 09:18:06 Feeds Report 
+# 2025-03-21 09:17:30 Feeds Report 
 
-Daily Hacker News for 2025-03-19
-https://www.daemonology.net/hn-daily/2025-03-19.html
+Daily Hacker News for 2025-03-20
+https://www.daemonology.net/hn-daily/2025-03-20.html
 
-美國法院否定 AI 生成內容有資格取得著作權的判決
-https://blog.gslin.org/archives/2025/03/20/12313/%e7%be%8e%e5%9c%8b%e6%b3%95%e9%99%a2%e5%90%a6%e5%ae%9a-ai-%e7%94%9f%e6%88%90%e5%85%a7%e5%ae%b9%e6%9c%89%e8%b3%87%e6%a0%bc%e5%8f%96%e5%be%97%e8%91%97%e4%bd%9c%e6%ac%8a%e7%9a%84%e5%88%a4%e6%b1%ba/
+xfce4 的天氣套件需要更新 (xfce4-weather-plugin)
+https://blog.gslin.org/archives/2025/03/21/12314/xfce4-%e7%9a%84%e5%a4%a9%e6%b0%a3%e5%a5%97%e4%bb%b6%e9%9c%80%e8%a6%81%e6%9b%b4%e6%96%b0-xfce4-weather-plugin/
 
-把 rsyslog 訊息串到 Slack 與 Pushover  上
-https://blog.gslin.org/archives/2025/03/20/12312/%e6%8a%8a-rsyslog-%e8%a8%8a%e6%81%af%e4%b8%b2%e5%88%b0-slack-%e8%88%87-pushover-%e4%b8%8a/
+駭客上架有問題的VS Code擴充套件，意圖散布勒索軟體
+https://www.ithome.com.tw/news/168033
 
-TAWPA (台灣公益揭弊暨吹哨者保護協會) 網站被植入木馬
-https://blog.gslin.org/archives/2025/03/19/12310/tawpa-%e5%8f%b0%e7%81%a3%e5%85%ac%e7%9b%8a%e6%8f%ad%e5%bc%8a%e6%9a%a8%e5%90%b9%e5%93%a8%e8%80%85%e4%bf%9d%e8%ad%b7%e5%8d%94%e6%9c%83-%e7%b6%b2%e7%ab%99%e8%a2%ab%e6%a4%8d%e5%85%a5%e6%9c%a8%e9%a6%ac/
+OpenAI推出新語音模型，增強語音辨識準確度與語氣控制能力
+https://www.ithome.com.tw/news/168030
 
-Chrome改用Rust重寫字型處理函式庫Skrifa，取代FreeType提升安全性
-https://www.ithome.com.tw/news/167975
+Martech雙周報第72期：AI搜尋浪潮到來，不同Martech業者怎麼看廣告流量衝擊與應對方法
+https://www.ithome.com.tw/news/168013
 
-Nvidia與xAI將加入新建及擴大資料中心的AI合作投資框架
-https://www.ithome.com.tw/news/167976
+Veeam修補備份軟體重大漏洞，駭客可利用漏洞執行遠端程式碼
+https://www.ithome.com.tw/news/168007
 
-歐盟要求蘋果開放iOS與iPadOS連結功能予第三方裝置
-https://www.ithome.com.tw/news/167974
+研究人員發表完全以神經網路取代數值解算器的超快天氣預報模型Aardvark Weather
+https://www.ithome.com.tw/news/168031
+
+群暉公布去年Pwn2Own找到的NAS重大漏洞細節，並指出若不處理攻擊者有機會發動RCE攻擊
+https://www.ithome.com.tw/news/168029
+
+Meta AI部份功能在歐盟上線
+https://www.ithome.com.tw/news/168026
+
+美國金融巨頭如何100%上雲
+https://www.ithome.com.tw/article/168018
+
+完全上雲如何再進化？第一資本下一步擁抱無伺服器優先戰略
+https://www.ithome.com.tw/news/168017
+
+追求金融SRE最佳實踐，第一資本如何提高系統韌性？
+https://www.ithome.com.tw/news/168015
+
+挑難的先做！美國金融巨頭全面上雲的3大心法
+https://www.ithome.com.tw/news/168014
+
+國內金融業首例！玉山銀行首先將電子簽章運用在金融業務以外文件簽署
+https://www.ithome.com.tw/news/168016
+
+日本金融界多敢用GAI
+https://www.ithome.com.tw/voice/168012
+
+Nvidia開源用於機器人訓練的世界模型Cosmos-Transfer1
+https://www.ithome.com.tw/news/168011
+
+美國發布聲明，Proof-of-Work挖礦不受證券法管轄，無需註冊
+https://www.ithome.com.tw/news/168010
+
+微軟Windows安全更新一度不慎移除Copilot
+https://www.ithome.com.tw/news/168008
 
 Firefox憑證過期本周將導致瀏覽器外掛失效、Mozilla籲用戶儘速更新
 https://www.ithome.com.tw/news/167969
@@ -33,80 +66,65 @@ https://www.ithome.com.tw/news/167962
 OpenAI o1-pro開放API存取，價格是o1 10倍
 https://www.ithome.com.tw/news/167958
 
-Nvidia公布Llama Nemotron AI推理模型，支援開發AI代理人
-https://www.ithome.com.tw/news/167942
+生成式 AI 催生智慧產線，製造業搶當「智造業」
+https://www.inside.com.tw/article/37860-AWS
 
-Google證實將以320億美元買下Wiz
-https://www.ithome.com.tw/news/167940
+雪鐵龍經典 2CV 將以電動車形式復活！
+https://www.inside.com.tw/article/37912-the-retro-ev-resurgence-is-in-full-swing-as-citroen-confirms-the-iconic-2cv-will-return-with-batteries
 
-Nvidia公布二款個人用AI超級電腦，Project Digits開放預約
-https://www.ithome.com.tw/news/167936
+NVIDIA 投資的雲端供應商 CoreWeave 準備 IPO！估值上看 320 億美元
+https://www.inside.com.tw/article/37910-coreweave-ipo
 
-金融時報：特斯拉高達 14 億資金流向不明
-https://www.inside.com.tw/article/37900-tesla-tsla-accounting-raises-red-flags-as-report-shows-1-4-billion-missing
+Anthropic Claude 導入網路搜尋即時資料功能！先開放給美國付費用戶
+https://www.inside.com.tw/article/37909-claude-adds-web-search
 
-義大利出版了世界上首份全 AI 生成的報紙！
-https://www.inside.com.tw/article/37899-first-ai-generated-newspaper
+【Web3 元觀察】日本 Web3 改革提案：加密資產即將變「金融商品」？
+https://www.inside.com.tw/article/37908-japan-web3-reform-crypto-assets-financial-products
 
-歐盟下令蘋果打開生態系統，確保第三方裝置和 iOS 有互操作性
-https://www.inside.com.tw/article/37898-eu-apple-interoperability-instructions
+中央大學開發 AI 出考卷系統「優學院」，微積分、經濟學都能考
+https://www.inside.com.tw/article/37907-national-central-university-develops-ai-exam-generation-system
 
-顯卡市場洗牌！AMD 日本市占創新高達 45%，自嘲「不習慣賣這麼多」
-https://www.inside.com.tw/article/37897-amd-reaches-record-45-percent-gpu-market-share-japan
+第一方數據，怎麼作為企業成長新引擎？
+https://www.inside.com.tw/article/37906-how-first-party-data-can-become-new-growth-engine-for-businesses
 
-比亞迪 2024 年電動車日本銷量首次超越 Toyota，總銷量達 2,223 輛
-https://www.inside.com.tw/article/37896-byd-japan
+NVIDIA 執行長黃仁勳坦承很「震驚」：不知道量子運算公司已公開上市
+https://www.inside.com.tw/article/37904-nvidia-ceo-says-he-was-surprised-that-publicly-held-quantum-firms-exist
 
-【實機照搶先看】Google 推誠意十足 Pixel 9a！鏡頭是「平的」，還支援微距對焦、天文攝影
-https://www.inside.com.tw/article/37888-google-pixel-9a
+AWS 攜手 Omnicom 集團，以生成式 AI 重塑廣告行銷創新之路
+https://www.inside.com.tw/feature/2019aws/37859-AWS
 
-科學家 3D 列印「假陰莖」成功！未來有望讓人類使用
-https://www.inside.com.tw/article/37895-scientists-just-3d-printed-a-prosthetic-penis-and-it-actually-works
-
-AWS 如何成爲助力企業 ESG 實踐的翱翔利器？
-https://www.inside.com.tw/feature/2019aws/37858-AWS
-
-「資料即石油」但石油已接近枯竭，這就是 NVIDIA 要收購合成數據新創 Gretel 主因
-https://www.inside.com.tw/article/37894-data-as-oil-nears-depletion-why-nvidia-acquires-synthetic-data-startup-gretel
-
-【Editors&#039; Picks】如何用番茄鐘工作法提升效率？從入門到本質全解析
-https://www.inside.com.tw/article/37893-how-to-boost-productivity-with-the-pomodoro-technique
-
-【書摘】《勇敢發聲：揭發日本自衛隊性暴力黑幕的戰鬥紀實》
-https://voicettank.org/20250320-2/
-
-「兩蔣日記」是台灣國寶嗎？
-https://voicettank.org/20250320-1/
+AI 自學革命：從「被動吸收」到「主動提問」的學習典範轉變
+https://www.inside.com.tw/article/37903-learning-with-ai
 
 進步本土小黨莫再道德說教和情緒勒索──敬覆林邑軒
 https://voicettank.org/20250320-3/
 
-央行利率連四凍！考量公用事業4月漲價，今年CPI估至2.04%
-https://www.businessyee.com/article/5732-central-bank-2025q1
+【NIKE Q4財報】財務長：受關稅影響下季毛利率降4～5%
+https://www.businessyee.com/article/5743-nike-q4-earnings
 
-宏泰人壽去年大賺50.9億、年增141%，淨值比升至4.8%
-https://www.businessyee.com/article/5731-hontai-insurance-2024-result
+清明連假赴日韓賞櫻！壽險業者推旅平險線上投保優惠
+https://www.businessyee.com/article/5742-travel-insurance-sakura
 
-CATCHPLAY 長期採用 AWS 服務，帶動 SRE 團隊成長
-https://www.businessyee.com/article/5720-AWS
+玉山Wallet首創「日幣直接付」服務，綁外幣帳戶扣款免換匯
+https://www.businessyee.com/article/5741-esun-Wallet-App-japan
 
-股東會旺季到！永豐金證券推線上補單、提醒領取紀念品服務
-https://www.businessyee.com/article/5730-sinopac-stockholder-gift-alarm
+日本2月核心通膨3%！內憂外患的日銀，升息前景仍受美關稅政策左右
+https://www.businessyee.com/article/5740-boj-cpi-2025-feb
 
-高價水果店為何客人不減？3個經營策略，從老闆身上看台積電精神
-https://www.businessyee.com/article/5729-Fruit
+【美光2025 Q2財報】HBM產能賣光光！營收大增38%，盤後股價續揚
+https://www.businessyee.com/article/5739-micron-technology-earnings-2025-q2
 
-軟銀斥資65億美元收購Ampere，擴大AI 晶片布局
-https://www.businessyee.com/article/5728-softbank-acquire-ampere
+美商會謝年飯，賴清德：美國欲成世界AI中心，台灣是不可或缺夥伴
+https://www.businessyee.com/article/5738-uscc-william-lai
 
-FOMC：利率不變、4月起放慢縮表；市場估6月降息機率近7成
-https://www.businessyee.com/article/5727-fomc-meeting
+新青安2月統計出爐！8大行庫受理戶數首度跌破千戶
+https://www.businessyee.com/article/5737-preferential-housing-loan-youth
 
-決戰股海、毫秒必爭！ AWS Outposts 與中華電信 IDC 雙重加持，富果肇建超低延遲程式交易服務
-https://www.businessyee.com/article/5719-AWS
+【2025大阪世博】日本做出「任意門」了？萬博大阪醫療健康館推空間移動魔法體驗
+https://www.businessyee.com/article/5736-osaka-healthcare-pavilion
 
-【聽進理投】導讀《投資的底層邏輯》ft.政大商學院教授周冠男博士
-https://www.businessyee.com/article/5723-ep118
+【2025智慧城市展】環保問題如何轉商機？平溪十分國小「完全燃燒天燈」獲大獎
+https://www.businessyee.com/article/5735-eco-sky-lanterns-shifen-elementary-school
 
-黃仁勳否認受邀Intel投資！稱關稅影響有限，強化台積電美廠代工
-https://www.businessyee.com/article/5726-jensen-huang-says-tariff-impact-wont-be-meaningful-in-the-near-term
+央行總裁楊金龍：川普2.0不確定性大，目前沒有寬鬆條件
+https://www.businessyee.com/article/5734-central-bank-2025q1-2
