@@ -1,25 +1,10 @@
-# 2025-03-21 09:17:30 Feeds Report 
+# 2025-03-22 09:16:22 Feeds Report 
 
-Daily Hacker News for 2025-03-20
-https://www.daemonology.net/hn-daily/2025-03-20.html
+Daily Hacker News for 2025-03-21
+https://www.daemonology.net/hn-daily/2025-03-21.html
 
-xfce4 的天氣套件需要更新 (xfce4-weather-plugin)
-https://blog.gslin.org/archives/2025/03/21/12314/xfce4-%e7%9a%84%e5%a4%a9%e6%b0%a3%e5%a5%97%e4%bb%b6%e9%9c%80%e8%a6%81%e6%9b%b4%e6%96%b0-xfce4-weather-plugin/
-
-駭客上架有問題的VS Code擴充套件，意圖散布勒索軟體
-https://www.ithome.com.tw/news/168033
-
-OpenAI推出新語音模型，增強語音辨識準確度與語氣控制能力
-https://www.ithome.com.tw/news/168030
-
-Martech雙周報第72期：AI搜尋浪潮到來，不同Martech業者怎麼看廣告流量衝擊與應對方法
-https://www.ithome.com.tw/news/168013
-
-Veeam修補備份軟體重大漏洞，駭客可利用漏洞執行遠端程式碼
-https://www.ithome.com.tw/news/168007
-
-研究人員發表完全以神經網路取代數值解算器的超快天氣預報模型Aardvark Weather
-https://www.ithome.com.tw/news/168031
+遠通電收IT成為轉型先鋒，不只技術自主還能輸出海外
+https://www.ithome.com.tw/people/168038
 
 群暉公布去年Pwn2Own找到的NAS重大漏洞細節，並指出若不處理攻擊者有機會發動RCE攻擊
 https://www.ithome.com.tw/news/168029
@@ -51,80 +36,53 @@ https://www.ithome.com.tw/news/168011
 美國發布聲明，Proof-of-Work挖礦不受證券法管轄，無需註冊
 https://www.ithome.com.tw/news/168010
 
-微軟Windows安全更新一度不慎移除Copilot
-https://www.ithome.com.tw/news/168008
+特斯拉上海 Megafactory 首次出口至澳洲，佈局亞太儲能事業
+https://www.inside.com.tw/article/37921-tesla-shanghai-megafactory-exports-megapacks-australia
 
-Firefox憑證過期本周將導致瀏覽器外掛失效、Mozilla籲用戶儘速更新
-https://www.ithome.com.tw/news/167969
+亞馬遜首賣碳權，稱嚴格把關不淪漂綠
+https://www.inside.com.tw/article/37920-amazon-sells-carbon-credits-for-the-first-time-vows-strict-oversight-to-avoid-greenwashing
 
-IBM公告AIX風險值10分的遠端指令執行漏洞
-https://www.ithome.com.tw/news/167963
+簡少年：桃桃喜創辦人｜AI vs 算命師誰能更準確預測未來？從 4000 萬用戶的創業家到 30 萬鐵粉的算命網紅，科技命理跨界迸火花【塞掐 Side Chat】E326
+https://www.inside.com.tw/feature/side-chat/37916-side-chat-e326
 
-PHP已知重大漏洞再傳遭到利用，臺灣是主要攻擊目標
-https://www.ithome.com.tw/news/167962
+小米 SU7 在 2024 年銷量突破 13 萬輛，超越福特與通用
+https://www.inside.com.tw/article/37919-xiaomi-ford-gm-outsold-evs
 
-OpenAI o1-pro開放API存取，價格是o1 10倍
-https://www.ithome.com.tw/news/167958
+【Editors&#039; Picks】ELECOM EX-G 人體工學藍牙靜音滑鼠：舒緩手腕痠痛的辦公利器！
+https://www.inside.com.tw/article/37918-elecom-ex-g-mouse-review
 
-生成式 AI 催生智慧產線，製造業搶當「智造業」
-https://www.inside.com.tw/article/37860-AWS
+人工智慧新挑戰：從社會互動到能源永續的變革與未來
+https://www.inside.com.tw/article/37917-ai-social-interaction-sustainable-energy-future
 
-雪鐵龍經典 2CV 將以電動車形式復活！
-https://www.inside.com.tw/article/37912-the-retro-ev-resurgence-is-in-full-swing-as-citroen-confirms-the-iconic-2cv-will-return-with-batteries
+【Editors&#039; Picks】被蘋果生態系包圍的我意外找到命定滑鼠夥伴 Logitech 羅技 MX Master 3S
+https://www.inside.com.tw/article/37911-logitech-mx-master-3s-unboxing
 
-NVIDIA 投資的雲端供應商 CoreWeave 準備 IPO！估值上看 320 億美元
-https://www.inside.com.tw/article/37910-coreweave-ipo
+【Editors&#039; Picks】碎個資、剪信用卡免煩惱！IRIS OHYAMA P6-HCS 超靜音碎紙機開箱分享
+https://www.inside.com.tw/article/37913-iris-ohyama-p6-hcs-shredder-unboxing-review
 
-Anthropic Claude 導入網路搜尋即時資料功能！先開放給美國付費用戶
-https://www.inside.com.tw/article/37909-claude-adds-web-search
+從韓戰爆發七十五週年看俄烏停戰前景
+https://voicettank.org/20250321-2/
 
-【Web3 元觀察】日本 Web3 改革提案：加密資產即將變「金融商品」？
-https://www.inside.com.tw/article/37908-japan-web3-reform-crypto-assets-financial-products
+起風了──國際新局下談賴總統國安談話
+https://voicettank.org/20250321-3/
 
-中央大學開發 AI 出考卷系統「優學院」，微積分、經濟學都能考
-https://www.inside.com.tw/article/37907-national-central-university-develops-ai-exam-generation-system
+2025金融股股利出爐｜一張圖看懂歷年股利配發率變化
+https://www.businessyee.com/article/5745-finance-industry-dividend-2025
 
-第一方數據，怎麼作為企業成長新引擎？
-https://www.inside.com.tw/article/37906-how-first-party-data-can-become-new-growth-engine-for-businesses
+【好險有聽】寵物險保什麼？寵物險值得買嗎？
+https://www.businessyee.com/article/5744-ep24
 
-NVIDIA 執行長黃仁勳坦承很「震驚」：不知道量子運算公司已公開上市
-https://www.inside.com.tw/article/37904-nvidia-ceo-says-he-was-surprised-that-publicly-held-quantum-firms-exist
+Mocking JDBC for Unit Testing
+https://feeds.feedblitz.com/~/915285200/0/baeldung~Mocking-JDBC-for-Unit-Testing
 
-AWS 攜手 Omnicom 集團，以生成式 AI 重塑廣告行銷創新之路
-https://www.inside.com.tw/feature/2019aws/37859-AWS
+Session/Cookie Management in Apache JMeter
+https://feeds.feedblitz.com/~/915285203/0/baeldung~SessionCookie-Management-in-Apache-JMeter
 
-AI 自學革命：從「被動吸收」到「主動提問」的學習典範轉變
-https://www.inside.com.tw/article/37903-learning-with-ai
+Management Interface in Quarkus
+https://feeds.feedblitz.com/~/915284597/0/baeldung~Management-Interface-in-Quarkus
 
-進步本土小黨莫再道德說教和情緒勒索──敬覆林邑軒
-https://voicettank.org/20250320-3/
+Send and Receive Serialized Object in Socket Channel
+https://feeds.feedblitz.com/~/915284600/0/baeldung~Send-and-Receive-Serialized-Object-in-Socket-Channel
 
-【NIKE Q4財報】財務長：受關稅影響下季毛利率降4～5%
-https://www.businessyee.com/article/5743-nike-q4-earnings
-
-清明連假赴日韓賞櫻！壽險業者推旅平險線上投保優惠
-https://www.businessyee.com/article/5742-travel-insurance-sakura
-
-玉山Wallet首創「日幣直接付」服務，綁外幣帳戶扣款免換匯
-https://www.businessyee.com/article/5741-esun-Wallet-App-japan
-
-日本2月核心通膨3%！內憂外患的日銀，升息前景仍受美關稅政策左右
-https://www.businessyee.com/article/5740-boj-cpi-2025-feb
-
-【美光2025 Q2財報】HBM產能賣光光！營收大增38%，盤後股價續揚
-https://www.businessyee.com/article/5739-micron-technology-earnings-2025-q2
-
-美商會謝年飯，賴清德：美國欲成世界AI中心，台灣是不可或缺夥伴
-https://www.businessyee.com/article/5738-uscc-william-lai
-
-新青安2月統計出爐！8大行庫受理戶數首度跌破千戶
-https://www.businessyee.com/article/5737-preferential-housing-loan-youth
-
-【2025大阪世博】日本做出「任意門」了？萬博大阪醫療健康館推空間移動魔法體驗
-https://www.businessyee.com/article/5736-osaka-healthcare-pavilion
-
-【2025智慧城市展】環保問題如何轉商機？平溪十分國小「完全燃燒天燈」獲大獎
-https://www.businessyee.com/article/5735-eco-sky-lanterns-shifen-elementary-school
-
-央行總裁楊金龍：川普2.0不確定性大，目前沒有寬鬆條件
-https://www.businessyee.com/article/5734-central-bank-2025q1-2
+Java Weekly, Issue 586 – Java 24 is here!
+https://feeds.feedblitz.com/~/915235727/0/baeldung~Java-Weekly-Issue-Java-is-here
