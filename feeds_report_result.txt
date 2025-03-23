@@ -1,88 +1,25 @@
-# 2025-03-22 09:16:22 Feeds Report 
+# 2025-03-23 09:15:12 Feeds Report 
 
-Daily Hacker News for 2025-03-21
-https://www.daemonology.net/hn-daily/2025-03-21.html
+Daily Hacker News for 2025-03-22
+https://www.daemonology.net/hn-daily/2025-03-22.html
 
-遠通電收IT成為轉型先鋒，不只技術自主還能輸出海外
-https://www.ithome.com.tw/people/168038
+Weekly Ask Hacker News for 2025-03-16 -- 2025-03-22
+http://www.daemonology.net/hn-weekly-ask/2025-03-22.html
 
-群暉公布去年Pwn2Own找到的NAS重大漏洞細節，並指出若不處理攻擊者有機會發動RCE攻擊
-https://www.ithome.com.tw/news/168029
+把 wiki 搬回到家裡的機器上
+https://blog.gslin.org/archives/2025/03/22/12315/%e6%8a%8a-wiki-%e6%90%ac%e5%9b%9e%e5%88%b0%e5%ae%b6%e8%a3%a1%e7%9a%84%e6%a9%9f%e5%99%a8%e4%b8%8a/
 
-Meta AI部份功能在歐盟上線
-https://www.ithome.com.tw/news/168026
+PQC 筆記 3 - NIST PQC 加密及簽章標準現況 2025 Q1
+https://blog.darkthread.net/blog/nist-pqc-std-updates/
 
-美國金融巨頭如何100%上雲
-https://www.ithome.com.tw/article/168018
+搭配自家NPU與AMD DPU，思科打造新一代智慧型網路交換器
+https://www.ithome.com.tw/review/167957
 
-完全上雲如何再進化？第一資本下一步擁抱無伺服器優先戰略
-https://www.ithome.com.tw/news/168017
+YouTube 爆畫質變差官方調查中，台灣暫未受影響
+https://www.inside.com.tw/article/37924-youtube-investigating-reports-of-video-quality-issues-taiwan-currently-unaffected
 
-追求金融SRE最佳實踐，第一資本如何提高系統韌性？
-https://www.ithome.com.tw/news/168015
+美國 2024 儲能市場創新高！達成 12.3 GW 的新安裝容量紀錄
+https://www.inside.com.tw/article/37923-u-s-energy-storage-market-set-a-new-record-in-2024
 
-挑難的先做！美國金融巨頭全面上雲的3大心法
-https://www.ithome.com.tw/news/168014
-
-國內金融業首例！玉山銀行首先將電子簽章運用在金融業務以外文件簽署
-https://www.ithome.com.tw/news/168016
-
-日本金融界多敢用GAI
-https://www.ithome.com.tw/voice/168012
-
-Nvidia開源用於機器人訓練的世界模型Cosmos-Transfer1
-https://www.ithome.com.tw/news/168011
-
-美國發布聲明，Proof-of-Work挖礦不受證券法管轄，無需註冊
-https://www.ithome.com.tw/news/168010
-
-特斯拉上海 Megafactory 首次出口至澳洲，佈局亞太儲能事業
-https://www.inside.com.tw/article/37921-tesla-shanghai-megafactory-exports-megapacks-australia
-
-亞馬遜首賣碳權，稱嚴格把關不淪漂綠
-https://www.inside.com.tw/article/37920-amazon-sells-carbon-credits-for-the-first-time-vows-strict-oversight-to-avoid-greenwashing
-
-簡少年：桃桃喜創辦人｜AI vs 算命師誰能更準確預測未來？從 4000 萬用戶的創業家到 30 萬鐵粉的算命網紅，科技命理跨界迸火花【塞掐 Side Chat】E326
-https://www.inside.com.tw/feature/side-chat/37916-side-chat-e326
-
-小米 SU7 在 2024 年銷量突破 13 萬輛，超越福特與通用
-https://www.inside.com.tw/article/37919-xiaomi-ford-gm-outsold-evs
-
-【Editors&#039; Picks】ELECOM EX-G 人體工學藍牙靜音滑鼠：舒緩手腕痠痛的辦公利器！
-https://www.inside.com.tw/article/37918-elecom-ex-g-mouse-review
-
-人工智慧新挑戰：從社會互動到能源永續的變革與未來
-https://www.inside.com.tw/article/37917-ai-social-interaction-sustainable-energy-future
-
-【Editors&#039; Picks】被蘋果生態系包圍的我意外找到命定滑鼠夥伴 Logitech 羅技 MX Master 3S
-https://www.inside.com.tw/article/37911-logitech-mx-master-3s-unboxing
-
-【Editors&#039; Picks】碎個資、剪信用卡免煩惱！IRIS OHYAMA P6-HCS 超靜音碎紙機開箱分享
-https://www.inside.com.tw/article/37913-iris-ohyama-p6-hcs-shredder-unboxing-review
-
-從韓戰爆發七十五週年看俄烏停戰前景
-https://voicettank.org/20250321-2/
-
-起風了──國際新局下談賴總統國安談話
-https://voicettank.org/20250321-3/
-
-2025金融股股利出爐｜一張圖看懂歷年股利配發率變化
-https://www.businessyee.com/article/5745-finance-industry-dividend-2025
-
-【好險有聽】寵物險保什麼？寵物險值得買嗎？
-https://www.businessyee.com/article/5744-ep24
-
-Mocking JDBC for Unit Testing
-https://feeds.feedblitz.com/~/915285200/0/baeldung~Mocking-JDBC-for-Unit-Testing
-
-Session/Cookie Management in Apache JMeter
-https://feeds.feedblitz.com/~/915285203/0/baeldung~SessionCookie-Management-in-Apache-JMeter
-
-Management Interface in Quarkus
-https://feeds.feedblitz.com/~/915284597/0/baeldung~Management-Interface-in-Quarkus
-
-Send and Receive Serialized Object in Socket Channel
-https://feeds.feedblitz.com/~/915284600/0/baeldung~Send-and-Receive-Serialized-Object-in-Socket-Channel
-
-Java Weekly, Issue 586 – Java 24 is here!
-https://feeds.feedblitz.com/~/915235727/0/baeldung~Java-Weekly-Issue-Java-is-here
+Lyft 無人計程車將在今年夏天進軍亞特蘭大
+https://www.inside.com.tw/article/37922-lyft-robotaxi-launch-may-mobility-atlanta
