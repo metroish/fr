@@ -1,25 +1,73 @@
-# 2025-03-23 09:15:12 Feeds Report 
+# 2025-03-24 09:18:46 Feeds Report 
 
-Daily Hacker News for 2025-03-22
-https://www.daemonology.net/hn-daily/2025-03-22.html
+Daily Hacker News for 2025-03-23
+https://www.daemonology.net/hn-daily/2025-03-23.html
 
-Weekly Ask Hacker News for 2025-03-16 -- 2025-03-22
-http://www.daemonology.net/hn-weekly-ask/2025-03-22.html
+nullmailer 接 Amazon SES
+https://blog.gslin.org/archives/2025/03/24/12316/nullmailer-%e6%8e%a5-amazon-ses/
 
-把 wiki 搬回到家裡的機器上
-https://blog.gslin.org/archives/2025/03/22/12315/%e6%8a%8a-wiki-%e6%90%ac%e5%9b%9e%e5%88%b0%e5%ae%b6%e8%a3%a1%e7%9a%84%e6%a9%9f%e5%99%a8%e4%b8%8a/
+WordPress外掛WP Ghost有重大漏洞，高達20萬個網站暴露在這個風險之下
+https://www.ithome.com.tw/news/168047
 
-PQC 筆記 3 - NIST PQC 加密及簽章標準現況 2025 Q1
-https://blog.darkthread.net/blog/nist-pqc-std-updates/
+群暉網路攝影機去年找到9.8分重大漏洞，這個月更新公告並揭露細節
+https://www.ithome.com.tw/news/168046
 
-搭配自家NPU與AMD DPU，思科打造新一代智慧型網路交換器
-https://www.ithome.com.tw/review/167957
+模擬消費者行為，以協助企業定價與行銷的AI新創Buynomics完成3,000萬美元的B輪融資
+https://www.ithome.com.tw/news/168044
 
-YouTube 爆畫質變差官方調查中，台灣暫未受影響
-https://www.inside.com.tw/article/37924-youtube-investigating-reports-of-video-quality-issues-taiwan-currently-unaffected
+騰訊發表推論模型Hunyuan T1以與DeepSeek R1競爭
+https://www.ithome.com.tw/news/168043
 
-美國 2024 儲能市場創新高！達成 12.3 GW 的新安裝容量紀錄
-https://www.inside.com.tw/article/37923-u-s-energy-storage-market-set-a-new-record-in-2024
+Android 16為Tensor-based Pixel手機提升效能
+https://www.ithome.com.tw/news/168042
 
-Lyft 無人計程車將在今年夏天進軍亞特蘭大
-https://www.inside.com.tw/article/37922-lyft-robotaxi-launch-may-mobility-atlanta
+蘋果AI高層異動，由Vision Pro主管接掌Siri團隊
+https://www.ithome.com.tw/news/168040
+
+【資安週報】0317~0321，這兩個月曾鎖定臺灣醫院攻擊的勒索軟體CrazyHunter，也開始攻擊臺灣上市公司
+https://www.ithome.com.tw/news/168041
+
+Mercedes-AMG EQE 43 SUV 試駕：電動車稱得上 AMG 嗎？EQE 43 SUV 可以！
+https://www.inside.com.tw/article/37699-mercedes-amg-eqe-43-suc-test-drive
+
+AI 寫程式寫得比你快，Vibe Coding 時代你準備好了嗎？
+https://www.inside.com.tw/article/37934-vibe-coding-ai-developer-shift
+
+一鍵生成心智圖！NotebookLM 繼語音摘要後再推 AI 學習神器
+https://www.inside.com.tw/article/37933-notebooklm-mindmap
+
+TechCrunch 再度易主，被 Yahoo 賣給手握《PCWorld》的 Regent
+https://www.inside.com.tw/article/37931-techcrunch-changes-hands-again-yahoo-sells-to-pcworld-owner-regent
+
+中國可能針對電動車、電池限制自身出口，作為與川普談判籌碼
+https://www.inside.com.tw/article/37930-china-explores-limiting-its-own-exports-to-mollify-trump
+
+【Editors&#039; Picks】大同乾燥烘磨廚餘機：縮小廚餘體積 90%，告別廚房臭味
+https://www.inside.com.tw/article/37915-tatung-food-leftover-processor
+
+Google Gemini 開始推出螢幕、鏡頭畫面即時分享功能！
+https://www.inside.com.tw/article/37927-gemini-live-screen-camera-sharing
+
+Podcast 是比想像中更好的媒體，也是更優質的廣告
+https://www.inside.com.tw/article/37929-podcasts-prove-better-media-and-superior-advertising-than-expected
+
+手腕上的 AI 助理：Apple Watch 將能「看見」並理解你的日常需求
+https://www.inside.com.tw/article/37928-apple-watch-cameras-gurman-ai-push
+
+【Generative AI 年會爐邊談】李慕約：全民 AI 時代已經來臨！
+https://www.inside.com.tw/article/37925-the-era-of-ai-for-everyone-has-arrived
+
+代孕：終極偽善的性交易形式
+https://voicettank.org/20250324-1/
+
+國防科技新創Helsing創辦人談 AI 未來戰場：我們必須做好準備！
+https://www.businessyee.com/article/5748-defence-Tech-AI-Helsing-strike-drones
+
+美國財政部干預債市？「貝森特賣權」說浮現
+https://www.businessyee.com/article/5747-bessent-put
+
+中國成熟產能恐5年內全球逾半！合肥晶合擴產加速，今年內將超車力積電與世界先進
+https://www.businessyee.com/article/5746-china-foundry-2050-over-50per
+
+Why Taiwan Matters
+https://dushuyizhi.net/why-taiwan-matters/
