@@ -1,16 +1,43 @@
-# 2025-03-24 09:18:46 Feeds Report 
+# 2025-03-25 09:17:52 Feeds Report 
 
-Daily Hacker News for 2025-03-23
-https://www.daemonology.net/hn-daily/2025-03-23.html
+Daily Hacker News for 2025-03-24
+https://www.daemonology.net/hn-daily/2025-03-24.html
 
-nullmailer 接 Amazon SES
-https://blog.gslin.org/archives/2025/03/24/12316/nullmailer-%e6%8e%a5-amazon-ses/
+在 command line 等 network-online.target 成功後再繼續執行
+https://blog.gslin.org/archives/2025/03/25/12320/%e5%9c%a8-command-line-%e7%ad%89-network-online-target-%e6%88%90%e5%8a%9f%e5%be%8c%e5%86%8d%e7%b9%bc%e7%ba%8c%e5%9f%b7%e8%a1%8c/
 
-WordPress外掛WP Ghost有重大漏洞，高達20萬個網站暴露在這個風險之下
-https://www.ithome.com.tw/news/168047
+Ptt 的 cache.ptt.cc 看起來已經退役了？
+https://blog.gslin.org/archives/2025/03/24/12318/ptt-%e7%9a%84-cache-ptt-cc-%e7%9c%8b%e8%b5%b7%e4%be%86%e5%b7%b2%e7%b6%93%e9%80%80%e5%bd%b9%e4%ba%86%ef%bc%9f/
 
-群暉網路攝影機去年找到9.8分重大漏洞，這個月更新公告並揭露細節
-https://www.ithome.com.tw/news/168046
+新一代基準測試ARC-AGI-2登場，挑戰AI的推理效率與通用能力
+https://www.ithome.com.tw/news/168062
+
+中國菜刀再度出手！駭客組織Weaver Ant埋伏東南亞某電信業者環境4年
+https://www.ithome.com.tw/news/168067
+
+用於K8s的Ingress Nginx Controller存在重大漏洞，6,500個叢集恐曝險
+https://www.ithome.com.tw/news/168061
+
+股票及加密貨幣交易所eToro申請IPO
+https://www.ithome.com.tw/news/168060
+
+微軟程式簽發服務被駭客濫用簽發惡意程式
+https://www.ithome.com.tw/news/168059
+
+Trump Media與Crypto.com將合作推出ETF
+https://www.ithome.com.tw/news/168058
+
+基因技術業者23andMe聲請破產保護，用戶DNA等敏感個資恐遭轉售
+https://www.ithome.com.tw/news/168056
+
+微軟Security Copilot新增10種AI代理人
+https://www.ithome.com.tw/news/168055
+
+不願再被瀏覽器綁架，IAB將打造伺服器端的通用廣告資料交換框架
+https://www.ithome.com.tw/news/168050
+
+Nvidia推出AgentIQ開源工具加速跨框架AI代理整合
+https://www.ithome.com.tw/news/168049
 
 模擬消費者行為，以協助企業定價與行銷的AI新創Buynomics完成3,000萬美元的B輪融資
 https://www.ithome.com.tw/news/168044
@@ -24,50 +51,80 @@ https://www.ithome.com.tw/news/168042
 蘋果AI高層異動，由Vision Pro主管接掌Siri團隊
 https://www.ithome.com.tw/news/168040
 
-【資安週報】0317~0321，這兩個月曾鎖定臺灣醫院攻擊的勒索軟體CrazyHunter，也開始攻擊臺灣上市公司
-https://www.ithome.com.tw/news/168041
+華爾街最挺特斯拉的分析師大幅下修特斯拉的交付預測
+https://www.inside.com.tw/article/37953-tesla-tsla-cheerleader-wall-street-slashed-delivery-estimate
 
-Mercedes-AMG EQE 43 SUV 試駕：電動車稱得上 AMG 嗎？EQE 43 SUV 可以！
-https://www.inside.com.tw/article/37699-mercedes-amg-eqe-43-suc-test-drive
+拒 Meta 8 億美元收購！韓國 AI 晶片新創 FuriosaAI 有什麼底氣？
+https://www.inside.com.tw/article/37952-korean-ai-chip-startup-furiosaai-rejects-meta-s-800-million-offer
 
-AI 寫程式寫得比你快，Vibe Coding 時代你準備好了嗎？
-https://www.inside.com.tw/article/37934-vibe-coding-ai-developer-shift
+馬雲旗下螞蟻集團宣稱「中國晶片」立大功，AI 訓練成本驟降 20%！
+https://www.inside.com.tw/article/37951-ant-group-ai-chip-breakthrough
 
-一鍵生成心智圖！NotebookLM 繼語音摘要後再推 AI 學習神器
-https://www.inside.com.tw/article/37933-notebooklm-mindmap
+量子運算新創 PsiQuantum 籌資 7.5 億美元，貝萊德領投
+https://www.inside.com.tw/article/37948-quantum-computing-startup-psiquantum-raising-least-750-million-6-billion
 
-TechCrunch 再度易主，被 Yahoo 賣給手握《PCWorld》的 Regent
-https://www.inside.com.tw/article/37931-techcrunch-changes-hands-again-yahoo-sells-to-pcworld-owner-regent
+iKala 執行長程世嘉當選 TiEA 第五屆理事長
+https://www.inside.com.tw/article/37949-ikala-ceo-sega-cheng-elected-as-fifth-chairman-of-tiea
 
-中國可能針對電動車、電池限制自身出口，作為與川普談判籌碼
-https://www.inside.com.tw/article/37930-china-explores-limiting-its-own-exports-to-mollify-trump
+Gogoro 聯手星宇航空，推出 Gogoro Pulse Starwalker Edition 特仕版
+https://www.inside.com.tw/article/37946-gogoro-pulse-starwalker-edition-launch
 
-【Editors&#039; Picks】大同乾燥烘磨廚餘機：縮小廚餘體積 90%，告別廚房臭味
-https://www.inside.com.tw/article/37915-tatung-food-leftover-processor
+不靠電力、化石燃料，美國科學家開發太陽能反應爐製造潔淨航空燃料
+https://www.inside.com.tw/article/37941-us-scientists-create-solar-powered-fuel
 
-Google Gemini 開始推出螢幕、鏡頭畫面即時分享功能！
-https://www.inside.com.tw/article/37927-gemini-live-screen-camera-sharing
+AlexNet 卷積神經網路對外開源！由加州電腦歷史博物館保存
+https://www.inside.com.tw/article/37945-alexnet-opensourced
 
-Podcast 是比想像中更好的媒體，也是更優質的廣告
-https://www.inside.com.tw/article/37929-podcasts-prove-better-media-and-superior-advertising-than-expected
+「謝謝阿姨，我可以複製遊戲了」一張感謝卡如何啟發 Valve DRM 技術？
+https://www.inside.com.tw/article/37943-valve-drm-inspired-by-thank-you-card
 
-手腕上的 AI 助理：Apple Watch 將能「看見」並理解你的日常需求
-https://www.inside.com.tw/article/37928-apple-watch-cameras-gurman-ai-push
+DeepSeek 更新 V3 模型！早期測試者稱：當前最佳的非推理 AI 模型
+https://www.inside.com.tw/article/37942-deepseek-v3-0324
 
-【Generative AI 年會爐邊談】李慕約：全民 AI 時代已經來臨！
-https://www.inside.com.tw/article/37925-the-era-of-ai-for-everyone-has-arrived
+加入金融聯合國，提升台灣金融韌性
+https://voicettank.org/20250325-2/
 
-代孕：終極偽善的性交易形式
-https://voicettank.org/20250324-1/
+孤獨的聆聽者：癡迷古典樂的革命家史明
+https://voicettank.org/20250325-1/
 
-國防科技新創Helsing創辦人談 AI 未來戰場：我們必須做好準備！
-https://www.businessyee.com/article/5748-defence-Tech-AI-Helsing-strike-drones
+被遺忘的戰場：南彰化謝家的逆襲
+https://voicettank.org/20250324-3/
 
-美國財政部干預債市？「貝森特賣權」說浮現
-https://www.businessyee.com/article/5747-bessent-put
+生成式AI下的勞資關係
+https://voicettank.org/20250324-2/
 
-中國成熟產能恐5年內全球逾半！合肥晶合擴產加速，今年內將超車力積電與世界先進
-https://www.businessyee.com/article/5746-china-foundry-2050-over-50per
+近期中國海警船侵入日本領海之研析
+https://voicettank.org/20250325-3/
 
-Why Taiwan Matters
-https://dushuyizhi.net/why-taiwan-matters/
+FBI成立反恐小組，徹查特斯拉攻擊事件：「這是國內恐怖主義」
+https://www.businessyee.com/article/5761-Fbi-tesla-elon-musk
+
+鼎新電腦與邁達特數位攜手助力企業順利上 AWS、有效用雲，全面提升企業數位韌性
+https://www.businessyee.com/article/5760-AWS
+
+從啤酒工廠到科技餐廳：金色三麥的 AI 轉型之旅
+https://www.businessyee.com/article/5759-AWS
+
+線上交易平台eToro在美IPO，計劃登陸納斯達克
+https://www.businessyee.com/article/5757-eToro-initial-public-offering
+
+週更｜【2025大阪世博】錯過再等20年！去萬博帶什麼？先看商益Check List
+https://www.businessyee.com/article/5758-osaka-expo-2025-checklist
+
+團隊無法接受改變？運用2個方法，突破「不可能改善」的思維盲點
+https://www.businessyee.com/article/5756-cognitive-bias
+
+特斯拉強彈12%！散戶逢低抄底、市場樂觀看待關稅
+https://www.businessyee.com/article/5755-tesla-stock-surges
+
+意在沛公？川普對購買委內瑞拉石油國課25%關稅，可能影響中國
+https://www.businessyee.com/article/5754-venezuela-oil-tariff-china
+
+現代汽車砸210億美元赴美投資，川普：在美生產就沒有關稅！
+https://www.businessyee.com/article/5753-hyundai-us-lng
+
+有了遺囑加信託，遺產想留給誰就留給誰！
+https://www.businessyee.com/article/5750-will
+
+Marriage For All Japan「讓所有人都能結婚」：日本婚姻平權系列訴訟大阪二審改判違憲
+https://changyuchieh.com/2025/03/25/mfaj-osaka/?utm_source=rss&utm_medium=rss&utm_campaign=mfaj-osaka
