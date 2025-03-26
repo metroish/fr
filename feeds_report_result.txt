@@ -1,28 +1,37 @@
-# 2025-03-25 09:17:52 Feeds Report 
+# 2025-03-26 09:18:02 Feeds Report 
 
-Daily Hacker News for 2025-03-24
-https://www.daemonology.net/hn-daily/2025-03-24.html
+Daily Hacker News for 2025-03-25
+https://www.daemonology.net/hn-daily/2025-03-25.html
 
-在 command line 等 network-online.target 成功後再繼續執行
-https://blog.gslin.org/archives/2025/03/25/12320/%e5%9c%a8-command-line-%e7%ad%89-network-online-target-%e6%88%90%e5%8a%9f%e5%be%8c%e5%86%8d%e7%b9%bc%e7%ba%8c%e5%9f%b7%e8%a1%8c/
+【資安日報】3月26日，喬山健康科技遭遇資安事故，疑似CrazyHunter所為
+https://www.ithome.com.tw/news/168090
 
-Ptt 的 cache.ptt.cc 看起來已經退役了？
-https://blog.gslin.org/archives/2025/03/24/12318/ptt-%e7%9a%84-cache-ptt-cc-%e7%9c%8b%e8%b5%b7%e4%be%86%e5%b7%b2%e7%b6%93%e9%80%80%e5%bd%b9%e4%ba%86%ef%bc%9f/
+3D繪圖架構業者Infinite Reality以2.07億美元買下Napster
+https://www.ithome.com.tw/news/168089
 
-新一代基準測試ARC-AGI-2登場，挑戰AI的推理效率與通用能力
-https://www.ithome.com.tw/news/168062
+駭客組織Earth Lusca聽令中國資安業者安洵，從事網路間諜活動
+https://www.ithome.com.tw/news/168088
 
-中國菜刀再度出手！駭客組織Weaver Ant埋伏東南亞某電信業者環境4年
-https://www.ithome.com.tw/news/168067
+博通修補VMware Tools高風險身分驗證繞過漏洞
+https://www.ithome.com.tw/news/168087
 
-用於K8s的Ingress Nginx Controller存在重大漏洞，6,500個叢集恐曝險
-https://www.ithome.com.tw/news/168061
+Nvidia的AI助理G-Assist開放桌機下載
+https://www.ithome.com.tw/news/168086
 
-股票及加密貨幣交易所eToro申請IPO
-https://www.ithome.com.tw/news/168060
+阿里巴巴董事長蔡崇信警告：AI資料中心的建置可能因超越AI需求而形成泡沬
+https://www.ithome.com.tw/news/168085
 
-微軟程式簽發服務被駭客濫用簽發惡意程式
-https://www.ithome.com.tw/news/168059
+Windows存在NTLM雜湊洩露零時差漏洞，攻擊者可引誘使用者開啟檔案觸發
+https://www.ithome.com.tw/news/168084
+
+ChatGPT圖片生成功能升級到GPT 4o模型，免費版也用得到
+https://www.ithome.com.tw/news/168083
+
+Google發布Chrome 134更新，修補可被用於沙箱逃逸的零時差漏洞
+https://www.ithome.com.tw/news/168082
+
+Google發表具推理能力的Gemini 2.5，效能擊敗o3-mini、DeepSeek R1
+https://www.ithome.com.tw/news/168081
 
 Trump Media與Crypto.com將合作推出ETF
 https://www.ithome.com.tw/news/168058
@@ -36,95 +45,71 @@ https://www.ithome.com.tw/news/168055
 不願再被瀏覽器綁架，IAB將打造伺服器端的通用廣告資料交換框架
 https://www.ithome.com.tw/news/168050
 
-Nvidia推出AgentIQ開源工具加速跨框架AI代理整合
-https://www.ithome.com.tw/news/168049
+NVIDIA 沒有忘記玩家！新 AI 系統助理 Project G-Assist 上線，可協助調整至最佳遊戲設定
+https://www.inside.com.tw/article/37965-nvidia-g-assist-ai-companion-for-rtx-ai-pcs
 
-模擬消費者行為，以協助企業定價與行銷的AI新創Buynomics完成3,000萬美元的B輪融資
-https://www.ithome.com.tw/news/168044
+台灣最大 AI 博覽會「AI EXPO Taiwan 2025」盛大開展！
+https://www.inside.com.tw/article/37963-
 
-騰訊發表推論模型Hunyuan T1以與DeepSeek R1競爭
-https://www.ithome.com.tw/news/168043
+ChatGPT 整合圖像生成功能！強調能更好保持角色一致性、產出正確文字
+https://www.inside.com.tw/article/37962-gpt-4o-image-generation
 
-Android 16為Tensor-based Pixel手機提升效能
-https://www.ithome.com.tw/news/168042
+AI 就是軟實力，吳恩達：開源模型即是國際話語權
+https://www.inside.com.tw/article/37961-ai-is-soft-power-andrew-ng-claims-open-source-models-provide-global-influence
 
-蘋果AI高層異動，由Vision Pro主管接掌Siri團隊
-https://www.ithome.com.tw/news/168040
+效仿 Google 策略，蘋果街景資料轉投 AI 訓練領域並強調隱私保護
+https://www.inside.com.tw/article/37959-apple-announced-that-the-image-data-used-to-create-the-surround-view-street-view-content-will-also-be-used-to-train-some-generative-artificial-intelligence-models
 
-華爾街最挺特斯拉的分析師大幅下修特斯拉的交付預測
-https://www.inside.com.tw/article/37953-tesla-tsla-cheerleader-wall-street-slashed-delivery-estimate
+Google 推新 AI 模型！Gemini 2.5 Pro 只需「一句話」就能從 0 打造完整遊戲
+https://www.inside.com.tw/article/37960-gemini-2-5-thinking
 
-拒 Meta 8 億美元收購！韓國 AI 晶片新創 FuriosaAI 有什麼底氣？
-https://www.inside.com.tw/article/37952-korean-ai-chip-startup-furiosaai-rejects-meta-s-800-million-offer
+線上舉行！蘋果 WWDC25 將於 6 月 10 日登場
+https://www.inside.com.tw/article/37958-apple-wwdc25
 
-馬雲旗下螞蟻集團宣稱「中國晶片」立大功，AI 訓練成本驟降 20%！
-https://www.inside.com.tw/article/37951-ant-group-ai-chip-breakthrough
+【Editors&#039; Picks】矽谷的工程師、生物駭客為什麼喜歡喝防彈咖啡？
+https://www.inside.com.tw/article/37957-why-silicon-valley-engineers-and-biohackers-prefer-bulletproof-coffee
 
-量子運算新創 PsiQuantum 籌資 7.5 億美元，貝萊德領投
-https://www.inside.com.tw/article/37948-quantum-computing-startup-psiquantum-raising-least-750-million-6-billion
+eToro 申請納斯達克上市！2024 年營收飆升 126 億美元，96% 收入來自加密貨幣
+https://www.inside.com.tw/article/37956-etoro-ipo
 
-iKala 執行長程世嘉當選 TiEA 第五屆理事長
-https://www.inside.com.tw/article/37949-ikala-ceo-sega-cheng-elected-as-fifth-chairman-of-tiea
+「TWQR 乘車碼」正式啟動！手機就是車票，支援多城市大眾交通
+https://www.inside.com.tw/article/37955-twqr-ticket
 
-Gogoro 聯手星宇航空，推出 Gogoro Pulse Starwalker Edition 特仕版
-https://www.inside.com.tw/article/37946-gogoro-pulse-starwalker-edition-launch
+白區黨的話語戰爭：潛伏於理性背後的滲透
+https://voicettank.org/20250326-2/
 
-不靠電力、化石燃料，美國科學家開發太陽能反應爐製造潔淨航空燃料
-https://www.inside.com.tw/article/37941-us-scientists-create-solar-powered-fuel
+毫無章法且文不對題的反廢死、反戒嚴公投
+https://voicettank.org/20250326-1/
 
-AlexNet 卷積神經網路對外開源！由加州電腦歷史博物館保存
-https://www.inside.com.tw/article/37945-alexnet-opensourced
+美國將在菲律賓呂宋島部署NMESIS之戰略意涵
+https://voicettank.org/20250326-3/
 
-「謝謝阿姨，我可以複製遊戲了」一張感謝卡如何啟發 Valve DRM 技術？
-https://www.inside.com.tw/article/37943-valve-drm-inspired-by-thank-you-card
+台泥股東會紀念品雙色蓋毯怎麼領？零股可以領嗎？領取時間？
+https://www.businessyee.com/article/5770-1101-shareholders-souvenirs-2025
 
-DeepSeek 更新 V3 模型！早期測試者稱：當前最佳的非推理 AI 模型
-https://www.inside.com.tw/article/37942-deepseek-v3-0324
+【2025大阪世博】用AR體驗《魔物獵人》世界！卡普空與日遊戲類股快速吸金中
+https://www.businessyee.com/article/5769-osaka-expo-2025-capcom-monster-hunter-wilds-xd-hall
 
-加入金融聯合國，提升台灣金融韌性
-https://voicettank.org/20250325-2/
+凱基金總座楊文鈞：此次股利配發率將是長期指標，重磅回歸分紅保單市場
+https://www.businessyee.com/article/5766-kgi-2024-earningcall
 
-孤獨的聆聽者：癡迷古典樂的革命家史明
-https://voicettank.org/20250325-1/
+中華電信與AWS深化合作 運用生成式AI打造創新應用
+https://www.businessyee.com/article/5768-AWS
 
-被遺忘的戰場：南彰化謝家的逆襲
-https://voicettank.org/20250324-3/
+如何挑選自拍直播腳架？3款千元內入門手機腳架評比
+https://www.businessyee.com/article/5767-Tripod
 
-生成式AI下的勞資關係
-https://voicettank.org/20250324-2/
+地震險理賠門檻過高！金管會彭金隆：朝分損、應急費用設計，新方案7月公布
+https://www.businessyee.com/article/5765-earthquake-insureance-reform-2025
 
-近期中國海警船侵入日本領海之研析
-https://voicettank.org/20250325-3/
+半導體鏈擴張！IDC：2025年「廣義晶圓代工」市場看增11%，台積電廣義市占37%
+https://www.businessyee.com/article/5764-idc-report-tsmc-semiconductor
 
-FBI成立反恐小組，徹查特斯拉攻擊事件：「這是國內恐怖主義」
-https://www.businessyee.com/article/5761-Fbi-tesla-elon-musk
+凱鈿全面轉用AWS Graviton執行個體，主機費用大幅降低達15％
+https://www.businessyee.com/article/5762-AWS
 
-鼎新電腦與邁達特數位攜手助力企業順利上 AWS、有效用雲，全面提升企業數位韌性
-https://www.businessyee.com/article/5760-AWS
+台積電赴美投資1000億美元，《晶片戰爭》作者米勒：美台雙贏！
+https://www.businessyee.com/article/5763-chris-miller-taiwan-tsmc
 
-從啤酒工廠到科技餐廳：金色三麥的 AI 轉型之旅
-https://www.businessyee.com/article/5759-AWS
-
-線上交易平台eToro在美IPO，計劃登陸納斯達克
-https://www.businessyee.com/article/5757-eToro-initial-public-offering
-
-週更｜【2025大阪世博】錯過再等20年！去萬博帶什麼？先看商益Check List
-https://www.businessyee.com/article/5758-osaka-expo-2025-checklist
-
-團隊無法接受改變？運用2個方法，突破「不可能改善」的思維盲點
-https://www.businessyee.com/article/5756-cognitive-bias
-
-特斯拉強彈12%！散戶逢低抄底、市場樂觀看待關稅
-https://www.businessyee.com/article/5755-tesla-stock-surges
-
-意在沛公？川普對購買委內瑞拉石油國課25%關稅，可能影響中國
-https://www.businessyee.com/article/5754-venezuela-oil-tariff-china
-
-現代汽車砸210億美元赴美投資，川普：在美生產就沒有關稅！
-https://www.businessyee.com/article/5753-hyundai-us-lng
-
-有了遺囑加信託，遺產想留給誰就留給誰！
-https://www.businessyee.com/article/5750-will
-
-Marriage For All Japan「讓所有人都能結婚」：日本婚姻平權系列訴訟大阪二審改判違憲
-https://changyuchieh.com/2025/03/25/mfaj-osaka/?utm_source=rss&utm_medium=rss&utm_campaign=mfaj-osaka
+Introduction to OSHI
+https://feeds.feedblitz.com/~/915530360/0/baeldung
