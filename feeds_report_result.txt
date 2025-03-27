@@ -1,22 +1,43 @@
-# 2025-03-26 09:18:02 Feeds Report 
+# 2025-03-27 09:18:33 Feeds Report 
 
-Daily Hacker News for 2025-03-25
-https://www.daemonology.net/hn-daily/2025-03-25.html
+Daily Hacker News for 2025-03-26
+https://www.daemonology.net/hn-daily/2025-03-26.html
 
-【資安日報】3月26日，喬山健康科技遭遇資安事故，疑似CrazyHunter所為
-https://www.ithome.com.tw/news/168090
+TechCrunch 被 Yahoo! 賣掉
+https://blog.gslin.org/archives/2025/03/27/12323/techcrunch-%e8%a2%ab-yahoo-%e8%b3%a3%e6%8e%89/
 
-3D繪圖架構業者Infinite Reality以2.07億美元買下Napster
-https://www.ithome.com.tw/news/168089
+Debian 的 Live Image 可以重現構建了 (reproducible build)
+https://blog.gslin.org/archives/2025/03/27/12322/debian-%e7%9a%84-live-image-%e5%8f%af%e4%bb%a5%e9%87%8d%e7%8f%be%e6%a7%8b%e5%bb%ba%e4%ba%86-reproducible-build/
 
-駭客組織Earth Lusca聽令中國資安業者安洵，從事網路間諜活動
-https://www.ithome.com.tw/news/168088
+馬桶漏水檢查 - 水位法及醬油法實測
+https://blog.darkthread.net/blog/toilet-flapper-leaking/
 
-博通修補VMware Tools高風險身分驗證繞過漏洞
-https://www.ithome.com.tw/news/168087
+微軟取消在美國與歐洲的多個新資料中心專案
+https://www.ithome.com.tw/news/168109
 
-Nvidia的AI助理G-Assist開放桌機下載
-https://www.ithome.com.tw/news/168086
+俄羅斯駭客RedCurl盯上Hyper-V虛擬化平臺，打造能加密此類VM的勒索軟體
+https://www.ithome.com.tw/news/168104
+
+專門開發Chromium企業瀏覽器的Island完成2.5億美元的E輪融資
+https://www.ithome.com.tw/news/168103
+
+Android將全面改採封閉開發，但依舊開源程式碼
+https://www.ithome.com.tw/news/168102
+
+代理AI爆發的轉捩點
+https://www.ithome.com.tw/voice/168101
+
+提供會員系統的WordPress外掛存在重大漏洞，6萬網站受到波及
+https://www.ithome.com.tw/news/168100
+
+吳恩達呼籲全民擁抱用GenAI來寫程式，來大幅降低企業與個人的試錯和創新成本
+https://www.ithome.com.tw/news/168099
+
+供應鏈攻擊出現新手法Rules File Backdoor，恐波及GitHub Copilot用戶
+https://www.ithome.com.tw/news/168098
+
+GraalVM for JDK 24導入機器學習行為預測，強化原生映像檔執行效能
+https://www.ithome.com.tw/news/168093
 
 阿里巴巴董事長蔡崇信警告：AI資料中心的建置可能因超越AI需求而形成泡沬
 https://www.ithome.com.tw/news/168085
@@ -33,83 +54,74 @@ https://www.ithome.com.tw/news/168082
 Google發表具推理能力的Gemini 2.5，效能擊敗o3-mini、DeepSeek R1
 https://www.ithome.com.tw/news/168081
 
-Trump Media與Crypto.com將合作推出ETF
-https://www.ithome.com.tw/news/168058
+經營電商不用煩惱庫存與訂單了！Odoo 推出最新 Shopee 蝦皮連接器專屬 API 工具放大商機
+https://www.inside.com.tw/article/37935-
 
-基因技術業者23andMe聲請破產保護，用戶DNA等敏感個資恐遭轉售
-https://www.ithome.com.tw/news/168056
+Perplexity 提出開源方案 競標 TikTok 美國業務
+https://www.inside.com.tw/article/37982-perplexity-to-acquire-tiktok
 
-微軟Security Copilot新增10種AI代理人
-https://www.ithome.com.tw/news/168055
+西門子在台發力：數位雙生助產業升級、聚焦永續發展
+https://www.inside.com.tw/article/37979-siemens-in-taiwan
 
-不願再被瀏覽器綁架，IAB將打造伺服器端的通用廣告資料交換框架
-https://www.ithome.com.tw/news/168050
+【活動紀錄】生成式 AI 如何席捲行銷與廣告業界
+https://www.inside.com.tw/article/37981-how-generative-ai-is-transforming-marketing-and-advertising-industries
 
-NVIDIA 沒有忘記玩家！新 AI 系統助理 Project G-Assist 上線，可協助調整至最佳遊戲設定
-https://www.inside.com.tw/article/37965-nvidia-g-assist-ai-companion-for-rtx-ai-pcs
+【Editors&#039; Picks】Apple 擦拭布是智商稅嗎？590 元其實很值得
+https://www.inside.com.tw/article/37974-apple-polishing-cloth-review
 
-台灣最大 AI 博覽會「AI EXPO Taiwan 2025」盛大開展！
-https://www.inside.com.tw/article/37963-
+【Editors&#039; Picks】美思夢日旅素色天絲床包：黑色控的帥氣救星，夏天的涼感神器
+https://www.inside.com.tw/article/37977-tencel-beddings
 
-ChatGPT 整合圖像生成功能！強調能更好保持角色一致性、產出正確文字
-https://www.inside.com.tw/article/37962-gpt-4o-image-generation
+Google 重大決策：Android 系統開發全面轉為「私下進行」，對使用者、開發者有何影響？
+https://www.inside.com.tw/article/37973-google-android-development-aosp
 
-AI 就是軟實力，吳恩達：開源模型即是國際話語權
-https://www.inside.com.tw/article/37961-ai-is-soft-power-andrew-ng-claims-open-source-models-provide-global-influence
+新創 Gravitics 獲 6000 萬美元資金，要打造宇宙航空母艦
+https://www.inside.com.tw/article/37975-gravitics-60m-funding
 
-效仿 Google 策略，蘋果街景資料轉投 AI 訓練領域並強調隱私保護
-https://www.inside.com.tw/article/37959-apple-announced-that-the-image-data-used-to-create-the-surround-view-street-view-content-will-also-be-used-to-train-some-generative-artificial-intelligence-models
+字節跳動創辦人張一鳴登中國首富！身價以 655 億美元超過馬化騰
+https://www.inside.com.tw/article/37976-zhang-yiming-china-richest
 
-Google 推新 AI 模型！Gemini 2.5 Pro 只需「一句話」就能從 0 打造完整遊戲
-https://www.inside.com.tw/article/37960-gemini-2-5-thinking
+創作者注意了！YouTube 宣布改變 Shorts 觀看數計算方式，4 月生效
+https://www.inside.com.tw/article/37972-youtube-shorts-view-count-change
 
-線上舉行！蘋果 WWDC25 將於 6 月 10 日登場
-https://www.inside.com.tw/article/37958-apple-wwdc25
+【書摘】《破解北京的全球媒體攻勢：中國怎麼買影響力？要是買不下，又怎麼借？》
+https://voicettank.org/20250327-2/
 
-【Editors&#039; Picks】矽谷的工程師、生物駭客為什麼喜歡喝防彈咖啡？
-https://www.inside.com.tw/article/37957-why-silicon-valley-engineers-and-biohackers-prefer-bulletproof-coffee
-
-eToro 申請納斯達克上市！2024 年營收飆升 126 億美元，96% 收入來自加密貨幣
-https://www.inside.com.tw/article/37956-etoro-ipo
-
-「TWQR 乘車碼」正式啟動！手機就是車票，支援多城市大眾交通
-https://www.inside.com.tw/article/37955-twqr-ticket
+國台辦公布台獨名單為哪樁？準備統一後的大清洗
+https://voicettank.org/20250327-1/
 
 白區黨的話語戰爭：潛伏於理性背後的滲透
 https://voicettank.org/20250326-2/
 
-毫無章法且文不對題的反廢死、反戒嚴公投
-https://voicettank.org/20250326-1/
+南升北降──川普逆同盟操作的後續效應
+https://voicettank.org/20250327-3/
 
-美國將在菲律賓呂宋島部署NMESIS之戰略意涵
-https://voicettank.org/20250326-3/
+Intel 季辛格：台積電加碼投資也難助美奪回晶片主導權！
+https://www.businessyee.com/article/5779-TSMC-Trump-ex-Intel-CEO
 
-台泥股東會紀念品雙色蓋毯怎麼領？零股可以領嗎？領取時間？
-https://www.businessyee.com/article/5770-1101-shareholders-souvenirs-2025
+【聽進理投】讓心情不受市場影響的股票、債券、黃金投資方法
+https://www.businessyee.com/article/5772-ep119
 
-【2025大阪世博】用AR體驗《魔物獵人》世界！卡普空與日遊戲類股快速吸金中
-https://www.businessyee.com/article/5769-osaka-expo-2025-capcom-monster-hunter-wilds-xd-hall
+OpenAI今年營收估翻兩倍！破127億美元
+https://www.businessyee.com/article/5778-openai-revenue-triple
 
-凱基金總座楊文鈞：此次股利配發率將是長期指標，重磅回歸分紅保單市場
-https://www.businessyee.com/article/5766-kgi-2024-earningcall
+NVIDIA的客戶CoreWeave拼上市，未來股價就看市場AI需求多大
+https://www.businessyee.com/article/5777-CoreWeave
 
-中華電信與AWS深化合作 運用生成式AI打造創新應用
-https://www.businessyee.com/article/5768-AWS
+統一集團與Yahoo台灣電商合作滿半年，羅智先：加速AI創新
+https://www.businessyee.com/article/5776-uni-president-yahoo-taiwan
 
-如何挑選自拍直播腳架？3款千元內入門手機腳架評比
-https://www.businessyee.com/article/5767-Tripod
+「USD One」穩定幣上線：川普家族入局，小川普直言金融體系歧視
+https://www.businessyee.com/article/5775-Trump-Jr-DC-blockchain-2025
 
-地震險理賠門檻過高！金管會彭金隆：朝分損、應急費用設計，新方案7月公布
-https://www.businessyee.com/article/5765-earthquake-insureance-reform-2025
+汽車關稅、AI晶片陰霾，美股四大指數全面下挫
+https://www.businessyee.com/article/5774-us-stock-car-tariff-ai-semiconductor
 
-半導體鏈擴張！IDC：2025年「廣義晶圓代工」市場看增11%，台積電廣義市占37%
-https://www.businessyee.com/article/5764-idc-report-tsmc-semiconductor
+川普最新：所有外國製造進口車，4/2起輸美課徵25%關稅
+https://www.businessyee.com/article/5773-trump-tariff-cars-25per
 
-凱鈿全面轉用AWS Graviton執行個體，主機費用大幅降低達15％
-https://www.businessyee.com/article/5762-AWS
+新壽「愛有醫靠」防癌定期險強打三大給付，保障至84歲
+https://www.businessyee.com/article/5771-
 
-台積電赴美投資1000億美元，《晶片戰爭》作者米勒：美台雙贏！
-https://www.businessyee.com/article/5763-chris-miller-taiwan-tsmc
-
-Introduction to OSHI
-https://feeds.feedblitz.com/~/915530360/0/baeldung
+Reusing a PreparedStatement Multiple Times in Java
+https://feeds.feedblitz.com/~/915593018/0/baeldung~Reusing-a-PreparedStatement-Multiple-Times-in-Java
