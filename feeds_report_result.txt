@@ -1,16 +1,10 @@
-# 2025-03-28 09:17:51 Feeds Report 
+# 2025-03-29 09:15:57 Feeds Report 
 
-Daily Hacker News for 2025-03-27
-https://www.daemonology.net/hn-daily/2025-03-27.html
+Daily Hacker News for 2025-03-28
+https://www.daemonology.net/hn-daily/2025-03-28.html
 
-洗碗機連上網路？
-https://blog.gslin.org/archives/2025/03/28/12325/%e6%b4%97%e7%a2%97%e6%a9%9f%e9%80%a3%e4%b8%8a%e7%b6%b2%e8%b7%af%ef%bc%9f/
-
-Let's Encrypt 把 CRL 位置加到憑證裡面了
-https://blog.gslin.org/archives/2025/03/27/12324/lets-encrypt-%e6%8a%8a-crl-%e4%bd%8d%e7%bd%ae%e5%8a%a0%e5%88%b0%e6%86%91%e8%ad%89%e8%a3%a1%e9%9d%a2%e4%ba%86/
-
-【資安日報】3月28日，NPM惡意套件攻擊出現難以清除的新手法
-https://www.ithome.com.tw/news/168134
+導入脈絡感知、簡化事件分類，TXOne強化OT端點狀態能見度
+https://www.ithome.com.tw/review/168119
 
 Vivaldi瀏覽器整合Proton VPN
 https://www.ithome.com.tw/news/168132
@@ -45,98 +39,38 @@ https://www.ithome.com.tw/news/168121
 Mozilla發布Windows版Firefox更新，修補沙箱逃逸漏洞
 https://www.ithome.com.tw/news/168126
 
-Cloud周報第221期：紅帽要將邊緣運算主機搬上太空，全球最大期貨交易所啟動雲端分散通用帳本計畫
-https://www.ithome.com.tw/news/168120
-
 AI趨勢周報第270期：OpenAI支援MCP協定、Cloudflare新添4款遠端MCP伺服器工具
 https://www.ithome.com.tw/news/168118
 
-供應鏈攻擊出現新手法Rules File Backdoor，恐波及GitHub Copilot用戶
-https://www.ithome.com.tw/news/168098
+AI 獨角獸 Scale AI 估值飆升至 250 億美元！NVIDIA、Meta 都是金主
+https://www.inside.com.tw/article/37999-scale-ai-seeking-valuation-high-25-billion-potential-tender-offer
 
-日本科研團隊研究出以核廢料為活性材料的充電電池
-https://www.inside.com.tw/article/37990-uranium-waste-powered-rechargeable-battery
+川普 2.0 本該解開 IPO 市場 但 CoreWeave 上市首日遭潑冷水 投資者惴惴不安
+https://www.inside.com.tw/article/37998-nvidia-backed-coreweaves-shares-likely-open-up-25-above-ipo-price
 
-USPACE 宣布投資泰國 JORDSABUY，積極拓展國際版圖
-https://www.inside.com.tw/article/37991-uspace-announces-investment-in-thailand%E2%80%99s-jordsabuy-to-accelerate-global-expansion
+卓致遠：致遠設計體驗創辦人｜報稅酸民如何用設計思考革新公部門？台灣政府服務的 UX 革命與數位轉型【塞掐 Side Chat】E328
+https://www.inside.com.tw/feature/side-chat/37993-side-chat-e328
 
-提升營運效率，建立競爭優勢！即刻報名「創新驅動未來：AWS 生成式 AI 與現代化應用解決方案研討會」
-https://www.inside.com.tw/article/37986-AWS2025
+黑石集團擬入股美國 TikTok 分拆實體，成為非中資投資方之一
+https://www.inside.com.tw/article/37997-blackstone-evaluates-taking-stake-us-tiktok-spinoff
 
-回歸 OG Facebook！平台宣布推出「好友」標籤，僅顯示朋友的貼文
-https://www.inside.com.tw/article/37989-facebook-friend-tab
+馬斯克的 xAI 斥資 450 億美元收購 X！路透：有助 AI 模型 Grok 發展
+https://www.inside.com.tw/article/37996-musks-xai-buys-social-media-platform-x-45-billion
 
-任天堂因應 Nintendo Switch 2 推出「虛擬遊戲卡」、「Nintendo Today!」App
-https://www.inside.com.tw/article/37988-nintendo-new-app
+奧迪首款 PPE 平台純電休旅，Q6 e-tron 正式在台上市，售價 265 萬起
+https://www.inside.com.tw/article/37995-audi-q6-e-tron-taiwan-luanch
 
-Ubisoft 分拆新子公司，負責 3 大遊戲 IP！由騰訊收購 25% 股份
-https://www.inside.com.tw/article/37987-ubisoft-tencent
+【Tenz 科技評論】AI 時代孩子應具備的新能力，以及家長應有的教育新觀念
+https://www.inside.com.tw/article/37985-new-skills-children-need-in-ai-era-and-new-educational-concepts-for-parents
 
-川普宣布將課徵 25% 進口車輛與零部件關稅！4 月 2 日起生效
-https://www.inside.com.tw/article/37980-trump-tariffs-imported-cars
-
-momo 獲利小幅衰退，谷元宏口中的「三大難」、「三大招」是什麼？
-https://www.inside.com.tw/article/37984-momo-development-outlook-for-2025
-
-南升北降──川普逆同盟操作的後續效應
-https://voicettank.org/20250327-3/
-
-【書摘】《是炒作還是真相？媒體與科學家關於真相與話語權的角力戰：從基改食品、動物實驗、混種研究、疫苗爭議到疫情報導的製作》
-https://voicettank.org/20250328-1/
+中國急起直追，美國未來如何鞏固量子霸權？
+https://www.inside.com.tw/article/37992-us-quantum-computing
 
 從亞亞事件談言論自由
 https://voicettank.org/20250328-2/
 
-DeepSeek讓所有資料流入中國！甘利明：台日應合作創造無風險AI世界
-https://www.businessyee.com/article/5789-amari-akira-taiwan-japan-cowork-no-risk-ai
+清明連假去哪裡？全台飯店住宿券這裡找！
+https://www.businessyee.com/article/5790-vacation-hotel-list
 
-大潤發走入歷史！全聯宣布更名大全聯，Q3完成Logo更換、會員整合
-https://www.businessyee.com/article/5788-rtmart-rename-pxmart
-
-首檔主動式ETF！野村台灣智慧優選（00980A）4/15開募，挑戰超額報酬
-https://www.businessyee.com/article/5787-nomurafunds-00980a-ipo
-
-林本堅：川普關稅衝擊美商、對台影響有限；「台積電是互助團體」三星Intel追不上
-https://www.businessyee.com/article/5786-burn-j-lin-tsmc
-
-Intel執行長陳立武：18A 製程進展順利，聚焦 AI 硬體競爭
-https://www.businessyee.com/article/5785-intel-18a-ai-nvidia
-
-【好險有聽】每個人都要知道的保險稅務與資產傳承ft.稅務專家朱家棟老師
-https://www.businessyee.com/article/5784-ep25
-
-國票金談併購強調時機，市場評價好時較適合
-https://www.businessyee.com/article/5783-ibf-2024-earningcall
-
-保險創新開春報三案：非本人投保旅平險車險、電信帳單代收保費申請試辦
-https://www.businessyee.com/article/5782-insurance-Innovation-2025
-
-業界首創！國壽「團險自費件」獲准試辦，員工線上一站式投保
-https://www.businessyee.com/article/5781-cathay-life-Group-insurance
-
-主動出擊！金管會啟動「隱璞尋光計畫」，親訪金融業者挖潛力創新
-https://www.businessyee.com/article/5780-fsc-find-Innovation
-
-EnableEurekaClient vs EnableDiscoveryClient: Which to Use?
-https://feeds.feedblitz.com/~/915769022/0/baeldung~EnableEurekaClient-vs-EnableDiscoveryClient-Which-to-Use
-
-Integrating WireMock with Spring Boot
-https://feeds.feedblitz.com/~/915769025/0/baeldung~Integrating-WireMock-with-Spring-Boot
-
-Output the Version Number to a Text File Using Maven
-https://feeds.feedblitz.com/~/915768542/0/baeldung~Output-the-Version-Number-to-a-Text-File-Using-Maven
-
-Java Weekly, Issue 587
-https://feeds.feedblitz.com/~/915734399/0/baeldung~Java-Weekly-Issue
-
-Open Multiple Projects in the Same Window in IntelliJ IDEA
-https://feeds.feedblitz.com/~/915715799/0/baeldung~Open-Multiple-Projects-in-the-Same-Window-in-IntelliJ-IDEA
-
-Closing Scanner in Java
-https://feeds.feedblitz.com/~/915715802/0/baeldung~Closing-Scanner-in-Java
-
-Monitor Non-Heap Memory Usage of a JVM
-https://feeds.feedblitz.com/~/915715805/0/baeldung~Monitor-NonHeap-Memory-Usage-of-a-JVM
-
-Java Naming Conventions
-https://feeds.feedblitz.com/~/915711980/0/baeldung~Java-Naming-Conventions
+Java API for GitHub using GitHub-API
+https://feeds.feedblitz.com/~/915826439/0/baeldung~Java-API-for-GitHub-using-GitHubAPI
