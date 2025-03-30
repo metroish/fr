@@ -1,76 +1,16 @@
-# 2025-03-29 09:15:57 Feeds Report 
+# 2025-03-30 09:15:32 Feeds Report 
 
-Daily Hacker News for 2025-03-28
-https://www.daemonology.net/hn-daily/2025-03-28.html
+Daily Hacker News for 2025-03-29
+https://www.daemonology.net/hn-daily/2025-03-29.html
+
+Weekly Ask Hacker News for 2025-03-23 -- 2025-03-29
+http://www.daemonology.net/hn-weekly-ask/2025-03-29.html
+
+fork 出來的 curl-impersonate
+https://blog.gslin.org/archives/2025/03/30/12326/fork-%e5%87%ba%e4%be%86%e7%9a%84-curl-impersonate/
 
 導入脈絡感知、簡化事件分類，TXOne強化OT端點狀態能見度
 https://www.ithome.com.tw/review/168119
 
-Vivaldi瀏覽器整合Proton VPN
-https://www.ithome.com.tw/news/168132
-
-微軟推出可執行多語言元件的超快速虛擬機Hyperlight Wasm
-https://www.ithome.com.tw/news/168129
-
-NPM惡意套件攻擊出現新手法，駭客鎖定其他合法套件植入後門
-https://www.ithome.com.tw/news/168131
-
-使用者對GPT 4o模型圖像生成趨之若鶩，OpenAI暫時祭出限制
-https://www.ithome.com.tw/news/168130
-
-絕對武力2遊戲玩家小心網釣！攻擊者想透過瀏覽器內的假視窗竊取Steam帳號
-https://www.ithome.com.tw/news/168128
-
-臺灣主權AI發展新戰略
-https://www.ithome.com.tw/article/168125
-
-【專家意見：台智雲總經理吳漢章】政府主權AI不只打造模型，更應妥善分配算力資源扶植產業發展
-https://www.ithome.com.tw/news/168124
-
-【臺灣主權AI關鍵推手：TAIDE模型鑄造組顧問黃瀚萱】政府應以充足算力、開放資料協助主權模型發展
-https://www.ithome.com.tw/news/168123
-
-【臺灣主權AI關鍵推手：國網中心主任張朝亮】國網擴建大型算力資源為基礎，支援主權模型及AI產業發展
-https://www.ithome.com.tw/news/168122
-
-【從主權模型，轉向擴建公共算力和繁中語料庫】臺灣主權AI戰略的下一步
-https://www.ithome.com.tw/news/168121
-
-Mozilla發布Windows版Firefox更新，修補沙箱逃逸漏洞
-https://www.ithome.com.tw/news/168126
-
-AI趨勢周報第270期：OpenAI支援MCP協定、Cloudflare新添4款遠端MCP伺服器工具
-https://www.ithome.com.tw/news/168118
-
-AI 獨角獸 Scale AI 估值飆升至 250 億美元！NVIDIA、Meta 都是金主
-https://www.inside.com.tw/article/37999-scale-ai-seeking-valuation-high-25-billion-potential-tender-offer
-
-川普 2.0 本該解開 IPO 市場 但 CoreWeave 上市首日遭潑冷水 投資者惴惴不安
-https://www.inside.com.tw/article/37998-nvidia-backed-coreweaves-shares-likely-open-up-25-above-ipo-price
-
-卓致遠：致遠設計體驗創辦人｜報稅酸民如何用設計思考革新公部門？台灣政府服務的 UX 革命與數位轉型【塞掐 Side Chat】E328
-https://www.inside.com.tw/feature/side-chat/37993-side-chat-e328
-
-黑石集團擬入股美國 TikTok 分拆實體，成為非中資投資方之一
-https://www.inside.com.tw/article/37997-blackstone-evaluates-taking-stake-us-tiktok-spinoff
-
-馬斯克的 xAI 斥資 450 億美元收購 X！路透：有助 AI 模型 Grok 發展
-https://www.inside.com.tw/article/37996-musks-xai-buys-social-media-platform-x-45-billion
-
-奧迪首款 PPE 平台純電休旅，Q6 e-tron 正式在台上市，售價 265 萬起
-https://www.inside.com.tw/article/37995-audi-q6-e-tron-taiwan-luanch
-
-【Tenz 科技評論】AI 時代孩子應具備的新能力，以及家長應有的教育新觀念
-https://www.inside.com.tw/article/37985-new-skills-children-need-in-ai-era-and-new-educational-concepts-for-parents
-
-中國急起直追，美國未來如何鞏固量子霸權？
-https://www.inside.com.tw/article/37992-us-quantum-computing
-
-從亞亞事件談言論自由
-https://voicettank.org/20250328-2/
-
-清明連假去哪裡？全台飯店住宿券這裡找！
-https://www.businessyee.com/article/5790-vacation-hotel-list
-
-Java API for GitHub using GitHub-API
-https://feeds.feedblitz.com/~/915826439/0/baeldung~Java-API-for-GitHub-using-GitHubAPI
+Underground Empire 地下帝國
+https://dushuyizhi.net/underground-empire/
