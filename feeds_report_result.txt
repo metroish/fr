@@ -1,16 +1,64 @@
-# 2025-03-30 09:15:32 Feeds Report 
+# 2025-03-31 09:18:55 Feeds Report 
 
-Daily Hacker News for 2025-03-29
-https://www.daemonology.net/hn-daily/2025-03-29.html
+Daily Hacker News for 2025-03-30
+https://www.daemonology.net/hn-daily/2025-03-30.html
 
-Weekly Ask Hacker News for 2025-03-23 -- 2025-03-29
-http://www.daemonology.net/hn-weekly-ask/2025-03-29.html
+git.kernel.org 與 lore.kernel.org 改由 Akamai 資助
+https://blog.gslin.org/archives/2025/03/31/12330/git-kernel-org-%e8%88%87-lore-kernel-org-%e6%94%b9%e7%94%b1-akamai-%e8%b3%87%e5%8a%a9/
 
-fork 出來的 curl-impersonate
-https://blog.gslin.org/archives/2025/03/30/12326/fork-%e5%87%ba%e4%be%86%e7%9a%84-curl-impersonate/
+37signals 的雲端搬遷計畫的最後一段：Amazon S3
+https://blog.gslin.org/archives/2025/03/30/12328/37signals-%e7%9a%84%e9%9b%b2%e7%ab%af%e6%90%ac%e9%81%b7%e8%a8%88%e7%95%ab%e7%9a%84%e6%9c%80%e5%be%8c%e4%b8%80%e6%ae%b5%ef%bc%9aamazon-s3/
 
-導入脈絡感知、簡化事件分類，TXOne強化OT端點狀態能見度
-https://www.ithome.com.tw/review/168119
+開發可切菜、摺衣服等單一功能機器手臂的Dyna Robotics，完成2,350萬美元的種子融資
+https://www.ithome.com.tw/news/168158
 
-Underground Empire 地下帝國
-https://dushuyizhi.net/underground-empire/
+惡意程式CoffeeLoader冒充華碩電腦整合設定軟體，該工具用GPU執行程式碼而逃過資安偵測
+https://www.ithome.com.tw/news/168156
+
+【資安週報】0324~0328，臺灣上市公司有3家在同一日發布資安重訊，涵蓋運動健身、建設、網通業者
+https://www.ithome.com.tw/news/168144
+
+CoreWeave以每股40美元登上那斯達克
+https://www.ithome.com.tw/news/168142
+
+4月初，VMware最低授權核心數從16提高到72核心，不提早續約的客戶將罰款20%
+https://www.ithome.com.tw/news/168141
+
+同屬馬斯克旗下的xAI買下X
+https://www.ithome.com.tw/news/168140
+
+Anthropic公開新研究揭示LLM的內部思考機制
+https://www.ithome.com.tw/news/168139
+
+8 款最佳文字生成影片工具推薦，從社群短片到商業廣告皆能輕鬆上手
+https://www.inside.com.tw/article/37968-Pollo.ai
+
+專訪致遠體驗設計創辦人卓致遠：從報稅系統痛點到 UX 革新，設計如何重塑政府服務？
+https://www.inside.com.tw/article/37983-side-chat-woodesign
+
+政府能為創業家做什麼
+https://voicettank.org/20250331-2/
+
+你不收亞亞，亞亞早晚收了你
+https://voicettank.org/20250331-1/
+
+普丁想要什麼？──對莫斯科獨裁領導人的錯誤認知
+https://voicettank.org/20250331-3/
+
+首檔市值型ETF！0050受益人數突破100萬，分割案投票4/2開跑
+https://www.businessyee.com/article/5797-0050-partition-vote-start
+
+台積電2奈米下半年量產！秦永沛：高雄晶圓22廠投資逾1.5兆
+https://www.businessyee.com/article/5796-tsmc-2nano-kaohsiung
+
+下雨衣服好難乾？乾衣功能的除濕機讓你一掃陰鬱！
+https://www.businessyee.com/article/5794-rainy-day-dehumidifier
+
+宏泰人壽推實支實付醫療險附約，涵蓋達文西手術等新型療法
+https://www.businessyee.com/article/5793-hontai-HSF-RPE
+
+國內首張！凱基銀推加密幣信用卡「凱基幣享卡」，刷卡最高點數回饋7%
+https://www.businessyee.com/article/5792-USDT-creditcard
+
+川普嗆聲對俄石油買家課重稅！威脅轟炸伊朗
+https://www.businessyee.com/article/5791-trump-secondary-tariffs-eu
