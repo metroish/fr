@@ -1,19 +1,37 @@
-# 2025-03-31 09:18:55 Feeds Report 
+# 2025-04-01 09:18:31 Feeds Report 
 
-Daily Hacker News for 2025-03-30
-https://www.daemonology.net/hn-daily/2025-03-30.html
+Daily Hacker News for 2025-03-31
+https://www.daemonology.net/hn-daily/2025-03-31.html
 
-git.kernel.org 與 lore.kernel.org 改由 Akamai 資助
-https://blog.gslin.org/archives/2025/03/31/12330/git-kernel-org-%e8%88%87-lore-kernel-org-%e6%94%b9%e7%94%b1-akamai-%e8%b3%87%e5%8a%a9/
+閒聊 - 當 AI 用一秒超車你的一萬小時，程式老鳥的生存之道
+https://blog.darkthread.net/blog/10k-hours-vs-ai/
 
-37signals 的雲端搬遷計畫的最後一段：Amazon S3
-https://blog.gslin.org/archives/2025/03/30/12328/37signals-%e7%9a%84%e9%9b%b2%e7%ab%af%e6%90%ac%e9%81%b7%e8%a8%88%e7%95%ab%e7%9a%84%e6%9c%80%e5%be%8c%e4%b8%80%e6%ae%b5%ef%bc%9aamazon-s3/
+Amazon發表瀏覽器AI代理Nova Act
+https://www.ithome.com.tw/news/168187
 
-開發可切菜、摺衣服等單一功能機器手臂的Dyna Robotics，完成2,350萬美元的種子融資
-https://www.ithome.com.tw/news/168158
+OpenAI再融資400億美元，市值可望衝上3,000億美元
+https://www.ithome.com.tw/news/168182
 
-惡意程式CoffeeLoader冒充華碩電腦整合設定軟體，該工具用GPU執行程式碼而逃過資安偵測
-https://www.ithome.com.tw/news/168156
+【資安月報】2025年3月，出現專門鎖定臺灣攻擊的勒索軟體，CrazyHunter攻擊目標從醫院擴大至上市櫃公司
+https://www.ithome.com.tw/news/168181
+
+駭客在網上公開三星德國分公司27萬筆客服資料
+https://www.ithome.com.tw/news/168180
+
+WordPress外掛程式資料夾成網路攻擊溫床！網站被植入惡意程式及垃圾內容
+https://www.ithome.com.tw/news/168179
+
+HTTPS憑證產業於3月新增兩項安全要求，7月禁止基於WHOIS的弱驗證
+https://www.ithome.com.tw/news/168178
+
+Gemini 2.5 Pro模型已開放給免費Gemini用戶
+https://www.ithome.com.tw/news/168176
+
+甲骨文外洩病患醫療資訊 處理方式惹爭議
+https://www.ithome.com.tw/news/168175
+
+Google推動安全機制前移，Android程式碼撰寫階段即啟動政策違規提醒
+https://www.ithome.com.tw/news/168168
 
 【資安週報】0324~0328，臺灣上市公司有3家在同一日發布資安重訊，涵蓋運動健身、建設、網通業者
 https://www.ithome.com.tw/news/168144
@@ -21,44 +39,74 @@ https://www.ithome.com.tw/news/168144
 CoreWeave以每股40美元登上那斯達克
 https://www.ithome.com.tw/news/168142
 
-4月初，VMware最低授權核心數從16提高到72核心，不提早續約的客戶將罰款20%
-https://www.ithome.com.tw/news/168141
+AWS 宣布水資源正效益承諾 目標在 2030 年前將超過自身用水量的水資源回饋社區
+https://www.inside.com.tw/feature/aws-tw/38018-aws
 
-同屬馬斯克旗下的xAI買下X
-https://www.ithome.com.tw/news/168140
+保時捷宣布舊電池回收計畫，盡可能的利用舊電池打造出全新再製電池
+https://www.inside.com.tw/article/38015-porsche-set-to-pilot-closed-loop-raw-material-ev-battery-recycling-program
 
-Anthropic公開新研究揭示LLM的內部思考機制
-https://www.ithome.com.tw/news/168139
+美政治機密外洩風暴中崛起 Signal 下載量翻倍
+https://www.inside.com.tw/article/38016-singnal-app-download
 
-8 款最佳文字生成影片工具推薦，從社群短片到商業廣告皆能輕鬆上手
-https://www.inside.com.tw/article/37968-Pollo.ai
+台灣首顆 B5G 低軌通訊衛星，美商 CesiumAstro 拿下關鍵酬載標案！
+https://www.inside.com.tw/article/38014-b5g-cesium-astro
 
-專訪致遠體驗設計創辦人卓致遠：從報稅系統痛點到 UX 革新，設計如何重塑政府服務？
-https://www.inside.com.tw/article/37983-side-chat-woodesign
+TNL Mediagene 關鍵評論網媒體集團持續深耕 AI 生態圈， 2025 生成式 AI 雙年會規模再創新高
+https://www.inside.com.tw/article/38007-tnl-mediagene%20-2025-gai
 
-政府能為創業家做什麼
-https://voicettank.org/20250331-2/
+OpenAI 要開源了？預告將於未來幾個月內釋出開放權重的模型
+https://www.inside.com.tw/article/38013-openai-to-release-open-model
 
-你不收亞亞，亞亞早晚收了你
-https://voicettank.org/20250331-1/
+為什麼 Netflix CEO 敢直言：「電影院永遠回不來了」？
+https://www.inside.com.tw/article/38012-movie-theaters-still-dead-per-netflix-boss
 
-普丁想要什麼？──對莫斯科獨裁領導人的錯誤認知
-https://voicettank.org/20250331-3/
+傳聯電與 GlobalFoundries 有意合併！法人：可望挑戰三星位置
+https://www.inside.com.tw/article/38010-umc-globalfoundries-reportedly-in-merger-talks-challenge-samsung-position
 
-首檔市值型ETF！0050受益人數突破100萬，分割案投票4/2開跑
-https://www.businessyee.com/article/5797-0050-partition-vote-start
+Intel 新掌門人陳立武首度公開發聲！強調數年內成最卓越晶圓代工
+https://www.inside.com.tw/article/38009-new-intel-leader-patrick-chen-makes-first-public-statement-emphasizing-superior-foundry-services-within-years
 
-台積電2奈米下半年量產！秦永沛：高雄晶圓22廠投資逾1.5兆
-https://www.businessyee.com/article/5796-tsmc-2nano-kaohsiung
+亞馬遜技術長 Werner Vogels：2023 年及未來五大技術趨勢預測
+https://www.inside.com.tw/feature/aws-tw/38017-aws
 
-下雨衣服好難乾？乾衣功能的除濕機讓你一掃陰鬱！
-https://www.businessyee.com/article/5794-rainy-day-dehumidifier
+台灣傳播政治經濟學思想已到後馮建三時代
+https://voicettank.org/20250401-2/
 
-宏泰人壽推實支實付醫療險附約，涵蓋達文西手術等新型療法
-https://www.businessyee.com/article/5793-hontai-HSF-RPE
+二戰結束八十周年好讀書（一）──讀「漢奸」胡蘭成
+https://voicettank.org/20250401-1/
 
-國內首張！凱基銀推加密幣信用卡「凱基幣享卡」，刷卡最高點數回饋7%
-https://www.businessyee.com/article/5792-USDT-creditcard
+柯文哲不嬴，台灣沒有完蛋
+https://voicettank.org/柯文哲不嬴台灣沒有完蛋/
 
-川普嗆聲對俄石油買家課重稅！威脅轟炸伊朗
-https://www.businessyee.com/article/5791-trump-secondary-tariffs-eu
+美國維吉尼亞級核潛艦將進駐澳洲海軍基地之研析
+https://voicettank.org/20250401-3/
+
+千元內享用星級自助餐！台北、高雄星級飯店平日自助餐券整理
+https://www.businessyee.com/article/5809-buffet
+
+富邦投信、日盛投信完成合併，邁向亞洲一流資產管理公司
+https://www.businessyee.com/article/5808-fuban-merge-JihSun-investment-banks-finish
+
+TNL Mediagene 關鍵評論網媒體集團持續深耕 AI 生態圈， 2025 生成式 AI 雙年會規模再創新高
+https://www.businessyee.com/article/5798-GAI-2025
+
+英特爾新任CEO處女秀！陳立武：將帶領公司找回創新精神
+https://www.businessyee.com/article/5807-chipmaker-Intel-new-ceo-speech
+
+OpenAI完成400億美元融資，創下私人科技公司最大規模募資紀錄
+https://www.businessyee.com/article/5805-openai-closes-40-billion-in-funding
+
+4/1起搭機全面禁用行動電源！可帶上飛機的有哪幾款台灣品牌？
+https://www.businessyee.com/article/5806-power-bank-airplane
+
+總是覺得錢不夠用？可能是「心理帳戶」效應的影響！
+https://www.businessyee.com/article/5804-mental-accounting
+
+台新GoGo卡加碼，加油、超商繳牌照稅、房屋稅、所得稅賺6%回饋
+https://www.businessyee.com/article/5803-taishin-GoGo-apr-2025
+
+凱基人壽推兩款分紅保單，雙幣別滿足退休及資產傳承需求
+https://www.businessyee.com/article/5802-kgi-participating-policy-insurance
+
+白宮：新關稅「以國家為基礎」！WSJ：可能改為20%齊頭關稅
+https://www.businessyee.com/article/5801-trump-country-based-tariffs
