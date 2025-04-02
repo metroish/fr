@@ -1,22 +1,58 @@
-# 2025-04-01 09:18:31 Feeds Report 
+# 2025-04-02 09:18:09 Feeds Report 
 
-Daily Hacker News for 2025-03-31
-https://www.daemonology.net/hn-daily/2025-03-31.html
+Daily Hacker News for 2025-04-01
+https://www.daemonology.net/hn-daily/2025-04-01.html
 
-閒聊 - 當 AI 用一秒超車你的一萬小時，程式老鳥的生存之道
-https://blog.darkthread.net/blog/10k-hours-vs-ai/
+微軟Copilot Studio的AI代理開始支援深度推理，M365也增加AI研究員及AI分析師代理
+https://www.ithome.com.tw/news/168223
 
-Amazon發表瀏覽器AI代理Nova Act
-https://www.ithome.com.tw/news/168187
+NPM老套件久未維護成攻擊破口，淪為資訊竊取惡意工具
+https://www.ithome.com.tw/news/168221
 
-OpenAI再融資400億美元，市值可望衝上3,000億美元
-https://www.ithome.com.tw/news/168182
+社群網站X驚傳28億用戶資料外洩
+https://www.ithome.com.tw/news/168222
 
-【資安月報】2025年3月，出現專門鎖定臺灣攻擊的勒索軟體，CrazyHunter攻擊目標從醫院擴大至上市櫃公司
-https://www.ithome.com.tw/news/168181
+Gmail推出全新端對端加密功能
+https://www.ithome.com.tw/news/168220
 
-駭客在網上公開三星德國分公司27萬筆客服資料
-https://www.ithome.com.tw/news/168180
+Canon印表機存在重大層級漏洞，攻擊者有機會用以執行任意程式碼
+https://www.ithome.com.tw/news/168218
+
+打破記憶體擴展的桎梏
+https://www.ithome.com.tw/voice/168185
+
+USDC穩定幣開發商Circle申請IPO
+https://www.ithome.com.tw/news/168216
+
+微軟Windows 11將改版BSOD、強制登入帳號才能安裝
+https://www.ithome.com.tw/news/168214
+
+【從以CPU為中心的應用，向支援GPU應用延伸】CXL記憶體產品新趨勢：直接支援AI應用
+https://www.ithome.com.tw/tech/168212
+
+【突破主機板與機箱窠臼，伺服器大記憶體時代正式來臨】CXL記憶體產品發展現況
+https://www.ithome.com.tw/tech/168211
+
+【從小規模簡單互連架構，邁向超大規模複雜環境應用】CXL規格制定的新進展
+https://www.ithome.com.tw/tech/168205
+
+【從規格到伺服器主機、作業環境、周邊產品發展全面發酵】CXL記憶體互連技術進入新階段
+https://www.ithome.com.tw/tech/168203
+
+CXL時代到來
+https://www.ithome.com.tw/article/168213
+
+Linux與嵌入式系統用戶注意！三大系統開機載入器記憶體緩衝區溢位漏洞
+https://www.ithome.com.tw/news/168210
+
+臺灣要有自己的醫療作業系統，衛福部資訊處揭3大關鍵
+https://www.ithome.com.tw/people/168189
+
+Deep Research即將推向免費ChatGPT用戶
+https://www.ithome.com.tw/news/168194
+
+Swift正式支援Swiftly 1.0，提供跨平臺工具鏈安裝與版本管理
+https://www.ithome.com.tw/news/168188
 
 WordPress外掛程式資料夾成網路攻擊溫床！網站被植入惡意程式及垃圾內容
 https://www.ithome.com.tw/news/168179
@@ -27,86 +63,71 @@ https://www.ithome.com.tw/news/168178
 Gemini 2.5 Pro模型已開放給免費Gemini用戶
 https://www.ithome.com.tw/news/168176
 
-甲骨文外洩病患醫療資訊 處理方式惹爭議
-https://www.ithome.com.tw/news/168175
+AWS 持續擴展遍布全球的雲端基礎設施，助力台灣企業上雲出海
+https://www.inside.com.tw/feature/aws-tw/38026-aws
 
-Google推動安全機制前移，Android程式碼撰寫階段即啟動政策違規提醒
-https://www.ithome.com.tw/news/168168
+全球暖化若升溫至 4°C，平均每人財富將減少 40%
+https://www.inside.com.tw/article/38029-average-person-will-be-40-poorer-if-world-warms-by-4c-new-research-shows
 
-【資安週報】0324~0328，臺灣上市公司有3家在同一日發布資安重訊，涵蓋運動健身、建設、網通業者
-https://www.ithome.com.tw/news/168144
+挑戰者「鐵鈉電池」亮相！稱壽命達 7,000 次循環挑戰 Tesla Megapack
+https://www.inside.com.tw/article/38032-iron-sodium-battery-challenges-tesla-megapack
 
-CoreWeave以每股40美元登上那斯達克
-https://www.ithome.com.tw/news/168142
+小米 SU7 車禍釀 3 死，雷軍沉寂 3 天道歉了！智駕造車迎來黑暗時刻
+https://www.inside.com.tw/article/38033-xiaomi-su7-crash
 
-AWS 宣布水資源正效益承諾 目標在 2030 年前將超過自身用水量的水資源回饋社區
-https://www.inside.com.tw/feature/aws-tw/38018-aws
+不只無人機！台灣海防急需「無人艦艇隊」應對灰色地帶新挑戰
+https://www.inside.com.tw/article/38030-taiwan-unmanned-naval-fleet-urgent-gray-zone-threats
 
-保時捷宣布舊電池回收計畫，盡可能的利用舊電池打造出全新再製電池
-https://www.inside.com.tw/article/38015-porsche-set-to-pilot-closed-loop-raw-material-ev-battery-recycling-program
+吉卜力風 AI 圖爆紅！ChatGPT 一小時新增百萬用戶
+https://www.inside.com.tw/article/38028-chatgpt-ghibli
 
-美政治機密外洩風暴中崛起 Signal 下載量翻倍
-https://www.inside.com.tw/article/38016-singnal-app-download
+AI 晶片關鍵技術爭奪戰：Arm 曾出手收購 Alphawave 但最終退場
+https://www.inside.com.tw/article/38027-arm-recently-sought-acquire-alphawave-ai-chip-tech
 
-台灣首顆 B5G 低軌通訊衛星，美商 CesiumAstro 拿下關鍵酬載標案！
-https://www.inside.com.tw/article/38014-b5g-cesium-astro
+Meta AI 研究主管將離職，透露將投入「新冒險」
+https://www.inside.com.tw/article/38021-meta-s-head-of-ai-research-to-leave-roiling-investment-push
 
-TNL Mediagene 關鍵評論網媒體集團持續深耕 AI 生態圈， 2025 生成式 AI 雙年會規模再創新高
-https://www.inside.com.tw/article/38007-tnl-mediagene%20-2025-gai
+獨立市值或達 5500 億美元，YouTube 為何被稱為「新媒體之王」？
+https://www.inside.com.tw/article/38023-why-youtube-is-called-new-media-king-with-potential-550-billion-dollar-independent-value
 
-OpenAI 要開源了？預告將於未來幾個月內釋出開放權重的模型
-https://www.inside.com.tw/article/38013-openai-to-release-open-model
+AWS 強大雲端運算力，突破生成式 AI 發展瓶頸
+https://www.inside.com.tw/feature/aws-tw/38025-aws
 
-為什麼 Netflix CEO 敢直言：「電影院永遠回不來了」？
-https://www.inside.com.tw/article/38012-movie-theaters-still-dead-per-netflix-boss
+美利堅治世崩解中的一線曙光
+https://voicettank.org/20250402-1/
 
-傳聯電與 GlobalFoundries 有意合併！法人：可望挑戰三星位置
-https://www.inside.com.tw/article/38010-umc-globalfoundries-reportedly-in-merger-talks-challenge-samsung-position
+諾維薩德之殤：從一帶一路基建事故到塞爾維亞政治風暴
+https://voicettank.org/20250402-2/
 
-Intel 新掌門人陳立武首度公開發聲！強調數年內成最卓越晶圓代工
-https://www.inside.com.tw/article/38009-new-intel-leader-patrick-chen-makes-first-public-statement-emphasizing-superior-foundry-services-within-years
+AWS 助力遠東 SOGO 搶攻週年慶商機 雲端服務開啟智慧零售、創下業績新高
+https://www.businessyee.com/article/5818-aws
 
-亞馬遜技術長 Werner Vogels：2023 年及未來五大技術趨勢預測
-https://www.inside.com.tw/feature/aws-tw/38017-aws
+小孩超狂熱？分齡兒童節禮物讓你連假好放鬆！
+https://www.businessyee.com/article/5820-childrens-day-present-2025
 
-台灣傳播政治經濟學思想已到後馮建三時代
-https://voicettank.org/20250401-2/
+TikTok在美何去何從？傳川普4/2開會討論最終提案
+https://www.businessyee.com/article/5819-TikTok
 
-二戰結束八十周年好讀書（一）──讀「漢奸」胡蘭成
-https://voicettank.org/20250401-1/
+永豐金股東會紀念品金元包便當袋怎麼領？零股可以領嗎？領取時間？
+https://www.businessyee.com/article/5816-2890-shareholders-souvenirs-2025
 
-柯文哲不嬴，台灣沒有完蛋
-https://voicettank.org/柯文哲不嬴台灣沒有完蛋/
+助攻零售數位轉型！91APP 如何與 AWS 一路並肩前行，做到系統化減省營運成本、追求獲利成長
+https://www.businessyee.com/article/5817-aws
 
-美國維吉尼亞級核潛艦將進駐澳洲海軍基地之研析
-https://voicettank.org/20250401-3/
+瘋狂生成吉卜力風AI圖，ChatGPT一小時新增百萬用戶
+https://www.businessyee.com/article/5815-agi
 
-千元內享用星級自助餐！台北、高雄星級飯店平日自助餐券整理
-https://www.businessyee.com/article/5809-buffet
+統一20%關稅惹議？傳川普考慮減少部分國稅率
+https://www.businessyee.com/article/5814-trump-tariffs-ustr
 
-富邦投信、日盛投信完成合併，邁向亞洲一流資產管理公司
-https://www.businessyee.com/article/5808-fuban-merge-JihSun-investment-banks-finish
+連假轉晴？現在就下定「防曬棒」！2025年清明掃墓最強防蚊・防曬用品
+https://www.businessyee.com/article/5813-sun-protection
 
-TNL Mediagene 關鍵評論網媒體集團持續深耕 AI 生態圈， 2025 生成式 AI 雙年會規模再創新高
-https://www.businessyee.com/article/5798-GAI-2025
+台新金、新光金7/24合併，股東最快8、9月領股利
+https://www.businessyee.com/article/5812-2887-2888-24th-july-merge
 
-英特爾新任CEO處女秀！陳立武：將帶領公司找回創新精神
-https://www.businessyee.com/article/5807-chipmaker-Intel-new-ceo-speech
+新壽資本無虞？金管會：台新金併新光目前「不太需要增資」
+https://www.businessyee.com/article/5811-taishin-shinkong-capital-need
 
-OpenAI完成400億美元融資，創下私人科技公司最大規模募資紀錄
-https://www.businessyee.com/article/5805-openai-closes-40-billion-in-funding
-
-4/1起搭機全面禁用行動電源！可帶上飛機的有哪幾款台灣品牌？
-https://www.businessyee.com/article/5806-power-bank-airplane
-
-總是覺得錢不夠用？可能是「心理帳戶」效應的影響！
-https://www.businessyee.com/article/5804-mental-accounting
-
-台新GoGo卡加碼，加油、超商繳牌照稅、房屋稅、所得稅賺6%回饋
-https://www.businessyee.com/article/5803-taishin-GoGo-apr-2025
-
-凱基人壽推兩款分紅保單，雙幣別滿足退休及資產傳承需求
-https://www.businessyee.com/article/5802-kgi-participating-policy-insurance
-
-白宮：新關稅「以國家為基礎」！WSJ：可能改為20%齊頭關稅
-https://www.businessyee.com/article/5801-trump-country-based-tariffs
+Connect Java Spring Boot to Db2 Database
+https://feeds.feedblitz.com/~/915967940/0/baeldung~Connect-Java-Spring-Boot-to-Db-Database
