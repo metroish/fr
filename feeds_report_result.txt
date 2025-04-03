@@ -1,19 +1,22 @@
-# 2025-04-02 09:18:09 Feeds Report 
+# 2025-04-03 09:18:03 Feeds Report 
 
-Daily Hacker News for 2025-04-01
-https://www.daemonology.net/hn-daily/2025-04-01.html
+Daily Hacker News for 2025-04-02
+https://www.daemonology.net/hn-daily/2025-04-02.html
 
-微軟Copilot Studio的AI代理開始支援深度推理，M365也增加AI研究員及AI分析師代理
-https://www.ithome.com.tw/news/168223
+微軟Copilot+ PC AI功能擴至AMD、Intel平臺
+https://www.ithome.com.tw/news/168236
 
-NPM老套件久未維護成攻擊破口，淪為資訊竊取惡意工具
-https://www.ithome.com.tw/news/168221
+Wikimedia去年的多媒體內容頻寬用量大幅成長50%，主要來自AI機器人的資料爬蟲
+https://www.ithome.com.tw/news/168235
 
-社群網站X驚傳28億用戶資料外洩
-https://www.ithome.com.tw/news/168222
+Raspberry Pi公布上市後首次年度財報
+https://www.ithome.com.tw/news/168234
 
-Gmail推出全新端對端加密功能
-https://www.ithome.com.tw/news/168220
+Apple修補舊版iOS、iPadOS、macOS中三個零時差漏洞
+https://www.ithome.com.tw/news/168229
+
+【資安日報】4月3日，刑事局揭露接連攻擊臺灣的駭客CrazyHunter身分
+https://www.ithome.com.tw/news/168231
 
 Canon印表機存在重大層級漏洞，攻擊者有機會用以執行任意程式碼
 https://www.ithome.com.tw/news/168218
@@ -48,86 +51,44 @@ https://www.ithome.com.tw/news/168210
 臺灣要有自己的醫療作業系統，衛福部資訊處揭3大關鍵
 https://www.ithome.com.tw/people/168189
 
-Deep Research即將推向免費ChatGPT用戶
-https://www.ithome.com.tw/news/168194
+「企鵝」、「海豹」也課稅？川普新關稅涵蓋南極地區
+https://www.inside.com.tw/article/38042-trumps-liberation-day-tariffs-hit-uninhabited-antarctic-islands-penguins-australia
 
-Swift正式支援Swiftly 1.0，提供跨平臺工具鏈安裝與版本管理
-https://www.ithome.com.tw/news/168188
+現代汽車集團美國新廠啟用，年產能上看50萬輛電動與油電車
+https://www.inside.com.tw/article/38041-hyundai-motor-group-metaplant-america-celebrates-grand
 
-WordPress外掛程式資料夾成網路攻擊溫床！網站被植入惡意程式及垃圾內容
-https://www.ithome.com.tw/news/168179
+超預期對等關稅震撼全球，電子代工大廠影響一次看
+https://www.inside.com.tw/article/38040-surprising-reciprocal-tariffs-shake-the-world-impact-on-major-electronics-manufacturers-at-a-glance
 
-HTTPS憑證產業於3月新增兩項安全要求，7月禁止基於WHOIS的弱驗證
-https://www.ithome.com.tw/news/168178
+特斯拉公布 2025 第一季交付報告，創下兩年來最差
+https://www.inside.com.tw/article/38039-tesla-q1-2025-deliveries-drop
 
-Gemini 2.5 Pro模型已開放給免費Gemini用戶
-https://www.ithome.com.tw/news/168176
+從巴士到機車再到無人機，氫燃料電池多元應用成形
+https://www.inside.com.tw/article/38038-from-buses-to-motorcycles-to-drones-hydrogen-fuel-cell-applications-take-shape
 
-AWS 持續擴展遍布全球的雲端基礎設施，助力台灣企業上雲出海
-https://www.inside.com.tw/feature/aws-tw/38026-aws
+川普對台課徵 32% 對等關稅，4 月 9 日起生效
+https://www.inside.com.tw/article/38037-rump-imposes-32-percent-reciprocal-tariff-on-taiwan-effective-april-9
 
-全球暖化若升溫至 4°C，平均每人財富將減少 40%
-https://www.inside.com.tw/article/38029-average-person-will-be-40-poorer-if-world-warms-by-4c-new-research-shows
+AI 工廠運算效率大幅提升！NVIDIA 最新 MLPerf 推論測試結果公布
+https://www.inside.com.tw/article/38022-nvidia-mlperf-ai-factory-performance-boost
 
-挑戰者「鐵鈉電池」亮相！稱壽命達 7,000 次循環挑戰 Tesla Megapack
-https://www.inside.com.tw/article/38032-iron-sodium-battery-challenges-tesla-megapack
+任天堂 Nintendo Switch 2 正式發表規格，6 月 5 日上市！
+https://www.inside.com.tw/article/38036-nintendo-switch-2-release-date-is-june-5
 
-小米 SU7 車禍釀 3 死，雷軍沉寂 3 天道歉了！智駕造車迎來黑暗時刻
-https://www.inside.com.tw/article/38033-xiaomi-su7-crash
+Visa 出價近億美元，競逐「Apple Card」合作夥伴
+https://www.inside.com.tw/article/38035-visa-bidding-to-partner-with-apple
 
-不只無人機！台灣海防急需「無人艦艇隊」應對灰色地帶新挑戰
-https://www.inside.com.tw/article/38030-taiwan-unmanned-naval-fleet-urgent-gray-zone-threats
+「開源」成中國軟體與 AI 公司的新常態，台灣該如何應對？【塞掐 Side Chat】E329
+https://www.inside.com.tw/feature/side-chat/38034-side-chat-e329
 
-吉卜力風 AI 圖爆紅！ChatGPT 一小時新增百萬用戶
-https://www.inside.com.tw/article/38028-chatgpt-ghibli
+日本將在九州部署中程彈道飛彈之研析
+https://voicettank.org/20250402-3/
 
-AI 晶片關鍵技術爭奪戰：Arm 曾出手收購 Alphawave 但最終退場
-https://www.inside.com.tw/article/38027-arm-recently-sought-acquire-alphawave-ai-chip-tech
+川普的劇場政治
+https://voicettank.org/20250403-1/
 
-Meta AI 研究主管將離職，透露將投入「新冒險」
-https://www.inside.com.tw/article/38021-meta-s-head-of-ai-research-to-leave-roiling-investment-push
+主管總是在下班前丟任務？職場高手的4個步驟，讓你不再手忙腳亂
+https://www.businessyee.com/article/5822-assign-tasks
 
-獨立市值或達 5500 億美元，YouTube 為何被稱為「新媒體之王」？
-https://www.inside.com.tw/article/38023-why-youtube-is-called-new-media-king-with-potential-550-billion-dollar-independent-value
-
-AWS 強大雲端運算力，突破生成式 AI 發展瓶頸
-https://www.inside.com.tw/feature/aws-tw/38025-aws
-
-美利堅治世崩解中的一線曙光
-https://voicettank.org/20250402-1/
-
-諾維薩德之殤：從一帶一路基建事故到塞爾維亞政治風暴
-https://voicettank.org/20250402-2/
-
-AWS 助力遠東 SOGO 搶攻週年慶商機 雲端服務開啟智慧零售、創下業績新高
-https://www.businessyee.com/article/5818-aws
-
-小孩超狂熱？分齡兒童節禮物讓你連假好放鬆！
-https://www.businessyee.com/article/5820-childrens-day-present-2025
-
-TikTok在美何去何從？傳川普4/2開會討論最終提案
-https://www.businessyee.com/article/5819-TikTok
-
-永豐金股東會紀念品金元包便當袋怎麼領？零股可以領嗎？領取時間？
-https://www.businessyee.com/article/5816-2890-shareholders-souvenirs-2025
-
-助攻零售數位轉型！91APP 如何與 AWS 一路並肩前行，做到系統化減省營運成本、追求獲利成長
-https://www.businessyee.com/article/5817-aws
-
-瘋狂生成吉卜力風AI圖，ChatGPT一小時新增百萬用戶
-https://www.businessyee.com/article/5815-agi
-
-統一20%關稅惹議？傳川普考慮減少部分國稅率
-https://www.businessyee.com/article/5814-trump-tariffs-ustr
-
-連假轉晴？現在就下定「防曬棒」！2025年清明掃墓最強防蚊・防曬用品
-https://www.businessyee.com/article/5813-sun-protection
-
-台新金、新光金7/24合併，股東最快8、9月領股利
-https://www.businessyee.com/article/5812-2887-2888-24th-july-merge
-
-新壽資本無虞？金管會：台新金併新光目前「不太需要增資」
-https://www.businessyee.com/article/5811-taishin-shinkong-capital-need
-
-Connect Java Spring Boot to Db2 Database
-https://feeds.feedblitz.com/~/915967940/0/baeldung~Connect-Java-Spring-Boot-to-Db-Database
+川普公布對等關稅稅率：台灣被課32%、中國最高達34%
+https://www.businessyee.com/article/5826-trump-tariffs-taiwan-32per
