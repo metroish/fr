@@ -1,94 +1,58 @@
-# 2025-04-03 09:18:03 Feeds Report 
+# 2025-04-04 09:18:02 Feeds Report 
 
-Daily Hacker News for 2025-04-02
-https://www.daemonology.net/hn-daily/2025-04-02.html
+Daily Hacker News for 2025-04-03
+https://www.daemonology.net/hn-daily/2025-04-03.html
 
-微軟Copilot+ PC AI功能擴至AMD、Intel平臺
-https://www.ithome.com.tw/news/168236
+微軟Windows 365 Link準系統開賣了
+https://www.ithome.com.tw/news/168251
 
-Wikimedia去年的多媒體內容頻寬用量大幅成長50%，主要來自AI機器人的資料爬蟲
-https://www.ithome.com.tw/news/168235
+蘋果將Apple Intelligence推向歐盟、登上Vision Pro
+https://www.ithome.com.tw/news/168250
 
-Raspberry Pi公布上市後首次年度財報
-https://www.ithome.com.tw/news/168234
+Amazon Project Kuiper、Alphabet子公司都在策畫連網服務挑戰Starlink
+https://www.ithome.com.tw/news/168249
 
-Apple修補舊版iOS、iPadOS、macOS中三個零時差漏洞
-https://www.ithome.com.tw/news/168229
+外傳英特爾與台積電將合資新公司，台積電占兩成股份
+https://www.ithome.com.tw/news/168248
+
+【資安日報】4月4日，因應量子破密威脅，臺灣今年將推出PQC遷移指引
+https://www.ithome.com.tw/news/168247
 
 【資安日報】4月3日，刑事局揭露接連攻擊臺灣的駭客CrazyHunter身分
 https://www.ithome.com.tw/news/168231
 
-Canon印表機存在重大層級漏洞，攻擊者有機會用以執行任意程式碼
-https://www.ithome.com.tw/news/168218
+NVIDIA 證實：任天堂 Switch 2 具備 DLSS 與光線追蹤技術
+https://www.inside.com.tw/article/38046-nintendo-switch-2-leveled-up-with-nvidia-ai-powered-dlss-and-4k-gaming
 
-打破記憶體擴展的桎梏
-https://www.ithome.com.tw/voice/168185
+Meta 帝國危機？祖克伯遊說川普阻擋 WhatsApp、Instagram 被迫分家
+https://www.inside.com.tw/article/38045-meta-empire-crisis-zuckerberg-lobbies-trump-prevent-whatsapp-instagram-breakup
 
-USDC穩定幣開發商Circle申請IPO
-https://www.ithome.com.tw/news/168216
+美媒：英特爾、台積電達初步協議，將成立晶片製造合資企業
+https://www.inside.com.tw/article/38044-intel-tsmc-tentatively-agree-form-chipmaking-joint-venture-information-reports
 
-微軟Windows 11將改版BSOD、強制登入帳號才能安裝
-https://www.ithome.com.tw/news/168214
+預支未來的弱勢民族：吳叡人的《福爾摩沙意識形態》
+https://voicettank.org/20250403-3/
 
-【從以CPU為中心的應用，向支援GPU應用延伸】CXL記憶體產品新趨勢：直接支援AI應用
-https://www.ithome.com.tw/tech/168212
+【書摘】《從昭和到令和：如何理解當代日本的轉變》
+https://voicettank.org/20250403-2/
 
-【突破主機板與機箱窠臼，伺服器大記憶體時代正式來臨】CXL記憶體產品發展現況
-https://www.ithome.com.tw/tech/168211
-
-【從小規模簡單互連架構，邁向超大規模複雜環境應用】CXL規格制定的新進展
-https://www.ithome.com.tw/tech/168205
-
-【從規格到伺服器主機、作業環境、周邊產品發展全面發酵】CXL記憶體互連技術進入新階段
-https://www.ithome.com.tw/tech/168203
-
-CXL時代到來
-https://www.ithome.com.tw/article/168213
-
-Linux與嵌入式系統用戶注意！三大系統開機載入器記憶體緩衝區溢位漏洞
-https://www.ithome.com.tw/news/168210
-
-臺灣要有自己的醫療作業系統，衛福部資訊處揭3大關鍵
-https://www.ithome.com.tw/people/168189
-
-「企鵝」、「海豹」也課稅？川普新關稅涵蓋南極地區
-https://www.inside.com.tw/article/38042-trumps-liberation-day-tariffs-hit-uninhabited-antarctic-islands-penguins-australia
-
-現代汽車集團美國新廠啟用，年產能上看50萬輛電動與油電車
-https://www.inside.com.tw/article/38041-hyundai-motor-group-metaplant-america-celebrates-grand
-
-超預期對等關稅震撼全球，電子代工大廠影響一次看
-https://www.inside.com.tw/article/38040-surprising-reciprocal-tariffs-shake-the-world-impact-on-major-electronics-manufacturers-at-a-glance
-
-特斯拉公布 2025 第一季交付報告，創下兩年來最差
-https://www.inside.com.tw/article/38039-tesla-q1-2025-deliveries-drop
-
-從巴士到機車再到無人機，氫燃料電池多元應用成形
-https://www.inside.com.tw/article/38038-from-buses-to-motorcycles-to-drones-hydrogen-fuel-cell-applications-take-shape
-
-川普對台課徵 32% 對等關稅，4 月 9 日起生效
-https://www.inside.com.tw/article/38037-rump-imposes-32-percent-reciprocal-tariff-on-taiwan-effective-april-9
-
-AI 工廠運算效率大幅提升！NVIDIA 最新 MLPerf 推論測試結果公布
-https://www.inside.com.tw/article/38022-nvidia-mlperf-ai-factory-performance-boost
-
-任天堂 Nintendo Switch 2 正式發表規格，6 月 5 日上市！
-https://www.inside.com.tw/article/38036-nintendo-switch-2-release-date-is-june-5
-
-Visa 出價近億美元，競逐「Apple Card」合作夥伴
-https://www.inside.com.tw/article/38035-visa-bidding-to-partner-with-apple
-
-「開源」成中國軟體與 AI 公司的新常態，台灣該如何應對？【塞掐 Side Chat】E329
-https://www.inside.com.tw/feature/side-chat/38034-side-chat-e329
-
-日本將在九州部署中程彈道飛彈之研析
-https://voicettank.org/20250402-3/
+當世界變成實境秀：川普與美國影視文化
+https://voicettank.org/20250404-3/
 
 川普的劇場政治
 https://voicettank.org/20250403-1/
 
-主管總是在下班前丟任務？職場高手的4個步驟，讓你不再手忙腳亂
-https://www.businessyee.com/article/5822-assign-tasks
+獨裁者終須面對歷史審判──蔣介石逝世50周年
+https://voicettank.org/20250404-2/
 
-川普公布對等關稅稅率：台灣被課32%、中國最高達34%
-https://www.businessyee.com/article/5826-trump-tariffs-taiwan-32per
+【書摘】《曙光來臨之前：15位前輩藝術家的時代散策》
+https://voicettank.org/20250404-1/
+
+在職場上耗盡心力好疲憊？5個步驟，讓工作與生活平衡、充滿能量
+https://www.businessyee.com/article/5823-Work-Life-balance
+
+The Information：Intel與台積電達初步協議，合資營運晶圓廠
+https://www.businessyee.com/article/5827-the-information-tsmc-intel
+
+Java Weekly, Issue 588
+https://feeds.feedblitz.com/~/916103168/0/baeldung~Java-Weekly-Issue
