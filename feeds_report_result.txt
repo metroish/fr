@@ -1,58 +1,31 @@
-# 2025-04-04 09:18:02 Feeds Report 
+# 2025-04-05 09:15:34 Feeds Report 
 
-Daily Hacker News for 2025-04-03
-https://www.daemonology.net/hn-daily/2025-04-03.html
+Daily Hacker News for 2025-04-04
+https://www.daemonology.net/hn-daily/2025-04-04.html
 
-微軟Windows 365 Link準系統開賣了
-https://www.ithome.com.tw/news/168251
+只用 CSS 做到 BlurHash (LQIP) 的效果
+https://blog.gslin.org/archives/2025/04/05/12333/%e5%8f%aa%e7%94%a8-css-%e5%81%9a%e5%88%b0-blurhash-lqip-%e7%9a%84%e6%95%88%e6%9e%9c/
 
-蘋果將Apple Intelligence推向歐盟、登上Vision Pro
-https://www.ithome.com.tw/news/168250
+Valkey 對 hash 資料結構的改善
+https://blog.gslin.org/archives/2025/04/04/12332/valkey-%e5%b0%8d-hash-%e8%b3%87%e6%96%99%e7%b5%90%e6%a7%8b%e7%9a%84%e6%94%b9%e5%96%84/
 
-Amazon Project Kuiper、Alphabet子公司都在策畫連網服務挑戰Starlink
-https://www.ithome.com.tw/news/168249
+Django 5.2 支援 composite primary key
+https://blog.gslin.org/archives/2025/04/04/12331/django-5-2-%e6%94%af%e6%8f%b4-composite-primary-key/
 
-外傳英特爾與台積電將合資新公司，台積電占兩成股份
-https://www.ithome.com.tw/news/168248
+Nutanix強化資料庫AI與資安，支援向量資料搜尋與透明加密
+https://www.ithome.com.tw/review/168183
 
 【資安日報】4月4日，因應量子破密威脅，臺灣今年將推出PQC遷移指引
 https://www.ithome.com.tw/news/168247
 
-【資安日報】4月3日，刑事局揭露接連攻擊臺灣的駭客CrazyHunter身分
-https://www.ithome.com.tw/news/168231
+林沅霖：Zeabur CEO｜AI 寫完程式要放哪？一鍵部署上雲端，Z 世代創業瞄準國際市場【塞掐 Side Chat】E330
+https://www.inside.com.tw/feature/side-chat/38043-side-chat-e330
 
-NVIDIA 證實：任天堂 Switch 2 具備 DLSS 與光線追蹤技術
-https://www.inside.com.tw/article/38046-nintendo-switch-2-leveled-up-with-nvidia-ai-powered-dlss-and-4k-gaming
+【商益書摘】花錢的藝術：讓錢花得更精準的好提案
+https://www.businessyee.com/article/5824-Art-of-Buying
 
-Meta 帝國危機？祖克伯遊說川普阻擋 WhatsApp、Instagram 被迫分家
-https://www.inside.com.tw/article/38045-meta-empire-crisis-zuckerberg-lobbies-trump-prevent-whatsapp-instagram-breakup
+Copy Specific Fields by Using BeanUtils.copyProperties in Spring
+https://feeds.feedblitz.com/~/916207160/0/baeldung~Copy-Specific-Fields-by-Using-BeanUtilscopyProperties-in-Spring
 
-美媒：英特爾、台積電達初步協議，將成立晶片製造合資企業
-https://www.inside.com.tw/article/38044-intel-tsmc-tentatively-agree-form-chipmaking-joint-venture-information-reports
-
-預支未來的弱勢民族：吳叡人的《福爾摩沙意識形態》
-https://voicettank.org/20250403-3/
-
-【書摘】《從昭和到令和：如何理解當代日本的轉變》
-https://voicettank.org/20250403-2/
-
-當世界變成實境秀：川普與美國影視文化
-https://voicettank.org/20250404-3/
-
-川普的劇場政治
-https://voicettank.org/20250403-1/
-
-獨裁者終須面對歷史審判──蔣介石逝世50周年
-https://voicettank.org/20250404-2/
-
-【書摘】《曙光來臨之前：15位前輩藝術家的時代散策》
-https://voicettank.org/20250404-1/
-
-在職場上耗盡心力好疲憊？5個步驟，讓工作與生活平衡、充滿能量
-https://www.businessyee.com/article/5823-Work-Life-balance
-
-The Information：Intel與台積電達初步協議，合資營運晶圓廠
-https://www.businessyee.com/article/5827-the-information-tsmc-intel
-
-Java Weekly, Issue 588
-https://feeds.feedblitz.com/~/916103168/0/baeldung~Java-Weekly-Issue
+Synchronous Communication With Apache Kafka Using ReplyingKafkaTemplate
+https://feeds.feedblitz.com/~/916207163/0/baeldung~Synchronous-Communication-With-Apache-Kafka-Using-ReplyingKafkaTemplate
