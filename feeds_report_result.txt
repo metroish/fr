@@ -1,31 +1,31 @@
-# 2025-04-05 09:15:34 Feeds Report 
+# 2025-04-06 09:15:23 Feeds Report 
 
-Daily Hacker News for 2025-04-04
-https://www.daemonology.net/hn-daily/2025-04-04.html
+Daily Hacker News for 2025-04-05
+https://www.daemonology.net/hn-daily/2025-04-05.html
 
-只用 CSS 做到 BlurHash (LQIP) 的效果
-https://blog.gslin.org/archives/2025/04/05/12333/%e5%8f%aa%e7%94%a8-css-%e5%81%9a%e5%88%b0-blurhash-lqip-%e7%9a%84%e6%95%88%e6%9e%9c/
-
-Valkey 對 hash 資料結構的改善
-https://blog.gslin.org/archives/2025/04/04/12332/valkey-%e5%b0%8d-hash-%e8%b3%87%e6%96%99%e7%b5%90%e6%a7%8b%e7%9a%84%e6%94%b9%e5%96%84/
-
-Django 5.2 支援 composite primary key
-https://blog.gslin.org/archives/2025/04/04/12331/django-5-2-%e6%94%af%e6%8f%b4-composite-primary-key/
+Weekly Ask Hacker News for 2025-03-30 -- 2025-04-05
+http://www.daemonology.net/hn-weekly-ask/2025-04-05.html
 
 Nutanix強化資料庫AI與資安，支援向量資料搜尋與透明加密
 https://www.ithome.com.tw/review/168183
 
-【資安日報】4月4日，因應量子破密威脅，臺灣今年將推出PQC遷移指引
-https://www.ithome.com.tw/news/168247
+美商務部長盧特尼克：川普政府計畫將晶片製造業移回美國
+https://www.inside.com.tw/article/38050-us-tariffs-and-semi-conductor
 
-林沅霖：Zeabur CEO｜AI 寫完程式要放哪？一鍵部署上雲端，Z 世代創業瞄準國際市場【塞掐 Side Chat】E330
-https://www.inside.com.tw/feature/side-chat/38043-side-chat-e330
+川普新關稅政策讓任天堂推遲 Nintendo Switch 2 在美國的預購計畫
+https://www.inside.com.tw/article/38049-nintendo-switch-2-us-delay
 
-【商益書摘】花錢的藝術：讓錢花得更精準的好提案
-https://www.businessyee.com/article/5824-Art-of-Buying
+科學家推翻「色情成癮」論：道德矛盾才是問題關鍵
+https://www.inside.com.tw/article/38048-Science%20Stopped%20Believing%20in%20Porn%20Addiction
 
-Copy Specific Fields by Using BeanUtils.copyProperties in Spring
-https://feeds.feedblitz.com/~/916207160/0/baeldung~Copy-Specific-Fields-by-Using-BeanUtilscopyProperties-in-Spring
+【商益書摘】學會主動管理壓力，碰到旺季也能做好職場減壓
+https://www.businessyee.com/article/5825-Burnout
 
-Synchronous Communication With Apache Kafka Using ReplyingKafkaTemplate
-https://feeds.feedblitz.com/~/916207163/0/baeldung~Synchronous-Communication-With-Apache-Kafka-Using-ReplyingKafkaTemplate
+What Is an API in Java?
+https://feeds.feedblitz.com/~/916208774/0/baeldung~What-Is-an-API-in-Java
+
+Converting a cURL Request to an HTTP Request in Java
+https://feeds.feedblitz.com/~/916207919/0/baeldung~Converting-a-cURL-Request-to-an-HTTP-Request-in-Java
+
+Load Shedding in Quarkus
+https://feeds.feedblitz.com/~/916207922/0/baeldung~Load-Shedding-in-Quarkus
