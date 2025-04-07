@@ -1,31 +1,67 @@
-# 2025-04-06 09:15:23 Feeds Report 
+# 2025-04-07 09:19:02 Feeds Report 
 
-Daily Hacker News for 2025-04-05
-https://www.daemonology.net/hn-daily/2025-04-05.html
+Daily Hacker News for 2025-04-06
+https://www.daemonology.net/hn-daily/2025-04-06.html
 
-Weekly Ask Hacker News for 2025-03-30 -- 2025-04-05
-http://www.daemonology.net/hn-weekly-ask/2025-04-05.html
+Google Gemini 2.5 Pro預覽版開放，價格比GPT-4.5便宜
+https://www.ithome.com.tw/news/168268
 
-Nutanix強化資料庫AI與資安，支援向量資料搜尋與透明加密
-https://www.ithome.com.tw/review/168183
+WinRAR含有可繞過微軟MotW安全警告的漏洞
+https://www.ithome.com.tw/news/168267
 
-美商務部長盧特尼克：川普政府計畫將晶片製造業移回美國
-https://www.inside.com.tw/article/38050-us-tariffs-and-semi-conductor
+開源欄式儲存格式Apache Parquet含有可被執行任意程式碼的嚴重漏洞
+https://www.ithome.com.tw/news/168266
 
-川普新關稅政策讓任天堂推遲 Nintendo Switch 2 在美國的預購計畫
-https://www.inside.com.tw/article/38049-nintendo-switch-2-us-delay
+【資安週報】0331~0404，CrazyHunter攻擊擴大至臺灣企業集團，刑事局偵破其真實身分為中國浙江羅姓男子
+https://www.ithome.com.tw/news/168264
 
-科學家推翻「色情成癮」論：道德矛盾才是問題關鍵
-https://www.inside.com.tw/article/38048-Science%20Stopped%20Believing%20in%20Porn%20Addiction
+微軟Copilot新增Deep Research、網頁搜尋等代理人功能、Vision推向桌機/手機版
+https://www.ithome.com.tw/news/168263
 
-【商益書摘】學會主動管理壓力，碰到旺季也能做好職場減壓
-https://www.businessyee.com/article/5825-Burnout
+Meta公布MoE架構開發的Llama 4，開源4000億、1090億參數的Maverick、Scout
+https://www.ithome.com.tw/news/168262
 
-What Is an API in Java?
-https://feeds.feedblitz.com/~/916208774/0/baeldung~What-Is-an-API-in-Java
+Google發表鎖定資安的AI模型Sec-Gemini v1
+https://www.ithome.com.tw/news/168261
 
-Converting a cURL Request to an HTTP Request in Java
-https://feeds.feedblitz.com/~/916207919/0/baeldung~Converting-a-cURL-Request-to-an-HTTP-Request-in-Java
+【Tenz 科技評論】你的網路攝影機正在 PTT 發水軍文，你知道嗎？
+https://www.inside.com.tw/article/38065-your-webcam-may-be-posting-fake-comments-on-ptt-without-your-knowledge
 
-Load Shedding in Quarkus
-https://feeds.feedblitz.com/~/916207922/0/baeldung~Load-Shedding-in-Quarkus
+AWS 與 NVIDIA 宣布策略合作 針對生成式 AI 推出全新超級電腦基礎設施、軟體及服務
+https://www.inside.com.tw/feature/aws-tw/38064-aws
+
+國泰世華銀行《請支援理財》Ep16：換匯專家開課啦，旅遊族的實用換匯攻略！
+https://www.inside.com.tw/article/38063-cathaybk
+
+台北市年度消費申訴統計：蝦皮以 731 件位居單一廠商第一名
+https://www.inside.com.tw/article/38061-taipei-annual-consumer-complaint-report-shopee-tops-single-company-list-with-731-cases
+
+電商品牌，在 2025 請重新點燃消費者的熱情
+https://www.inside.com.tw/article/38060-ecommerce-brands-must-reignite-consumer-passion-in-2025
+
+IG 4 大訊息新功能來了，除了排程還有哪些？
+https://www.inside.com.tw/article/38059-instagram-4-new-messaging-features-scheduling-and-more
+
+德國接收 700 噸來自英國高放射性核廢料，引發當地反核團體抗議
+https://www.inside.com.tw/article/38057-700-tons-nuclear-waste-enters-germany
+
+關稅加品牌危機！特斯拉被分析師下修目標價 43%
+https://www.inside.com.tw/article/38058-tesla-bull-price-target-brand-crisis
+
+Meta 發布 Llama 4 系列！預告世界上最強基礎模型正在訓練當中
+https://www.inside.com.tw/article/38053-meta-llama4
+
+川普：要不是美國加徵關稅，中國原會同意 TikTok 交易！
+https://www.inside.com.tw/article/38056-trump-says-china-would-have-agreed-to-tiktok-deal-without-us-tariff-hikes
+
+你要住公園了嗎？先確認你的防災包還缺什麼！
+https://www.businessyee.com/article/5831-disaster-preparedness
+
+簡化理賠文件！南山人壽推長照險批註條款，第五期起免診斷證明
+https://www.businessyee.com/article/5830-nanshan-life-long-term-care-provision
+
+美對等關稅衝擊！金管會的第一波三大穩市措施是什麼？
+https://www.businessyee.com/article/5828-tw-stock-crisis
+
+Gatling Tests Monitoring
+https://feeds.feedblitz.com/~/916301819/0/baeldung~Gatling-Tests-Monitoring
