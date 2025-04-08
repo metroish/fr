@@ -1,67 +1,94 @@
-# 2025-04-07 09:19:02 Feeds Report 
+# 2025-04-08 09:18:34 Feeds Report 
 
-Daily Hacker News for 2025-04-06
-https://www.daemonology.net/hn-daily/2025-04-06.html
+Daily Hacker News for 2025-04-07
+https://www.daemonology.net/hn-daily/2025-04-07.html
 
-Google Gemini 2.5 Pro預覽版開放，價格比GPT-4.5便宜
-https://www.ithome.com.tw/news/168268
+Github Copilot正式推出AI代理模式，可支援MCP，更釋出GitHub MCP伺服器的開放原始碼
+https://www.ithome.com.tw/news/168289
 
-WinRAR含有可繞過微軟MotW安全警告的漏洞
-https://www.ithome.com.tw/news/168267
+散布挖礦軟體的惡意VSCode延伸套件下載百萬次，有灌水騙取信任之嫌
+https://www.ithome.com.tw/news/168294
+
+Mozilla將改善Firefox擴充程式資料同意機制，提供一致體驗
+https://www.ithome.com.tw/news/168293
+
+Google即將修補已存在23年的瀏覽器歷史紀錄外洩漏洞
+https://www.ithome.com.tw/news/168292
+
+北韓駭客Lazarus透過NPM套件散布惡意軟體BeaverTail，意圖竊取帳密資料及數位資產
+https://www.ithome.com.tw/news/168291
+
+Midjourney測試最新一代圖片生成模型V7
+https://www.ithome.com.tw/news/168290
+
+OpenAI可能正在測試為ChatGPT圖片生成功能加入浮水印技術
+https://www.ithome.com.tw/news/168287
+
+駭客利用近2.4萬個IP位址掃描Palo Alto Networks GlobalProtect登入網站
+https://www.ithome.com.tw/news/168288
 
 開源欄式儲存格式Apache Parquet含有可被執行任意程式碼的嚴重漏洞
 https://www.ithome.com.tw/news/168266
 
-【資安週報】0331~0404，CrazyHunter攻擊擴大至臺灣企業集團，刑事局偵破其真實身分為中國浙江羅姓男子
-https://www.ithome.com.tw/news/168264
+美元保單熱潮，你跟上了嗎？三大優勢一次掌握！
+https://www.inside.com.tw/article/38024-twfhclife
 
-微軟Copilot新增Deep Research、網頁搜尋等代理人功能、Vision推向桌機/手機版
-https://www.ithome.com.tw/news/168263
+美國科技公司宣稱用 DNA 成功「復活」萬年前滅絕的恐狼
+https://www.inside.com.tw/article/38073-colossal-dire-wolf-deextinction
 
-Meta公布MoE架構開發的Llama 4，開源4000億、1090億參數的Maverick、Scout
-https://www.ithome.com.tw/news/168262
+Google 開放 Gemini Live 支援 Pixel 9、Samsung Galaxy S25！（有繁中）
+https://www.inside.com.tw/article/38072-gemini-live-android-tips
 
-Google發表鎖定資安的AI模型Sec-Gemini v1
-https://www.ithome.com.tw/news/168261
+Switch 2 在美國會漲價嗎？任天堂：還在評估關稅的影響
+https://www.inside.com.tw/article/38071-switch-2-pricing-and-tariff
 
-【Tenz 科技評論】你的網路攝影機正在 PTT 發水軍文，你知道嗎？
-https://www.inside.com.tw/article/38065-your-webcam-may-be-posting-fake-comments-on-ptt-without-your-knowledge
+取代 HDMI？中國推出「GPMI」，支援高達 192 Gbps 資料傳輸
+https://www.inside.com.tw/article/38069-china-gpmi
 
-AWS 與 NVIDIA 宣布策略合作 針對生成式 AI 推出全新超級電腦基礎設施、軟體及服務
-https://www.inside.com.tw/feature/aws-tw/38064-aws
+你該搶在 iPhone 漲價前買嗎？深入解析蘋果怎麼面對關稅衝擊
+https://www.inside.com.tw/article/38068-should-you-buy-iphone-before-price-hike-deep-analysis-of-apples-tariff-impact-strategy
+
+最可靠的散熱合作夥伴！聚焦 AI 基礎設施硬體建設，Johnson Electric 德昌電機「探討 AI 時代的資料中心液冷散熱解決方案」論壇免費報名中
+https://www.inside.com.tw/article/38031-johnsonelectric
 
 國泰世華銀行《請支援理財》Ep16：換匯專家開課啦，旅遊族的實用換匯攻略！
 https://www.inside.com.tw/article/38063-cathaybk
 
-台北市年度消費申訴統計：蝦皮以 731 件位居單一廠商第一名
-https://www.inside.com.tw/article/38061-taipei-annual-consumer-complaint-report-shopee-tops-single-company-list-with-731-cases
+從另外一個角度看川普關稅政策的意涵與後續發展
+https://voicettank.org/20250407-2/
 
-電商品牌，在 2025 請重新點燃消費者的熱情
-https://www.inside.com.tw/article/38060-ecommerce-brands-must-reignite-consumer-passion-in-2025
+連蓋章都不會的龍應台為何這麼愛當《紐約時報》的棋子？
+https://voicettank.org/20250407-1/
 
-IG 4 大訊息新功能來了，除了排程還有哪些？
-https://www.inside.com.tw/article/38059-instagram-4-new-messaging-features-scheduling-and-more
+金管會推「保險契約指定聯絡人」，保戶大額借款、解約通知家人
+https://www.businessyee.com/article/5843-Insurance-Contract-Designated-Contact-Person
 
-德國接收 700 噸來自英國高放射性核廢料，引發當地反核團體抗議
-https://www.inside.com.tw/article/38057-700-tons-nuclear-waste-enters-germany
+AWS 宣布推出生成式 AI 新服務加速創新
+https://www.businessyee.com/article/5842-aws
 
-關稅加品牌危機！特斯拉被分析師下修目標價 43%
-https://www.inside.com.tw/article/38058-tesla-bull-price-target-brand-crisis
+恐慌指數VIX飆至「危機」水位，專家示警：政策不改，美股難穩
+https://www.businessyee.com/article/5841-vix-soar-to-60
 
-Meta 發布 Llama 4 系列！預告世界上最強基礎模型正在訓練當中
-https://www.inside.com.tw/article/38053-meta-llama4
+富蘭克林華美投資債20+（00982B）4/7開募，全球動盪中穩收現金流
+https://www.businessyee.com/article/5839-00982B-ipo
 
-川普：要不是美國加徵關稅，中國原會同意 TikTok 交易！
-https://www.inside.com.tw/article/38056-trump-says-china-would-have-agreed-to-tiktok-deal-without-us-tariff-hikes
+縮衣節食好攤平？零關稅餐具、食材讓你自備便當好安心！
+https://www.businessyee.com/article/5838-0-tariff-bento-box-and-food
 
-你要住公園了嗎？先確認你的防災包還缺什麼！
-https://www.businessyee.com/article/5831-disaster-preparedness
+蘋果遭對等關稅狙擊！股價連三黑、市值3日蒸發逾6400億美元
+https://www.businessyee.com/article/5837-apples-stock-tumble
 
-簡化理賠文件！南山人壽推長照險批註條款，第五期起免診斷證明
-https://www.businessyee.com/article/5830-nanshan-life-long-term-care-provision
+美對沖基金巨頭警告：川普對等關稅是自毀前程、恐迎來「經濟核冬」
+https://www.businessyee.com/article/5834-trump-is-losing-the-confidence-of-business
 
-美對等關稅衝擊！金管會的第一波三大穩市措施是什麼？
-https://www.businessyee.com/article/5828-tw-stock-crisis
+美股跌勢趨緩？日經：外資回補，日股早盤大漲近7%
+https://www.businessyee.com/article/5836-nikkei-225-japan-stock
 
-Gatling Tests Monitoring
-https://feeds.feedblitz.com/~/916301819/0/baeldung~Gatling-Tests-Monitoring
+AWS 人工智慧和機器學習技術協助科學家繪製完整腦部地圖
+https://www.businessyee.com/article/5840-aws
+
+川普：不談判再加課！對中關稅恐飆破104%
+https://www.businessyee.com/article/5835-trump-china-104per
+
+Get the Index Values From forEach Loop in JSTL
+https://feeds.feedblitz.com/~/916326902/0/baeldung~Get-the-Index-Values-From-forEach-Loop-in-JSTL
