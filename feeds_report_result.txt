@@ -1,19 +1,25 @@
-# 2025-04-08 09:18:34 Feeds Report 
+# 2025-04-09 09:18:33 Feeds Report 
 
-Daily Hacker News for 2025-04-07
-https://www.daemonology.net/hn-daily/2025-04-07.html
+Daily Hacker News for 2025-04-08
+https://www.daemonology.net/hn-daily/2025-04-08.html
 
-Github Copilot正式推出AI代理模式，可支援MCP，更釋出GitHub MCP伺服器的開放原始碼
-https://www.ithome.com.tw/news/168289
+macOS 15.4 中 rsync 被換成 OpenRsync
+https://blog.gslin.org/archives/2025/04/08/12336/macos-15-4-%e4%b8%ad-rsync-%e8%a2%ab%e6%8f%9b%e6%88%90-openrsync/
 
-散布挖礦軟體的惡意VSCode延伸套件下載百萬次，有灌水騙取信任之嫌
-https://www.ithome.com.tw/news/168294
+傳甲骨文向雲端客戶通報資料外洩
+https://www.ithome.com.tw/news/168322
 
-Mozilla將改善Firefox擴充程式資料同意機制，提供一致體驗
-https://www.ithome.com.tw/news/168293
+中榮推動ESG永續發展有成，靠IT精進病歷管理年省超過6,800萬張用紙、縮減急診病患就醫流程時間
+https://www.ithome.com.tw/news/168303
 
-Google即將修補已存在23年的瀏覽器歷史紀錄外洩漏洞
-https://www.ithome.com.tw/news/168292
+Google Gemini 2.5 Pro Experimental開始支援Deep Research
+https://www.ithome.com.tw/news/168320
+
+Ivanti SSL VPN漏洞攻擊拉警報，全球5千臺伺服器曝險
+https://www.ithome.com.tw/news/168319
+
+Llama 4問世反應平平，開發人員認效能表現言過其實
+https://www.ithome.com.tw/news/168318
 
 北韓駭客Lazarus透過NPM套件散布惡意軟體BeaverTail，意圖竊取帳密資料及數位資產
 https://www.ithome.com.tw/news/168291
@@ -27,68 +33,65 @@ https://www.ithome.com.tw/news/168287
 駭客利用近2.4萬個IP位址掃描Palo Alto Networks GlobalProtect登入網站
 https://www.ithome.com.tw/news/168288
 
-開源欄式儲存格式Apache Parquet含有可被執行任意程式碼的嚴重漏洞
-https://www.ithome.com.tw/news/168266
+Go Wild野不安分！結合科技與激情，PUMA NITRO™引爆的跑步新未來
+https://www.inside.com.tw/article/38062-puma-gowild-nitrotech
 
-美元保單熱潮，你跟上了嗎？三大優勢一次掌握！
-https://www.inside.com.tw/article/38024-twfhclife
+最靠近 F1 的一次！Mercedes-AMG F1 車隊聯手 N+ 推出聯名自行車
+https://www.inside.com.tw/article/38095-mercedes-amg-f1-electric-bikes
 
-美國科技公司宣稱用 DNA 成功「復活」萬年前滅絕的恐狼
-https://www.inside.com.tw/article/38073-colossal-dire-wolf-deextinction
+亞馬遜推全新語音 AI 模型 Nova Sonic！對話更像真人、懂你語氣
+https://www.inside.com.tw/article/38086-amazon-nova-sonic-voice-ai-model-human-like-conversations-tone-detection
 
-Google 開放 Gemini Live 支援 Pixel 9、Samsung Galaxy S25！（有繁中）
-https://www.inside.com.tw/article/38072-gemini-live-android-tips
+淺層地熱或成美國能源轉型的新解決方案
+https://www.inside.com.tw/article/38081-shallow-geothermal-energy-a-strategic-solution-for-the-u-s-energy-crisis-and-demands
 
-Switch 2 在美國會漲價嗎？任天堂：還在評估關稅的影響
-https://www.inside.com.tw/article/38071-switch-2-pricing-and-tariff
+SHEIN、Temu 再受重擊！川普新行政命令：美對中、港小額包裹關稅增至 90%
+https://www.inside.com.tw/article/38080-trump-order-shein-temu-china-hk-parcel-tariff-90-percent
 
-取代 HDMI？中國推出「GPMI」，支援高達 192 Gbps 資料傳輸
-https://www.inside.com.tw/article/38069-china-gpmi
+AI 失業潮來了？Shopify 執行長：想聘人得先證明 AI 無法勝任
+https://www.inside.com.tw/article/38070-shipify-ceo-on-ai-employee-argument
 
-你該搶在 iPhone 漲價前買嗎？深入解析蘋果怎麼面對關稅衝擊
-https://www.inside.com.tw/article/38068-should-you-buy-iphone-before-price-hike-deep-analysis-of-apples-tariff-impact-strategy
+路透：台積電因華為晶片案恐遭美國重罰 最高可達 10 億美元
+https://www.inside.com.tw/article/38078-tsmc-huawei-chip-deal-us-1-billion-fine-reuters
 
-最可靠的散熱合作夥伴！聚焦 AI 基礎設施硬體建設，Johnson Electric 德昌電機「探討 AI 時代的資料中心液冷散熱解決方案」論壇免費報名中
-https://www.inside.com.tw/article/38031-johnsonelectric
+白宮發言人：川普相信美國有足夠資源和勞動力生產 iPhone
+https://www.inside.com.tw/article/38077-trump-apple-production-in-us
 
-國泰世華銀行《請支援理財》Ep16：換匯專家開課啦，旅遊族的實用換匯攻略！
-https://www.inside.com.tw/article/38063-cathaybk
+專業、正確、多元， Yahoo 奇摩健康新聞打造健康資訊平台的第一選擇
+https://www.inside.com.tw/article/38067-yahoo
 
-從另外一個角度看川普關稅政策的意涵與後續發展
-https://voicettank.org/20250407-2/
+社群廣告效益放緩？Taboola 與 Qualtrics 公布最新研究報告
+https://www.inside.com.tw/article/38076-taboola-quadrics-social-ads-report
 
-連蓋章都不會的龍應台為何這麼愛當《紐約時報》的棋子？
-https://voicettank.org/20250407-1/
+日本成立統合作戰司令部之戰略意涵
+https://voicettank.org/20250408-3/
 
-金管會推「保險契約指定聯絡人」，保戶大額借款、解約通知家人
-https://www.businessyee.com/article/5843-Insurance-Contract-Designated-Contact-Person
+AWS 宣布推出七項生成式 AI 創新功能
+https://www.businessyee.com/article/5848-aws
 
-AWS 宣布推出生成式 AI 新服務加速創新
-https://www.businessyee.com/article/5842-aws
+今晚就用它？免動裝潢洗碗機還你勞務「解放日」！
+https://www.businessyee.com/article/5852-dish-washer
 
-恐慌指數VIX飆至「危機」水位，專家示警：政策不改，美股難穩
-https://www.businessyee.com/article/5841-vix-soar-to-60
+境外股權轉保單、信託成2025獵稅重點！財政部最新CFC制度問答
+https://www.businessyee.com/article/5851-cfc-ppli-tax
 
-富蘭克林華美投資債20+（00982B）4/7開募，全球動盪中穩收現金流
-https://www.businessyee.com/article/5839-00982B-ipo
+月薪3.5萬也可以用「3步驟」滾出每年出國金與千萬退休金！
+https://www.businessyee.com/article/5850-Personal-Finance-Strategies
 
-縮衣節食好攤平？零關稅餐具、食材讓你自備便當好安心！
-https://www.businessyee.com/article/5838-0-tariff-bento-box-and-food
+錯引論文！川普關稅公式高估逆差至實際 4 倍
+https://www.businessyee.com/article/5849-USTR-tariff-wrong-formula
 
-蘋果遭對等關稅狙擊！股價連三黑、市值3日蒸發逾6400億美元
-https://www.businessyee.com/article/5837-apples-stock-tumble
+AWS 成為 Yahoo 廣告技術業務的首選公有雲供應商
+https://www.businessyee.com/article/5847-aws
 
-美對沖基金巨頭警告：川普對等關稅是自毀前程、恐迎來「經濟核冬」
-https://www.businessyee.com/article/5834-trump-is-losing-the-confidence-of-business
+路透獨家稱台積電晶片疑流入華為、恐遭罰10億鎂；台積電回應致力法遵、配合調查
+https://www.businessyee.com/article/5846-exclusive-tsmc-could-face1-billion-or-more-fine
 
-美股跌勢趨緩？日經：外資回補，日股早盤大漲近7%
-https://www.businessyee.com/article/5836-nikkei-225-japan-stock
+小摩看壞關稅效應：美國經濟衰退機率高達79％
+https://www.businessyee.com/article/5845-jpmorgan-model-shows-recession-fear-in-markets-spiking-up-to-79
 
-AWS 人工智慧和機器學習技術協助科學家繪製完整腦部地圖
-https://www.businessyee.com/article/5840-aws
+國安基金啟動史上第9度護盤為台股止血
+https://www.businessyee.com/article/5844-National-Financial-Stabilization-Fund
 
-川普：不談判再加課！對中關稅恐飆破104%
-https://www.businessyee.com/article/5835-trump-china-104per
-
-Get the Index Values From forEach Loop in JSTL
-https://feeds.feedblitz.com/~/916326902/0/baeldung~Get-the-Index-Values-From-forEach-Loop-in-JSTL
+How to Keep a Container Running in Docker Compose
+https://feeds.feedblitz.com/~/916379219/0/baeldung~How-to-Keep-a-Container-Running-in-Docker-Compose
