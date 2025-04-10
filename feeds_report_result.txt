@@ -1,10 +1,43 @@
-# 2025-04-09 09:18:33 Feeds Report 
+# 2025-04-10 09:18:07 Feeds Report 
 
-Daily Hacker News for 2025-04-08
-https://www.daemonology.net/hn-daily/2025-04-08.html
+Daily Hacker News for 2025-04-09
+https://www.daemonology.net/hn-daily/2025-04-09.html
 
-macOS 15.4 中 rsync 被換成 OpenRsync
-https://blog.gslin.org/archives/2025/04/08/12336/macos-15-4-%e4%b8%ad-rsync-%e8%a2%ab%e6%8f%9b%e6%88%90-openrsync/
+FreeDOS 出 1.4 版
+https://blog.gslin.org/archives/2025/04/10/12338/freedos-%e5%87%ba-1-4-%e7%89%88/
+
+Mercurial 也有接 Git 的 Plugin
+https://blog.gslin.org/archives/2025/04/10/12337/mercurial-%e4%b9%9f%e6%9c%89%e6%8e%a5-git-%e7%9a%84-plugin/
+
+GitHub推出Security Campaigns，讓企業系統化處理安全債成開發日常
+https://www.ithome.com.tw/news/168344
+
+AWS EC2自動化管理工具SSM Agent存在路徑穿越漏洞，攻擊者有機會用來執行任意指令碼、提升權限
+https://www.ithome.com.tw/news/168346
+
+歐盟啟動「AI大陸行動計畫」，以期趕上美國與中國的AI建設
+https://www.ithome.com.tw/news/168345
+
+WordPress.com發表AI工具，用聊天機器人幫你架站
+https://www.ithome.com.tw/news/168341
+
+IBM推出z17，AI推論效能提升50%、整合HashiCorp管理功能
+https://www.ithome.com.tw/news/168339
+
+Adobe發布4月例行更新，呼籲優先修補ColdFusion
+https://www.ithome.com.tw/news/168338
+
+Google開源多代理人互通協定Agent2Agent及多代理人開發套件、公布代理人市集
+https://www.ithome.com.tw/news/168336
+
+Google揭新一代TPU、推跨平臺AI代理協定A2A和多種代理開發部署工具
+https://www.ithome.com.tw/news/168333
+
+提供iLO 7與更多液冷搭配，HPE伺服器正式開啟第12世代
+https://www.ithome.com.tw/review/168252
+
+微軟發布4月份例行更新，修補已被用於勒索軟體攻擊的CLFS零時差漏洞
+https://www.ithome.com.tw/news/168323
 
 傳甲骨文向雲端客戶通報資料外洩
 https://www.ithome.com.tw/news/168322
@@ -21,77 +54,77 @@ https://www.ithome.com.tw/news/168319
 Llama 4問世反應平平，開發人員認效能表現言過其實
 https://www.ithome.com.tw/news/168318
 
-北韓駭客Lazarus透過NPM套件散布惡意軟體BeaverTail，意圖竊取帳密資料及數位資產
-https://www.ithome.com.tw/news/168291
+雲端驅動永續發展：AWS 賦能企業 ESG 實踐，邁向綠色未來
+https://www.inside.com.tw/feature/aws-tw/38083-aws
 
-Midjourney測試最新一代圖片生成模型V7
-https://www.ithome.com.tw/news/168290
+OpenAI 反指控馬斯克惡意騷擾，要求法院禁止他的攻擊行為
+https://www.inside.com.tw/article/38111-openai-countersues
 
-OpenAI可能正在測試為ChatGPT圖片生成功能加入浮水印技術
-https://www.ithome.com.tw/news/168287
+深入解析：光陽的「雙柯內鬥」，真的只是油電路線之爭嗎？
+https://www.inside.com.tw/article/38110-s-kymco-internal-conflict-between-two-ko-leaders-really-about-gas-vs-electric-strategy
 
-駭客利用近2.4萬個IP位址掃描Palo Alto Networks GlobalProtect登入網站
-https://www.ithome.com.tw/news/168288
+【快訊】光陽董事長柯勝峯：集團內部理念不同，辭去董事長
+https://www.inside.com.tw/article/38108-kymco-chairman-allen-ko-confirms-internal-differences-and-resigns-from-position
 
-Go Wild野不安分！結合科技與激情，PUMA NITRO™引爆的跑步新未來
-https://www.inside.com.tw/article/38062-puma-gowild-nitrotech
+臉書前高層爆料：祖克伯親自開發工具審查「台港貼文」，瀏覽破萬自動提交總編
+https://www.inside.com.tw/article/38109-zuckerberg-built-censorship-tool-for-china-routed-taiwan-and-hong-kong-posts-for-ccp-review-ex-facebook-exec-says
 
-最靠近 F1 的一次！Mercedes-AMG F1 車隊聯手 N+ 推出聯名自行車
-https://www.inside.com.tw/article/38095-mercedes-amg-f1-electric-bikes
+川普關稅政策髮夾彎，蘋果浴血反彈 15%
+https://www.inside.com.tw/article/38106-apple-and-tariffs-war
 
-亞馬遜推全新語音 AI 模型 Nova Sonic！對話更像真人、懂你語氣
-https://www.inside.com.tw/article/38086-amazon-nova-sonic-voice-ai-model-human-like-conversations-tone-detection
+比亞迪正式推出「兆瓦閃充」電動車，最低價約 91 萬新台幣
+https://www.inside.com.tw/article/38105-byd-launches-first-evs-with-ultra-fast-charging
 
-淺層地熱或成美國能源轉型的新解決方案
-https://www.inside.com.tw/article/38081-shallow-geothermal-energy-a-strategic-solution-for-the-u-s-energy-crisis-and-demands
+Anthropic 推出每月 200 美元 Max 訂閱方案！與 ChatGPT Pro 正面競爭
+https://www.inside.com.tw/article/38104-anthropic-max-plan
 
-SHEIN、Temu 再受重擊！川普新行政命令：美對中、港小額包裹關稅增至 90%
-https://www.inside.com.tw/article/38080-trump-order-shein-temu-china-hk-parcel-tariff-90-percent
+真實版《關鍵報告》？英國正在打造「兇殺嫌犯預測」系統
+https://www.inside.com.tw/article/38103-uk-developing-murder-suspect-prediction-system
 
-AI 失業潮來了？Shopify 執行長：想聘人得先證明 AI 無法勝任
-https://www.inside.com.tw/article/38070-shipify-ceo-on-ai-employee-argument
-
-路透：台積電因華為晶片案恐遭美國重罰 最高可達 10 億美元
-https://www.inside.com.tw/article/38078-tsmc-huawei-chip-deal-us-1-billion-fine-reuters
-
-白宮發言人：川普相信美國有足夠資源和勞動力生產 iPhone
-https://www.inside.com.tw/article/38077-trump-apple-production-in-us
-
-專業、正確、多元， Yahoo 奇摩健康新聞打造健康資訊平台的第一選擇
-https://www.inside.com.tw/article/38067-yahoo
-
-社群廣告效益放緩？Taboola 與 Qualtrics 公布最新研究報告
-https://www.inside.com.tw/article/38076-taboola-quadrics-social-ads-report
+使用方式一次看！WordPress.com 推出 AI 建站工具、數分鐘打造完整圖文網站
+https://www.inside.com.tw/article/38102-wordpresscom-ai-website-builder
 
 日本成立統合作戰司令部之戰略意涵
 https://voicettank.org/20250408-3/
 
-AWS 宣布推出七項生成式 AI 創新功能
-https://www.businessyee.com/article/5848-aws
+萬隆會議七十年，從不結盟變成多方結盟？
+https://voicettank.org/20250409-2/
 
-今晚就用它？免動裝潢洗碗機還你勞務「解放日」！
-https://www.businessyee.com/article/5852-dish-washer
+美菲將舉行2025年肩並肩演習之研析
+https://voicettank.org/20250409-3/
 
-境外股權轉保單、信託成2025獵稅重點！財政部最新CFC制度問答
-https://www.businessyee.com/article/5851-cfc-ppli-tax
+「數位保險公司」上路倒數！金管會鬆綁七大法規，最快7月開放申請
+https://www.businessyee.com/article/5874-digital-Insure-appliy-2
 
-月薪3.5萬也可以用「3步驟」滾出每年出國金與千萬退休金！
-https://www.businessyee.com/article/5850-Personal-Finance-Strategies
+【蘋果優惠整理包】AirPods 4主動式降噪款省千元、AirTag 4入組特價2,599元
+https://www.businessyee.com/article/5873-apple
 
-錯引論文！川普關稅公式高估逆差至實際 4 倍
-https://www.businessyee.com/article/5849-USTR-tariff-wrong-formula
+AWS re:Invent 2022 年度盛會迎捷報！台灣年輕人才囊括 AWS DeepRacer League 冠軍賽全球前三名 並於 AWS GameDay 蟬聯奪冠
+https://www.businessyee.com/article/5857-aws
 
-AWS 成為 Yahoo 廣告技術業務的首選公有雲供應商
-https://www.businessyee.com/article/5847-aws
+拚命工作，卻不得老闆讚賞？搞懂效能與效率，第一次就把事情做對
+https://www.businessyee.com/article/5872-effectiveness-efficiency
 
-路透獨家稱台積電晶片疑流入華為、恐遭罰10億鎂；台積電回應致力法遵、配合調查
-https://www.businessyee.com/article/5846-exclusive-tsmc-could-face1-billion-or-more-fine
+臉書前員工：祖克柏開發工具審查台港貼文，瀏覽破萬自動提交總編
+https://www.businessyee.com/article/5871-Sarah-Wynn-Williams
 
-小摩看壞關稅效應：美國經濟衰退機率高達79％
-https://www.businessyee.com/article/5845-jpmorgan-model-shows-recession-fear-in-markets-spiking-up-to-79
+台積電3月營收2859億元，月增10%、年增46.5%！月、季營收創同期新高
+https://www.businessyee.com/article/5862-tsmc-revenue-mar-2025
 
-國安基金啟動史上第9度護盤為台股止血
-https://www.businessyee.com/article/5844-National-Financial-Stabilization-Fund
+犧牲600億美債息作談判籌碼？央行總裁楊金龍批米倫構想不切實際
+https://www.businessyee.com/article/5860-us-bond-rate-cuts
 
-How to Keep a Container Running in Docker Compose
-https://feeds.feedblitz.com/~/916379219/0/baeldung~How-to-Keep-a-Container-Running-in-Docker-Compose
+鴻海將受託為三菱汽車代工EV車款，關潤：不打算進入B2C市場
+https://www.businessyee.com/article/5859-hon-hai-ev
+
+金管會：股災斷頭40-69歲占七成，限空令是否延續週六公布
+https://www.businessyee.com/article/5856-Stock-market-crash
+
+Riot Games即將完成全球基礎設施全面遷移至AWS
+https://www.businessyee.com/article/5855-aws
+
+Careless People
+https://dushuyizhi.net/careless-people/
+
+Extracting Structured Data From Images Using Spring AI
+https://feeds.feedblitz.com/~/916425668/0/baeldung~Extracting-Structured-Data-From-Images-Using-Spring-AI
