@@ -1,19 +1,49 @@
-# 2025-04-10 09:18:07 Feeds Report 
+# 2025-04-11 09:18:08 Feeds Report 
 
-Daily Hacker News for 2025-04-09
-https://www.daemonology.net/hn-daily/2025-04-09.html
+Daily Hacker News for 2025-04-10
+https://www.daemonology.net/hn-daily/2025-04-10.html
 
-FreeDOS 出 1.4 版
-https://blog.gslin.org/archives/2025/04/10/12338/freedos-%e5%87%ba-1-4-%e7%89%88/
+GitLab 的字型：GitLab Sans 與 GitLab Mono
+https://blog.gslin.org/archives/2025/04/10/12339/gitlab-%e7%9a%84%e5%ad%97%e5%9e%8b%ef%bc%9agitlab-sans-%e8%88%87-gitlab-mono/
 
-Mercurial 也有接 Git 的 Plugin
-https://blog.gslin.org/archives/2025/04/10/12337/mercurial-%e4%b9%9f%e6%9c%89%e6%8e%a5-git-%e7%9a%84-plugin/
+瞄準代理AI的推論需求，Nvidia的兩手戰略
+https://www.ithome.com.tw/news/168356
 
-GitHub推出Security Campaigns，讓企業系統化處理安全債成開發日常
-https://www.ithome.com.tw/news/168344
+GAI徹底改變運算模式，Nvidia如何瞄準100倍推論算力考驗
+https://www.ithome.com.tw/news/168355
 
-AWS EC2自動化管理工具SSM Agent存在路徑穿越漏洞，攻擊者有機會用來執行任意指令碼、提升權限
-https://www.ithome.com.tw/news/168346
+從GTC2025看企業AI下一步
+https://www.ithome.com.tw/article/168357
+
+ChatGPT開始記得與用戶的互動歷史紀錄
+https://www.ithome.com.tw/news/168377
+
+中國駭客透過網路論壇散布惡意程式，針對臺灣、維吾爾、圖博人士而來
+https://www.ithome.com.tw/news/168378
+
+Firebase Studio開放預覽，結合AI助理與雲端IDE加速全端應用開發流程
+https://www.ithome.com.tw/news/168371
+
+因應川普關稅政策，第一季全球PC出貨量上揚
+https://www.ithome.com.tw/news/168372
+
+Anthropic也推出200美元月費的個人版Claude聊天機器人方案
+https://www.ithome.com.tw/news/168375
+
+美國感應器製造商Sensata遭勒索軟體攻擊
+https://www.ithome.com.tw/news/168374
+
+Nvidia公布Llama-3.1 Nemotron Ultra 效能超越DeepSeek R1 但僅一半參數量
+https://www.ithome.com.tw/news/168360
+
+俄羅斯駭客EncryptHub遭起底，此人黑錢白錢都要拿，既從事網路犯罪卻又通報漏洞拿獎金
+https://www.ithome.com.tw/news/168367
+
+Google宣布強化安全、IP防護的Gemini in Android Studio for Business
+https://www.ithome.com.tw/news/168359
+
+全球經濟再度面臨重大考驗
+https://www.ithome.com.tw/voice/168358
 
 歐盟啟動「AI大陸行動計畫」，以期趕上美國與中國的AI建設
 https://www.ithome.com.tw/news/168345
@@ -30,101 +60,65 @@ https://www.ithome.com.tw/news/168338
 Google開源多代理人互通協定Agent2Agent及多代理人開發套件、公布代理人市集
 https://www.ithome.com.tw/news/168336
 
-Google揭新一代TPU、推跨平臺AI代理協定A2A和多種代理開發部署工具
-https://www.ithome.com.tw/news/168333
+中華電信與 AWS 深化合作 運用生成式 AI 打造創新應用
+https://www.inside.com.tw/feature/aws-tw/38085-aws
 
-提供iLO 7與更多液冷搭配，HPE伺服器正式開啟第12世代
-https://www.ithome.com.tw/review/168252
+AI 寫完程式放哪？Zeabur 一鍵上雲，瞄準全球新時代開發者
+https://www.inside.com.tw/article/38047-
 
-微軟發布4月份例行更新，修補已被用於勒索軟體攻擊的CLFS零時差漏洞
-https://www.ithome.com.tw/news/168323
+國泰世華銀行《請支援理財》Ep17：投資海外不難！專家教你聰明布局全球國際市場
+https://www.inside.com.tw/article/38114-cathaybk
 
-傳甲骨文向雲端客戶通報資料外洩
-https://www.ithome.com.tw/news/168322
+外媒曝：中國默認駭入美國基礎設施，攻擊是因應美方對台灣的軍事支援
+https://www.inside.com.tw/article/38121-china-acknowledged-us-hacks
 
-中榮推動ESG永續發展有成，靠IT精進病歷管理年省超過6,800萬張用紙、縮減急診病患就醫流程時間
-https://www.ithome.com.tw/news/168303
+【Editors&#039; Picks】CHIMEI 奇美 LT-KG280D 檯燈 3 年使用心得：好用一直用
+https://www.inside.com.tw/article/38119-inside-chimei-lt-kg280d-review
 
-Google Gemini 2.5 Pro Experimental開始支援Deep Research
-https://www.ithome.com.tw/news/168320
+讓 Sam Altman 睡不著的功能？ChatGPT 記憶力提升，能自動參考過去對話
+https://www.inside.com.tw/article/38118-chatgpt-reference-saved-memory
 
-Ivanti SSL VPN漏洞攻擊拉警報，全球5千臺伺服器曝險
-https://www.ithome.com.tw/news/168319
+RONEVER 療癒矽膠小夜燈：關稅一變再變但它不會變，只會安靜躺在你的床頭伴你入睡
+https://www.inside.com.tw/article/38120-ronever-soothing-silicone-night-light-amid-changing-tariffs-it-remains-a-calm-companion-by-your-bedside
 
-Llama 4問世反應平平，開發人員認效能表現言過其實
-https://www.ithome.com.tw/news/168318
+汽車產業太重要，韓政府紓困融資加碼 2 兆韓元
+https://www.inside.com.tw/article/38117-auto-industry-too-important-south-korean-government-adds-2-trillion-won-in-relief-financing
 
-雲端驅動永續發展：AWS 賦能企業 ESG 實踐，邁向綠色未來
-https://www.inside.com.tw/feature/aws-tw/38083-aws
+美國車界急向川普喊話：別忘了取消 25% 汽車關稅啊！
+https://www.inside.com.tw/article/38116-us-auto-industry-urges-trump-not-to-forget-removing-the-25-percent-tariff-on-cars
 
-OpenAI 反指控馬斯克惡意騷擾，要求法院禁止他的攻擊行為
-https://www.inside.com.tw/article/38111-openai-countersues
+Meta LlamaCon 即將到來！首場 Llama 開發者大會 4/29 展開
+https://www.inside.com.tw/article/38115-meta-llamacon-april-29th
 
-深入解析：光陽的「雙柯內鬥」，真的只是油電路線之爭嗎？
-https://www.inside.com.tw/article/38110-s-kymco-internal-conflict-between-two-ko-leaders-really-about-gas-vs-electric-strategy
+世界先進：高額關稅暫緩有急單 全年展望重新檢視
+https://www.businessyee.com/article/5885-vis
 
-【快訊】光陽董事長柯勝峯：集團內部理念不同，辭去董事長
-https://www.inside.com.tw/article/38108-kymco-chairman-allen-ko-confirms-internal-differences-and-resigns-from-position
+蘋果急從印度運600噸iPhone回美躲關稅
+https://www.businessyee.com/article/5883-apple-airlifts-600-tons-of-iPhones
 
-臉書前高層爆料：祖克伯親自開發工具審查「台港貼文」，瀏覽破萬自動提交總編
-https://www.inside.com.tw/article/38109-zuckerberg-built-censorship-tool-for-china-routed-taiwan-and-hong-kong-posts-for-ccp-review-ex-facebook-exec-says
+放鬆是一種投資！用可收進包包的迷你筋膜槍，幫緊繃的身體適時「解套」
+https://www.businessyee.com/article/5882-mini-massage-gun-muscle-roller
 
-川普關稅政策髮夾彎，蘋果浴血反彈 15%
-https://www.inside.com.tw/article/38106-apple-and-tariffs-war
+國際油價跌，下週汽油估降0.9元柴油降1.4元
+https://www.businessyee.com/article/5881-oil-price
 
-比亞迪正式推出「兆瓦閃充」電動車，最低價約 91 萬新台幣
-https://www.inside.com.tw/article/38105-byd-launches-first-evs-with-ultra-fast-charging
+國泰世華銀行《請支援理財》Ep17：投資海外不難！專家教你聰明布局全球國際市場
+https://www.businessyee.com/article/5821-cathaybk
 
-Anthropic 推出每月 200 美元 Max 訂閱方案！與 ChatGPT Pro 正面競爭
-https://www.inside.com.tw/article/38104-anthropic-max-plan
+美股那指罕見飆漲，背後藏警訊：從1987到網路泡沫，急彈都發生在崩盤後
+https://www.businessyee.com/article/5877-dot-com-bust-1987-crash
 
-真實版《關鍵報告》？英國正在打造「兇殺嫌犯預測」系統
-https://www.inside.com.tw/article/38103-uk-developing-murder-suspect-prediction-system
+任天堂決戰90天！關稅暫緩為Switch 2登場贏得關鍵時刻
+https://www.businessyee.com/article/5880-nintendo-s-pivotal-switch-2-launch-boosted-by-trump-tariff-pause
 
-使用方式一次看！WordPress.com 推出 AI 建站工具、數分鐘打造完整圖文網站
-https://www.inside.com.tw/article/38102-wordpresscom-ai-website-builder
+川普關稅延後奏效？美國新債拍賣搶手，但美債恐不復資產避風港地位
+https://www.businessyee.com/article/5879-trump-tariff-stephen-miran
 
-日本成立統合作戰司令部之戰略意涵
-https://voicettank.org/20250408-3/
+獨自升級？美對中關稅加碼至145%！川普稱仍望與中國達成協議
+https://www.businessyee.com/article/5878-trump-tariff-china-145per
 
-萬隆會議七十年，從不結盟變成多方結盟？
-https://voicettank.org/20250409-2/
+14家上市金控首季獲利1436億，年減8.7%，新光金連虧三月
+https://www.businessyee.com/article/5875-fc-2025-03
 
-美菲將舉行2025年肩並肩演習之研析
-https://voicettank.org/20250409-3/
-
-「數位保險公司」上路倒數！金管會鬆綁七大法規，最快7月開放申請
-https://www.businessyee.com/article/5874-digital-Insure-appliy-2
-
-【蘋果優惠整理包】AirPods 4主動式降噪款省千元、AirTag 4入組特價2,599元
-https://www.businessyee.com/article/5873-apple
-
-AWS re:Invent 2022 年度盛會迎捷報！台灣年輕人才囊括 AWS DeepRacer League 冠軍賽全球前三名 並於 AWS GameDay 蟬聯奪冠
-https://www.businessyee.com/article/5857-aws
-
-拚命工作，卻不得老闆讚賞？搞懂效能與效率，第一次就把事情做對
-https://www.businessyee.com/article/5872-effectiveness-efficiency
-
-臉書前員工：祖克柏開發工具審查台港貼文，瀏覽破萬自動提交總編
-https://www.businessyee.com/article/5871-Sarah-Wynn-Williams
-
-台積電3月營收2859億元，月增10%、年增46.5%！月、季營收創同期新高
-https://www.businessyee.com/article/5862-tsmc-revenue-mar-2025
-
-犧牲600億美債息作談判籌碼？央行總裁楊金龍批米倫構想不切實際
-https://www.businessyee.com/article/5860-us-bond-rate-cuts
-
-鴻海將受託為三菱汽車代工EV車款，關潤：不打算進入B2C市場
-https://www.businessyee.com/article/5859-hon-hai-ev
-
-金管會：股災斷頭40-69歲占七成，限空令是否延續週六公布
-https://www.businessyee.com/article/5856-Stock-market-crash
-
-Riot Games即將完成全球基礎設施全面遷移至AWS
-https://www.businessyee.com/article/5855-aws
-
-Careless People
-https://dushuyizhi.net/careless-people/
-
-Extracting Structured Data From Images Using Spring AI
-https://feeds.feedblitz.com/~/916425668/0/baeldung~Extracting-Structured-Data-From-Images-Using-Spring-AI
+Java Weekly, Issue 589
+https://feeds.feedblitz.com/~/916490282/0/baeldung~Java-Weekly-Issue
