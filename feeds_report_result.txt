@@ -1,67 +1,16 @@
-# 2025-04-12 09:17:30 Feeds Report 
+# 2025-04-13 09:17:39 Feeds Report 
 
-Daily Hacker News for 2025-04-11
-https://www.daemonology.net/hn-daily/2025-04-11.html
+Daily Hacker News for 2025-04-12
+https://www.daemonology.net/hn-daily/2025-04-12.html
 
-支援PCIe 5，效能與容量大幅突破，金士頓推新款資料中心SSD
-https://www.ithome.com.tw/review/168362
+Weekly Ask Hacker News for 2025-04-06 -- 2025-04-12
+http://www.daemonology.net/hn-weekly-ask/2025-04-12.html
 
-Nvidia公布Llama-3.1 Nemotron Ultra 效能超越DeepSeek R1 但僅一半參數量
-https://www.ithome.com.tw/news/168360
+Cloudflare Workers 提供的 MySQL/MariaDB 方案
+https://blog.gslin.org/archives/2025/04/13/12341/cloudflare-workers-%e6%8f%90%e4%be%9b%e7%9a%84-mysql-mariadb-%e6%96%b9%e6%a1%88/
 
-俄羅斯駭客EncryptHub遭起底，此人黑錢白錢都要拿，既從事網路犯罪卻又通報漏洞拿獎金
-https://www.ithome.com.tw/news/168367
+蘋果供應鏈解套！美國豁免多項科技產品、零組件關稅
+https://www.inside.com.tw/article/38131-trump-exempts-phones-computers-chips-tariffs-apple
 
-Google宣布強化安全、IP防護的Gemini in Android Studio for Business
-https://www.ithome.com.tw/news/168359
-
-Unity 6、後續更新版本不再向中國提供！取而代之客製版「團結引擎」
-https://www.inside.com.tw/article/38130-unity-6-and-subsequent-updated-versions-are-no-longer-available-for-the-chinese-market-and-are-replaced-by-a-customized-version-of-tuanjie-engine
-
-Amazon 的 RMN 光芒不再了嗎？
-https://www.inside.com.tw/feature/rmn/38129-is-amazons-retail-media-network-losing-its-luster
-
-寫下 528 億元的營收新紀錄！遠東 SOGO 百貨如何借力 AWS 讓 APP 系統用量倍增也不當機
-https://www.inside.com.tw/feature/aws-tw/38087-aws
-
-Google 裁員影響 Pixel 和 Android 部門數百人，台灣也受影響
-https://www.inside.com.tw/article/38128-google-layoffs-impact-hundreds-in-pixel-and-android-divisions-taiwan-also-affected
-
-Ilya Sutskever 的 AI 新創 SSI 融資再有斬獲，估值上升至 320 億美元
-https://www.inside.com.tw/article/38127-ilya-sutskever-ai-startup-ssi-secures-new-funding-valuation-reaches-32-billion-dollars
-
-是關稅突破口還是統戰？中國關稅豁免台灣代工製造的美國晶片
-https://www.inside.com.tw/article/38126-us-chipmakers-outsourcing-manufacturing-will-escape-chinas-tariffs
-
-RandomChat 共同創辦人 Gigi Wu：日本市場生存指南，如何靠 MVP 與數據驅動突圍？【塞掐 Side Chat】E332
-https://www.inside.com.tw/feature/side-chat/38125-side-chat-e332-randomchat
-
-你做夠 AI 時代的準備了嗎？侯宜秀解密學習、就業新戰場
-https://www.inside.com.tw/article/38122-how-to-navigate-learning-and-employment-in-the-artificial-intelligence-era
-
-【書摘】《帝國為什麼會衰敗：條條死路通羅馬，關於西方政治社會的再思考》
-https://voicettank.org/20250411-2/
-
-川普橘色崩潰：永遠不要試圖接住下落的刀
-https://voicettank.org/20250411-1/
-
-言論自由與國家忠誠義務
-https://voicettank.org/20250411-3/
-
-【2025大阪世博】「飛行車」萬博商業化告吹：但試飛照常，話題不缺席！
-https://www.businessyee.com/article/5888-flying-taxi-test-osaka-expo-2025
-
-【好險有聽】什麼是雇主責任險？4 個案例了解賠什麼！
-https://www.businessyee.com/article/5886-Employers-Liability-Insurance
-
-【月營收評比】六大通路3月營收：燦坤落後全國電幅度擴大！電商雙雄二度雙雙負成長
-https://www.businessyee.com/article/5887-channel-revenue-mar-2025
-
-【聽進理投】提領率4%夠嗎？掌握8個退休金提領重點讓你不再擔心錢！
-https://www.businessyee.com/article/5853-Bill-Bengen
-
-告別焦慮投資！大華銀兩檔月配息優利美債ETF 4/21開募，發行價15元
-https://www.businessyee.com/article/5884-00983B-00984B-ipo
-
-Get Number of Files in a Directory and Its Subdirectories in Java
-https://feeds.feedblitz.com/~/916540028/0/baeldung~Get-Number-of-Files-in-a-Directory-and-Its-Subdirectories-in-Java
+AWS 宣布在台灣推出基礎設施區域
+https://www.inside.com.tw/feature/aws-tw/38088-aws
