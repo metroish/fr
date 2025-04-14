@@ -1,16 +1,103 @@
-# 2025-04-13 09:17:39 Feeds Report 
+# 2025-04-14 09:19:31 Feeds Report 
 
-Daily Hacker News for 2025-04-12
-https://www.daemonology.net/hn-daily/2025-04-12.html
+Daily Hacker News for 2025-04-13
+https://www.daemonology.net/hn-daily/2025-04-13.html
 
-Weekly Ask Hacker News for 2025-04-06 -- 2025-04-12
-http://www.daemonology.net/hn-weekly-ask/2025-04-12.html
+lexiforest 版的 curl-impersonate 出 v1.0.0rc1
+https://blog.gslin.org/archives/2025/04/14/12348/lexiforest-%e7%89%88%e7%9a%84-curl-impersonate-%e5%87%ba-v1-0-0rc1/
 
-Cloudflare Workers 提供的 MySQL/MariaDB 方案
-https://blog.gslin.org/archives/2025/04/13/12341/cloudflare-workers-%e6%8f%90%e4%be%9b%e7%9a%84-mysql-mariadb-%e6%96%b9%e6%a1%88/
+縮短 TLS certificate 的最長效期的投票 SC-081
+https://blog.gslin.org/archives/2025/04/14/12347/%e7%b8%ae%e7%9f%ad-tls-certificate-%e7%9a%84%e6%9c%80%e9%95%b7%e6%95%88%e6%9c%9f%e7%9a%84%e6%8a%95%e7%a5%a8-sc-081/
 
-蘋果供應鏈解套！美國豁免多項科技產品、零組件關稅
-https://www.inside.com.tw/article/38131-trump-exempts-phones-computers-chips-tariffs-apple
+用 foremost 從 raw disk 裡救檔案出來
+https://blog.gslin.org/archives/2025/04/14/12345/%e7%94%a8-foremost-%e5%be%9e-raw-disk-%e8%a3%a1%e6%95%91%e6%aa%94%e6%a1%88%e5%87%ba%e4%be%86/
 
-AWS 宣布在台灣推出基礎設施區域
-https://www.inside.com.tw/feature/aws-tw/38088-aws
+在 LLM crawler 盛行的年代擋 bot...
+https://blog.gslin.org/archives/2025/04/14/12344/%e5%9c%a8-llm-crawler-%e7%9b%9b%e8%a1%8c%e7%9a%84%e5%b9%b4%e4%bb%a3%e6%93%8b-bot/
+
+AI 公司 logo 的... 菊花...
+https://blog.gslin.org/archives/2025/04/14/12343/ai-%e5%85%ac%e5%8f%b8-logo-%e7%9a%84-%e8%8f%8a%e8%8a%b1/
+
+Valkey 支援 Bloom Filters
+https://blog.gslin.org/archives/2025/04/14/12342/valkey-%e6%94%af%e6%8f%b4-bloom-filters/
+
+Fortinet防火牆已知漏洞出現攻擊行動
+https://www.ithome.com.tw/news/168399
+
+微軟公布抓蟲AI工具Debug-gym 可和外部工具互動改進除錯建議
+https://www.ithome.com.tw/news/168398
+
+零售IT雙周報第54期：無人機正式送貨前，Amazon如何測試飛行安全
+https://www.ithome.com.tw/news/168373
+
+Google Workspace加入AI workflow、Docs整合NotebookLM音訊功能
+https://www.ithome.com.tw/news/168393
+
+【資安週報】0407~0411，國家資通安全戰略2025正式公布，建立國家資安戰情協同應變中心
+https://www.ithome.com.tw/news/168383
+
+全球資料中心到2030年的用電量將增加一倍以上，AI為最大驅動力
+https://www.ithome.com.tw/news/168391
+
+川普豁免手機、筆電、晶片與半導體設備關稅
+https://www.ithome.com.tw/news/168384
+
+2025 Instagram 還該怎麼經營？負責人 Adam Mosseri 親口說有三大指標、兩大地雷
+https://www.inside.com.tw/article/38141-instagram-head-adam-mosseri-reveals-three-key-metrics-and-two-pitfalls-for-2025-strategy
+
+【Google Pixel 9a 開箱】不到 2 萬！拍照、AI 都誠意滿滿的 Google 手機
+https://www.inside.com.tw/article/38113-pixel-9a-review
+
+讓寶寶停止哭泣的科技大作戰
+https://www.inside.com.tw/article/38140-the-tech-battle-to-stop-babies-from-crying
+
+AWS 資安長 CJ Moses 預測 2023 年及未來六大安全趨勢
+https://www.inside.com.tw/feature/aws-tw/38090-aws
+
+為什麼 SHEIN 是美國打壓中國跨境電商的最大苦主？
+https://www.inside.com.tw/article/38139-why-shein-bears-brunt-of-us-crackdown-on-chinese-cross-border-ecommerce
+
+【大阪世博現場報導】未來都市館｜虛實整合互動式劇場：參加者全員共同決定未來！
+https://www.inside.com.tw/feature/osaka-expo-2025/38138-osaka-expo-2025-future-life
+
+Meta 被爆助中國審查台港內容，美議員要祖克伯赴國會作證！
+https://www.inside.com.tw/article/38137-meta-china-censorship-taiwan-hong-kong-zuckerberg-congress-testimony
+
+Jack Dorsey 呼籲：「刪除所有智財產法」！並引來馬斯克撐腰
+https://www.inside.com.tw/article/38136-jack-dorsey-delete-ip-law
+
+「白日夢」不一定是壞事？研究發現放空有助大腦無意識學習
+https://www.inside.com.tw/article/38135-zoning-out-could-help-learning
+
+蘇姿丰 4/15 台大演講，談 AMD 如何轉型 AI 領導者
+https://www.inside.com.tw/article/38134-lisa-su-ntu-april-15-amd-ai-transformation
+
+美三位數關稅來襲！中國出口商該如何減緩川普制裁關稅的影響？
+https://www.businessyee.com/article/5894-chinas-exporters-us-tariffs-struggles
+
+從倫敦到華府警鐘！英媒：債市逼退特拉斯後，下一個會是川普嗎？
+https://www.businessyee.com/article/5896-trump-Liz-Truss-moment
+
+利用AWS打造租車界的Airbnb谷奧科技掌握國旅市場，讓業績翻倍成長
+https://www.businessyee.com/article/5861-aws
+
+連企鵝跟海豹都被課稅！川普高關稅的真正目標：圍堵中國
+https://www.businessyee.com/article/5895-trump-tariffs-game
+
+元大銀行基金定期定額，一鍵下單布局龍頭企業好簡單
+https://www.businessyee.com/article/5893-yuanda-fund
+
+推特創辦人罕見發文：刪掉IP智慧財產權法！馬斯克秒回：「我同意」
+https://www.businessyee.com/article/5891-dorsey-musk-delete-ip-law
+
+【大阪世博現場報導】未來都市館｜虛實整合互動式劇場：參加者全員共同決定未來！
+https://www.businessyee.com/article/5892-osaka-expo-2025-future-life
+
+5G 人工智慧融合原民教育 高市府攜 AWS 建置實證基地 舉辦賽車系列夏令營
+https://www.businessyee.com/article/5858-aws
+
+一夕數變！川普否認半導體、電子產品關稅豁免，法人：台股恐震盪
+https://www.businessyee.com/article/5890-Trump-denies-tariff-exemptions
+
+CBP公告智慧手機、筆電等20項電子產品關稅豁免，蘋果鏈士氣大振
+https://www.businessyee.com/article/5889-CBP-tariff-exemptions-boosting-morale-Apple-chain
