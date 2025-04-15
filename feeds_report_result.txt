@@ -1,28 +1,40 @@
-# 2025-04-14 09:19:31 Feeds Report 
+# 2025-04-15 09:18:57 Feeds Report 
 
-Daily Hacker News for 2025-04-13
-https://www.daemonology.net/hn-daily/2025-04-13.html
+Daily Hacker News for 2025-04-14
+https://www.daemonology.net/hn-daily/2025-04-14.html
 
-lexiforest 版的 curl-impersonate 出 v1.0.0rc1
-https://blog.gslin.org/archives/2025/04/14/12348/lexiforest-%e7%89%88%e7%9a%84-curl-impersonate-%e5%87%ba-v1-0-0rc1/
+微軟擴充.NET Aspire部署能力，標準化應用開發到多雲部署流程
+https://www.ithome.com.tw/news/168423
 
-縮短 TLS certificate 的最長效期的投票 SC-081
-https://blog.gslin.org/archives/2025/04/14/12347/%e7%b8%ae%e7%9f%ad-tls-certificate-%e7%9a%84%e6%9c%80%e9%95%b7%e6%95%88%e6%9c%9f%e7%9a%84%e6%8a%95%e7%a5%a8-sc-081/
+英特爾將出售Altera 51%股權，Altera市值腰斬
+https://www.ithome.com.tw/news/168422
 
-用 foremost 從 raw disk 裡救檔案出來
-https://blog.gslin.org/archives/2025/04/14/12345/%e7%94%a8-foremost-%e5%be%9e-raw-disk-%e8%a3%a1%e6%95%91%e6%aa%94%e6%a1%88%e5%87%ba%e4%be%86/
+AI時代駭客犯罪模式出現轉變，趨勢科技指出駭客將AI當傭兵，更容易從事網路犯罪
+https://www.ithome.com.tw/news/168421
 
-在 LLM crawler 盛行的年代擋 bot...
-https://blog.gslin.org/archives/2025/04/14/12344/%e5%9c%a8-llm-crawler-%e7%9b%9b%e8%a1%8c%e7%9a%84%e5%b9%b4%e4%bb%a3%e6%93%8b-bot/
+賴清德總統四度親臨臺灣資安大會，從國家戰略到產業政策彰顯資安重要性
+https://www.ithome.com.tw/news/168420
 
-AI 公司 logo 的... 菊花...
-https://blog.gslin.org/archives/2025/04/14/12343/ai-%e5%85%ac%e5%8f%b8-logo-%e7%9a%84-%e8%8f%8a%e8%8a%b1/
+【資安日報】4月15日，總統親臨臺灣資安大會致詞，從國家戰略、產業政策彰顯資安
+https://www.ithome.com.tw/news/168418
 
-Valkey 支援 Bloom Filters
-https://blog.gslin.org/archives/2025/04/14/12342/valkey-%e6%94%af%e6%8f%b4-bloom-filters/
+VMware最低授權數不調高！博通新公告重申16核心數要求，更加碼釋出免費版ESXi
+https://www.ithome.com.tw/news/168416
 
-Fortinet防火牆已知漏洞出現攻擊行動
-https://www.ithome.com.tw/news/168399
+Nvidia將首度完全於美國製造AI超級電腦
+https://www.ithome.com.tw/news/168412
+
+OpenAI釋出GPT-4.1以取代GPT-4o
+https://www.ithome.com.tw/news/168411
+
+Nvidia Container Toolkit修補不全，攻擊者有機會逃脫容器系統
+https://www.ithome.com.tw/news/168410
+
+SSL/TLS憑證最長效期2029年將縮減成47天
+https://www.ithome.com.tw/news/168409
+
+駭客聲稱握有Fortinet防火牆零時差漏洞，能未經身分驗證執行任意程式碼
+https://www.ithome.com.tw/news/168408
 
 微軟公布抓蟲AI工具Debug-gym 可和外部工具互動改進除錯建議
 https://www.ithome.com.tw/news/168398
@@ -36,68 +48,86 @@ https://www.ithome.com.tw/news/168393
 【資安週報】0407~0411，國家資通安全戰略2025正式公布，建立國家資安戰情協同應變中心
 https://www.ithome.com.tw/news/168383
 
-全球資料中心到2030年的用電量將增加一倍以上，AI為最大驅動力
-https://www.ithome.com.tw/news/168391
+Amazon Bedrock 新增全新基礎模型、基礎模型供應商以及代理功能， 協助客戶建構生成式 AI 應用
+https://www.inside.com.tw/feature/aws-tw/38092-aws
 
-川普豁免手機、筆電、晶片與半導體設備關稅
-https://www.ithome.com.tw/news/168384
+企業如何落實資安防護策略？資安大廠歐米英泰：打造零信任架構，進行端到端全面防禦！
+https://www.inside.com.tw/article/38074-Omni
 
-2025 Instagram 還該怎麼經營？負責人 Adam Mosseri 親口說有三大指標、兩大地雷
-https://www.inside.com.tw/article/38141-instagram-head-adam-mosseri-reveals-three-key-metrics-and-two-pitfalls-for-2025-strategy
+國光牌的 ESG 實踐：從產品創新到永續發展的全方位治理藍圖
+https://www.inside.com.tw/article/37322-cpclube2D
 
-【Google Pixel 9a 開箱】不到 2 萬！拍照、AI 都誠意滿滿的 Google 手機
-https://www.inside.com.tw/article/38113-pixel-9a-review
+特斯拉停止在中國販售新的 Model X 與 Model S，兩款旗艦車型正式退出中國市場
+https://www.inside.com.tw/article/38148-tesla-stop-selling-model-x-model-s-in-china
 
-讓寶寶停止哭泣的科技大作戰
-https://www.inside.com.tw/article/38140-the-tech-battle-to-stop-babies-from-crying
+Google 簽署台灣首筆地熱購電協議！成亞太潔淨能源應用的新里程碑
+https://www.inside.com.tw/article/38147-google-geothermal-contract
 
-AWS 資安長 CJ Moses 預測 2023 年及未來六大安全趨勢
-https://www.inside.com.tw/feature/aws-tw/38090-aws
+OpenAI 發布新模型系列「GPT-4.1」 強化寫程式能力，並棄用 GPT-4.5！
+https://www.inside.com.tw/article/38146-gpt-4-1-launch
 
-為什麼 SHEIN 是美國打壓中國跨境電商的最大苦主？
-https://www.inside.com.tw/article/38139-why-shein-bears-brunt-of-us-crackdown-on-chinese-cross-border-ecommerce
+祖克柏反壟斷審判中為 Meta 辯護，要證明 WhatsApp、Instagram 不需分拆
+https://www.inside.com.tw/article/38145-zuckerberg-defends-meta-antitrust-suit
 
-【大阪世博現場報導】未來都市館｜虛實整合互動式劇場：參加者全員共同決定未來！
-https://www.inside.com.tw/feature/osaka-expo-2025/38138-osaka-expo-2025-future-life
+【電車世代】從原理到應用：拆解電動車電池冷卻系統的全貌
+https://www.inside.com.tw/article/38143-from-principles-to-applications-unveiling-the-full-picture-of-ev-battery-cooling-systems
 
-Meta 被爆助中國審查台港內容，美議員要祖克伯赴國會作證！
-https://www.inside.com.tw/article/38137-meta-china-censorship-taiwan-hong-kong-zuckerberg-congress-testimony
+與 AIT 谷立言一起現身資安大會，賴清德：台灣也是全球資安風險最前線
+https://www.inside.com.tw/article/38144-president-lai-appears-with-ait-director-at-cybersecurity-conference-taiwan-on-global-security-frontline
 
-Jack Dorsey 呼籲：「刪除所有智財產法」！並引來馬斯克撐腰
-https://www.inside.com.tw/article/38136-jack-dorsey-delete-ip-law
+亞馬遜大量購買再生能源 創全球新紀錄
+https://www.inside.com.tw/feature/aws-tw/38091-aws
 
-「白日夢」不一定是壞事？研究發現放空有助大腦無意識學習
-https://www.inside.com.tw/article/38135-zoning-out-could-help-learning
+川普對等關税對能源產業的影響
+https://voicettank.org/20250414-2/
 
-蘇姿丰 4/15 台大演講，談 AMD 如何轉型 AI 領導者
-https://www.inside.com.tw/article/38134-lisa-su-ntu-april-15-amd-ai-transformation
+Facebook：跨國車手，滿手血腥
+https://voicettank.org/20250414-1/
 
-美三位數關稅來襲！中國出口商該如何減緩川普制裁關稅的影響？
-https://www.businessyee.com/article/5894-chinas-exporters-us-tariffs-struggles
+直播開班需求暴增，樂雲智能用 AWS 雲端打造超穩定服務
+https://www.businessyee.com/article/5864-aws
 
-從倫敦到華府警鐘！英媒：債市逼退特拉斯後，下一個會是川普嗎？
-https://www.businessyee.com/article/5896-trump-Liz-Truss-moment
+【蘇姿丰台大演講】「有挫折難過一下就好！」蘇媽給學生與職場人的8碗心靈雞湯
+https://www.businessyee.com/article/5905-Lisa-Su-ntu
 
-利用AWS打造租車界的Airbnb谷奧科技掌握國旅市場，讓業績翻倍成長
-https://www.businessyee.com/article/5861-aws
+CNBC供應鏈調查：61%企業寧赴低關稅國，川普關稅政策壓力爆表
+https://www.businessyee.com/article/5903-tariffs-wont-bring-manufacturing-back-to-us
 
-連企鵝跟海豹都被課稅！川普高關稅的真正目標：圍堵中國
-https://www.businessyee.com/article/5895-trump-tariffs-game
+守護北漂小資族！凱壽推定期壽險、重疾、小額終老險網路折減方案
+https://www.businessyee.com/article/5902-kgi-%20Beipiao%20tribe
 
-元大銀行基金定期定額，一鍵下單布局龍頭企業好簡單
-https://www.businessyee.com/article/5893-yuanda-fund
+AMD新款處理器Venice採台積電2奈米製程
+https://www.businessyee.com/article/5901-amd-Venice
 
-推特創辦人罕見發文：刪掉IP智慧財產權法！馬斯克秒回：「我同意」
-https://www.businessyee.com/article/5891-dorsey-musk-delete-ip-law
+美國擬加徵晶片、醫藥關稅，川普：保護國家安全
+https://www.businessyee.com/article/5900-trump-tariffs
 
-【大阪世博現場報導】未來都市館｜虛實整合互動式劇場：參加者全員共同決定未來！
-https://www.businessyee.com/article/5892-osaka-expo-2025-future-life
+輝達攜手台積電鴻海4台廠 首度在美生產AI超級電腦
+https://www.businessyee.com/article/5899-ai-NVIDIA
 
-5G 人工智慧融合原民教育 高市府攜 AWS 建置實證基地 舉辦賽車系列夏令營
-https://www.businessyee.com/article/5858-aws
+華廣生技容器化應用程式快速上雲，善用AWS雲端服務解決部署痛點
+https://www.businessyee.com/article/5863-aws
 
-一夕數變！川普否認半導體、電子產品關稅豁免，法人：台股恐震盪
-https://www.businessyee.com/article/5890-Trump-denies-tariff-exemptions
+央行打炒房續發威！房市交易三稅首季負成長
+https://www.businessyee.com/article/5898-house-trading-tax-2025-q1
 
-CBP公告智慧手機、筆電等20項電子產品關稅豁免，蘋果鏈士氣大振
-https://www.businessyee.com/article/5889-CBP-tariff-exemptions-boosting-morale-Apple-chain
+2025平均年終1.72個月優於去年，金融保險業3.74個月稱冠
+https://www.businessyee.com/article/5897-2025-salary-bonus
+
+Google遭日本公正取引委員會下達「排除措置命令」，成美國四大科技巨頭首例
+https://changyuchieh.com/2025/04/15/google-jftc/?utm_source=rss&utm_medium=rss&utm_campaign=google-jftc
+
+Currency Code to Currency Symbol Mapping in Java
+https://feeds.feedblitz.com/~/916703195/0/baeldung~Currency-Code-to-Currency-Symbol-Mapping-in-Java
+
+How to Check if Zookeeper Is Running or up From Command Prompt?
+https://feeds.feedblitz.com/~/916703198/0/baeldung~How-to-Check-if-Zookeeper-Is-Running-or-up-From-Command-Prompt
+
+Monitor a Java Application With New Relic
+https://feeds.feedblitz.com/~/916703201/0/baeldung~Monitor-a-Java-Application-With-New-Relic
+
+How to Run a Java Program in the Background
+https://feeds.feedblitz.com/~/916702619/0/baeldung~How-to-Run-a-Java-Program-in-the-Background
+
+How to Serialize and Deserialize Dates in Avro
+https://feeds.feedblitz.com/~/916702622/0/baeldung~How-to-Serialize-and-Deserialize-Dates-in-Avro
