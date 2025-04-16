@@ -1,19 +1,31 @@
-# 2025-04-15 09:18:57 Feeds Report 
+# 2025-04-16 09:18:48 Feeds Report 
 
-Daily Hacker News for 2025-04-14
-https://www.daemonology.net/hn-daily/2025-04-14.html
+Daily Hacker News for 2025-04-15
+https://www.daemonology.net/hn-daily/2025-04-15.html
 
-微軟擴充.NET Aspire部署能力，標準化應用開發到多雲部署流程
-https://www.ithome.com.tw/news/168423
+PHP核心執行環境稽核揭露多項漏洞，衝擊PHP-FPM與加密模組安全性
+https://www.ithome.com.tw/news/168439
 
-英特爾將出售Altera 51%股權，Altera市值腰斬
-https://www.ithome.com.tw/news/168422
+外傳OpenAI有意涉足社交平臺
+https://www.ithome.com.tw/news/168437
 
-AI時代駭客犯罪模式出現轉變，趨勢科技指出駭客將AI當傭兵，更容易從事網路犯罪
-https://www.ithome.com.tw/news/168421
+Notion公布AI郵件App　可整合Gmail
+https://www.ithome.com.tw/news/168436
 
-賴清德總統四度親臨臺灣資安大會，從國家戰略到產業政策彰顯資安重要性
-https://www.ithome.com.tw/news/168420
+MFT檔案共享系統Cleo受害者首度現身，租車業者Hertz證實受害
+https://www.ithome.com.tw/news/168434
+
+【臺灣資安大會直擊】AI同事雙面刃，網路犯罪即代理危機浮現
+https://www.ithome.com.tw/news/168433
+
+川普大砍行政預算，CVE與CWE專案的合約本周到期
+https://www.ithome.com.tw/news/168432
+
+冒牌電腦版Line針對臺灣而來，恐導致電腦被植入木馬
+https://www.ithome.com.tw/news/168431
+
+Google要求Android 15手機儲存容量不得小於32GB
+https://www.ithome.com.tw/news/168430
 
 【資安日報】4月15日，總統親臨臺灣資安大會致詞，從國家戰略、產業政策彰顯資安
 https://www.ithome.com.tw/news/168418
@@ -36,98 +48,62 @@ https://www.ithome.com.tw/news/168409
 駭客聲稱握有Fortinet防火牆零時差漏洞，能未經身分驗證執行任意程式碼
 https://www.ithome.com.tw/news/168408
 
-微軟公布抓蟲AI工具Debug-gym 可和外部工具互動改進除錯建議
-https://www.ithome.com.tw/news/168398
+非專業用戶不想買 Apple Pencil？選用 1180 元副廠筆也沒問題
+https://www.inside.com.tw/article/38161-third-party-stylus-at-1180-dollars-works-fine-for-casual-ipad-users-not-needing-apple-pencil
 
-零售IT雙周報第54期：無人機正式送貨前，Amazon如何測試飛行安全
-https://www.ithome.com.tw/news/168373
+台灣要有什麼樣的 AI 基本法？學者呼籲：台灣特色繁中模型！
+https://www.inside.com.tw/article/38160-what-type-of-ai-basic-law-taiwan-needs
 
-Google Workspace加入AI workflow、Docs整合NotebookLM音訊功能
-https://www.ithome.com.tw/news/168393
+【Editors&#039; Picks】SONY WH-1000XM4 耳機：降噪和舒適的完美平衡
+https://www.inside.com.tw/article/38124-sony-wh-1000xm4-review
 
-【資安週報】0407~0411，國家資通安全戰略2025正式公布，建立國家資安戰情協同應變中心
-https://www.ithome.com.tw/news/168383
+台灣防堵中國洗產地，祭出 4 招抓到最高罰 300 萬
+https://www.inside.com.tw/article/38157-taiwan-crackdown-country-of-origin-laundering-chinese-goods-3m-fine
 
-Amazon Bedrock 新增全新基礎模型、基礎模型供應商以及代理功能， 協助客戶建構生成式 AI 應用
-https://www.inside.com.tw/feature/aws-tw/38092-aws
+美國 H20 禁令生效！NVIDIA：將認列 55 億美元費用
+https://www.inside.com.tw/article/38155-nvidia-says-it-will-record-5point5-billion-quarterly-charge-tied-to-h20-processors-exported-to-china
 
-企業如何落實資安防護策略？資安大廠歐米英泰：打造零信任架構，進行端到端全面防禦！
-https://www.inside.com.tw/article/38074-Omni
+用玉米做電池？研究發現玉米蛋白可能成為鋰硫電池壽命解方
+https://www.inside.com.tw/article/38159-corn-boosts-lithium-sulfur-batteries
 
-國光牌的 ESG 實踐：從產品創新到永續發展的全方位治理藍圖
-https://www.inside.com.tw/article/37322-cpclube2D
+【大阪世博現場報導】來自台灣的 TECH WORLD 館｜技與藝完美交響動人心弦！但妾身未明難顯核心價值
+https://www.inside.com.tw/feature/osaka-expo-2025/38156-osaka-expo-2025-tech-world
 
-特斯拉停止在中國販售新的 Model X 與 Model S，兩款旗艦車型正式退出中國市場
-https://www.inside.com.tw/article/38148-tesla-stop-selling-model-x-model-s-in-china
+TNL Mediagene 關鍵評論網媒體集團與 PChome 攜手推動內容商務，開創零售媒體新里程
+https://www.inside.com.tw/article/38151-
 
-Google 簽署台灣首筆地熱購電協議！成亞太潔淨能源應用的新里程碑
-https://www.inside.com.tw/article/38147-google-geothermal-contract
+【快訊】柯俊斌接任光陽董座！油電之爭、土地開發兩大路線有解了嗎？
+https://www.inside.com.tw/article/38158-kymco-internal-conflict-between-two-ko-leaders-really-about-gas-vs-electric-strategy
 
-OpenAI 發布新模型系列「GPT-4.1」 強化寫程式能力，並棄用 GPT-4.5！
-https://www.inside.com.tw/article/38146-gpt-4-1-launch
+Gemini 可以用文生影片 AI「Veo 2」 了！從 Advanced 訂閱戶開始逐步開放
+https://www.inside.com.tw/article/38154-veo-2-for-gemini-advanced
 
-祖克柏反壟斷審判中為 Meta 辯護，要證明 WhatsApp、Instagram 不需分拆
-https://www.inside.com.tw/article/38145-zuckerberg-defends-meta-antitrust-suit
+【ASML Q1財報】關稅壓力斬訂單金額近半，股價下跌5%
+https://www.businessyee.com/article/5914-asml-q1-earnings
 
-【電車世代】從原理到應用：拆解電動車電池冷卻系統的全貌
-https://www.inside.com.tw/article/38143-from-principles-to-applications-unveiling-the-full-picture-of-ev-battery-cooling-systems
+SOOCKER搜客攜手摩曼頓O2Gether 運動生活平台 採用AWS雲端技術，打造運動達人導購聯盟 協助全臺運動教練將影響力轉換為銷售力 創建運動產業新藍海
+https://www.businessyee.com/article/5866-aws
 
-與 AIT 谷立言一起現身資安大會，賴清德：台灣也是全球資安風險最前線
-https://www.inside.com.tw/article/38144-president-lai-appears-with-ait-director-at-cybersecurity-conference-taiwan-on-global-security-frontline
+花旗財報Q1獲利年增24%，提高準備金應對經濟不確定性
+https://www.businessyee.com/article/5913-citygroup-2025-q1-earningcall
 
-亞馬遜大量購買再生能源 創全球新紀錄
-https://www.inside.com.tw/feature/aws-tw/38091-aws
+白宮：因中國的報復行為將提高關稅至245%
+https://www.businessyee.com/article/5912-245-percent-tariff
 
-川普對等關税對能源產業的影響
-https://voicettank.org/20250414-2/
+避開台積電獨大風險！「小0050」009804掛牌吸金，首日成交近3.5萬張
+https://www.businessyee.com/article/5911-009804-firstday
 
-Facebook：跨國車手，滿手血腥
-https://voicettank.org/20250414-1/
+TNL Mediagene 關鍵評論網媒體集團與 PChome 攜手推動內容商務，開創零售媒體新里程
+https://www.businessyee.com/article/5908-PChome-TNL-Mediagene
 
-直播開班需求暴增，樂雲智能用 AWS 雲端打造超穩定服務
-https://www.businessyee.com/article/5864-aws
+Tomofun在台舉辦狗音辨識AI百萬挑戰賽 趨勢科技與AWS加持幫助AI落地，教開發人員從頭打造世界級AI服務
+https://www.businessyee.com/article/5865-aws
 
-【蘇姿丰台大演講】「有挫折難過一下就好！」蘇媽給學生與職場人的8碗心靈雞湯
-https://www.businessyee.com/article/5905-Lisa-Su-ntu
+美銀財報優於預期，CEO：美國今年經濟衰退機率偏低
+https://www.businessyee.com/article/5910-bac-2025-q1-earning-call
 
-CNBC供應鏈調查：61%企業寧赴低關稅國，川普關稅政策壓力爆表
-https://www.businessyee.com/article/5903-tariffs-wont-bring-manufacturing-back-to-us
+AI會幫助人類還是毀了人類？OpenAI執行長：兒子的未來會比我更好
+https://www.businessyee.com/article/5907-Sam-Altman-ted
 
-守護北漂小資族！凱壽推定期壽險、重疾、小額終老險網路折減方案
-https://www.businessyee.com/article/5902-kgi-%20Beipiao%20tribe
-
-AMD新款處理器Venice採台積電2奈米製程
-https://www.businessyee.com/article/5901-amd-Venice
-
-美國擬加徵晶片、醫藥關稅，川普：保護國家安全
-https://www.businessyee.com/article/5900-trump-tariffs
-
-輝達攜手台積電鴻海4台廠 首度在美生產AI超級電腦
-https://www.businessyee.com/article/5899-ai-NVIDIA
-
-華廣生技容器化應用程式快速上雲，善用AWS雲端服務解決部署痛點
-https://www.businessyee.com/article/5863-aws
-
-央行打炒房續發威！房市交易三稅首季負成長
-https://www.businessyee.com/article/5898-house-trading-tax-2025-q1
-
-2025平均年終1.72個月優於去年，金融保險業3.74個月稱冠
-https://www.businessyee.com/article/5897-2025-salary-bonus
-
-Google遭日本公正取引委員會下達「排除措置命令」，成美國四大科技巨頭首例
-https://changyuchieh.com/2025/04/15/google-jftc/?utm_source=rss&utm_medium=rss&utm_campaign=google-jftc
-
-Currency Code to Currency Symbol Mapping in Java
-https://feeds.feedblitz.com/~/916703195/0/baeldung~Currency-Code-to-Currency-Symbol-Mapping-in-Java
-
-How to Check if Zookeeper Is Running or up From Command Prompt?
-https://feeds.feedblitz.com/~/916703198/0/baeldung~How-to-Check-if-Zookeeper-Is-Running-or-up-From-Command-Prompt
-
-Monitor a Java Application With New Relic
-https://feeds.feedblitz.com/~/916703201/0/baeldung~Monitor-a-Java-Application-With-New-Relic
-
-How to Run a Java Program in the Background
-https://feeds.feedblitz.com/~/916702619/0/baeldung~How-to-Run-a-Java-Program-in-the-Background
-
-How to Serialize and Deserialize Dates in Avro
-https://feeds.feedblitz.com/~/916702622/0/baeldung~How-to-Serialize-and-Deserialize-Dates-in-Avro
+即起生效！旅平險開放為家人線上投保，7歲以上小孩也能辦
+https://www.businessyee.com/article/5906-travel-insurance-loosening-egulations
