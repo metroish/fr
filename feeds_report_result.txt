@@ -1,16 +1,34 @@
-# 2025-04-16 09:18:48 Feeds Report 
+# 2025-04-17 09:18:49 Feeds Report 
 
-Daily Hacker News for 2025-04-15
-https://www.daemonology.net/hn-daily/2025-04-15.html
+Daily Hacker News for 2025-04-16
+https://www.daemonology.net/hn-daily/2025-04-16.html
 
-PHP核心執行環境稽核揭露多項漏洞，衝擊PHP-FPM與加密模組安全性
-https://www.ithome.com.tw/news/168439
+把 nginx 換成 Caddy
+https://blog.gslin.org/archives/2025/04/17/12351/%e6%8a%8a-nginx-%e6%8f%9b%e6%88%90-caddy/
 
-外傳OpenAI有意涉足社交平臺
-https://www.ithome.com.tw/news/168437
+Lyft花了1.75億歐元買下FREENOW叫車服務以進軍歐洲市場
+https://www.ithome.com.tw/news/168463
 
-Notion公布AI郵件App　可整合Gmail
-https://www.ithome.com.tw/news/168436
+OpenAI開源程式碼代理工具Codex CLI
+https://www.ithome.com.tw/news/168462
+
+JRuby 10整合Ruby 3.4與Java 21全面升級執行效能與相容性
+https://www.ithome.com.tw/news/168460
+
+OpenAI發表o3與o4-mini推理模型，可自動縮放及旋轉圖像以協助推理
+https://www.ithome.com.tw/news/168461
+
+針對MITRE維護CVE和CWE合約到期，美國政府延長合約因應
+https://www.ithome.com.tw/news/168459
+
+微軟發表首個超過20億參數的1-bit模型 同樣效能但更省電、不占記憶體
+https://www.ithome.com.tw/news/168458
+
+蘋果修補已被用於實際攻擊iPhone的CoreAudio、RPAC零時差漏洞
+https://www.ithome.com.tw/news/168453
+
+Google影片生成Veo 2推向付費版Gemini　Whisk圖生影片服務上線
+https://www.ithome.com.tw/news/168452
 
 MFT檔案共享系統Cleo受害者首度現身，租車業者Hertz證實受害
 https://www.ithome.com.tw/news/168434
@@ -24,86 +42,74 @@ https://www.ithome.com.tw/news/168432
 冒牌電腦版Line針對臺灣而來，恐導致電腦被植入木馬
 https://www.ithome.com.tw/news/168431
 
-Google要求Android 15手機儲存容量不得小於32GB
-https://www.ithome.com.tw/news/168430
+Meta 選擇 AWS 作為其長期策略雲端服務夥伴
+https://www.inside.com.tw/feature/aws-tw/38094-aws
 
-【資安日報】4月15日，總統親臨臺灣資安大會致詞，從國家戰略、產業政策彰顯資安
-https://www.ithome.com.tw/news/168418
+祖克柏反駁 FTC 壟斷指控，強調 TikTok 對 Meta 平台造成極大威脅
+https://www.inside.com.tw/article/38172-zuckerberg-underscores-tiktok-thread
 
-VMware最低授權數不調高！博通新公告重申16核心數要求，更加碼釋出免費版ESXi
-https://www.ithome.com.tw/news/168416
+台灣人最喜歡看哪些直播電商？蝦皮第一、臉書第二
+https://www.inside.com.tw/article/38174-survey-shows-shopee-and-facebook-top-taiwanese-livestream-shopping-preferences
 
-Nvidia將首度完全於美國製造AI超級電腦
-https://www.ithome.com.tw/news/168412
+【Tenz 科技評論】孩子想當網紅，父母該怎麼看待、怎麼談？
+https://www.inside.com.tw/article/38173-how-parents-should-view-and-discuss-their-childrens-influencer-aspirations
 
-OpenAI釋出GPT-4.1以取代GPT-4o
-https://www.ithome.com.tw/news/168411
+資安大會亮點！CKmates 揭示 AI×雲×安全無懈可擊防護體系
+https://www.inside.com.tw/article/38175-
 
-Nvidia Container Toolkit修補不全，攻擊者有機會逃脫容器系統
-https://www.ithome.com.tw/news/168410
+防盜刷皮包必備！RFID 防盜錄信用卡卡套只要 102 元當買保險都好
+https://www.inside.com.tw/article/38171-rfid-credit-card-protection-sleeves-worth-the-102-dollar-investment
 
-SSL/TLS憑證最長效期2029年將縮減成47天
-https://www.ithome.com.tw/news/168409
+DeepSeek AI 拒談賴清德，改聊數學？美國眾院揭中國審查機制
+https://www.inside.com.tw/article/38170-deepseek-ccp
 
-駭客聲稱握有Fortinet防火牆零時差漏洞，能未經身分驗證執行任意程式碼
-https://www.ithome.com.tw/news/168408
+OpenAI 有意 30 億美元收購 AI 程式碼編輯器 Windsurf！
+https://www.inside.com.tw/article/38169-openai-in-talks-to-acquire-windsurf
 
-非專業用戶不想買 Apple Pencil？選用 1180 元副廠筆也沒問題
-https://www.inside.com.tw/article/38161-third-party-stylus-at-1180-dollars-works-fine-for-casual-ipad-users-not-needing-apple-pencil
+用戶體驗心得一次看！OpenAI 推 o3 和 o4-mini 模型：能讓 AI「透過圖像思考」
+https://www.inside.com.tw/article/38167-openais-new-o3-and-o4-mini-models-are-all-about-thinking-with-images
 
-台灣要有什麼樣的 AI 基本法？學者呼籲：台灣特色繁中模型！
-https://www.inside.com.tw/article/38160-what-type-of-ai-basic-law-taiwan-needs
+鋰電池壽命迎突破：美中團隊實現 100% 電壓恢復，有望延長使用年限
+https://www.inside.com.tw/article/38168-scientists-achieve-voltage-recovery-aging-batteries
 
-【Editors&#039; Picks】SONY WH-1000XM4 耳機：降噪和舒適的完美平衡
-https://www.inside.com.tw/article/38124-sony-wh-1000xm4-review
+與善變川普談買賣，台灣如履薄冰
+https://voicettank.org/20250416-1/
 
-台灣防堵中國洗產地，祭出 4 招抓到最高罰 300 萬
-https://www.inside.com.tw/article/38157-taiwan-crackdown-country-of-origin-laundering-chinese-goods-3m-fine
+美國投資密克羅尼西亞強化第二島鏈之戰略意涵
+https://voicettank.org/20250416-2/
 
-美國 H20 禁令生效！NVIDIA：將認列 55 億美元費用
-https://www.inside.com.tw/article/38155-nvidia-says-it-will-record-5point5-billion-quarterly-charge-tied-to-h20-processors-exported-to-china
+法拉利選擇AWS作為雲端服務供應商 加強汽車及賽事創新發展
+https://www.businessyee.com/article/5868-aws
 
-用玉米做電池？研究發現玉米蛋白可能成為鋰硫電池壽命解方
-https://www.inside.com.tw/article/38159-corn-boosts-lithium-sulfur-batteries
+淨零轉型訂高標！富邦投信推首檔「範疇三」台股市值型ETF
+https://www.businessyee.com/article/5921-net-zero-fuban-etf
 
-【大阪世博現場報導】來自台灣的 TECH WORLD 館｜技與藝完美交響動人心弦！但妾身未明難顯核心價值
-https://www.inside.com.tw/feature/osaka-expo-2025/38156-osaka-expo-2025-tech-world
+關稅海嘯引爆台股抄底潮！永豐金證7天逾2.1萬筆「快速單」
+https://www.businessyee.com/article/5920-sino-Automated-trading
 
-TNL Mediagene 關鍵評論網媒體集團與 PChome 攜手推動內容商務，開創零售媒體新里程
-https://www.inside.com.tw/article/38151-
+凱基金股東會紀念品電動研磨器怎麼領？零股可以領嗎？領取時間？
+https://www.businessyee.com/article/5919-2883-shareholders-souvenirs-2025
 
-【快訊】柯俊斌接任光陽董座！油電之爭、土地開發兩大路線有解了嗎？
-https://www.inside.com.tw/article/38158-kymco-internal-conflict-between-two-ko-leaders-really-about-gas-vs-electric-strategy
+【台積電法說會】魏哲家：關稅風險不損客戶需求，預期今年營收成長20%以上！
+https://www.businessyee.com/article/5918-tsmc-q1-earnigns
 
-Gemini 可以用文生影片 AI「Veo 2」 了！從 Advanced 訂閱戶開始逐步開放
-https://www.inside.com.tw/article/38154-veo-2-for-gemini-advanced
+【聽進理投】當股市大漲大跌，什麼時候才是進場的時機？
+https://www.businessyee.com/article/5916-ep121
 
-【ASML Q1財報】關稅壓力斬訂單金額近半，股價下跌5%
-https://www.businessyee.com/article/5914-asml-q1-earnings
+美眾院疑DeepSeek使用管制晶片，輝達：完全遵照美政府指示
+https://www.businessyee.com/article/5917-nvda-export-controls-DeepSeek
 
-SOOCKER搜客攜手摩曼頓O2Gether 運動生活平台 採用AWS雲端技術，打造運動達人導購聯盟 協助全臺運動教練將影響力轉換為銷售力 創建運動產業新藍海
-https://www.businessyee.com/article/5866-aws
+溫德姆酒店集團選擇AWS作為首選雲端服務供應商 提升賓客體驗
+https://www.businessyee.com/article/5867-aws
 
-花旗財報Q1獲利年增24%，提高準備金應對經濟不確定性
-https://www.businessyee.com/article/5913-citygroup-2025-q1-earningcall
+Set Multiple Headers at Once in Spring WebClient
+https://feeds.feedblitz.com/~/916791077/0/baeldung~Set-Multiple-Headers-at-Once-in-Spring-WebClient
 
-白宮：因中國的報復行為將提高關稅至245%
-https://www.businessyee.com/article/5912-245-percent-tariff
+Introduction to Objenesis
+https://feeds.feedblitz.com/~/916790267/0/baeldung~Introduction-to-Objenesis
 
-避開台積電獨大風險！「小0050」009804掛牌吸金，首日成交近3.5萬張
-https://www.businessyee.com/article/5911-009804-firstday
+Enable or Disable Embedded Tomcat with Profile in Spring Boot
+https://feeds.feedblitz.com/~/916777781/0/baeldung~Enable-or-Disable-Embedded-Tomcat-with-Profile-in-Spring-Boot
 
-TNL Mediagene 關鍵評論網媒體集團與 PChome 攜手推動內容商務，開創零售媒體新里程
-https://www.businessyee.com/article/5908-PChome-TNL-Mediagene
-
-Tomofun在台舉辦狗音辨識AI百萬挑戰賽 趨勢科技與AWS加持幫助AI落地，教開發人員從頭打造世界級AI服務
-https://www.businessyee.com/article/5865-aws
-
-美銀財報優於預期，CEO：美國今年經濟衰退機率偏低
-https://www.businessyee.com/article/5910-bac-2025-q1-earning-call
-
-AI會幫助人類還是毀了人類？OpenAI執行長：兒子的未來會比我更好
-https://www.businessyee.com/article/5907-Sam-Altman-ted
-
-即起生效！旅平險開放為家人線上投保，7歲以上小孩也能辦
-https://www.businessyee.com/article/5906-travel-insurance-loosening-egulations
+Fix DateTimeParseException: “Unable to obtain LocalDateTime from TemporalAccessor”
+https://feeds.feedblitz.com/~/916776893/0/baeldung~Fix-DateTimeParseException-Unable-to-obtain-LocalDateTime-from-TemporalAccessor
