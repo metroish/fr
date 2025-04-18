@@ -1,13 +1,58 @@
-# 2025-04-17 09:18:49 Feeds Report 
+# 2025-04-18 09:17:33 Feeds Report 
 
-Daily Hacker News for 2025-04-16
-https://www.daemonology.net/hn-daily/2025-04-16.html
+Daily Hacker News for 2025-04-17
+https://www.daemonology.net/hn-daily/2025-04-17.html
 
-把 nginx 換成 Caddy
-https://blog.gslin.org/archives/2025/04/17/12351/%e6%8a%8a-nginx-%e6%8f%9b%e6%88%90-caddy/
+假設將廣告定義成非法行為？
+https://blog.gslin.org/archives/2025/04/18/12356/%e5%81%87%e8%a8%ad%e5%b0%87%e5%bb%a3%e5%91%8a%e5%ae%9a%e7%be%a9%e6%88%90%e9%9d%9e%e6%b3%95%e8%a1%8c%e7%82%ba%ef%bc%9f/
 
-Lyft花了1.75億歐元買下FREENOW叫車服務以進軍歐洲市場
-https://www.ithome.com.tw/news/168463
+Arch Linux 打算淘汰掉 Redis，改用 Valkey
+https://blog.gslin.org/archives/2025/04/18/12355/arch-linux-%e6%89%93%e7%ae%97%e6%b7%98%e6%b1%b0%e6%8e%89-redis%ef%bc%8c%e6%94%b9%e7%94%a8-valkey/
+
+對影片中馬賽克的部分解碼
+https://blog.gslin.org/archives/2025/04/17/12353/%e5%b0%8d%e5%bd%b1%e7%89%87%e4%b8%ad%e9%a6%ac%e8%b3%bd%e5%85%8b%e7%9a%84%e9%83%a8%e5%88%86%e8%a7%a3%e7%a2%bc/
+
+專門解析AI模型內部運作原理的Goodfire，展開5,000萬美元的A輪融資
+https://www.ithome.com.tw/news/168488
+
+【資安日報】4月18日，趨勢科技公布勒索軟體駭客CrazyHunter攻擊手法
+https://www.ithome.com.tw/news/168486
+
+Cloud周報第222期：Google AI超級電腦技術架構大升級，日本MUFG兩萬六千名員工改用雲端CRM，英國Lloyds則打造全集團通用GAI平臺
+https://www.ithome.com.tw/news/168483
+
+微軟Semantic Kernel整合MCP與A2A協定，大幅擴展跨模組AI代理互通性
+https://www.ithome.com.tw/news/168485
+
+OpenAI測試速度較慢，但價格只有一半的API選項Flex Processing
+https://www.ithome.com.tw/news/168484
+
+Google預覽新模型Gemini 2.5 Flash，導入思考預算機制提升推理控制彈性
+https://www.ithome.com.tw/news/168482
+
+趨勢科技證實CrazyHunter鎖定臺灣而來，運用來自GitHub的工具犯案
+https://www.ithome.com.tw/news/168479
+
+法院判決Google數位廣告技術違反壟斷法
+https://www.ithome.com.tw/news/168477
+
+LLM上路，資安停看聽
+https://www.ithome.com.tw/voice/168440
+
+企業LLM應用安心上路！先從十大AI資安風險著手
+https://www.ithome.com.tw/article/168471
+
+【當心提示注入、敏感資訊洩漏、錯誤資訊等問題】已在真實世界發生的LLM資安風險
+https://www.ithome.com.tw/news/168424
+
+【LLM發展需考量資安，2025年OWASP新榜單出爐】導讀LLM應用程式的10大風險
+https://www.ithome.com.tw/news/168417
+
+【臺灣資安大會直擊】個資保護委員會籌備處建議用MFA確保使用者身分安全，並以高安全性多因子驗證來提高攻擊難度
+https://www.ithome.com.tw/news/168469
+
+【臺灣資安大會直擊】安碁學苑：企業應從實務出發，打造涵蓋內外部人員角色的資安人才梯隊培訓藍圖
+https://www.ithome.com.tw/news/168470
 
 OpenAI開源程式碼代理工具Codex CLI
 https://www.ithome.com.tw/news/168462
@@ -24,92 +69,47 @@ https://www.ithome.com.tw/news/168459
 微軟發表首個超過20億參數的1-bit模型 同樣效能但更省電、不占記憶體
 https://www.ithome.com.tw/news/168458
 
-蘋果修補已被用於實際攻擊iPhone的CoreAudio、RPAC零時差漏洞
-https://www.ithome.com.tw/news/168453
+成本直接暴降 600%！Google Gemini 2.5 Flash 如何成為「AI 性價比之王」？
+https://www.inside.com.tw/article/38183-google-gemini-2-5-flash
 
-Google影片生成Veo 2推向付費版Gemini　Whisk圖生影片服務上線
-https://www.ithome.com.tw/news/168452
+東京大學成功培養出史上「最大塊」實驗室雞肉
+https://www.inside.com.tw/article/38177-university-of-tokyo-successfully-cultivates-largest-lab-grown-chicken-meat
 
-MFT檔案共享系統Cleo受害者首度現身，租車業者Hertz證實受害
-https://www.ithome.com.tw/news/168434
+不讓 GPU 獨霸！微軟推出「CPU 也能跑」高效能 AI 模型 BitNet
+https://www.inside.com.tw/article/38180-microsoft-researchers-say-theyve-developed-a-hyper-efficient-ai-model-that-can-run-on-cpus
 
-【臺灣資安大會直擊】AI同事雙面刃，網路犯罪即代理危機浮現
-https://www.ithome.com.tw/news/168433
+台積電正式否認與英特爾合資！將擴大在美投資
+https://www.inside.com.tw/article/38179-tsmc-q1-profit-set-jump-trumps-policies-cloud-its-future
 
-川普大砍行政預算，CVE與CWE專案的合約本周到期
-https://www.ithome.com.tw/news/168432
+蝦皮疑中資背景引發國安隱憂？監察委員展開調查
+https://www.inside.com.tw/article/38178-shopee-china-funding
 
-冒牌電腦版Line針對臺灣而來，恐導致電腦被植入木馬
-https://www.ithome.com.tw/news/168431
+【書摘】《鏡頭前的二次創傷：嗜血新聞背後的真相與人性》
+https://voicettank.org/20250417-2/
 
-Meta 選擇 AWS 作為其長期策略雲端服務夥伴
-https://www.inside.com.tw/feature/aws-tw/38094-aws
+華南金股東會紀念品LINE不鏽鋼杯+吊飾組怎麼領？零股可以領嗎？領取時間？
+https://www.businessyee.com/article/5927-2880-shareholders-souvenirs-2025
 
-祖克柏反駁 FTC 壟斷指控，強調 TikTok 對 Meta 平台造成極大威脅
-https://www.inside.com.tw/article/38172-zuckerberg-underscores-tiktok-thread
+iKala Cloud 運用 AWS 服務，助票券管理系統商墨攻網路科技省下 8 倍主機建置費
+https://www.businessyee.com/article/5870-aws
 
-台灣人最喜歡看哪些直播電商？蝦皮第一、臉書第二
-https://www.inside.com.tw/article/38174-survey-shows-shopee-and-facebook-top-taiwanese-livestream-shopping-preferences
+富人消費力道不減！美國運通上季財報穩健，全年展望樂觀
+https://www.businessyee.com/article/5926-axp-2025-q1
 
-【Tenz 科技評論】孩子想當網紅，父母該怎麼看待、怎麼談？
-https://www.inside.com.tw/article/38173-how-parents-should-view-and-discuss-their-childrens-influencer-aspirations
+【Netflix Q1財報】娛樂製作成本變高，CEO：關注消費者感受與整體經濟走向
+https://www.businessyee.com/article/5925-Netflix-q1-earnings
 
-資安大會亮點！CKmates 揭示 AI×雲×安全無懈可擊防護體系
-https://www.inside.com.tw/article/38175-
+川普：聯準會主席鮑爾愈早離職愈好！
+https://www.businessyee.com/article/5924-Trump-Jerome-Powell
 
-防盜刷皮包必備！RFID 防盜錄信用卡卡套只要 102 元當買保險都好
-https://www.inside.com.tw/article/38171-rfid-credit-card-protection-sleeves-worth-the-102-dollar-investment
+AWS re:Invent 2021 年度大會 台灣年輕科技人才頭角崢嶸
+https://www.businessyee.com/article/5869-aws
 
-DeepSeek AI 拒談賴清德，改聊數學？美國眾院揭中國審查機制
-https://www.inside.com.tw/article/38170-deepseek-ccp
+櫃買中心與彭博指數建立合作關係 共同推動指數化商品
+https://www.businessyee.com/article/5922-tpexbloomberg
 
-OpenAI 有意 30 億美元收購 AI 程式碼編輯器 Windsurf！
-https://www.inside.com.tw/article/38169-openai-in-talks-to-acquire-windsurf
+金管會翻修金控、銀行內控架構，減輕重複作業、確保獨立性
+https://www.businessyee.com/article/5923-financial-internal-control-audit-systems
 
-用戶體驗心得一次看！OpenAI 推 o3 和 o4-mini 模型：能讓 AI「透過圖像思考」
-https://www.inside.com.tw/article/38167-openais-new-o3-and-o4-mini-models-are-all-about-thinking-with-images
-
-鋰電池壽命迎突破：美中團隊實現 100% 電壓恢復，有望延長使用年限
-https://www.inside.com.tw/article/38168-scientists-achieve-voltage-recovery-aging-batteries
-
-與善變川普談買賣，台灣如履薄冰
-https://voicettank.org/20250416-1/
-
-美國投資密克羅尼西亞強化第二島鏈之戰略意涵
-https://voicettank.org/20250416-2/
-
-法拉利選擇AWS作為雲端服務供應商 加強汽車及賽事創新發展
-https://www.businessyee.com/article/5868-aws
-
-淨零轉型訂高標！富邦投信推首檔「範疇三」台股市值型ETF
-https://www.businessyee.com/article/5921-net-zero-fuban-etf
-
-關稅海嘯引爆台股抄底潮！永豐金證7天逾2.1萬筆「快速單」
-https://www.businessyee.com/article/5920-sino-Automated-trading
-
-凱基金股東會紀念品電動研磨器怎麼領？零股可以領嗎？領取時間？
-https://www.businessyee.com/article/5919-2883-shareholders-souvenirs-2025
-
-【台積電法說會】魏哲家：關稅風險不損客戶需求，預期今年營收成長20%以上！
-https://www.businessyee.com/article/5918-tsmc-q1-earnigns
-
-【聽進理投】當股市大漲大跌，什麼時候才是進場的時機？
-https://www.businessyee.com/article/5916-ep121
-
-美眾院疑DeepSeek使用管制晶片，輝達：完全遵照美政府指示
-https://www.businessyee.com/article/5917-nvda-export-controls-DeepSeek
-
-溫德姆酒店集團選擇AWS作為首選雲端服務供應商 提升賓客體驗
-https://www.businessyee.com/article/5867-aws
-
-Set Multiple Headers at Once in Spring WebClient
-https://feeds.feedblitz.com/~/916791077/0/baeldung~Set-Multiple-Headers-at-Once-in-Spring-WebClient
-
-Introduction to Objenesis
-https://feeds.feedblitz.com/~/916790267/0/baeldung~Introduction-to-Objenesis
-
-Enable or Disable Embedded Tomcat with Profile in Spring Boot
-https://feeds.feedblitz.com/~/916777781/0/baeldung~Enable-or-Disable-Embedded-Tomcat-with-Profile-in-Spring-Boot
-
-Fix DateTimeParseException: “Unable to obtain LocalDateTime from TemporalAccessor”
-https://feeds.feedblitz.com/~/916776893/0/baeldung~Fix-DateTimeParseException-Unable-to-obtain-LocalDateTime-from-TemporalAccessor
+Java Weekly, Issue 590
+https://feeds.feedblitz.com/~/916847789/0/baeldung~Java-Weekly-Issue
