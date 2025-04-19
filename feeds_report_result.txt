@@ -1,34 +1,10 @@
-# 2025-04-18 09:17:33 Feeds Report 
+# 2025-04-19 09:15:27 Feeds Report 
 
-Daily Hacker News for 2025-04-17
-https://www.daemonology.net/hn-daily/2025-04-17.html
+Daily Hacker News for 2025-04-18
+https://www.daemonology.net/hn-daily/2025-04-18.html
 
-假設將廣告定義成非法行為？
-https://blog.gslin.org/archives/2025/04/18/12356/%e5%81%87%e8%a8%ad%e5%b0%87%e5%bb%a3%e5%91%8a%e5%ae%9a%e7%be%a9%e6%88%90%e9%9d%9e%e6%b3%95%e8%a1%8c%e7%82%ba%ef%bc%9f/
-
-Arch Linux 打算淘汰掉 Redis，改用 Valkey
-https://blog.gslin.org/archives/2025/04/18/12355/arch-linux-%e6%89%93%e7%ae%97%e6%b7%98%e6%b1%b0%e6%8e%89-redis%ef%bc%8c%e6%94%b9%e7%94%a8-valkey/
-
-對影片中馬賽克的部分解碼
-https://blog.gslin.org/archives/2025/04/17/12353/%e5%b0%8d%e5%bd%b1%e7%89%87%e4%b8%ad%e9%a6%ac%e8%b3%bd%e5%85%8b%e7%9a%84%e9%83%a8%e5%88%86%e8%a7%a3%e7%a2%bc/
-
-專門解析AI模型內部運作原理的Goodfire，展開5,000萬美元的A輪融資
-https://www.ithome.com.tw/news/168488
-
-【資安日報】4月18日，趨勢科技公布勒索軟體駭客CrazyHunter攻擊手法
-https://www.ithome.com.tw/news/168486
-
-Cloud周報第222期：Google AI超級電腦技術架構大升級，日本MUFG兩萬六千名員工改用雲端CRM，英國Lloyds則打造全集團通用GAI平臺
-https://www.ithome.com.tw/news/168483
-
-微軟Semantic Kernel整合MCP與A2A協定，大幅擴展跨模組AI代理互通性
-https://www.ithome.com.tw/news/168485
-
-OpenAI測試速度較慢，但價格只有一半的API選項Flex Processing
-https://www.ithome.com.tw/news/168484
-
-Google預覽新模型Gemini 2.5 Flash，導入思考預算機制提升推理控制彈性
-https://www.ithome.com.tw/news/168482
+後量子資安產業聯盟成立屆滿一年，數產署頒布專為臺灣設計的PQC遷移指引
+https://www.ithome.com.tw/news/168481
 
 趨勢科技證實CrazyHunter鎖定臺灣而來，運用來自GitHub的工具犯案
 https://www.ithome.com.tw/news/168479
@@ -36,80 +12,38 @@ https://www.ithome.com.tw/news/168479
 法院判決Google數位廣告技術違反壟斷法
 https://www.ithome.com.tw/news/168477
 
-LLM上路，資安停看聽
-https://www.ithome.com.tw/voice/168440
+賣飲料的有趣戰略：提供免費APP，為企業維護員工身體健康
+https://www.inside.com.tw/article/38188-an-unusual-beverage-strategy-offering-a-free-app-to-help-companies-support-employee-health
 
-企業LLM應用安心上路！先從十大AI資安風險著手
-https://www.ithome.com.tw/article/168471
+逾 20 機關遭 DDoS 攻擊，3 月資安事件通報創半年新高
+https://www.inside.com.tw/article/38187-over-20-agencies-hit-by-ddos-attacks-march-reports-highest-number-of-cybersecurity-incidents-in-six-months
 
-【當心提示注入、敏感資訊洩漏、錯誤資訊等問題】已在真實世界發生的LLM資安風險
-https://www.ithome.com.tw/news/168424
+【Editors&#039; Picks】Beats Pill 攜帶型藍牙喇叭評測，小巧音量大且操作簡單的隨身派對夥伴
+https://www.inside.com.tw/article/38186-beats-pill-portable-bluetooth-speaker-review
 
-【LLM發展需考量資安，2025年OWASP新榜單出爐】導讀LLM應用程式的10大風險
-https://www.ithome.com.tw/news/168417
+【Editors&#039; Picks】小空間的義式風情迪朗奇 De&#039;Longhi Dedica EC680 八年使用體驗
+https://www.inside.com.tw/article/38185-de-longhi-dedica
 
-【臺灣資安大會直擊】個資保護委員會籌備處建議用MFA確保使用者身分安全，並以高安全性多因子驗證來提高攻擊難度
-https://www.ithome.com.tw/news/168469
+【Editors&#039; Picks】一個人出差時，我只背這個：Pacsafe CITYSAFE CX 防盜後背包使用心得
+https://www.inside.com.tw/article/38184-pacsafe-citysafe-cx-review
 
-【臺灣資安大會直擊】安碁學苑：企業應從實務出發，打造涵蓋內外部人員角色的資安人才梯隊培訓藍圖
-https://www.ithome.com.tw/news/168470
+除了生成有趣圖片， AI 還可以讓愛車更智能！未來汽車的樣貌， Mercedes-Benz 攜手科技巨擘搶先示範
+https://www.inside.com.tw/article/38075-Mercedes-Benz-AI
 
-OpenAI開源程式碼代理工具Codex CLI
-https://www.ithome.com.tw/news/168462
+Google 再陷分拆危機！線上廣告業務被法官裁定壟斷
+https://www.inside.com.tw/article/38181-google-ad-monopoly
 
-JRuby 10整合Ruby 3.4與Java 21全面升級執行效能與相容性
-https://www.ithome.com.tw/news/168460
+又被抓包！美國發現華為 AI 晶片偷用台積電 7 奈米
+https://www.inside.com.tw/article/38182-caught-again-us-discovers-huawei-ai-chips-using-tsmc-7nm-technology
 
-OpenAI發表o3與o4-mini推理模型，可自動縮放及旋轉圖像以協助推理
-https://www.ithome.com.tw/news/168461
+【書摘】《霍布斯邦論民族主義：被發明的傳統與全球化下的險境》
+https://voicettank.org/20250418-2/
 
-針對MITRE維護CVE和CWE合約到期，美國政府延長合約因應
-https://www.ithome.com.tw/news/168459
+【好險有聽】什麼是強制汽車責任險？什麼會賠？什麼不會賠？
+https://www.businessyee.com/article/5930-ep27
 
-微軟發表首個超過20億參數的1-bit模型 同樣效能但更省電、不占記憶體
-https://www.ithome.com.tw/news/168458
+僅待一天會面中國高官後，黃仁勳結束中國行
+https://www.businessyee.com/article/5929-nvidia-china
 
-成本直接暴降 600%！Google Gemini 2.5 Flash 如何成為「AI 性價比之王」？
-https://www.inside.com.tw/article/38183-google-gemini-2-5-flash
-
-東京大學成功培養出史上「最大塊」實驗室雞肉
-https://www.inside.com.tw/article/38177-university-of-tokyo-successfully-cultivates-largest-lab-grown-chicken-meat
-
-不讓 GPU 獨霸！微軟推出「CPU 也能跑」高效能 AI 模型 BitNet
-https://www.inside.com.tw/article/38180-microsoft-researchers-say-theyve-developed-a-hyper-efficient-ai-model-that-can-run-on-cpus
-
-台積電正式否認與英特爾合資！將擴大在美投資
-https://www.inside.com.tw/article/38179-tsmc-q1-profit-set-jump-trumps-policies-cloud-its-future
-
-蝦皮疑中資背景引發國安隱憂？監察委員展開調查
-https://www.inside.com.tw/article/38178-shopee-china-funding
-
-【書摘】《鏡頭前的二次創傷：嗜血新聞背後的真相與人性》
-https://voicettank.org/20250417-2/
-
-華南金股東會紀念品LINE不鏽鋼杯+吊飾組怎麼領？零股可以領嗎？領取時間？
-https://www.businessyee.com/article/5927-2880-shareholders-souvenirs-2025
-
-iKala Cloud 運用 AWS 服務，助票券管理系統商墨攻網路科技省下 8 倍主機建置費
-https://www.businessyee.com/article/5870-aws
-
-富人消費力道不減！美國運通上季財報穩健，全年展望樂觀
-https://www.businessyee.com/article/5926-axp-2025-q1
-
-【Netflix Q1財報】娛樂製作成本變高，CEO：關注消費者感受與整體經濟走向
-https://www.businessyee.com/article/5925-Netflix-q1-earnings
-
-川普：聯準會主席鮑爾愈早離職愈好！
-https://www.businessyee.com/article/5924-Trump-Jerome-Powell
-
-AWS re:Invent 2021 年度大會 台灣年輕科技人才頭角崢嶸
-https://www.businessyee.com/article/5869-aws
-
-櫃買中心與彭博指數建立合作關係 共同推動指數化商品
-https://www.businessyee.com/article/5922-tpexbloomberg
-
-金管會翻修金控、銀行內控架構，減輕重複作業、確保獨立性
-https://www.businessyee.com/article/5923-financial-internal-control-audit-systems
-
-Java Weekly, Issue 590
-https://feeds.feedblitz.com/~/916847789/0/baeldung~Java-Weekly-Issue
+笨蛋，問題在經濟！央行：匯率非調整貿易失衡萬靈丹
+https://www.businessyee.com/article/5928-us-fx-watcglist-2025
