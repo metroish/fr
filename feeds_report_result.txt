@@ -1,49 +1,13 @@
-# 2025-04-19 09:15:27 Feeds Report 
+# 2025-04-20 09:15:11 Feeds Report 
 
-Daily Hacker News for 2025-04-18
-https://www.daemonology.net/hn-daily/2025-04-18.html
+Daily Hacker News for 2025-04-19
+https://www.daemonology.net/hn-daily/2025-04-19.html
 
-後量子資安產業聯盟成立屆滿一年，數產署頒布專為臺灣設計的PQC遷移指引
-https://www.ithome.com.tw/news/168481
+Weekly Ask Hacker News for 2025-04-13 -- 2025-04-19
+http://www.daemonology.net/hn-weekly-ask/2025-04-19.html
 
-趨勢科技證實CrazyHunter鎖定臺灣而來，運用來自GitHub的工具犯案
-https://www.ithome.com.tw/news/168479
+川普關稅下福特調整對中出口，福斯擬在美製奧迪
+https://www.inside.com.tw/article/38190-under-trump-tariffs-ford-adjusts-exports-to-china-while-volkswagen-plans-to-build-audi-in-the-us
 
-法院判決Google數位廣告技術違反壟斷法
-https://www.ithome.com.tw/news/168477
-
-賣飲料的有趣戰略：提供免費APP，為企業維護員工身體健康
-https://www.inside.com.tw/article/38188-an-unusual-beverage-strategy-offering-a-free-app-to-help-companies-support-employee-health
-
-逾 20 機關遭 DDoS 攻擊，3 月資安事件通報創半年新高
-https://www.inside.com.tw/article/38187-over-20-agencies-hit-by-ddos-attacks-march-reports-highest-number-of-cybersecurity-incidents-in-six-months
-
-【Editors&#039; Picks】Beats Pill 攜帶型藍牙喇叭評測，小巧音量大且操作簡單的隨身派對夥伴
-https://www.inside.com.tw/article/38186-beats-pill-portable-bluetooth-speaker-review
-
-【Editors&#039; Picks】小空間的義式風情迪朗奇 De&#039;Longhi Dedica EC680 八年使用體驗
-https://www.inside.com.tw/article/38185-de-longhi-dedica
-
-【Editors&#039; Picks】一個人出差時，我只背這個：Pacsafe CITYSAFE CX 防盜後背包使用心得
-https://www.inside.com.tw/article/38184-pacsafe-citysafe-cx-review
-
-除了生成有趣圖片， AI 還可以讓愛車更智能！未來汽車的樣貌， Mercedes-Benz 攜手科技巨擘搶先示範
-https://www.inside.com.tw/article/38075-Mercedes-Benz-AI
-
-Google 再陷分拆危機！線上廣告業務被法官裁定壟斷
-https://www.inside.com.tw/article/38181-google-ad-monopoly
-
-又被抓包！美國發現華為 AI 晶片偷用台積電 7 奈米
-https://www.inside.com.tw/article/38182-caught-again-us-discovers-huawei-ai-chips-using-tsmc-7nm-technology
-
-【書摘】《霍布斯邦論民族主義：被發明的傳統與全球化下的險境》
-https://voicettank.org/20250418-2/
-
-【好險有聽】什麼是強制汽車責任險？什麼會賠？什麼不會賠？
-https://www.businessyee.com/article/5930-ep27
-
-僅待一天會面中國高官後，黃仁勳結束中國行
-https://www.businessyee.com/article/5929-nvidia-china
-
-笨蛋，問題在經濟！央行：匯率非調整貿易失衡萬靈丹
-https://www.businessyee.com/article/5928-us-fx-watcglist-2025
+【Editors&#039; Picks】數位遊牧必備！SanDisk E61 Extreme Portable SSD 2.5 吋行動固態硬碟
+https://www.inside.com.tw/article/38189-a-must-have-for-digital-nomads-sandisk-e61-extreme-portable-ssd-2-5-inch-external-drive
