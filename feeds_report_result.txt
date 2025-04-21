@@ -1,13 +1,94 @@
-# 2025-04-20 09:15:11 Feeds Report 
+# 2025-04-21 09:18:11 Feeds Report 
 
-Daily Hacker News for 2025-04-19
-https://www.daemonology.net/hn-daily/2025-04-19.html
+Daily Hacker News for 2025-04-20
+https://www.daemonology.net/hn-daily/2025-04-20.html
 
-Weekly Ask Hacker News for 2025-04-13 -- 2025-04-19
-http://www.daemonology.net/hn-weekly-ask/2025-04-19.html
+arXiv 要搬到 GCP 上
+https://blog.gslin.org/archives/2025/04/21/12359/arxiv-%e8%a6%81%e6%90%ac%e5%88%b0-gcp-%e4%b8%8a/
 
-川普關稅下福特調整對中出口，福斯擬在美製奧迪
-https://www.inside.com.tw/article/38190-under-trump-tariffs-ford-adjusts-exports-to-china-while-volkswagen-plans-to-build-audi-in-the-us
+中國駭客Mustang Panda鎖定緬甸而來，利用StarProxy存取未與網際網路連線的環境
+https://www.ithome.com.tw/news/168528
 
-【Editors&#039; Picks】數位遊牧必備！SanDisk E61 Extreme Portable SSD 2.5 吋行動固態硬碟
-https://www.inside.com.tw/article/38189-a-must-have-for-digital-nomads-sandisk-e61-extreme-portable-ssd-2-5-inch-external-drive
+惡意NPM套件藏反向Shell，鎖定電商交易流程滲透伺服器
+https://www.ithome.com.tw/news/168510
+
+Martech雙周報第74期：Salesforce等多家Martech大廠旗下AI代理，開始支援Google的A2A代理協定
+https://www.ithome.com.tw/news/168494
+
+Gemma 3支援QAT技術，消費級GPU就可執行270億參數大模型
+https://www.ithome.com.tw/news/168507
+
+網路上有超過1.6萬臺Fortinet裝置含有符號連結後門
+https://www.ithome.com.tw/news/168506
+
+群暉科技消費型NAS將限制使用第三方硬碟
+https://www.ithome.com.tw/news/168500
+
+微軟3月修補的NTLM漏洞危機升溫，至少出現10起實際濫用的攻擊行動
+https://www.ithome.com.tw/news/168503
+
+Windows工作排程工具遭揭多項弱點，恐被濫用於提升SYSTEM權限
+https://www.ithome.com.tw/news/168502
+
+【資安週報】0414~0418，臺灣資安大會CYBERSEC 2025登場，AI資安風險持續受矚目
+https://www.ithome.com.tw/news/168501
+
+Qt AI開發助理更新支援LLM本地部署，強化QML與C++開發體驗
+https://www.ithome.com.tw/news/168490
+
+大膽走出不一樣的創新路，永豐金證三階段深耕數金
+https://www.ithome.com.tw/people/168499
+
+工研院出面道歉！承包衛福部次世代數位醫療平臺計畫，引發2大開源授權爭議
+https://www.ithome.com.tw/news/168497
+
+亞馬遜全球宣布新增 37 個再生能源計畫
+https://www.inside.com.tw/feature/aws-tw/38198-aws
+
+維基百科推出 AI 專用版本！與 Google 合作解決流量暴增 50% 難題
+https://www.inside.com.tw/article/38196-wiki-google-ai-dedicated-version-traffic-solution
+
+跟 AI 說「請、謝謝」竟耗千萬美元？Sam Altman 揭運算成本：值得！
+https://www.inside.com.tw/article/38195-how-much-dose-manners-cost
+
+YouTube 作為 AI 訓練資料的金礦，在 AI 時代下有哪些機會和危機？
+https://www.inside.com.tw/article/38194-youtube-ai-opportunities-and-risks
+
+科技倫理界線何在？YC 創辦人與 Palantir 針對「移民監控系統」展開激辯
+https://www.inside.com.tw/article/38193-tech-ethics-yc-founder-palantir-clash-immigration-systemRetryClaude%20can%20make%20mistakes.%20Please%20double-check%20responses.
+
+Intel 組織大改造！陳立武新設 AI 長，試圖解決官僚主義
+https://www.inside.com.tw/article/38191-intel-ceo-lip-bu-tan-streamlines-leadership-team
+
+AWS 推出兩項新措施，降低機器學習使用門檻
+https://www.inside.com.tw/feature/aws-tw/38197-aws
+
+川普關稅引發擔憂！金價創新高逼近3400美元大關
+https://www.businessyee.com/article/5939-gold-usd-2025
+
+華為Ascend 920強勢登場、取代輝達H20成中國AI晶片新主力
+https://www.businessyee.com/article/5937-huawei-introduces-ai-ascend-920
+
+好好吃飯！日本最新電子鍋如何煮出不講武德的好吃白飯？
+https://www.businessyee.com/article/5938-electronic-rice-cooker
+
+主動式ETF再一檔！統一台股增長（00981A）5/7開募，靈活應對市場亂流
+https://www.businessyee.com/article/5935-00981A-ipo
+
+Fed會因政治壓力降息？學者：川普能改變公眾想法促成降息
+https://www.businessyee.com/article/5934-Powell-trump
+
+傳NVIDIA停供中國5090D顯卡？台廠供應鏈仍坐受惠者寶座
+https://www.businessyee.com/article/5933-nvidia-ai-chip-china-rts5090d
+
+中信金股東會紀念品護眼愛地球可調光檯燈怎麼領？零股可領嗎？領取時間？
+https://www.businessyee.com/article/5932-2891-shareholders-souvenirs-2025
+
+【台積電2024年報】AI需求爆發！魏哲家：7奈米以下製程將拚8成營收
+https://www.businessyee.com/article/5931-tsmc-2024-cc-wei
+
+Generate a Valid Expression From a String of Numbers to Get Target Number
+https://feeds.feedblitz.com/~/917020235/0/baeldung~Generate-a-Valid-Expression-From-a-String-of-Numbers-to-Get-Target-Number
+
+Introduction to Apache Kylin
+https://feeds.feedblitz.com/~/917019665/0/baeldung~Introduction-to-Apache-Kylin
