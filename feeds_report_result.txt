@@ -1,25 +1,40 @@
-# 2025-04-21 09:18:11 Feeds Report 
+# 2025-04-22 09:18:35 Feeds Report 
 
-Daily Hacker News for 2025-04-20
-https://www.daemonology.net/hn-daily/2025-04-20.html
+Daily Hacker News for 2025-04-21
+https://www.daemonology.net/hn-daily/2025-04-21.html
 
-arXiv 要搬到 GCP 上
-https://blog.gslin.org/archives/2025/04/21/12359/arxiv-%e8%a6%81%e6%90%ac%e5%88%b0-gcp-%e4%b8%8a/
+Microsoft 365 將預設關閉 ActiveX？！
+https://blog.gslin.org/archives/2025/04/21/12362/microsoft-365-%e5%b0%87%e9%a0%90%e8%a8%ad%e9%97%9c%e9%96%89-activex%ef%bc%9f%ef%bc%81/
 
-中國駭客Mustang Panda鎖定緬甸而來，利用StarProxy存取未與網際網路連線的環境
-https://www.ithome.com.tw/news/168528
+帶太陽能板的 Meshtastic Repeater
+https://blog.gslin.org/archives/2025/04/21/12361/%e5%b8%b6%e5%a4%aa%e9%99%bd%e8%83%bd%e6%9d%bf%e7%9a%84-meshtastic-repeater/
 
-惡意NPM套件藏反向Shell，鎖定電商交易流程滲透伺服器
-https://www.ithome.com.tw/news/168510
+謊稱美國政府效率部，勒索軟體Fog打著政府機構的名號犯案
+https://www.ithome.com.tw/news/168543
 
-Martech雙周報第74期：Salesforce等多家Martech大廠旗下AI代理，開始支援Google的A2A代理協定
-https://www.ithome.com.tw/news/168494
+Erlang/OTP SSH函式庫爆出滿分等級漏洞，攻擊者可未經驗證執行程式碼
+https://www.ithome.com.tw/news/168538
 
-Gemma 3支援QAT技術，消費級GPU就可執行270億參數大模型
-https://www.ithome.com.tw/news/168507
+Meta將利用AI來辨識那些偽裝成人的青少年帳戶
+https://www.ithome.com.tw/news/168539
 
-網路上有超過1.6萬臺Fortinet裝置含有符號連結後門
-https://www.ithome.com.tw/news/168506
+深度學習框架PyTorch存在重大漏洞，恐被用於RCE攻擊
+https://www.ithome.com.tw/news/168537
+
+法院開庭討論Google如何補救搜尋壟斷，結果將於夏季出爐
+https://www.ithome.com.tw/news/168536
+
+Microsoft 365將預設關閉ActiveX
+https://www.ithome.com.tw/news/168534
+
+微軟系統出包　誤將部分Entra帳號鎖定
+https://www.ithome.com.tw/news/168533
+
+GitLab 17.11擴充AI功能並強化法遵框架與控制項支援
+https://www.ithome.com.tw/news/168518
+
+瞄準全球企業市場，中信銀上架首支供應鏈金融解決方案至全球SAP Store
+https://www.ithome.com.tw/news/168504
 
 群暉科技消費型NAS將限制使用第三方硬碟
 https://www.ithome.com.tw/news/168500
@@ -33,62 +48,68 @@ https://www.ithome.com.tw/news/168502
 【資安週報】0414~0418，臺灣資安大會CYBERSEC 2025登場，AI資安風險持續受矚目
 https://www.ithome.com.tw/news/168501
 
-Qt AI開發助理更新支援LLM本地部署，強化QML與C++開發體驗
-https://www.ithome.com.tw/news/168490
+中國舉行首場「人形機器人+人類選手」半馬，冠軍機器人約 2.5 小時完賽
+https://www.inside.com.tw/article/38192-humanoid-half-marathon
 
-大膽走出不一樣的創新路，永豐金證三階段深耕數金
-https://www.ithome.com.tw/people/168499
+英特爾執行長陳立武上任後首度訪台！5 月見供應鏈夥伴
+https://www.inside.com.tw/article/38217-intel-lip-bu-tan-taiwan-may
 
-工研院出面道歉！承包衛福部次世代數位醫療平臺計畫，引發2大開源授權爭議
-https://www.ithome.com.tw/news/168497
+嚴防「洗產地」！美對東南亞祭太陽能關稅、最高 3521%
+https://www.inside.com.tw/article/38209-us-imposes-solar-tariffs-on-southeast-asia-to-curb-origin-fraud-with-rates-up-to-3521-percent
 
-亞馬遜全球宣布新增 37 個再生能源計畫
-https://www.inside.com.tw/feature/aws-tw/38198-aws
+【Editors&#039; Picks】H&amp;D 東稻家居 MODERN DECO 麥西蒙日式多功能收納沙發床：小宅族的救贖還是妥協？
+https://www.inside.com.tw/article/38112-editors-picks-sofa-maximum
 
-維基百科推出 AI 專用版本！與 Google 合作解決流量暴增 50% 難題
-https://www.inside.com.tw/article/38196-wiki-google-ai-dedicated-version-traffic-solution
+華為最快下月大量出貨 910C 晶片，可與 NVIDIA H100 晶片匹敵？
+https://www.inside.com.tw/article/38207-huawei-readies-new-ai-chip-mass-shipment-china-seeks-nvidia-alternatives
 
-跟 AI 說「請、謝謝」竟耗千萬美元？Sam Altman 揭運算成本：值得！
-https://www.inside.com.tw/article/38195-how-much-dose-manners-cost
+奧斯卡正式針對 AI 表態！作品使用 AI 與否不影響提名
+https://www.inside.com.tw/article/38208-oscar-ai-stance
 
-YouTube 作為 AI 訓練資料的金礦，在 AI 時代下有哪些機會和危機？
-https://www.inside.com.tw/article/38194-youtube-ai-opportunities-and-risks
+在 macOS 玩 Windows 遊戲的開源工具「Whisky」宣布停止更新！
+https://www.inside.com.tw/article/38204-whisky-stops-updates
 
-科技倫理界線何在？YC 創辦人與 Palantir 針對「移民監控系統」展開激辯
-https://www.inside.com.tw/article/38193-tech-ethics-yc-founder-palantir-clash-immigration-systemRetryClaude%20can%20make%20mistakes.%20Please%20double-check%20responses.
+EVOASIS 攜手台北市，全新部署 300 支 AC 公用智慧充電樁
+https://www.inside.com.tw/article/38206-evoasis-partners-with-taipei-city-to-deploy-300-new-ac-public-smart-charging-stations
 
-Intel 組織大改造！陳立武新設 AI 長，試圖解決官僚主義
-https://www.inside.com.tw/article/38191-intel-ceo-lip-bu-tan-streamlines-leadership-team
+一時缺錢「賣臉」給 AI 公司 演員發現自己變成假醫生推銷偽療法
+https://www.inside.com.tw/article/38205-actors-sell-faces-ai-firms-cash-crunch-find-hawking-fake-medical-cures
 
-AWS 推出兩項新措施，降低機器學習使用門檻
-https://www.inside.com.tw/feature/aws-tw/38197-aws
+這場審判可能終結 Google 霸權：美政府要求剝離 Chrome，解除搜尋預設協議
+https://www.inside.com.tw/article/38203-google-antitrust-trial-chrome-divestiture
 
-川普關稅引發擔憂！金價創新高逼近3400美元大關
-https://www.businessyee.com/article/5939-gold-usd-2025
+台灣沒有愧對巴勒斯坦，是你愧對高等教育
+https://voicettank.org/20250421-1/
 
-華為Ascend 920強勢登場、取代輝達H20成中國AI晶片新主力
-https://www.businessyee.com/article/5937-huawei-introduces-ai-ascend-920
+【書摘】《霍布斯邦論民族主義：被發明的傳統與全球化下的險境》
+https://voicettank.org/20250418-2/
 
-好好吃飯！日本最新電子鍋如何煮出不講武德的好吃白飯？
-https://www.businessyee.com/article/5938-electronic-rice-cooker
+川普對等關稅雖暫緩  台半導體業在變局中仍有挑戰
+https://voicettank.org/20250421-2/
 
-主動式ETF再一檔！統一台股增長（00981A）5/7開募，靈活應對市場亂流
-https://www.businessyee.com/article/5935-00981A-ipo
+刷永豐卡繳綜所稅最高回饋10%，尊榮會員上限20萬元再享6期0利率
+https://www.businessyee.com/article/5952-SinoPac-creditcard-tax
 
-Fed會因政治壓力降息？學者：川普能改變公眾想法促成降息
-https://www.businessyee.com/article/5934-Powell-trump
+擴大金融保護傘！金管會指定12家融資租賃為金融業，最快8月適用金保法
+https://www.businessyee.com/article/5951-loan-sharks-regulation-20250422
 
-傳NVIDIA停供中國5090D顯卡？台廠供應鏈仍坐受惠者寶座
-https://www.businessyee.com/article/5933-nvidia-ai-chip-china-rts5090d
+國泰選擇AWS作為長期策略雲端服務夥伴
+https://www.businessyee.com/article/5944-aws
 
-中信金股東會紀念品護眼愛地球可調光檯燈怎麼領？零股可領嗎？領取時間？
-https://www.businessyee.com/article/5932-2891-shareholders-souvenirs-2025
+轉眼盛夏！2025隨身風扇「熱」賣中，我適合哪款？
+https://www.businessyee.com/article/5946-summer-mini-fan
 
-【台積電2024年報】AI需求爆發！魏哲家：7奈米以下製程將拚8成營收
-https://www.businessyee.com/article/5931-tsmc-2024-cc-wei
+川普轟鮑爾「大魯蛇」，美股匯債罕見全倒，分析師：資金加速逃離美國資產
+https://www.businessyee.com/article/5942-Trump-call-Powell-major-loser
 
-Generate a Valid Expression From a String of Numbers to Get Target Number
-https://feeds.feedblitz.com/~/917020235/0/baeldung~Generate-a-Valid-Expression-From-a-String-of-Numbers-to-Get-Target-Number
+AWS 如何用 AI 助台灣產業巨頭們突破瓶頸？
+https://www.businessyee.com/article/5943-aws
 
-Introduction to Apache Kylin
-https://feeds.feedblitz.com/~/917019665/0/baeldung~Introduction-to-Apache-Kylin
+Intel陳立武首度訪台！COMPUTEX前夕 固樁供應鏈
+https://www.businessyee.com/article/5941-intel-lip-bu-tan-taiwan-computex
+
+關稅危機拚轉機！台日韓評估投資美天然氣，我每年擬採購600萬噸LNG
+https://www.businessyee.com/article/5940-TW-JP-asia-alaska-lng-project
+
+人死了就不需要當事人同意？日本演歌天后八代亞紀生前裸照竟成唱片公司主打賣點
+https://changyuchieh.com/2025/04/21/yashiro-aki/?utm_source=rss&utm_medium=rss&utm_campaign=yashiro-aki
