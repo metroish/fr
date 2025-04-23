@@ -1,16 +1,31 @@
-# 2025-04-22 09:18:35 Feeds Report 
+# 2025-04-23 09:18:33 Feeds Report 
 
-Daily Hacker News for 2025-04-21
-https://www.daemonology.net/hn-daily/2025-04-21.html
+Daily Hacker News for 2025-04-22
+https://www.daemonology.net/hn-daily/2025-04-22.html
 
-Microsoft 365 將預設關閉 ActiveX？！
-https://blog.gslin.org/archives/2025/04/21/12362/microsoft-365-%e5%b0%87%e9%a0%90%e8%a8%ad%e9%97%9c%e9%96%89-activex%ef%bc%9f%ef%bc%81/
+【臺灣資安大會直擊】酷澎如何用LLM檢測AI安全性與可信度
+https://www.ithome.com.tw/news/168561
 
-帶太陽能板的 Meshtastic Repeater
-https://blog.gslin.org/archives/2025/04/21/12361/%e5%b8%b6%e5%a4%aa%e9%99%bd%e8%83%bd%e6%9d%bf%e7%9a%84-meshtastic-repeater/
+殭屍網路RustoBot鎖定Totolink、居易路由器而來，在臺灣、日本、越南、墨西哥發動攻擊
+https://www.ithome.com.tw/news/168560
 
-謊稱美國政府效率部，勒索軟體Fog打著政府機構的名號犯案
-https://www.ithome.com.tw/news/168543
+OpenAI出席Google反壟斷案聽證會，透露有興趣買下自Google拆分的Chrome
+https://www.ithome.com.tw/news/168558
+
+美漏洞資料庫計畫危機 歐盟替代方案受關注
+https://www.ithome.com.tw/news/168557
+
+導致藍色當機畫面的RDP漏洞遭利用，Kimsuky用於攻擊韓國軟體、能源、金融產業
+https://www.ithome.com.tw/news/168556
+
+Google宣布將保留Chrome中的第三方Cookie
+https://www.ithome.com.tw/news/168554
+
+傳華為Ascend 910C晶片出貨在即 效能比美Nvidia H100
+https://www.ithome.com.tw/news/168553
+
+惡意NPM套件偽裝Telegram函式庫，植入SSH後門攻擊Linux開發者
+https://www.ithome.com.tw/news/168546
 
 Erlang/OTP SSH函式庫爆出滿分等級漏洞，攻擊者可未經驗證執行程式碼
 https://www.ithome.com.tw/news/168538
@@ -27,89 +42,68 @@ https://www.ithome.com.tw/news/168536
 Microsoft 365將預設關閉ActiveX
 https://www.ithome.com.tw/news/168534
 
-微軟系統出包　誤將部分Entra帳號鎖定
-https://www.ithome.com.tw/news/168533
+亞馬遜資料中心佈局爲何選定台灣？ AWS 區域落地 將如何助力本地企業？
+https://www.inside.com.tw/feature/aws-tw/38212-aws
 
-GitLab 17.11擴充AI功能並強化法遵框架與控制項支援
-https://www.ithome.com.tw/news/168518
+新北青創小聚 4/30 登場！創業比賽得名只是開始，吸引創投才是關鍵
+https://www.inside.com.tw/article/38223-winning-startup-competitions-just-the-beginning-attracting-venture-capital-is-key
 
-瞄準全球企業市場，中信銀上架首支供應鏈金融解決方案至全球SAP Store
-https://www.ithome.com.tw/news/168504
+Google 被爆：每月付了高額費用給三星，確保預先安裝 Gemini！
+https://www.inside.com.tw/article/38226-google-pays-samsung-for-gemini-default
 
-群暉科技消費型NAS將限制使用第三方硬碟
-https://www.ithome.com.tw/news/168500
+大轉彎！Google 決定不淘汰第三方 cookie 了
+https://www.inside.com.tw/article/38227-google-privacy-sandbox-plans-scrapped-third-party-cookies
 
-微軟3月修補的NTLM漏洞危機升溫，至少出現10起實際濫用的攻擊行動
-https://www.ithome.com.tw/news/168503
+OpenAI 有興趣收購 Chrome！負責人：與 ChatGPT 整合將帶來絕佳體驗
+https://www.inside.com.tw/article/38225-openai-interested-in-buying-chrome
 
-Windows工作排程工具遭揭多項弱點，恐被濫用於提升SYSTEM權限
-https://www.ithome.com.tw/news/168502
+NVIDIA 的原罪：當「AI 鏟子」武器化後，就不能單純當商業決策看
+https://www.inside.com.tw/article/38222-nvidia-original-sin-when-ai-tools-become-weaponized-beyond-business-decisions
 
-【資安週報】0414~0418，臺灣資安大會CYBERSEC 2025登場，AI資安風險持續受矚目
-https://www.ithome.com.tw/news/168501
+真的不會跳票？看看馬斯克在特斯拉 Q1 財報「又」說了哪些自動駕駛承諾
+https://www.inside.com.tw/article/38221-examining-musks-latest-autonomous-driving-promises-in-tesla-q1-earnings-call
 
-中國舉行首場「人形機器人+人類選手」半馬，冠軍機器人約 2.5 小時完賽
-https://www.inside.com.tw/article/38192-humanoid-half-marathon
+AWS 宣布在台部署全新 AWS 本地區域，擴充本地基礎設施
+https://www.inside.com.tw/feature/aws-tw/38211-aws
 
-英特爾執行長陳立武上任後首度訪台！5 月見供應鏈夥伴
-https://www.inside.com.tw/article/38217-intel-lip-bu-tan-taiwan-may
+新研究發現：中風患者動脈有巨量微塑膠，可能增加心血管疾病風險
+https://www.inside.com.tw/article/38220-microplastics-artery-plaque-mysterious-link-stroke-heart-attack
 
-嚴防「洗產地」！美對東南亞祭太陽能關稅、最高 3521%
-https://www.inside.com.tw/article/38209-us-imposes-solar-tariffs-on-southeast-asia-to-curb-origin-fraud-with-rates-up-to-3521-percent
+特斯拉 Q1 利潤暴跌 71%，讓馬斯克只能「低頭」淡出 DOGE
+https://www.inside.com.tw/article/38219-elon-sounds-extremely-depressed-after-tesla-profits-plunge
 
-【Editors&#039; Picks】H&amp;D 東稻家居 MODERN DECO 麥西蒙日式多功能收納沙發床：小宅族的救贖還是妥協？
-https://www.inside.com.tw/article/38112-editors-picks-sofa-maximum
+英國航母打擊群再次部署印太之研析
+https://voicettank.org/20250422-2/
 
-華為最快下月大量出貨 910C 晶片，可與 NVIDIA H100 晶片匹敵？
-https://www.inside.com.tw/article/38207-huawei-readies-new-ai-chip-mass-shipment-china-seeks-nvidia-alternatives
+台壽推美元分紅終身壽險「美紅旺」，分紅滾入保額助資產傳承
+https://www.businessyee.com/article/5961-taiwanlife-participating-policy-insurance
 
-奧斯卡正式針對 AI 表態！作品使用 AI 與否不影響提名
-https://www.inside.com.tw/article/38208-oscar-ai-stance
+OpenAI：如果Chrome要賣，我們會買
+https://www.businessyee.com/article/5960-Chrome-OpenAI
 
-在 macOS 玩 Windows 遊戲的開源工具「Whisky」宣布停止更新！
-https://www.inside.com.tw/article/38204-whisky-stops-updates
+Rivian選擇AWS為首選雲端供應商，推動高效率高效能電動車發展
+https://www.businessyee.com/article/5948-aws
 
-EVOASIS 攜手台北市，全新部署 300 支 AC 公用智慧充電樁
-https://www.inside.com.tw/article/38206-evoasis-partners-with-taipei-city-to-deploy-300-new-ac-public-smart-charging-stations
+群益台灣強棒主動式ETF（00982A）5/5開募，經理人陳沅益分享選股哲學
+https://www.businessyee.com/article/5936-00982A-ipo
 
-一時缺錢「賣臉」給 AI 公司 演員發現自己變成假醫生推銷偽療法
-https://www.inside.com.tw/article/38205-actors-sell-faces-ai-firms-cash-crunch-find-hawking-fake-medical-cures
+Intel啟動大裁員？彭博：本週將砍逾2成人力、以聚焦AI發展
+https://www.businessyee.com/article/5959-intel-restructuring-20per
 
-這場審判可能終結 Google 霸權：美政府要求剝離 Chrome，解除搜尋預設協議
-https://www.inside.com.tw/article/38203-google-antitrust-trial-chrome-divestiture
+川普：我無意開除鮑爾，現在是降息最佳時機
+https://www.businessyee.com/article/5958-trump-Powell
 
-台灣沒有愧對巴勒斯坦，是你愧對高等教育
-https://voicettank.org/20250421-1/
+輝瑞借助AWS雲端服務和生成式AI加速創新
+https://www.businessyee.com/article/5947-aws
 
-【書摘】《霍布斯邦論民族主義：被發明的傳統與全球化下的險境》
-https://voicettank.org/20250418-2/
+【特斯拉Q1財報】獲利差，馬斯克：會減少去白宮的時間
+https://www.businessyee.com/article/5957-tesla-earnings-q1
 
-川普對等關稅雖暫緩  台半導體業在變局中仍有挑戰
-https://voicettank.org/20250421-2/
+美中關稅戰降溫？美財長發話後美股大漲千點
+https://www.businessyee.com/article/5956-scott-bessent-us-stock
 
-刷永豐卡繳綜所稅最高回饋10%，尊榮會員上限20萬元再享6期0利率
-https://www.businessyee.com/article/5952-SinoPac-creditcard-tax
+數位金融浪潮下的「脆世代」：不是孩子不懂理財，是我們沒把它當成基本教育
+https://www.businessyee.com/article/5954-financial-education
 
-擴大金融保護傘！金管會指定12家融資租賃為金融業，最快8月適用金保法
-https://www.businessyee.com/article/5951-loan-sharks-regulation-20250422
-
-國泰選擇AWS作為長期策略雲端服務夥伴
-https://www.businessyee.com/article/5944-aws
-
-轉眼盛夏！2025隨身風扇「熱」賣中，我適合哪款？
-https://www.businessyee.com/article/5946-summer-mini-fan
-
-川普轟鮑爾「大魯蛇」，美股匯債罕見全倒，分析師：資金加速逃離美國資產
-https://www.businessyee.com/article/5942-Trump-call-Powell-major-loser
-
-AWS 如何用 AI 助台灣產業巨頭們突破瓶頸？
-https://www.businessyee.com/article/5943-aws
-
-Intel陳立武首度訪台！COMPUTEX前夕 固樁供應鏈
-https://www.businessyee.com/article/5941-intel-lip-bu-tan-taiwan-computex
-
-關稅危機拚轉機！台日韓評估投資美天然氣，我每年擬採購600萬噸LNG
-https://www.businessyee.com/article/5940-TW-JP-asia-alaska-lng-project
-
-人死了就不需要當事人同意？日本演歌天后八代亞紀生前裸照竟成唱片公司主打賣點
-https://changyuchieh.com/2025/04/21/yashiro-aki/?utm_source=rss&utm_medium=rss&utm_campaign=yashiro-aki
+Thread per Connection vs Thread per Request
+https://feeds.feedblitz.com/~/917132147/0/baeldung~Thread-per-Connection-vs-Thread-per-Request
