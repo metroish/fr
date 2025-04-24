@@ -1,109 +1,106 @@
-# 2025-04-23 09:18:33 Feeds Report 
+# 2025-04-24 09:18:53 Feeds Report 
 
-Daily Hacker News for 2025-04-22
-https://www.daemonology.net/hn-daily/2025-04-22.html
+Daily Hacker News for 2025-04-23
+https://www.daemonology.net/hn-daily/2025-04-23.html
 
-【臺灣資安大會直擊】酷澎如何用LLM檢測AI安全性與可信度
-https://www.ithome.com.tw/news/168561
+日本知名Web郵件系統Active! Mail爆高風險漏洞，並遭攻擊導致服務中斷
+https://www.ithome.com.tw/news/168586
 
-殭屍網路RustoBot鎖定Totolink、居易路由器而來，在臺灣、日本、越南、墨西哥發動攻擊
-https://www.ithome.com.tw/news/168560
+群暉公布影響NAS機密性的資安漏洞細節
+https://www.ithome.com.tw/news/168584
 
-OpenAI出席Google反壟斷案聽證會，透露有興趣買下自Google拆分的Chrome
-https://www.ithome.com.tw/news/168558
+Nari Labs開源具備16億參數的文字轉語音模型Dia
+https://www.ithome.com.tw/news/168583
+
+華碩修補BMC元件的資安重大漏洞
+https://www.ithome.com.tw/news/168581
+
+研究人員揭露以惡意瀏覽器擴充程式，繞過雲端平臺MFA驗證的Cookie-Bite手法
+https://www.ithome.com.tw/news/168580
+
+Nvidia全面推出可用來建置AI代理的NeMo平臺
+https://www.ithome.com.tw/news/168576
+
+以違反數位市場法為由，歐盟對蘋果、Meta各罰款5億及2億歐元
+https://www.ithome.com.tw/news/168573
+
+Threads要開始有廣告了
+https://www.ithome.com.tw/news/168571
 
 美漏洞資料庫計畫危機 歐盟替代方案受關注
 https://www.ithome.com.tw/news/168557
 
-導致藍色當機畫面的RDP漏洞遭利用，Kimsuky用於攻擊韓國軟體、能源、金融產業
+導致藍色當機畫面的RDP漏洞再次出現利用活動，Kimsuky用於攻擊韓國軟體、能源、金融產業
 https://www.ithome.com.tw/news/168556
+
+【臺灣資安大會直擊】備份廠商群起聚焦「備份乾淨度」，固守勒索軟體防護的最後屏障
+https://www.ithome.com.tw/news/168555
 
 Google宣布將保留Chrome中的第三方Cookie
 https://www.ithome.com.tw/news/168554
 
-傳華為Ascend 910C晶片出貨在即 效能比美Nvidia H100
+傳華為Ascend 910C晶片出貨在即 效能媲美Nvidia H100
 https://www.ithome.com.tw/news/168553
 
-惡意NPM套件偽裝Telegram函式庫，植入SSH後門攻擊Linux開發者
-https://www.ithome.com.tw/news/168546
+AWS 王定愷：引領企業永續發展的綠色雲端之旅
+https://www.inside.com.tw/feature/aws-tw/38214-aws
 
-Erlang/OTP SSH函式庫爆出滿分等級漏洞，攻擊者可未經驗證執行程式碼
-https://www.ithome.com.tw/news/168538
+不只車輛智慧化，BMW 怎麼從製造、能源、系統三個面向全面數位轉型？
+https://www.inside.com.tw/article/38238-bmws-complete-transformation-from-manufacturing-to-driving-experience-a-triple-evolution-in-energy-factories-and-systems
 
-Meta將利用AI來辨識那些偽裝成人的青少年帳戶
-https://www.ithome.com.tw/news/168539
+【2025 上海車展】BMW 一展全新 iDrive、OS X 車載系統
+https://www.inside.com.tw/article/38237-bmw-ushers-in-a-new-era-of-technology-with-idrive-and-os-x-system-offering-a-full-preview-of-future-smart-driving-experience
 
-深度學習框架PyTorch存在重大漏洞，恐被用於RCE攻擊
-https://www.ithome.com.tw/news/168537
+微軟推出研究、數據分析 AI 代理人！目標讓 Copilot 成為 AI 時代的瀏覽器
+https://www.inside.com.tw/article/38235-microsoft-researcher-analyst-agent
 
-法院開庭討論Google如何補救搜尋壟斷，結果將於夏季出爐
-https://www.ithome.com.tw/news/168536
+NVIDIA NeMo 微服務正式發布，協助企業建立 AI 代理提升生產力
+https://www.inside.com.tw/article/38234-nemo-enterprises-ai-teammates-employee-productivity
 
-Microsoft 365將預設關閉ActiveX
-https://www.ithome.com.tw/news/168534
+綠色創新引領未來：生成式 AI 如何推動永續發展？AWS 與 Capgemini 的實踐之路
+https://www.inside.com.tw/feature/aws-tw/38213-aws
 
-亞馬遜資料中心佈局爲何選定台灣？ AWS 區域落地 將如何助力本地企業？
-https://www.inside.com.tw/feature/aws-tw/38212-aws
+金流新創 Oen 應援科技：A 輪募資完成 70%，目標三年後掛創新版
+https://www.inside.com.tw/article/38233-fintech-startup-oen-completes-70-percent-of-series-a-funding
 
-新北青創小聚 4/30 登場！創業比賽得名只是開始，吸引創投才是關鍵
-https://www.inside.com.tw/article/38223-winning-startup-competitions-just-the-beginning-attracting-venture-capital-is-key
+Perplexity 也有意收購 Chrome？商務長出庭警告：別賣給 OpenAI
+https://www.inside.com.tw/article/38232-perplexity-interested-in-buying-chrome
 
-Google 被爆：每月付了高額費用給三星，確保預先安裝 Gemini！
-https://www.inside.com.tw/article/38226-google-pays-samsung-for-gemini-default
+台積電 SoW-X 技術 2027 年量產！運算能力升至 40 倍
+https://www.inside.com.tw/article/38231-tsmc-sow-x-2027-40x
 
-大轉彎！Google 決定不淘汰第三方 cookie 了
-https://www.inside.com.tw/article/38227-google-privacy-sandbox-plans-scrapped-third-party-cookies
+Meta 全球開放 Ray-Ban 智慧眼鏡即時翻譯功能 無網路也能使用！
+https://www.inside.com.tw/article/38230-ray-ban-ai-glasses-skyler-wayfarers-live-translation-instagram-direct
 
-OpenAI 有興趣收購 Chrome！負責人：與 ChatGPT 整合將帶來絕佳體驗
-https://www.inside.com.tw/article/38225-openai-interested-in-buying-chrome
+國民黨正在快速黃國昌化
+https://voicettank.org/20250423-1/
 
-NVIDIA 的原罪：當「AI 鏟子」武器化後，就不能單純當商業決策看
-https://www.inside.com.tw/article/38222-nvidia-original-sin-when-ai-tools-become-weaponized-beyond-business-decisions
+馬斯克：中國限制稀土出口，特斯拉 Optimus機器人生產受波及
+https://www.businessyee.com/article/5972-Optimus
 
-真的不會跳票？看看馬斯克在特斯拉 Q1 財報「又」說了哪些自動駕駛承諾
-https://www.inside.com.tw/article/38221-examining-musks-latest-autonomous-driving-promises-in-tesla-q1-earnings-call
+【聽進理投】今年綜所稅新制有哪些？節稅小技巧一次了解！
+https://www.businessyee.com/article/5962-ep122
 
-AWS 宣布在台部署全新 AWS 本地區域，擴充本地基礎設施
-https://www.inside.com.tw/feature/aws-tw/38211-aws
+【SK海力士Q1財報】AI潮流助攻、獲利激增158% 然下半年展望保守
+https://www.businessyee.com/article/5970-skhynix-1q25-financial-results
 
-新研究發現：中風患者動脈有巨量微塑膠，可能增加心血管疾病風險
-https://www.inside.com.tw/article/38220-microplastics-artery-plaque-mysterious-link-stroke-heart-attack
+土銀工友短收、挪用租戶水電款271萬，內控疏失重罰400萬
+https://www.businessyee.com/article/5971-Land-Bank-embezzled-underpaid-utility-fees
 
-特斯拉 Q1 利潤暴跌 71%，讓馬斯克只能「低頭」淡出 DOGE
-https://www.inside.com.tw/article/38219-elon-sounds-extremely-depressed-after-tesla-profits-plunge
+AWS與NVIDIA 强强聯手！生成式AI在醫療健康領域獲得長足進展，立刻看這5大亮點
+https://www.businessyee.com/article/5950-aws
 
-英國航母打擊群再次部署印太之研析
-https://voicettank.org/20250422-2/
+贊成率94.2%！0050通過分割案擬「1拆4」，1股降到40.4元
+https://www.businessyee.com/article/5969-0050-divided-into-four
 
-台壽推美元分紅終身壽險「美紅旺」，分紅滾入保額助資產傳承
-https://www.businessyee.com/article/5961-taiwanlife-participating-policy-insurance
+AWS助力羅氏集團全面釋放健康大數據價值
+https://www.businessyee.com/article/5949-aws
 
-OpenAI：如果Chrome要賣，我們會買
-https://www.businessyee.com/article/5960-Chrome-OpenAI
+晶片戰爭作者：晶片關稅恐令美電子產品生產線外移
+https://www.businessyee.com/article/5968-Chip-War
 
-Rivian選擇AWS為首選雲端供應商，推動高效率高效能電動車發展
-https://www.businessyee.com/article/5948-aws
+中鋼股東會紀念品輕巧冷水瓶怎麼領？零股可以領嗎？領取時間？
+https://www.businessyee.com/article/5967-2002-shareholders-souvenirs-2025
 
-群益台灣強棒主動式ETF（00982A）5/5開募，經理人陳沅益分享選股哲學
-https://www.businessyee.com/article/5936-00982A-ipo
-
-Intel啟動大裁員？彭博：本週將砍逾2成人力、以聚焦AI發展
-https://www.businessyee.com/article/5959-intel-restructuring-20per
-
-川普：我無意開除鮑爾，現在是降息最佳時機
-https://www.businessyee.com/article/5958-trump-Powell
-
-輝瑞借助AWS雲端服務和生成式AI加速創新
-https://www.businessyee.com/article/5947-aws
-
-【特斯拉Q1財報】獲利差，馬斯克：會減少去白宮的時間
-https://www.businessyee.com/article/5957-tesla-earnings-q1
-
-美中關稅戰降溫？美財長發話後美股大漲千點
-https://www.businessyee.com/article/5956-scott-bessent-us-stock
-
-數位金融浪潮下的「脆世代」：不是孩子不懂理財，是我們沒把它當成基本教育
-https://www.businessyee.com/article/5954-financial-education
-
-Thread per Connection vs Thread per Request
-https://feeds.feedblitz.com/~/917132147/0/baeldung~Thread-per-Connection-vs-Thread-per-Request
+【波音Q1財報】虧損小於預期！波音將申請提高737 Max產能，開盤股價漲破8%
+https://www.businessyee.com/article/5966-boeing-earnings-2025-q1
