@@ -1,28 +1,13 @@
-# 2025-04-25 09:18:13 Feeds Report 
+# 2025-04-26 09:16:11 Feeds Report 
 
-Daily Hacker News for 2025-04-24
-https://www.daemonology.net/hn-daily/2025-04-24.html
+Daily Hacker News for 2025-04-25
+https://www.daemonology.net/hn-daily/2025-04-25.html
 
-真的有人寄信要 GPL 授權的 copy...
-https://blog.gslin.org/archives/2025/04/25/12366/%e7%9c%9f%e7%9a%84%e6%9c%89%e4%ba%ba%e5%af%84%e4%bf%a1%e8%a6%81-gpl-%e6%8e%88%e6%ac%8a%e7%9a%84-copy/
+在自己的 wiki 上塞想要的 HTML 元素
+https://blog.gslin.org/archives/2025/04/26/12368/%e5%9c%a8%e8%87%aa%e5%b7%b1%e7%9a%84-wiki-%e4%b8%8a%e5%a1%9e%e6%83%b3%e8%a6%81%e7%9a%84-html-%e5%85%83%e7%b4%a0/
 
-AWS 打算把 us-east-1 拓展到 Maryland
-https://blog.gslin.org/archives/2025/04/25/12365/aws-%e6%89%93%e7%ae%97%e6%8a%8a-us-east-1-%e6%8b%93%e5%b1%95%e5%88%b0-maryland/
-
-【茶包射手日記】PowerShell 命令列一按 $ 就噴錯
-https://blog.darkthread.net/blog/powershll-shell-error-on-dollar-sign/
-
-AWS推出SWE-PolyBench測試基準，更精準評估AI程式代理的多語言開發能力
-https://www.ithome.com.tw/news/168618
-
-Perplexity AI、DuckDuckGo及Yahoo都想將Chrome納入麾下
-https://www.ithome.com.tw/news/168619
-
-Interlock勒索集團以ClickFix技術偽冒安全工具，植入惡意PowerShell後門
-https://www.ithome.com.tw/news/168615
-
-Google雲端的AI代理新戰略
-https://www.ithome.com.tw/article/168613
+小技巧 - 使用 PowerShell 修改 Web.config
+https://blog.darkthread.net/blog/patch-webconf-w-ps/
 
 英特爾首季營收持平，將於第二季展開裁員行動
 https://www.ithome.com.tw/news/168612
@@ -48,119 +33,35 @@ https://www.ithome.com.tw/news/168604
 DevOps快報第3期：連設計工具Canva都推出AI開發工具，Docker將推MCP目錄服務，要打造安全易用的MCP生態系
 https://www.ithome.com.tw/news/168602
 
-OpenAI推出輕量版Deep Research功能 免費用戶終於可以用了
-https://www.ithome.com.tw/news/168600
+白帽駭客發現新 AI 越獄技術！ChatGPT、Claude 等主流模型全都破
+https://www.inside.com.tw/article/38255-easy-jailbreak-every-major-ai-chatgpt
 
-組態管理軟體Puppet導入弱點修補自動化，推進企業DevSecOps流程整合
-https://www.ithome.com.tw/news/168595
+為什麼 Uber CEO Dara Khosrowshahi 會說他們「不怕經濟衰退」？
+https://www.inside.com.tw/article/38254-why-uber-ceo-dara-khosrowshahi-claims-they-are-recession-proof
 
-微軟預告Copilot新功能，將引入推理代理人與Notebook協作工具
-https://www.ithome.com.tw/news/168592
+全球勞工越來越不敬業了？報告指重點：是中階主管「不堪重負」
+https://www.inside.com.tw/article/38253-global-worker-engagement-declining-report-highlights-middle-managers-under-pressure
 
-開源專案辦公室的新價值
-https://www.ithome.com.tw/voice/168593
+川普：高關稅若持續一年，將會是「完全勝利」
+https://www.inside.com.tw/article/38252-trump-high-tariffs-continuing-for-one-year-would-be-total-victory
 
-【盤點六大類601個企業AI應用實例】精選大型企業實例看GenAI可以怎麼用
-https://www.ithome.com.tw/news/168591
+省錢！OpenAI 推出 ChatGPT Deep Research「輕量」版本
+https://www.inside.com.tw/article/38251-openai-rolls-out-a-lightweight-version-of-its-chatgpt-deep-research-tool
 
-【Google AI代理戰略2：開箱即用的AI代理】Google雲端代理服務瞄準客服、程式開發和資安等5大領域
-https://www.ithome.com.tw/news/168590
+任天堂 Switch 2 核心晶片遭爆：是客製化的 NVIDIA Tegra 239
+https://www.inside.com.tw/article/38250-nintendo-switch-2-nvidia-tegra239
 
-【Google AI代理戰略1：多代理生態系】不只添開源代理開發工具，還奠定各種代理互通協作標準
-https://www.ithome.com.tw/news/168587
+Yahoo 也有意收購 Chrome！已著手在開發自家瀏覽器
+https://www.inside.com.tw/article/38249-yahoo-wants-to-buy-chrome
 
-群暉公布影響NAS機密性的資安漏洞細節
-https://www.ithome.com.tw/news/168584
+博報堂公布最新台灣高層人事異動，大熊健二接任格威博報堂董事長
+https://www.inside.com.tw/article/38248-hakuhodo
 
-Nari Labs開源具備16億參數的文字轉語音模型Dia
-https://www.ithome.com.tw/news/168583
+為什麼台語歌曲文藝復興？
+https://voicettank.org/20250425-2/
 
-華碩修補工作站主機板BMC元件的資安重大漏洞
-https://www.ithome.com.tw/news/168581
+做賊喊抓賊：國民黨「扮演受害者」的精神錯亂
+https://voicettank.org/20250425-3/
 
-研究人員揭露以惡意瀏覽器擴充程式，繞過雲端平臺MFA驗證的Cookie-Bite手法
-https://www.ithome.com.tw/news/168580
-
-Nvidia全面推出可用來建置AI代理的NeMo平臺
-https://www.ithome.com.tw/news/168576
-
-以違反數位市場法為由，歐盟對蘋果、Meta各罰款5億及2億歐元
-https://www.ithome.com.tw/news/168573
-
-Threads要開始有廣告了
-https://www.ithome.com.tw/news/168571
-
-韓國用戶資料被未授權轉移！DeepSeek 個資外洩事件調查結果出爐
-https://www.inside.com.tw/article/38247-unauthorized-transfer-korean-user-data-deepseek-breach-investigation
-
-你必須知道的生成式 AI 風險與挑戰：AWS 負責任生成式 AI 及風險的防範之道
-https://www.inside.com.tw/feature/aws-tw/38216-aws
-
-TNL Mediagene 關鍵評論網媒體集團宣布 2025 年夏季推出《Business Insider Taiwan》，拓展全球華語市場
-https://www.inside.com.tw/article/38240-business-insider-taiwan
-
-什麼是生成式 AI？AWS 如何協助企業克服導入挑戰？
-https://www.inside.com.tw/feature/aws-tw/38215-aws
-
-我全都要！VGA、HDMI、乙太網路 11 合 1 之 PD 集線器，而且限時特價 799 元
-https://www.inside.com.tw/article/38244-powerrider-hb-p11
-
-「去中心化」平台也不保險！Bluesky 大當機全平台癱瘓超過一小時
-https://www.inside.com.tw/article/38242-how-did-a-decentralized-service-like-bluesky-go-down
-
-Perplexity 「超越 Google」野心：自己做瀏覽器，全面追蹤使用者提供超客製化廣告
-https://www.inside.com.tw/article/38243-perplexity-ceo-says-its-browser-will-track-everything-users-do-online-to-sell-hyper-personalized-ads
-
-模組化電動車新創 Slate 來了！首推 2.5 萬美元電動皮卡可改裝成 SUV
-https://www.inside.com.tw/article/38241-bezos-backed-startup-designed-an-ev-that-can-change-like-a-transforme
-
-YouTube 20 週年之際，影片上傳量突破 200 億大關！
-https://www.inside.com.tw/article/38239-youtube-20th-anniversary
-
-馳諾瓦科技參與 2025 台灣國際智慧移動展 概念產品 Novae Power 獲國際肯定，以創新設計回應城市空間挑戰，引領智慧充電新趨勢
-https://www.inside.com.tw/article/38236-phihongtech
-
-【好險有聽】EP28 強制汽車責任險遠不夠，車主們一定要保任意險！
-https://www.businessyee.com/article/5985-ep28
-
-囤房稅2.0開徵！全國稅收突破千億元、自住戶籍登記延至6/2
-https://www.businessyee.com/article/5984-hoarding-house-tax
-
-財政部大數據揭秘：銀髮族逾3成有股利所得，平均每年27.8萬元
-https://www.businessyee.com/article/5983-dividend-65-years
-
-又快又省錢！疫情後日本職場女性「無粉底化妝」讓妳美得無負擔
-https://www.businessyee.com/article/5982-no-foundation-makeup
-
-凱基銀美元高利定存利率最高5%，最低門檻5000美元
-https://www.businessyee.com/article/5981-kgibk-usd
-
-TNL Mediagene 關鍵評論網媒體集團宣布 2025 年夏季推出《Business Insider Taiwan》，拓展全球華語市場
-https://www.businessyee.com/article/5977-Business-Insider-Taiwan
-
-陳立武：最近曾跟魏哲家會面討論合作
-https://www.businessyee.com/article/5980-intel-lip-bu-tan-said-he-met-cc-wei
-
-【Alphabet Q1財報】資本支出飆到172億美元、AI投資成效佳，股價漲4.8%
-https://www.businessyee.com/article/5979-Alphabet-q1-earnings
-
-【Intel Q1 財報】財測疲弱將大砍支出，盤後股價摔5%
-https://www.businessyee.com/article/5978-intel-intc-q1-2025-earnings
-
-從快時尚到共生宅！一方生活如何用電商思維打造包租代管品牌？
-https://www.businessyee.com/article/5915-rental-market-oneplace
-
-Java Weekly, Issue 591
-https://feeds.feedblitz.com/~/917269949/0/baeldung~Java-Weekly-Issue
-
-How to Map an Empty String to Null Using MapStruct
-https://feeds.feedblitz.com/~/917248481/0/baeldung~How-to-Map-an-Empty-String-to-Null-Using-MapStruct
-
-Guide to Eclipse OpenJ9 JVM
-https://feeds.feedblitz.com/~/917248484/0/baeldung~Guide-to-Eclipse-OpenJ-JVM
-
-A Guide to RestFB
-https://feeds.feedblitz.com/~/917248487/0/baeldung~A-Guide-to-RestFB
-
-Building an AI Chatbot in Java With Langchain4j and MongoDB Atlas
-https://feeds.feedblitz.com/~/917222792/0/baeldung~Building-an-AI-Chatbot-in-Java-With-Langchainj-and-MongoDB-Atlas
+【書摘】《戰後臺灣經濟的再思考：資源、產業與國家治理》
+https://voicettank.org/20250425-1/
