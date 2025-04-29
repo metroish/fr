@@ -1,112 +1,91 @@
-# 2025-04-28 10:49:23 Feeds Report 
+# 2025-04-29 09:19:03 Feeds Report 
 
-Daily Hacker News for 2025-04-27
-https://www.daemonology.net/hn-daily/2025-04-27.html
+Daily Hacker News for 2025-04-28
+https://www.daemonology.net/hn-daily/2025-04-28.html
 
-GitLab釋出新版修正Maven Proxy高嚴重性XSS漏洞
-https://www.ithome.com.tw/news/168638
+【臺灣資安大會直擊】衛星科技快速崛起，從美國衛星安全CTF競賽看太空中的資安威脅
+https://www.ithome.com.tw/news/168662
 
-電子商務平臺WooCommerce管理員遭鎖定，駭客佯稱網站有漏洞從事網釣活動
-https://www.ithome.com.tw/news/168637
+FastCGI存在重大漏洞，恐使嵌入式裝置遭遠端執行任意程式碼
+https://www.ithome.com.tw/news/168661
 
-Jetpack Compose 1.8推出自動填寫支援並提升文字與動畫表現
-https://www.ithome.com.tw/news/168636
+【臺灣資安大會直擊】如何靠考取資安證照提升競爭力，並將專業能力對齊臺灣法規與資安環境
+https://www.ithome.com.tw/news/168658
+
+Hitachi Vantara傳出遭遇勒索軟體Akira攻擊，伺服器離線因應
+https://www.ithome.com.tw/news/168657
+
+Nvidia推DOCA Argus強化AI資料中心即時威脅偵測
+https://www.ithome.com.tw/news/168654
+
+阿里巴巴開源Qwen3模型家族
+https://www.ithome.com.tw/news/168655
+
+1千多臺SAP NetWeaver伺服器可能遭入侵，駭客利用風險值滿分漏洞得逞
+https://www.ithome.com.tw/news/168653
+
+Palo Alto Networks收購新創公司Protect AI，推出AI安全管理平臺
+https://www.ithome.com.tw/news/168652
+
+研究人員公布使用Linux io_uring躲避偵測的PoC Rootkit
+https://www.ithome.com.tw/news/168650
+
+ChatGPT開始提供購物搜尋服務
+https://www.ithome.com.tw/news/168647
+
+Hugging Face公布3D列印機器手臂 DIY成本不到500美元
+https://www.ithome.com.tw/news/168646
+
+視覺化資料分析平臺Grafana新版出現高風險權限繞過漏洞
+https://www.ithome.com.tw/news/168640
+
+Google在RSAC 2025推出新款AI資安代理，推進Agentic SOC
+https://www.ithome.com.tw/news/168645
 
 Windows更新產生的Inetpub資料夾恐遭濫用，攻擊者能阻止修補其他弱點
 https://www.ithome.com.tw/news/168633
 
-【資安週報】0421~0425，駭客組織NightSpire橫行全球，臺灣傳長慎醫院、倍力資訊遭攻擊
-https://www.ithome.com.tw/news/168630
+Stellantis 與 Factorial Energy 攜手推進固態電池商業化，2026 年導入示範車隊
+https://www.inside.com.tw/article/38281-stellantis-validates-solid-state-ev-batteries-coming-soon
 
-Meta、Booz Allen、HPE將AI系統送上太空站
-https://www.ithome.com.tw/news/168629
+Arm 架構 40 週年：晶片出貨量突破 2500 億，超越人類歷史總人口兩倍
+https://www.inside.com.tw/article/38279-0-year-anniversary-of-arm-architecture
 
-微軟Recall預覽版全部部署到Copilot+ PC
-https://www.ithome.com.tw/news/168628
+Aurora 運用 AWS 服務加速開發 Aurora Driver 自動駕駛技術
+https://www.inside.com.tw/feature/aws-tw/38275-aws
 
-遠端桌面軟體ScreenConnect存在重大漏洞 可導致遠端程式碼執行攻擊
-https://www.ithome.com.tw/news/168627
+金融派大星 Jeff Wen｜穩定幣如何改寫區域金融地圖？從新台幣上鏈談國際競爭與數位主權【塞掐 Side Chat】E336
+https://www.inside.com.tw/feature/side-chat/38280-side-chat-e336
 
-攻擊者藉Ivanti SSL VPN零時差漏洞，植入DslogdRAT滲透日本組織
-https://www.ithome.com.tw/news/168624
+小馬智行加速推進自駕技術降低成本，瞄準單車損益兩平
+https://www.inside.com.tw/article/38276-chinese-robotaxi-firm-pony-ai-on-faster-track-to-profit-after-cost-cuts-cto-says
 
-Android間諜程式鎖定俄羅斯前線軍人
-https://www.ithome.com.tw/news/168626
+Duolingo 將轉型成「AI 優先」公司！停止外包 AI 可處理的工作
+https://www.inside.com.tw/article/38277-duolingo-ai-first
 
-SAP緊急修補允許駭客上傳檔案且已遭利用的安全漏洞CVE-2025-31324
-https://www.ithome.com.tw/news/168625
+阿里巴巴發表開源模型系列 Qwen3！號稱與 o3-mini 表現相當
+https://www.inside.com.tw/article/38273-alibaba-qwen3
 
-中國駭客組織IronHusky更新MysterySnail RAT滲透蒙古與俄羅斯政府
-https://www.ithome.com.tw/news/168622
+SONY 擬分拆半導體事業，聚焦娛樂核心
+https://www.inside.com.tw/article/38272-sony-plans-semiconductor-spinoff-focuses-on-entertainment
 
-Adobe Firefly擴展為支援自選生成模型的AI創作平臺，可整合OpenAI與Google模型
-https://www.ithome.com.tw/news/168620
+學者秘密在 Reddit 進行社會實驗，想了解鄉民是否容易被 AI 帶風向
+https://www.inside.com.tw/article/38271-researchers-conduct-secret-social-experiment-on-reddit-testing-ai-influence-on-users
 
-Gogoro 確定申請轉板，將降級維持上市資格
-https://www.inside.com.tw/article/38268-gogoro-applies-to-transfer-listing-from-nasdaq-global-select-market-to-nasdaq-capital-market
+生成式 AI 安全防護為什麼如此重要？AWS 全流程防護為你解惑
+https://www.inside.com.tw/feature/aws-tw/38274-aws
 
-生成式AI新一代霸主 Anthropic Claude 3 Opus 在 Amazon Bedrock 登場
-https://www.inside.com.tw/feature/aws-tw/38266-aws
+華特迪士尼公司選用AWS支援Disney+的全球擴展
+https://www.businessyee.com/article/6000-aws
 
-紐約州民主黨議員籲撤銷特斯拉的直營豁免許可，原因可能是馬斯克的政治立場
-https://www.inside.com.tw/article/38263-ny-democrats-take-aim-tesla-direct-sales-licenses-new-york
+台積電赴美致供應鏈外移？經長郭智輝：最快也是7年後
+https://www.businessyee.com/article/6001-tsmc-us-supply-chain
 
-Nike 關閉 NFT 業務，讓 RTFKT 買家集體提告求償 5 百萬美元
-https://www.inside.com.tw/article/38267-rtfkt-nike-sued
+逢低加碼！0050、0056今年來淨申購額皆逾千億元，占台股ETF六成
+https://www.businessyee.com/article/5998-0050-0056-2025
 
-英國新創推出全球首款無線仿生手臂，手部分離後還能繼續爬行
-https://www.inside.com.tw/article/38264-open-bionics-hero-arm
+AWS重塑NFL聯盟生態 以AI與大數據提升球員安全及表現
+https://www.businessyee.com/article/5999-aws
 
-英國禁止遊戲手把出口至俄羅斯，意圖遏止無人機攻擊應用
-https://www.inside.com.tw/article/38262-game-controller-exports-to-russia-banned-by-uk-gov-hopes-to-reduce-options-for-enemy-drone-pilots
-
-當九歲少年用 AI 開發 App：人工智慧加速學習、職涯衝擊的現場觀察
-https://www.inside.com.tw/article/38229-learning-ai-coding
-
-全由 AI 代理人組成的公司長怎樣？實驗顯示：只能完成不到四分之一的任務
-https://www.inside.com.tw/article/38260-ai-agent-software-company-experiment
-
-【Web3 元觀察】我對以太坊未來的思考
-https://www.inside.com.tw/article/38261-thoughts-on-ethereum-future
-
-Intel 宣布台灣區新任總經理莊蓓瑜，負責市場業務及行銷工作
-https://www.inside.com.tw/article/38259-intel-taiwan-tasha-chuang
-
-426遊行：幻術師僵屍大軍攻臺冷淡孤寂受傷
-https://voicettank.org/20250428-1/
-
-從美歐的AI相關政策反思台灣《人工智慧基本法》
-https://voicettank.org/2025048-2/
-
-微軟、亞馬遜暫緩AI布局，業界：AI熱潮「暫歇」長線動能未減
-https://www.businessyee.com/article/5993-ai-data-center-boom
-
-台新金股東會紀念品精緻密封調味罐怎麼領？零股可以領嗎？領取時間？
-https://www.businessyee.com/article/5996-2897-shareholders-souvenirs-2025
-
-新光金股東會紀念品斜背兩用加底帆布袋怎麼領？零股可以領嗎？領取時間？
-https://www.businessyee.com/article/5995-2888-shareholders-souvenirs-2025
-
-討厭雨神同行？新雨具幫你阻擋憂鬱滴滴答答！
-https://www.businessyee.com/article/5994-rain-coat-rain-boots
-
-日本JR東海選擇AWS 於山梨磁浮線推動下世代高速列車的高效營運
-https://www.businessyee.com/article/5992-aws
-
-Gogoro在美轉板求生！股價低迷申請轉至資本市場
-https://www.businessyee.com/article/5990-gogoro-nasdaq-capital-market
-
-直攻輝達H100：華為AI晶片910D進入測試、首批樣品5月交貨
-https://www.businessyee.com/article/5989-huawei-new-ai-chip-Ascend-910D
-
-7奈米晶片流入華為疑雲？台積電：去年10月已主動通報美台
-https://www.businessyee.com/article/5988-tsmc-sophgo-chip-to-huawei
-
-雅渼醫材UpperMed 善用AWS 提供完善的家用洗腎解決方案
-https://www.businessyee.com/article/5991-aws
-
-共同社：台日韓擬湊6兆円砸美國LNG開發，意在關稅談判新籌碼？
-https://www.businessyee.com/article/5987-alaska-lng-taiwan-japan-korea
-
-Serialization of Enum Values in Avro
-https://feeds.feedblitz.com/~/917399111/0/baeldung~Serialization-of-Enum-Values-in-Avro
+美股財報季：四家七雄財報在即，靜待PCE+非農
+https://www.businessyee.com/article/5997-us-stock
