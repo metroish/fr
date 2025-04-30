@@ -1,25 +1,40 @@
-# 2025-04-29 09:19:03 Feeds Report 
+# 2025-04-30 09:18:22 Feeds Report 
 
-Daily Hacker News for 2025-04-28
-https://www.daemonology.net/hn-daily/2025-04-28.html
+Daily Hacker News for 2025-04-29
+https://www.daemonology.net/hn-daily/2025-04-29.html
 
-【臺灣資安大會直擊】衛星科技快速崛起，從美國衛星安全CTF競賽看太空中的資安威脅
-https://www.ithome.com.tw/news/168662
+對 Amazon RDS for PostgreSQL 的 Jepsen 測試報告
+https://blog.gslin.org/archives/2025/04/30/12372/%e5%b0%8d-amazon-rds-for-postgresql-%e7%9a%84-jepsen-%e6%b8%ac%e8%a9%a6%e5%a0%b1%e5%91%8a/
 
-FastCGI存在重大漏洞，恐使嵌入式裝置遭遠端執行任意程式碼
-https://www.ithome.com.tw/news/168661
+研究人員揭露眾多蘋果AirPlay安全漏洞
+https://www.ithome.com.tw/news/168680
 
-【臺灣資安大會直擊】如何靠考取資安證照提升競爭力，並將專業能力對齊臺灣法規與資安環境
-https://www.ithome.com.tw/news/168658
+Cloudflare第一季緩解了6.5 Tbps的史上最大DDoS攻擊
+https://www.ithome.com.tw/news/168679
 
-Hitachi Vantara傳出遭遇勒索軟體Akira攻擊，伺服器離線因應
-https://www.ithome.com.tw/news/168657
+Duolingo將逐步以AI取代約聘人員
+https://www.ithome.com.tw/news/168678
 
-Nvidia推DOCA Argus強化AI資料中心即時威脅偵測
-https://www.ithome.com.tw/news/168654
+Meta開始預覽Llama API，讓開源與商業並行
+https://www.ithome.com.tw/news/168677
 
-阿里巴巴開源Qwen3模型家族
-https://www.ithome.com.tw/news/168655
+法國指控APT28對當地政府機關、企業組織發起網路攻擊
+https://www.ithome.com.tw/news/168676
+
+SKT遭駭外洩資料，將為2,500萬用戶免費換發SIM卡
+https://www.ithome.com.tw/news/168675
+
+Meta推出獨立AI程式Meta AI
+https://www.ithome.com.tw/news/168674
+
+【臺灣資安大會直擊】資安院公布產品資安3大策略，重視安全軟體開發與檢測人才，推動PSIRT、臺灣ICT產品漏洞獵捕計畫
+https://www.ithome.com.tw/news/168673
+
+【臺灣資安大會直擊】產品資安成國際法規必考題，也攸關國家安全，資安院專家呼籲臺灣ICT製造商需正視CVE與CWE風險
+https://www.ithome.com.tw/news/168672
+
+Google更新NotebookLM，Audio Overview開始支援中文等逾50種語言
+https://www.ithome.com.tw/news/168671
 
 1千多臺SAP NetWeaver伺服器可能遭入侵，駭客利用風險值滿分漏洞得逞
 https://www.ithome.com.tw/news/168653
@@ -36,56 +51,71 @@ https://www.ithome.com.tw/news/168647
 Hugging Face公布3D列印機器手臂 DIY成本不到500美元
 https://www.ithome.com.tw/news/168646
 
-視覺化資料分析平臺Grafana新版出現高風險權限繞過漏洞
-https://www.ithome.com.tw/news/168640
+Meta 「LlamaCon」推出獨立 AI app、Gogoro 申請轉板維持上市資格、為什麼台灣還不能用 Starlink？【塞掐 Side Chat】E337
+https://www.inside.com.tw/article/38299-side-chat-e337
 
-Google在RSAC 2025推出新款AI資安代理，推進Agentic SOC
-https://www.ithome.com.tw/news/168645
+數位雙生如何應對資安威脅？實現系統化防禦並快速回應
+https://www.inside.com.tw/article/38297-by-2034-digital-twins
 
-Windows更新產生的Inetpub資料夾恐遭濫用，攻擊者能阻止修補其他弱點
-https://www.ithome.com.tw/news/168633
+AWS 區域架構如何實現最高等級的資料安全與隱私保護
+https://www.inside.com.tw/feature/aws-tw/38283-aws
 
-Stellantis 與 Factorial Energy 攜手推進固態電池商業化，2026 年導入示範車隊
-https://www.inside.com.tw/article/38281-stellantis-validates-solid-state-ev-batteries-coming-soon
+福斯電動車 Q1 全球銷量年增近六成！歐洲表現最強、中國市占下滑
+https://www.inside.com.tw/article/38295-vag-2025-q1-financial-report
 
-Arm 架構 40 週年：晶片出貨量突破 2500 億，超越人類歷史總人口兩倍
-https://www.inside.com.tw/article/38279-0-year-anniversary-of-arm-architecture
+寫在蘋果財報之前：美中衝突影響 iPhone 產能，分析師憂心 AI 落後
+https://www.inside.com.tw/article/38287-apple-investors-seek-clarity-tariffs-ai-strategy-iphone-sales-decline
 
-Aurora 運用 AWS 服務加速開發 Aurora Driver 自動駕駛技術
-https://www.inside.com.tw/feature/aws-tw/38275-aws
+Waymo 攜手 Toyota，自駕技術瞄準私人車輛市場
+https://www.inside.com.tw/article/38292-waymo-toyota-partner-to-bring-self-driving-tech-to-personal-vehicles
 
-金融派大星 Jeff Wen｜穩定幣如何改寫區域金融地圖？從新台幣上鏈談國際競爭與數位主權【塞掐 Side Chat】E336
-https://www.inside.com.tw/feature/side-chat/38280-side-chat-e336
+OpenAI 撤回 GPT-4o 更新，承諾會改善過於諂媚的問題
+https://www.inside.com.tw/article/38294-openai-gpt-4o-rollback
 
-小馬智行加速推進自駕技術降低成本，瞄準單車損益兩平
-https://www.inside.com.tw/article/38276-chinese-robotaxi-firm-pony-ai-on-faster-track-to-profit-after-cost-cuts-cto-says
+【Web3 元觀察】從 VC 幣到迷因幣，現在市場追尋什麼？
+https://www.inside.com.tw/article/38291-where-is-crypto-money-going
 
-Duolingo 將轉型成「AI 優先」公司！停止外包 AI 可處理的工作
-https://www.inside.com.tw/article/38277-duolingo-ai-first
+3000 億美元 AI 熱潮降溫？微軟亞馬遜資本支出成本週財報焦點
+https://www.inside.com.tw/article/38290-ai-boom-cooling-tech-giants-capex-focus
 
-阿里巴巴發表開源模型系列 Qwen3！號稱與 o3-mini 表現相當
-https://www.inside.com.tw/article/38273-alibaba-qwen3
+亞馬遜將在商品價格旁標示關稅？公司澄清：從未考慮在主網站實施
+https://www.inside.com.tw/article/38289-amazon-adding-tariff-charge-clearified
 
-SONY 擬分拆半導體事業，聚焦娛樂核心
-https://www.inside.com.tw/article/38272-sony-plans-semiconductor-spinoff-focuses-on-entertainment
+從美歐的AI相關政策反思台灣《人工智慧基本法》
+https://voicettank.org/20250428-2/
 
-學者秘密在 Reddit 進行社會實驗，想了解鄉民是否容易被 AI 帶風向
-https://www.inside.com.tw/article/38271-researchers-conduct-secret-social-experiment-on-reddit-testing-ai-influence-on-users
+二戰結束八十周年好讀書（三）──讀「國師」胡適
+https://voicettank.org/20250429-1/
 
-生成式 AI 安全防護為什麼如此重要？AWS 全流程防護為你解惑
-https://www.inside.com.tw/feature/aws-tw/38274-aws
+美伊核談判可能發展研析
+https://voicettank.org/20250429-2/
 
-華特迪士尼公司選用AWS支援Disney+的全球擴展
-https://www.businessyee.com/article/6000-aws
+維亞娛樂以雲平台承載營運機能，擴展全球 VR 應用商機
+https://www.businessyee.com/article/6003-aws
 
-台積電赴美致供應鏈外移？經長郭智輝：最快也是7年後
-https://www.businessyee.com/article/6001-tsmc-us-supply-chain
+今年科技股全面潰敗，為何 Palantir 股價卻逆勢飆漲 52%？
+https://www.businessyee.com/article/6007-palantir-stocks-soaring-tech-sinks
 
-逢低加碼！0050、0056今年來淨申購額皆逾千億元，占台股ETF六成
-https://www.businessyee.com/article/5998-0050-0056-2025
+Visa上季財報優於預期，宣布 300 億美元股票回購計畫、股價盤後續揚
+https://www.businessyee.com/article/6016-visa-2025-q2-earningcall
 
-AWS重塑NFL聯盟生態 以AI與大數據提升球員安全及表現
-https://www.businessyee.com/article/5999-aws
+租屋族房屋抵稅新制 5 月上路！ 內政部國土署：租金改列特別扣除額度上限 18 萬元
+https://www.businessyee.com/article/6015-nlma
 
-美股財報季：四家七雄財報在即，靜待PCE+非農
-https://www.businessyee.com/article/5997-us-stock
+172萬受益人注意！00878預告Q2配息0.47元，6/13發放
+https://www.businessyee.com/article/6014-00878-2025-q2-dividend
+
+2025綜所稅刷卡攻略：最高26%回饋、哩程換機票、0利率分期一次掌握
+https://www.businessyee.com/article/6013-pay-tax-creditcard
+
+Apple新品PChome限量開賣！MacBook Air M4、Mac Studio看這裡
+https://www.businessyee.com/article/6012-apple-macbookair-mac-studio
+
+輝瑞執行長：藥品關稅不明朗，讓我們不敢加碼投資美國製造
+https://www.businessyee.com/article/6011-pfizer-ceo-trump-tariff-uncertainty-is-deterring-us-investment
+
+PRO360 達人網借重 AWS 機器學習技術，提升顧客服務精準度，打造首選媒合平台
+https://www.businessyee.com/article/6002-aws
+
+【Snap Q1財報】營收勝預期、但小額豁免新政阻評估Q2展望，股價暴跌14%
+https://www.businessyee.com/article/6010-snap-earnings-2025-q1
