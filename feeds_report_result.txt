@@ -1,16 +1,28 @@
-# 2025-04-30 09:18:22 Feeds Report 
+# 2025-05-01 09:18:18 Feeds Report 
 
-Daily Hacker News for 2025-04-29
-https://www.daemonology.net/hn-daily/2025-04-29.html
+Daily Hacker News for 2025-04-30
+https://www.daemonology.net/hn-daily/2025-04-30.html
 
-對 Amazon RDS for PostgreSQL 的 Jepsen 測試報告
-https://blog.gslin.org/archives/2025/04/30/12372/%e5%b0%8d-amazon-rds-for-postgresql-%e7%9a%84-jepsen-%e6%b8%ac%e8%a9%a6%e5%a0%b1%e5%91%8a/
+用 flock + timeout 包裝 cron script
+https://blog.gslin.org/archives/2025/05/01/12378/%e7%94%a8-flock-timeout-%e5%8c%85%e8%a3%9d-cron-script/
 
-研究人員揭露眾多蘋果AirPlay安全漏洞
-https://www.ithome.com.tw/news/168680
+./configure 支援多 CPU 加速執行的問題
+https://blog.gslin.org/archives/2025/05/01/12376/configure-%e6%94%af%e6%8f%b4%e5%a4%9a-cpu-%e5%8a%a0%e9%80%9f%e5%9f%b7%e8%a1%8c%e7%9a%84%e5%95%8f%e9%a1%8c/
 
-Cloudflare第一季緩解了6.5 Tbps的史上最大DDoS攻擊
-https://www.ithome.com.tw/news/168679
+YouTube 首頁的 A/B testing 被幹剿到翻
+https://blog.gslin.org/archives/2025/05/01/12374/youtube-%e9%a6%96%e9%a0%81%e7%9a%84-a-b-testing-%e8%a2%ab%e5%b9%b9%e5%89%bf%e5%88%b0%e7%bf%bb/
+
+微軟財報出爐，雲端服務成長33%
+https://www.ithome.com.tw/news/168710
+
+GCC 15.1採用C23為預設標準，同步納入Rust與COBOL支援
+https://www.ithome.com.tw/news/168706
+
+【臺灣資安大會直擊】先下手為強的另一種資安左移策略！掌握可能遭攻擊的先機
+https://www.ithome.com.tw/news/168709
+
+【臺灣資安大會直擊】了解攻擊者可能如何構思侵入行動，勿打造友善駭客的環境
+https://www.ithome.com.tw/news/168708
 
 Duolingo將逐步以AI取代約聘人員
 https://www.ithome.com.tw/news/168678
@@ -30,92 +42,50 @@ https://www.ithome.com.tw/news/168674
 【臺灣資安大會直擊】資安院公布產品資安3大策略，重視安全軟體開發與檢測人才，推動PSIRT、臺灣ICT產品漏洞獵捕計畫
 https://www.ithome.com.tw/news/168673
 
-【臺灣資安大會直擊】產品資安成國際法規必考題，也攸關國家安全，資安院專家呼籲臺灣ICT製造商需正視CVE與CWE風險
-https://www.ithome.com.tw/news/168672
+馬斯克將離開 DOGE，川普稱「有意願可留下」
+https://www.inside.com.tw/article/38303-musk-leaving-doge-trump-says-welcome-to-stay
 
-Google更新NotebookLM，Audio Overview開始支援中文等逾50種語言
-https://www.ithome.com.tw/news/168671
+Sam Altman 的虹膜掃描平台 World 正式進軍美國！Razer 實體店將設掃描點
+https://www.inside.com.tw/article/38302-sam-altman-backed-eye-scanning-platform-world-launches-in-us-razer-stores-to-host-scanners
 
-1千多臺SAP NetWeaver伺服器可能遭入侵，駭客利用風險值滿分漏洞得逞
-https://www.ithome.com.tw/news/168653
+華爾街日報：特斯拉董事會暗尋馬斯克接班人
+https://www.inside.com.tw/article/38301-tesla-board-seeks-musk-successor
 
-Palo Alto Networks收購新創公司Protect AI，推出AI安全管理平臺
-https://www.ithome.com.tw/news/168652
+Microsoft 預測 Azure 雲端業務強勁成長，股價飆升 7%
+https://www.inside.com.tw/article/38300-microsoft-beats-quarterly-revenue-estimates-ai-shift-bolsters-cloud-demand
 
-研究人員公布使用Linux io_uring躲避偵測的PoC Rootkit
-https://www.ithome.com.tw/news/168650
-
-ChatGPT開始提供購物搜尋服務
-https://www.ithome.com.tw/news/168647
-
-Hugging Face公布3D列印機器手臂 DIY成本不到500美元
-https://www.ithome.com.tw/news/168646
-
-Meta 「LlamaCon」推出獨立 AI app、Gogoro 申請轉板維持上市資格、為什麼台灣還不能用 Starlink？【塞掐 Side Chat】E337
-https://www.inside.com.tw/article/38299-side-chat-e337
-
-數位雙生如何應對資安威脅？實現系統化防禦並快速回應
-https://www.inside.com.tw/article/38297-by-2034-digital-twins
-
-AWS 區域架構如何實現最高等級的資料安全與隱私保護
-https://www.inside.com.tw/feature/aws-tw/38283-aws
-
-福斯電動車 Q1 全球銷量年增近六成！歐洲表現最強、中國市占下滑
-https://www.inside.com.tw/article/38295-vag-2025-q1-financial-report
-
-寫在蘋果財報之前：美中衝突影響 iPhone 產能，分析師憂心 AI 落後
-https://www.inside.com.tw/article/38287-apple-investors-seek-clarity-tariffs-ai-strategy-iphone-sales-decline
-
-Waymo 攜手 Toyota，自駕技術瞄準私人車輛市場
-https://www.inside.com.tw/article/38292-waymo-toyota-partner-to-bring-self-driving-tech-to-personal-vehicles
-
-OpenAI 撤回 GPT-4o 更新，承諾會改善過於諂媚的問題
-https://www.inside.com.tw/article/38294-openai-gpt-4o-rollback
-
-【Web3 元觀察】從 VC 幣到迷因幣，現在市場追尋什麼？
-https://www.inside.com.tw/article/38291-where-is-crypto-money-going
-
-3000 億美元 AI 熱潮降溫？微軟亞馬遜資本支出成本週財報焦點
-https://www.inside.com.tw/article/38290-ai-boom-cooling-tech-giants-capex-focus
-
-亞馬遜將在商品價格旁標示關稅？公司澄清：從未考慮在主網站實施
-https://www.inside.com.tw/article/38289-amazon-adding-tariff-charge-clearified
-
-從美歐的AI相關政策反思台灣《人工智慧基本法》
-https://voicettank.org/20250428-2/
+對於「製造業回流美國」的再思考
+https://voicettank.org/20250501-1/
 
 二戰結束八十周年好讀書（三）──讀「國師」胡適
 https://voicettank.org/20250429-1/
 
-美伊核談判可能發展研析
-https://voicettank.org/20250429-2/
+【Meta Q1財報】亞洲電商減少美國市場廣告投放！財報仍優，盤後漲逾5%
+https://www.businessyee.com/article/6023-meta-2025-q2-earnings
 
-維亞娛樂以雲平台承載營運機能，擴展全球 VR 應用商機
-https://www.businessyee.com/article/6003-aws
+【微軟2025 Q3財報】再押資料中心資本支出！財報大優，盤後股價暴漲近9%
+https://www.businessyee.com/article/6022-microsoft-earnings-2025-q3
 
-今年科技股全面潰敗，為何 Palantir 股價卻逆勢飆漲 52%？
-https://www.businessyee.com/article/6007-palantir-stocks-soaring-tech-sinks
+黃仁勳警告：中國AI並不落後，美中差距「非常接近」
+https://www.businessyee.com/article/6021-nvidia-jensen-huang-china-ai
 
-Visa上季財報優於預期，宣布 300 億美元股票回購計畫、股價盤後續揚
-https://www.businessyee.com/article/6016-visa-2025-q2-earningcall
+【高通 Q2財報】 財報優於預期，但財測保守、盤後股價跌逾5%
+https://www.businessyee.com/article/6020-qualcomm-2025-q2-earnings
 
-租屋族房屋抵稅新制 5 月上路！ 內政部國土署：租金改列特別扣除額度上限 18 萬元
-https://www.businessyee.com/article/6015-nlma
+詐騙比台積電還賺！玉山金開箱「防詐實驗室」，廣邀銀行加入聯防
+https://www.businessyee.com/article/6019-esun-safe-lab
 
-172萬受益人注意！00878預告Q2配息0.47元，6/13發放
-https://www.businessyee.com/article/6014-00878-2025-q2-dividend
+關稅成本全面轉嫁！Temu向美國消費者加收高達145%「進口費」
+https://www.businessyee.com/article/6008-temu-adds-import-charges-after-trump-tariff
 
-2025綜所稅刷卡攻略：最高26%回饋、哩程換機票、0利率分期一次掌握
-https://www.businessyee.com/article/6013-pay-tax-creditcard
+【星巴克財報】營收不如預期，股價跌6%
+https://www.businessyee.com/article/6018-Starbucks-q1-earnings
 
-Apple新品PChome限量開賣！MacBook Air M4、Mac Studio看這裡
-https://www.businessyee.com/article/6012-apple-macbookair-mac-studio
+央行理監事會現鷹蹤：通膨風險仍在，緊縮力道再加大亦樂觀其成
+https://www.businessyee.com/article/6017-central-bank-meeting-2025-q1
 
-輝瑞執行長：藥品關稅不明朗，讓我們不敢加碼投資美國製造
-https://www.businessyee.com/article/6011-pfizer-ceo-trump-tariff-uncertainty-is-deterring-us-investment
+How to Fix Exception: Cannot Load Driver Class: com.mysql.jdbc.driver in Spring Boot
+https://feeds.feedblitz.com/~/917543822/0/baeldung~How-to-Fix-Exception-Cannot-Load-Driver-Class-commysqljdbcdriver-in-Spring-Boot
 
-PRO360 達人網借重 AWS 機器學習技術，提升顧客服務精準度，打造首選媒合平台
-https://www.businessyee.com/article/6002-aws
-
-【Snap Q1財報】營收勝預期、但小額豁免新政阻評估Q2展望，股價暴跌14%
-https://www.businessyee.com/article/6010-snap-earnings-2025-q1
+Mastering Context in MapStruct: Leveraging @Context for Complex Source Mappings
+https://feeds.feedblitz.com/~/917542634/0/baeldung~Mastering-Context-in-MapStruct-Leveraging-Context-for-Complex-Source-Mappings
