@@ -1,22 +1,58 @@
-# 2025-05-01 09:18:18 Feeds Report 
+# 2025-05-02 09:18:14 Feeds Report 
 
-Daily Hacker News for 2025-04-30
-https://www.daemonology.net/hn-daily/2025-04-30.html
+Daily Hacker News for 2025-05-01
+https://www.daemonology.net/hn-daily/2025-05-01.html
 
-用 flock + timeout 包裝 cron script
-https://blog.gslin.org/archives/2025/05/01/12378/%e7%94%a8-flock-timeout-%e5%8c%85%e8%a3%9d-cron-script/
+Redis 宣佈將使用 AGPLv3/SSPLv1/RSALv2
+https://blog.gslin.org/archives/2025/05/02/12380/redis-%e5%ae%a3%e4%bd%88%e5%b0%87%e4%bd%bf%e7%94%a8-agplv3-ssplv1-rsalv2/
 
-./configure 支援多 CPU 加速執行的問題
-https://blog.gslin.org/archives/2025/05/01/12376/configure-%e6%94%af%e6%8f%b4%e5%a4%9a-cpu-%e5%8a%a0%e9%80%9f%e5%9f%b7%e8%a1%8c%e7%9a%84%e5%95%8f%e9%a1%8c/
+蘇黎世大學研究員實際「操作」如何用 LLM 操控輿論 (i.e. 自動化網軍)
+https://blog.gslin.org/archives/2025/05/02/12379/%e8%98%87%e9%bb%8e%e4%b8%96%e5%a4%a7%e5%ad%b8%e7%a0%94%e7%a9%b6%e5%93%a1%e5%af%a6%e9%9a%9b%e3%80%8c%e6%93%8d%e4%bd%9c%e3%80%8d%e5%a6%82%e4%bd%95%e7%94%a8-llm-%e6%93%8d%e6%8e%a7%e8%bc%bf%e8%ab%96-i-e/
 
-YouTube 首頁的 A/B testing 被幹剿到翻
-https://blog.gslin.org/archives/2025/05/01/12374/youtube-%e9%a6%96%e9%a0%81%e7%9a%84-a-b-testing-%e8%a2%ab%e5%b9%b9%e5%89%bf%e5%88%b0%e7%bf%bb/
+蘋果違反法院的反托拉斯裁決，恐面臨刑事調查
+https://www.ithome.com.tw/news/168727
 
-微軟財報出爐，雲端服務成長33%
-https://www.ithome.com.tw/news/168710
+【臺灣資安大會直擊】API資安威脅成挑戰，富邦金建立六項機制管控API安全
+https://www.ithome.com.tw/news/168669
 
-GCC 15.1採用C23為預設標準，同步納入Rust與COBOL支援
-https://www.ithome.com.tw/news/168706
+【資安日報】5月2日，思科、Nvida等多家業者在RSAC 2025推出AI資安工具
+https://www.ithome.com.tw/news/168725
+
+蘋果警告100國iPhone用戶已遭間諜軟體鎖定
+https://www.ithome.com.tw/news/168724
+
+Commvault公布被用於攻擊Azure環境的零時差漏洞細節
+https://www.ithome.com.tw/news/168723
+
+【資安月報】2025年4月，臺灣資安產業蓬勃發展，PQC、零信任、產品資安受矚目，LLM安全風險因應成最新主軸
+https://www.ithome.com.tw/news/168722
+
+新Microsoft帳戶將預設使用無密碼登入
+https://www.ithome.com.tw/news/168721
+
+吉隆坡國際機場3月遭遇攻擊，勒索軟體Qilin聲稱是他們所為
+https://www.ithome.com.tw/news/168720
+
+AWS首季營收成長17%
+https://www.ithome.com.tw/news/168719
+
+組織摩擦形成的風險與機會
+https://www.ithome.com.tw/article/168718
+
+微軟公布Phi-4-Reasoning模型系列
+https://www.ithome.com.tw/news/168717
+
+蘋果財報出爐，關稅恐將替下一季添增9億美元成本
+https://www.ithome.com.tw/news/168716
+
+政府開源專案管理的難題
+https://www.ithome.com.tw/article/168697
+
+【開源社群建言：中華民國軟體自由協會理事長楊宇凡】不只是用程式碼，政府擁抱開源還能做的2件事
+https://www.ithome.com.tw/news/168683
+
+【深入衛福部委外計畫授權爭議事件始末】政府機構擁抱開源的一堂必修課
+https://www.ithome.com.tw/news/168685
 
 【臺灣資安大會直擊】先下手為強的另一種資安左移策略！掌握可能遭攻擊的先機
 https://www.ithome.com.tw/news/168709
@@ -24,68 +60,53 @@ https://www.ithome.com.tw/news/168709
 【臺灣資安大會直擊】了解攻擊者可能如何構思侵入行動，勿打造友善駭客的環境
 https://www.ithome.com.tw/news/168708
 
-Duolingo將逐步以AI取代約聘人員
-https://www.ithome.com.tw/news/168678
+蘋果公布最新財報！庫克提及關稅影響：本季成本將增加 9 億美元
+https://www.inside.com.tw/article/38309-apple-2025-q2-report
 
-Meta開始預覽Llama API，讓開源與商業並行
-https://www.ithome.com.tw/news/168677
+Epic Games 勝訴後反擊：開放網路商店繞過蘋果 30% 抽成
+https://www.inside.com.tw/article/38308-epic-games-is-launching-webshops-to-allow-developers-to-circumvent-app-store-fees
 
-法國指控APT28對當地政府機關、企業組織發起網路攻擊
-https://www.ithome.com.tw/news/168676
+賓士純電車銷售下滑，電動化佈局進入調整期
+https://www.inside.com.tw/article/38296-mercedes-benz-ag-2025-q1-financial-report
 
-SKT遭駭外洩資料，將為2,500萬用戶免費換發SIM卡
-https://www.ithome.com.tw/news/168675
+Google 升級版 AI Overviews「AI 模式」擴大推出！能推理複雜查詢
+https://www.inside.com.tw/article/38306-google-ai-mode-expansion
 
-Meta推出獨立AI程式Meta AI
-https://www.ithome.com.tw/news/168674
+Intel 上海車展展示新世代智慧電控，寧德時代亮相第二代神行超充技術
+https://www.inside.com.tw/article/38307-intel-showcases-next-gen-smart-vehicle-control-at-shanghai-auto-show-catl-unveils-second-generation-shenxing-ultra-fast-charging-technology
 
-【臺灣資安大會直擊】資安院公布產品資安3大策略，重視安全軟體開發與檢測人才，推動PSIRT、臺灣ICT產品漏洞獵捕計畫
-https://www.ithome.com.tw/news/168673
+烏克蘭軍隊導入電商「積分換裝備」機制，擊破一台坦克可拿 40 分
+https://www.inside.com.tw/article/38305-ukrainians-film-kills-earn-points-buy-tech-from-military-ec
 
-馬斯克將離開 DOGE，川普稱「有意願可留下」
-https://www.inside.com.tw/article/38303-musk-leaving-doge-trump-says-welcome-to-stay
+InnoVEX 450 家新創齊聚 引領全球創新浪潮
+https://www.inside.com.tw/article/38269-computex
 
-Sam Altman 的虹膜掃描平台 World 正式進軍美國！Razer 實體店將設掃描點
-https://www.inside.com.tw/article/38302-sam-altman-backed-eye-scanning-platform-world-launches-in-us-razer-stores-to-host-scanners
+特斯拉否認《華爾街日報》尋找新執行長報導
+https://www.inside.com.tw/article/38304-elon-musk-board-chair-tesla-isnt-looking-for-a-new-ceo
 
-華爾街日報：特斯拉董事會暗尋馬斯克接班人
-https://www.inside.com.tw/article/38301-tesla-board-seeks-musk-successor
+【Generative AI 年會爐邊談】專訪薩泰爾：想在喜劇裡摻一點 AI，會是什麼新滋味？
+https://www.inside.com.tw/feature/2025-generative-ai/38298-truthonfiregai
 
-Microsoft 預測 Azure 雲端業務強勁成長，股價飆升 7%
-https://www.inside.com.tw/article/38300-microsoft-beats-quarterly-revenue-estimates-ai-shift-bolsters-cloud-demand
+長尾現象之詐騙市場的短頭： 從 [注意力經濟]  視角理解認知作戰大國的成功
+https://ckhung0.blogspot.com/2025/05/fraud-short-head.html
 
-對於「製造業回流美國」的再思考
-https://voicettank.org/20250501-1/
+【聽進理投】黃金價格終於上漲了，現在是投資黃金的好時機嗎？
+https://www.businessyee.com/article/6030-ep123
 
-二戰結束八十周年好讀書（三）──讀「國師」胡適
-https://voicettank.org/20250429-1/
+面對關稅戰該左轉還右轉？離不開中國的歐盟左右為難！
+https://www.businessyee.com/article/6029-EU-US-China
 
-【Meta Q1財報】亞洲電商減少美國市場廣告投放！財報仍優，盤後漲逾5%
-https://www.businessyee.com/article/6023-meta-2025-q2-earnings
+保誠人壽核准2025年度分紅宣告，連12年維持100%中分紅以上
+https://www.businessyee.com/article/6028-pcalife-participating-insurance
 
-【微軟2025 Q3財報】再押資料中心資本支出！財報大優，盤後股價暴漲近9%
-https://www.businessyee.com/article/6022-microsoft-earnings-2025-q3
+萬事達卡Q1財報優於預期，CEO：數位工具使消費者更精打細算
+https://www.businessyee.com/article/6027-ma-2025-q1-earningcall
 
-黃仁勳警告：中國AI並不落後，美中差距「非常接近」
-https://www.businessyee.com/article/6021-nvidia-jensen-huang-china-ai
+【蘋果Q1財報】營收優但關稅高度不確定，股價盤後跌3.8%
+https://www.businessyee.com/article/6026-apple-q1-earnigns
 
-【高通 Q2財報】 財報優於預期，但財測保守、盤後股價跌逾5%
-https://www.businessyee.com/article/6020-qualcomm-2025-q2-earnings
+黃仁勳10年來首度加薪！2025年總薪酬近5,000萬美元
+https://www.businessyee.com/article/6025-jensen-huang-gets-salary-raise
 
-詐騙比台積電還賺！玉山金開箱「防詐實驗室」，廣邀銀行加入聯防
-https://www.businessyee.com/article/6019-esun-safe-lab
-
-關稅成本全面轉嫁！Temu向美國消費者加收高達145%「進口費」
-https://www.businessyee.com/article/6008-temu-adds-import-charges-after-trump-tariff
-
-【星巴克財報】營收不如預期，股價跌6%
-https://www.businessyee.com/article/6018-Starbucks-q1-earnings
-
-央行理監事會現鷹蹤：通膨風險仍在，緊縮力道再加大亦樂觀其成
-https://www.businessyee.com/article/6017-central-bank-meeting-2025-q1
-
-How to Fix Exception: Cannot Load Driver Class: com.mysql.jdbc.driver in Spring Boot
-https://feeds.feedblitz.com/~/917543822/0/baeldung~How-to-Fix-Exception-Cannot-Load-Driver-Class-commysqljdbcdriver-in-Spring-Boot
-
-Mastering Context in MapStruct: Leveraging @Context for Complex Source Mappings
-https://feeds.feedblitz.com/~/917542634/0/baeldung~Mastering-Context-in-MapStruct-Leveraging-Context-for-Complex-Source-Mappings
+【Amazon Q1財報】首次提出：「關稅和貿易政策」可能影響財測，盤後股價跌逾5%
+https://www.businessyee.com/article/6024-amazon-earnings-2025-q1
