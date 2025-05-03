@@ -1,22 +1,10 @@
-# 2025-05-02 09:18:14 Feeds Report 
+# 2025-05-03 09:16:23 Feeds Report 
 
-Daily Hacker News for 2025-05-01
-https://www.daemonology.net/hn-daily/2025-05-01.html
+Daily Hacker News for 2025-05-02
+https://www.daemonology.net/hn-daily/2025-05-02.html
 
-Redis 宣佈將使用 AGPLv3/SSPLv1/RSALv2
-https://blog.gslin.org/archives/2025/05/02/12380/redis-%e5%ae%a3%e4%bd%88%e5%b0%87%e4%bd%bf%e7%94%a8-agplv3-ssplv1-rsalv2/
-
-蘇黎世大學研究員實際「操作」如何用 LLM 操控輿論 (i.e. 自動化網軍)
-https://blog.gslin.org/archives/2025/05/02/12379/%e8%98%87%e9%bb%8e%e4%b8%96%e5%a4%a7%e5%ad%b8%e7%a0%94%e7%a9%b6%e5%93%a1%e5%af%a6%e9%9a%9b%e3%80%8c%e6%93%8d%e4%bd%9c%e3%80%8d%e5%a6%82%e4%bd%95%e7%94%a8-llm-%e6%93%8d%e6%8e%a7%e8%bc%bf%e8%ab%96-i-e/
-
-蘋果違反法院的反托拉斯裁決，恐面臨刑事調查
-https://www.ithome.com.tw/news/168727
-
-【臺灣資安大會直擊】API資安威脅成挑戰，富邦金建立六項機制管控API安全
-https://www.ithome.com.tw/news/168669
-
-【資安日報】5月2日，思科、Nvida等多家業者在RSAC 2025推出AI資安工具
-https://www.ithome.com.tw/news/168725
+Martech雙周報第75期：Chrome又要沿用第三方Cookie，但美國司法部已經要求Google出售瀏覽器經營權
+https://www.ithome.com.tw/news/168729
 
 蘋果警告100國iPhone用戶已遭間諜軟體鎖定
 https://www.ithome.com.tw/news/168724
@@ -39,74 +27,47 @@ https://www.ithome.com.tw/news/168719
 組織摩擦形成的風險與機會
 https://www.ithome.com.tw/article/168718
 
-微軟公布Phi-4-Reasoning模型系列
-https://www.ithome.com.tw/news/168717
+侯友宜張善政齊聲質疑能源戰略 總統回應：不足的是綠電
+https://www.inside.com.tw/article/38320-green-energy-taiwan
 
-蘋果財報出爐，關稅恐將替下一季添增9億美元成本
-https://www.ithome.com.tw/news/168716
+《俠盜獵車手 6》延至 2026 年 5 月發售 成本可能高達 20 億美元
+https://www.inside.com.tw/article/38319-gta-6-2026
 
-政府開源專案管理的難題
-https://www.ithome.com.tw/article/168697
+美國 CIA 副局長：比特幣已成國家安全議題
+https://www.inside.com.tw/article/38318-cia-stated-bitcoin-as-a-national-security-issue
 
-【開源社群建言：中華民國軟體自由協會理事長楊宇凡】不只是用程式碼，政府擁抱開源還能做的2件事
-https://www.ithome.com.tw/news/168683
+美國取消小額商品免稅優惠 Temu 轉向本地倉儲模式
+https://www.inside.com.tw/article/38317-us-tariff-on-retail
 
-【深入衛福部委外計畫授權爭議事件始末】政府機構擁抱開源的一堂必修課
-https://www.ithome.com.tw/news/168685
+川普大砍 NASA 預算 60 億美元 優先火星任務犧牲科學計畫
+https://www.inside.com.tw/article/38316-us-to-cut-nasa-budget
 
-【臺灣資安大會直擊】先下手為強的另一種資安左移策略！掌握可能遭攻擊的先機
-https://www.ithome.com.tw/news/168709
+世新康軒攜手開發 AI 學習系統 國中會考備考更輕鬆
+https://www.inside.com.tw/article/38314-ai-education
 
-【臺灣資安大會直擊】了解攻擊者可能如何構思侵入行動，勿打造友善駭客的環境
-https://www.ithome.com.tw/news/168708
+【Editors&#039; Picks】Apple Magic Trackpad：真後悔沒早一點買！
+https://www.inside.com.tw/article/38310-apple-magic-trackpad-review
 
-蘋果公布最新財報！庫克提及關稅影響：本季成本將增加 9 億美元
-https://www.inside.com.tw/article/38309-apple-2025-q2-report
+【Ediors&#039; Picks】好熱喔～炎夏省電新對策 精選四款人氣循環扇
+https://www.inside.com.tw/article/38313-convection-fan
 
-Epic Games 勝訴後反擊：開放網路商店繞過蘋果 30% 抽成
-https://www.inside.com.tw/article/38308-epic-games-is-launching-webshops-to-allow-developers-to-circumvent-app-store-fees
+【Editors&#039; Picks】Apple AirTag 是焦慮仔的出國救星！
+https://www.inside.com.tw/article/38245-apple-airtags-review
 
-賓士純電車銷售下滑，電動化佈局進入調整期
-https://www.inside.com.tw/article/38296-mercedes-benz-ag-2025-q1-financial-report
+解決 PCIe 6 與 PCIe 5 互連挑戰，Astera Labs Gearbox 2025 下半年登場
+https://www.inside.com.tw/article/38312-astera-labs-aries-gearbox
 
-Google 升級版 AI Overviews「AI 模式」擴大推出！能推理複雜查詢
-https://www.inside.com.tw/article/38306-google-ai-mode-expansion
+美日貿易談判的光與影
+https://voicettank.org/20250502-3/
 
-Intel 上海車展展示新世代智慧電控，寧德時代亮相第二代神行超充技術
-https://www.inside.com.tw/article/38307-intel-showcases-next-gen-smart-vehicle-control-at-shanghai-auto-show-catl-unveils-second-generation-shenxing-ultra-fast-charging-technology
+【書摘】《沒有最累，只有更累！：倦怠的文化史與精神政治》
+https://voicettank.org/20250502-1/
 
-烏克蘭軍隊導入電商「積分換裝備」機制，擊破一台坦克可拿 40 分
-https://www.inside.com.tw/article/38305-ukrainians-film-kills-earn-points-buy-tech-from-military-ec
+不敗女王遇上罷免風暴：盧秀燕的多重隱憂
+https://voicettank.org/20250502-2/
 
-InnoVEX 450 家新創齊聚 引領全球創新浪潮
-https://www.inside.com.tw/article/38269-computex
+【好險有聽】 高所得族節稅不踩雷？稅務專家教你聰明報稅！專訪朱家棟老師
+https://www.businessyee.com/article/6031-tax-113
 
-特斯拉否認《華爾街日報》尋找新執行長報導
-https://www.inside.com.tw/article/38304-elon-musk-board-chair-tesla-isnt-looking-for-a-new-ceo
-
-【Generative AI 年會爐邊談】專訪薩泰爾：想在喜劇裡摻一點 AI，會是什麼新滋味？
-https://www.inside.com.tw/feature/2025-generative-ai/38298-truthonfiregai
-
-長尾現象之詐騙市場的短頭： 從 [注意力經濟]  視角理解認知作戰大國的成功
-https://ckhung0.blogspot.com/2025/05/fraud-short-head.html
-
-【聽進理投】黃金價格終於上漲了，現在是投資黃金的好時機嗎？
-https://www.businessyee.com/article/6030-ep123
-
-面對關稅戰該左轉還右轉？離不開中國的歐盟左右為難！
-https://www.businessyee.com/article/6029-EU-US-China
-
-保誠人壽核准2025年度分紅宣告，連12年維持100%中分紅以上
-https://www.businessyee.com/article/6028-pcalife-participating-insurance
-
-萬事達卡Q1財報優於預期，CEO：數位工具使消費者更精打細算
-https://www.businessyee.com/article/6027-ma-2025-q1-earningcall
-
-【蘋果Q1財報】營收優但關稅高度不確定，股價盤後跌3.8%
-https://www.businessyee.com/article/6026-apple-q1-earnigns
-
-黃仁勳10年來首度加薪！2025年總薪酬近5,000萬美元
-https://www.businessyee.com/article/6025-jensen-huang-gets-salary-raise
-
-【Amazon Q1財報】首次提出：「關稅和貿易政策」可能影響財測，盤後股價跌逾5%
-https://www.businessyee.com/article/6024-amazon-earnings-2025-q1
+母親節送什麼？高質感洗沐用品呵護媽媽的好心情！
+https://www.businessyee.com/article/6032-mother-s-day-bath-time
