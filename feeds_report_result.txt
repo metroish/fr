@@ -1,73 +1,16 @@
-# 2025-05-03 09:16:23 Feeds Report 
+# 2025-05-04 09:16:30 Feeds Report 
 
-Daily Hacker News for 2025-05-02
-https://www.daemonology.net/hn-daily/2025-05-02.html
+Daily Hacker News for 2025-05-03
+https://www.daemonology.net/hn-daily/2025-05-03.html
+
+Weekly Ask Hacker News for 2025-04-27 -- 2025-05-03
+http://www.daemonology.net/hn-weekly-ask/2025-05-03.html
+
+anubis 最近變得蠻紅的...
+https://blog.gslin.org/archives/2025/05/03/12381/anubis-%e6%9c%80%e8%bf%91%e8%ae%8a%e5%be%97%e8%a0%bb%e7%b4%85%e7%9a%84/
+
+HTTP/HTTPS 傳輸分析偵錯神器 - mitmproxy
+https://blog.darkthread.net/blog/mitmproxy/
 
 Martech雙周報第75期：Chrome又要沿用第三方Cookie，但美國司法部已經要求Google出售瀏覽器經營權
 https://www.ithome.com.tw/news/168729
-
-蘋果警告100國iPhone用戶已遭間諜軟體鎖定
-https://www.ithome.com.tw/news/168724
-
-Commvault公布被用於攻擊Azure環境的零時差漏洞細節
-https://www.ithome.com.tw/news/168723
-
-【資安月報】2025年4月，臺灣資安產業蓬勃發展，PQC、零信任、產品資安受矚目，LLM安全風險因應成最新主軸
-https://www.ithome.com.tw/news/168722
-
-新Microsoft帳戶將預設使用無密碼登入
-https://www.ithome.com.tw/news/168721
-
-吉隆坡國際機場3月遭遇攻擊，勒索軟體Qilin聲稱是他們所為
-https://www.ithome.com.tw/news/168720
-
-AWS首季營收成長17%
-https://www.ithome.com.tw/news/168719
-
-組織摩擦形成的風險與機會
-https://www.ithome.com.tw/article/168718
-
-侯友宜張善政齊聲質疑能源戰略 總統回應：不足的是綠電
-https://www.inside.com.tw/article/38320-green-energy-taiwan
-
-《俠盜獵車手 6》延至 2026 年 5 月發售 成本可能高達 20 億美元
-https://www.inside.com.tw/article/38319-gta-6-2026
-
-美國 CIA 副局長：比特幣已成國家安全議題
-https://www.inside.com.tw/article/38318-cia-stated-bitcoin-as-a-national-security-issue
-
-美國取消小額商品免稅優惠 Temu 轉向本地倉儲模式
-https://www.inside.com.tw/article/38317-us-tariff-on-retail
-
-川普大砍 NASA 預算 60 億美元 優先火星任務犧牲科學計畫
-https://www.inside.com.tw/article/38316-us-to-cut-nasa-budget
-
-世新康軒攜手開發 AI 學習系統 國中會考備考更輕鬆
-https://www.inside.com.tw/article/38314-ai-education
-
-【Editors&#039; Picks】Apple Magic Trackpad：真後悔沒早一點買！
-https://www.inside.com.tw/article/38310-apple-magic-trackpad-review
-
-【Ediors&#039; Picks】好熱喔～炎夏省電新對策 精選四款人氣循環扇
-https://www.inside.com.tw/article/38313-convection-fan
-
-【Editors&#039; Picks】Apple AirTag 是焦慮仔的出國救星！
-https://www.inside.com.tw/article/38245-apple-airtags-review
-
-解決 PCIe 6 與 PCIe 5 互連挑戰，Astera Labs Gearbox 2025 下半年登場
-https://www.inside.com.tw/article/38312-astera-labs-aries-gearbox
-
-美日貿易談判的光與影
-https://voicettank.org/20250502-3/
-
-【書摘】《沒有最累，只有更累！：倦怠的文化史與精神政治》
-https://voicettank.org/20250502-1/
-
-不敗女王遇上罷免風暴：盧秀燕的多重隱憂
-https://voicettank.org/20250502-2/
-
-【好險有聽】 高所得族節稅不踩雷？稅務專家教你聰明報稅！專訪朱家棟老師
-https://www.businessyee.com/article/6031-tax-113
-
-母親節送什麼？高質感洗沐用品呵護媽媽的好心情！
-https://www.businessyee.com/article/6032-mother-s-day-bath-time
