@@ -1,16 +1,100 @@
-# 2025-05-04 09:16:30 Feeds Report 
+# 2025-05-05 09:18:49 Feeds Report 
 
-Daily Hacker News for 2025-05-03
-https://www.daemonology.net/hn-daily/2025-05-03.html
+Daily Hacker News for 2025-05-04
+https://www.daemonology.net/hn-daily/2025-05-04.html
 
-Weekly Ask Hacker News for 2025-04-27 -- 2025-05-03
-http://www.daemonology.net/hn-weekly-ask/2025-05-03.html
+駭客攻陷開源EC平臺Magento供應鏈，連百億規模跨國公司都遭殃
+https://www.ithome.com.tw/news/168738
 
-anubis 最近變得蠻紅的...
-https://blog.gslin.org/archives/2025/05/03/12381/anubis-%e6%9c%80%e8%bf%91%e8%ae%8a%e5%be%97%e8%a0%bb%e7%b4%85%e7%9a%84/
+蘋果在美開放用戶連向App Store外部網站、支付服務
+https://www.ithome.com.tw/news/168737
 
-HTTP/HTTPS 傳輸分析偵錯神器 - mitmproxy
-https://blog.darkthread.net/blog/mitmproxy/
+NotebookLM升級Gemini 2.5 Flash，行動版App即將推出
+https://www.ithome.com.tw/news/168736
 
-Martech雙周報第75期：Chrome又要沿用第三方Cookie，但美國司法部已經要求Google出售瀏覽器經營權
-https://www.ithome.com.tw/news/168729
+【資安週報】0428~0502，新世代資安維運中心Agentic SOC、資安領域專用LLM發展受關注
+https://www.ithome.com.tw/news/168734
+
+風雨無懼
+https://www.ithome.com.tw/voice/168498
+
+【2025臺灣資安年鑑｜國安會諮詢委員李育杰】更強調堅韌觀念，國家資通安全戰略2025定案
+https://www.ithome.com.tw/article/168473
+
+Anthropic擴展Claude研究與整合能力，可更廣泛連接工作應用
+https://www.ithome.com.tw/news/168730
+
+Momenta 攜手 Uber 推廣 Robotaxi，專家：複製特斯拉路線，馬斯克 3 年前的「天馬行空」成真
+https://www.inside.com.tw/article/38331-momenta-partners-with-uber-to-promote-robotaxis-as-experts-say-it-mirrors-teslas-path-and-fulfills-musks-vision-from-3-years-ago
+
+印尼 2040 年前大增清潔發電，核能擬佔發電 1 成
+https://www.inside.com.tw/article/38330-indonesia-plans-major-clean-energy-expansion-by-2040-with-nuclear-to-contribute-10-percent-of-power-generation
+
+Cursor 開發商 Anysphere 估值暴增至 90 億，投資人搶破頭
+https://www.inside.com.tw/article/38332-cursor-is-reportedly-raising-funds-at-9-billion-valuation
+
+【雲端基礎的關鍵】打造 AWS 環境的六大能力
+https://www.inside.com.tw/feature/aws-tw/38328-aws
+
+馬斯克打造城市夢想成真，SpaceX 發射基地「星基地」正式設市
+https://www.inside.com.tw/article/38326-elon-musk-spacex-starbase-texas-vote
+
+Apple 首款折疊 iPhone 傳將於明年推出，可能影響產品發布時程？
+https://www.inside.com.tw/article/38325-apple-may-stagger-next-years-iphones-to-make-way-for-a-foldable
+
+川普表示願意再度延後 TikTok 禁令的 6 月期限！
+https://www.inside.com.tw/article/38324-tiktok-ban-may-be-delayed-again
+
+Xbox 確定於 6 月重返 IGN Live！如何挽救銷量成最大關注點
+https://www.inside.com.tw/article/38323-xbox-ign-live
+
+AWS 安全最佳實踐：構建零信任架構
+https://www.inside.com.tw/feature/aws-tw/38327-aws
+
+Neuralink 第三位患者成功用腦機介面編輯 YouTube 影片，還能以 AI 重現自己聲音
+https://www.inside.com.tw/article/38322-third-neuralink-patient-successfully-edits-youtube-videos-with-brain-interface-also-recreates-voice-using-ai
+
+OPEC+ 連兩月擴大增產，國際油價 5 日開盤重挫逾4%
+https://www.businessyee.com/article/6041-us-oil-prices-tumble
+
+新台幣兩日狂升近 6%！央行楊金龍籲企業勿跟風拋匯以免反傷自己
+https://www.businessyee.com/article/6044-Taiwan-dollar-surges
+
+延續感動！白沙屯媽包容無遠弗屆，授權商品大公開
+https://www.businessyee.com/article/6043-baishatun-matsu
+
+【全球股市ETF比較】股息稅、費用率、流動性？美股VT跟英股VWRA等10檔ETF評比！
+https://www.businessyee.com/article/6042-Total-Market-ETFs
+
+台新人壽進軍分紅保單，推「台鑫旺」分紅終身壽，年度、終期雙給付
+https://www.businessyee.com/article/6040-taishin-participating-insurance
+
+巴菲特接班人阿貝爾背景？出生加拿大、管理波克夏事業7年
+https://www.businessyee.com/article/6039-Gregory-Abel
+
+降低人為失誤！凱壽攜手玉山銀試辦「高齡錄音輔助系統宣讀」
+https://www.businessyee.com/article/6037-kgi-esun-Elderly%20Recording-Assisted-System-Reading
+
+便宜日圓、美元引爆換匯潮，多家銀行網銀App大塞車
+https://www.businessyee.com/article/6036-ntd-bank-online
+
+台幣強升壽險獲利承壓，國泰金早盤重挫7%、富邦金跌逾5%
+https://www.businessyee.com/article/6035-fsc-usd-twd-rate
+
+巴菲特：貿易與關稅是一種戰爭的行為
+https://www.businessyee.com/article/6034-Berkshire-Hathaway
+
+Grouping Endpoints by Resources in Swagger
+https://feeds.feedblitz.com/~/917737445/0/baeldung~Grouping-Endpoints-by-Resources-in-Swagger
+
+Extracting Flat and Nested Keys from a JSONObject
+https://feeds.feedblitz.com/~/917737448/0/baeldung~Extracting-Flat-and-Nested-Keys-from-a-JSONObject
+
+Printing Stack Values in Java
+https://feeds.feedblitz.com/~/917737451/0/baeldung~Printing-Stack-Values-in-Java
+
+How to Fix H2 Console Not Showing in Browser With Spring Boot
+https://feeds.feedblitz.com/~/917737454/0/baeldung~How-to-Fix-H-Console-Not-Showing-in-Browser-With-Spring-Boot
+
+Determine if a File Is a PDF File in Java
+https://feeds.feedblitz.com/~/917737019/0/baeldung~Determine-if-a-File-Is-a-PDF-File-in-Java
