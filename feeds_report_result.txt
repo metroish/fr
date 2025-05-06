@@ -1,100 +1,112 @@
-# 2025-05-05 09:18:49 Feeds Report 
+# 2025-05-06 09:18:57 Feeds Report 
 
-Daily Hacker News for 2025-05-04
-https://www.daemonology.net/hn-daily/2025-05-04.html
+Daily Hacker News for 2025-05-05
+https://www.daemonology.net/hn-daily/2025-05-05.html
 
-駭客攻陷開源EC平臺Magento供應鏈，連百億規模跨國公司都遭殃
-https://www.ithome.com.tw/news/168738
+沒想到卡坦島會出現在這種地方...
+https://blog.gslin.org/archives/2025/05/06/12385/%e6%b2%92%e6%83%b3%e5%88%b0%e5%8d%a1%e5%9d%a6%e5%b3%b6%e6%9c%83%e5%87%ba%e7%8f%be%e5%9c%a8%e9%80%99%e7%a8%ae%e5%9c%b0%e6%96%b9/
 
-蘋果在美開放用戶連向App Store外部網站、支付服務
-https://www.ithome.com.tw/news/168737
+Go 的 Green Tea GC
+https://blog.gslin.org/archives/2025/05/06/12384/go-%e7%9a%84-green-tea-gc/
 
-NotebookLM升級Gemini 2.5 Flash，行動版App即將推出
-https://www.ithome.com.tw/news/168736
+【臺灣資安大會直擊】惡意程式樣本分析費時費力？資安研究人員運用LLM打造全天全年無休的資安研究助手
+https://www.ithome.com.tw/news/168774
+
+勒索軟體Babuk繞過EDR防護出現新手法，利用本機安裝程式達到目的
+https://www.ithome.com.tw/news/168773
+
+JetBrains開源Mellum語言模型，專精程式碼理解與補全任務
+https://www.ithome.com.tw/news/168772
+
+Palantir首季營收成長39%
+https://www.ithome.com.tw/news/168771
+
+OpenAI公布新架構，把既有營利公司轉為PBC公司
+https://www.ithome.com.tw/news/168770
+
+Deno  2.3提升跨平臺編譯能力並支援本地NPM套件
+https://www.ithome.com.tw/news/168768
+
+【資安日報】5月6日，惡意軟體Phorpiex捲土重來，被用於散布LockBit 3.0及其他作案工具
+https://www.ithome.com.tw/news/168762
+
+資安業者警告，來自俄羅斯的Go套件Easyjson可能危及美國國家安全
+https://www.ithome.com.tw/news/168761
+
+微軟逐步終止Authenticator儲存密碼功能，將集中以Edge為主
+https://www.ithome.com.tw/news/168758
+
+Google可能正在開發類似三星Dex的Android桌機模式
+https://www.ithome.com.tw/news/168757
+
+微軟開放Windows 11 24H2全面部署
+https://www.ithome.com.tw/news/168756
+
+Amazon Q Developer CLI擴充MCP支援提升資料理解深度
+https://www.ithome.com.tw/news/168748
+
+【2025臺灣資安年鑑｜數位發展部部長黃彥男】數位轉型與國安並重，臺灣在數位浪潮下的資安突圍
+https://www.ithome.com.tw/article/168475
 
 【資安週報】0428~0502，新世代資安維運中心Agentic SOC、資安領域專用LLM發展受關注
 https://www.ithome.com.tw/news/168734
 
-風雨無懼
-https://www.ithome.com.tw/voice/168498
+新創 Recraft 曾藉神秘圖像 AI 模型擊敗 OpenAI，完成 3 千萬美元 B 輪融資
+https://www.inside.com.tw/article/38339-recraft-b-round
 
-【2025臺灣資安年鑑｜國安會諮詢委員李育杰】更強調堅韌觀念，國家資通安全戰略2025定案
-https://www.ithome.com.tw/article/168473
+與 Palantir、SpaceX 共爭川普「金色圓頂」大單，Anduril 收購戰術通訊系統商
+https://www.inside.com.tw/article/38338-anduril-to-acquire-irelands-klas-to-bolster-ai-warfare-systems
 
-Anthropic擴展Claude研究與整合能力，可更廣泛連接工作應用
-https://www.ithome.com.tw/news/168730
+Google 跨足影視製作！推新計畫「100 Zeros」
+https://www.inside.com.tw/article/38337-google-launched-film-tv-production
 
-Momenta 攜手 Uber 推廣 Robotaxi，專家：複製特斯拉路線，馬斯克 3 年前的「天馬行空」成真
-https://www.inside.com.tw/article/38331-momenta-partners-with-uber-to-promote-robotaxis-as-experts-say-it-mirrors-teslas-path-and-fulfills-musks-vision-from-3-years-ago
+OpenAI 轉型計畫有調整！持續由非營利機構控制事業
+https://www.inside.com.tw/article/38334-openai-nonprofit-remains-in-control
 
-印尼 2040 年前大增清潔發電，核能擬佔發電 1 成
-https://www.inside.com.tw/article/38330-indonesia-plans-major-clean-energy-expansion-by-2040-with-nuclear-to-contribute-10-percent-of-power-generation
+Google 設計大革新：Android 新介面讓使用者找到功能速度快 4 倍
+https://www.inside.com.tw/article/38335-expressive-material-design-google-research
 
-Cursor 開發商 Anysphere 估值暴增至 90 億，投資人搶破頭
-https://www.inside.com.tw/article/38332-cursor-is-reportedly-raising-funds-at-9-billion-valuation
+AWS 聯手台積電重磅出擊！新一代 AI 晶片採用 3 奈米製程，運算效能大躍進
+https://www.inside.com.tw/feature/aws-tw/38340-aws
 
-【雲端基礎的關鍵】打造 AWS 環境的六大能力
-https://www.inside.com.tw/feature/aws-tw/38328-aws
+台灣電商物流、倉儲進化史：24h 到貨是怎麼實現的？
+https://www.inside.com.tw/article/38333-evolution-of-taiwan-ecommerce-logistics-and-warehousing-how-24-hour-delivery-became-reality
 
-馬斯克打造城市夢想成真，SpaceX 發射基地「星基地」正式設市
-https://www.inside.com.tw/article/38326-elon-musk-spacex-starbase-texas-vote
+英國最高法院對「女性」定義的判決，意味著什麼？
+https://voicettank.org/20250505-1/
 
-Apple 首款折疊 iPhone 傳將於明年推出，可能影響產品發布時程？
-https://www.inside.com.tw/article/38325-apple-may-stagger-next-years-iphones-to-make-way-for-a-foldable
+川普任期倒數的1,350多天，台灣製造業該何去何從？
+https://voicettank.org/20250505-2/
 
-川普表示願意再度延後 TikTok 禁令的 6 月期限！
-https://www.inside.com.tw/article/38324-tiktok-ban-may-be-delayed-again
+一年賣 100 座 101 高的手機殼！犀牛盾靠雲端運算工具，降低庫存，瞄準「零浪費」
+https://www.businessyee.com/article/6057-aws
 
-Xbox 確定於 6 月重返 IGN Live！如何挽救銷量成最大關注點
-https://www.inside.com.tw/article/38323-xbox-ign-live
+永豐金法說》Q1獲利創新高，總座朱士廷：Ｑ2挑戰加劇
+https://www.businessyee.com/article/6055-SinoPac-2025-q1-earningcall
 
-AWS 安全最佳實踐：構建零信任架構
-https://www.inside.com.tw/feature/aws-tw/38327-aws
+台新金Q1法說》匯率升1角僅影響壽險8000萬，不因台幣急升提高避險比
+https://www.businessyee.com/article/6054-taishin-q1-earningcall
 
-Neuralink 第三位患者成功用腦機介面編輯 YouTube 影片，還能以 AI 重現自己聲音
-https://www.inside.com.tw/article/38322-third-neuralink-patient-successfully-edits-youtube-videos-with-brain-interface-also-recreates-voice-using-ai
+【福特Q1財報】關稅衝擊預估15億美元，福特暫停2025全年財測
+https://www.businessyee.com/article/6052-ford-motor-Q1-earnings
 
-OPEC+ 連兩月擴大增產，國際油價 5 日開盤重挫逾4%
-https://www.businessyee.com/article/6041-us-oil-prices-tumble
+聯準會要降息了嗎？9張數據圖表解讀Fed下一步行動
+https://www.businessyee.com/article/6053-Fed-Rate-Cut-Analysis
 
-新台幣兩日狂升近 6%！央行楊金龍籲企業勿跟風拋匯以免反傷自己
-https://www.businessyee.com/article/6044-Taiwan-dollar-surges
+30歲以下族群台股開戶數成長居冠 偏好定期定額
+https://www.businessyee.com/article/6051-brokerage-account-statistics
 
-延續感動！白沙屯媽包容無遠弗屆，授權商品大公開
-https://www.businessyee.com/article/6043-baishatun-matsu
+【COMPUTEX 2025-AI Next Forum】AWS王定愷：未來製造不再是「人海戰術」，將面臨機器人挑戰
+https://www.businessyee.com/article/6050-computex-ai-next-forum-aws
 
-【全球股市ETF比較】股息稅、費用率、流動性？美股VT跟英股VWRA等10檔ETF評比！
-https://www.businessyee.com/article/6042-Total-Market-ETFs
+【巴菲特管理學】經理人向股神請益企業經營筆記
+https://www.businessyee.com/article/6049-buffett-management-lessons
 
-台新人壽進軍分紅保單，推「台鑫旺」分紅終身壽，年度、終期雙給付
-https://www.businessyee.com/article/6040-taishin-participating-insurance
+楊金龍喊匯市失序到此為止 新台幣升勢放緩守住30元
+https://www.businessyee.com/article/6048-local-dollar-rose
 
-巴菲特接班人阿貝爾背景？出生加拿大、管理波克夏事業7年
-https://www.businessyee.com/article/6039-Gregory-Abel
+川普喊降息無用，Fed鮑爾利率按兵不動機率達98%
+https://www.businessyee.com/article/6046-fed-powell-defy-trump
 
-降低人為失誤！凱壽攜手玉山銀試辦「高齡錄音輔助系統宣讀」
-https://www.businessyee.com/article/6037-kgi-esun-Elderly%20Recording-Assisted-System-Reading
-
-便宜日圓、美元引爆換匯潮，多家銀行網銀App大塞車
-https://www.businessyee.com/article/6036-ntd-bank-online
-
-台幣強升壽險獲利承壓，國泰金早盤重挫7%、富邦金跌逾5%
-https://www.businessyee.com/article/6035-fsc-usd-twd-rate
-
-巴菲特：貿易與關稅是一種戰爭的行為
-https://www.businessyee.com/article/6034-Berkshire-Hathaway
-
-Grouping Endpoints by Resources in Swagger
-https://feeds.feedblitz.com/~/917737445/0/baeldung~Grouping-Endpoints-by-Resources-in-Swagger
-
-Extracting Flat and Nested Keys from a JSONObject
-https://feeds.feedblitz.com/~/917737448/0/baeldung~Extracting-Flat-and-Nested-Keys-from-a-JSONObject
-
-Printing Stack Values in Java
-https://feeds.feedblitz.com/~/917737451/0/baeldung~Printing-Stack-Values-in-Java
-
-How to Fix H2 Console Not Showing in Browser With Spring Boot
-https://feeds.feedblitz.com/~/917737454/0/baeldung~How-to-Fix-H-Console-Not-Showing-in-Browser-With-Spring-Boot
-
-Determine if a File Is a PDF File in Java
-https://feeds.feedblitz.com/~/917737019/0/baeldung~Determine-if-a-File-Is-a-PDF-File-in-Java
+Java Code Compilation Using Java Compiler API
+https://feeds.feedblitz.com/~/917779853/0/baeldung~Java-Code-Compilation-Using-Java-Compiler-API
