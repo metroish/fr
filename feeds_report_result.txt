@@ -1,31 +1,61 @@
-# 2025-05-06 09:18:57 Feeds Report 
+# 2025-05-07 09:18:51 Feeds Report 
 
-Daily Hacker News for 2025-05-05
-https://www.daemonology.net/hn-daily/2025-05-05.html
+Daily Hacker News for 2025-05-06
+https://www.daemonology.net/hn-daily/2025-05-06.html
 
-沒想到卡坦島會出現在這種地方...
-https://blog.gslin.org/archives/2025/05/06/12385/%e6%b2%92%e6%83%b3%e5%88%b0%e5%8d%a1%e5%9d%a6%e5%b3%b6%e6%9c%83%e5%87%ba%e7%8f%be%e5%9c%a8%e9%80%99%e7%a8%ae%e5%9c%b0%e6%96%b9/
+從 Open WebUI 換到 LibreChat
+https://blog.gslin.org/archives/2025/05/07/12388/%e5%be%9e-open-webui-%e6%8f%9b%e5%88%b0-librechat/
 
-Go 的 Green Tea GC
-https://blog.gslin.org/archives/2025/05/06/12384/go-%e7%9a%84-green-tea-gc/
+Ubuntu 的 sudo 換 sudo-rs 計畫
+https://blog.gslin.org/archives/2025/05/07/12386/ubuntu-%e7%9a%84-sudo-%e6%8f%9b-sudo-rs-%e8%a8%88%e7%95%ab/
 
-【臺灣資安大會直擊】惡意程式樣本分析費時費力？資安研究人員運用LLM打造全天全年無休的資安研究助手
-https://www.ithome.com.tw/news/168774
+YT 筆記 - Linux 的 Rust 與 C 之爭，Rust 小組成員大破防
+https://blog.darkthread.net/blog/rust-argument-in-linux/
 
-勒索軟體Babuk繞過EDR防護出現新手法，利用本機安裝程式達到目的
-https://www.ithome.com.tw/news/168773
+偷到電信商資料庫就一定能複製出 SIM 卡？初窺 PUF-USIM 保護技術
+https://blog.darkthread.net/blog/puf-usim/
 
-JetBrains開源Mellum語言模型，專精程式碼理解與補全任務
-https://www.ithome.com.tw/news/168772
+Google釋出Gemini 2.5 Pro I/O版，重點強化程式撰寫與前端開發表現
+https://www.ithome.com.tw/news/168805
 
-Palantir首季營收成長39%
-https://www.ithome.com.tw/news/168771
+xAI員工不慎於GitHub程式碼庫曝露API金鑰
+https://www.ithome.com.tw/news/168801
 
-OpenAI公布新架構，把既有營利公司轉為PBC公司
-https://www.ithome.com.tw/news/168770
+Google調查專家：中國網攻威脅達到空前高峰
+https://www.ithome.com.tw/news/168802
 
-Deno  2.3提升跨平臺編譯能力並支援本地NPM套件
-https://www.ithome.com.tw/news/168768
+【資安日報】5月7日，勒索軟體駭客自帶安裝程式，繞過EDR防護機制加密檔案
+https://www.ithome.com.tw/news/168800
+
+多家英國零售業者傳出遭到勒索軟體DragonForce攻擊
+https://www.ithome.com.tw/news/168799
+
+資料視覺化系統Kibana再爆高風險原型污染漏洞
+https://www.ithome.com.tw/news/168798
+
+Google修補已遭利用的Android漏洞CVE-2025-27363
+https://www.ithome.com.tw/news/168797
+
+思科發表量子網路糾纏晶片原型，替量子資料中心鋪路
+https://www.ithome.com.tw/news/168796
+
+微軟Copilot+ PC新增能變更設定的AI代理人、Click to Do功能
+https://www.ithome.com.tw/news/168793
+
+Nvidia開源AI語音辨識模型Parakeet TDT 0.6B
+https://www.ithome.com.tw/news/168792
+
+美國陪審團要NSO Group支付1.6億美元的賠償金予Meta
+https://www.ithome.com.tw/news/168791
+
+Hugging Face公開AI代理人Open Computer Agent，能使用模型生成圖片
+https://www.ithome.com.tw/news/168790
+
+Amazon Nova Premier多模態基礎模型上線，可用於複雜任務協作與模型蒸餾
+https://www.ithome.com.tw/news/168779
+
+【2025臺灣資安年鑑｜數發部數產署署長林俊秀】臺灣面對全球數位浪潮的挑戰，政府與產業攜手轉型
+https://www.ithome.com.tw/news/168476
 
 【資安日報】5月6日，惡意軟體Phorpiex捲土重來，被用於散布LockBit 3.0及其他作案工具
 https://www.ithome.com.tw/news/168762
@@ -36,77 +66,68 @@ https://www.ithome.com.tw/news/168761
 微軟逐步終止Authenticator儲存密碼功能，將集中以Edge為主
 https://www.ithome.com.tw/news/168758
 
-Google可能正在開發類似三星Dex的Android桌機模式
-https://www.ithome.com.tw/news/168757
+富邦媒攜手 Meta 推出 momo 聯播網 ，AI 驅動電商廣告平台覆蓋 1380 萬活躍用戶
+https://www.inside.com.tw/article/38371-momo-meta-rmn
 
-微軟開放Windows 11 24H2全面部署
-https://www.ithome.com.tw/news/168756
+2025 SecuTech 安防展Omada / VIGI 展區五大亮點搶先看  Omada 網路 VIGI 監控全方位網安一體整合方案震撼登場
+https://www.inside.com.tw/article/38370-
 
-Amazon Q Developer CLI擴充MCP支援提升資料理解深度
-https://www.ithome.com.tw/news/168748
+換匯癱瘓網銀、OpenAI 收購 Windsurf、fOx「AI 名片王」App 正式上線【塞掐 Side Chat】E339
+https://www.inside.com.tw/feature/side-chat/38369-side-chat-e339
 
-【2025臺灣資安年鑑｜數位發展部部長黃彥男】數位轉型與國安並重，臺灣在數位浪潮下的資安突圍
-https://www.ithome.com.tw/article/168475
+SEO 專家 Frank 邱韜誠：AI 時代搜尋引擎優化還重要嗎？Google 關鍵字規劃、網站體質、連結建置到流量轉換指南【塞掐 Side Chat】E338
+https://www.inside.com.tw/feature/side-chat/38315-side-chat-e338
 
-【資安週報】0428~0502，新世代資安維運中心Agentic SOC、資安領域專用LLM發展受關注
-https://www.ithome.com.tw/news/168734
+Mitsubishi 與鴻華先進正式簽訂電動車 OEM 供應合作備忘錄
+https://www.inside.com.tw/article/38363-mitsubishi-and-foxtron-sign-mou-for-electric-vehicle-oem-supply-partnership
 
-新創 Recraft 曾藉神秘圖像 AI 模型擊敗 OpenAI，完成 3 千萬美元 B 輪融資
-https://www.inside.com.tw/article/38339-recraft-b-round
+加拿大新創利用石綿礦廢料轉製電動車電池
+https://www.inside.com.tw/article/38362-worlds-largest-asbestos-mines-waste-to-be-recycled-into-ev-battery-component
 
-與 Palantir、SpaceX 共爭川普「金色圓頂」大單，Anduril 收購戰術通訊系統商
-https://www.inside.com.tw/article/38338-anduril-to-acquire-irelands-klas-to-bolster-ai-warfare-systems
+Gemini 2.5 Pro 更新！標榜最強程式碼 AI 模型，憑一個指令生成網頁應用
+https://www.inside.com.tw/article/38361-gemini-2-5-pro-0506
 
-Google 跨足影視製作！推新計畫「100 Zeros」
-https://www.inside.com.tw/article/38337-google-launched-film-tv-production
+亞馬遜 CEO 賈西：AWS AI 寫程式代理工具出現「爆發式成長」！
+https://www.inside.com.tw/article/38358-amazon-kiro-project-ai-agents-software-coding
 
-OpenAI 轉型計畫有調整！持續由非營利機構控制事業
-https://www.inside.com.tw/article/38334-openai-nonprofit-remains-in-control
+比一比 Q1 財報：PChome 營收年減收斂、momo EPS 3.41 塊
+https://www.inside.com.tw/article/38359-2025-q1-pchome-momo
 
-Google 設計大革新：Android 新介面讓使用者找到功能速度快 4 倍
-https://www.inside.com.tw/article/38335-expressive-material-design-google-research
+國泰世華銀行《請支援理財》Ep18：讓「信用分數」變成創業軟實力，新創必看的信用養成指南
+https://www.inside.com.tw/article/38329-cathaybk
 
-AWS 聯手台積電重磅出擊！新一代 AI 晶片採用 3 奈米製程，運算效能大躍進
-https://www.inside.com.tw/feature/aws-tw/38340-aws
+我在溪州連署站—大罷免浪潮的省思
+https://voicettank.org/20250506-2/
 
-台灣電商物流、倉儲進化史：24h 到貨是怎麼實現的？
-https://www.inside.com.tw/article/38333-evolution-of-taiwan-ecommerce-logistics-and-warehousing-how-24-hour-delivery-became-reality
+美中在海底電纜角力之研析
+https://voicettank.org/20250506-3/
 
-英國最高法院對「女性」定義的判決，意味著什麼？
-https://voicettank.org/20250505-1/
+2023 AWS 台灣合作夥伴高峰會　宣布 3+3 策略助力合作夥伴成就價值
+https://www.businessyee.com/article/6073-aws
 
-川普任期倒數的1,350多天，台灣製造業該何去何從？
-https://voicettank.org/20250505-2/
+商益精選書單｜KOBO電子書75折到明天！你清空購物車了嗎？
+https://www.businessyee.com/article/6066-kobo-pchome-25per-off-k-book-day
 
-一年賣 100 座 101 高的手機殼！犀牛盾靠雲端運算工具，降低庫存，瞄準「零浪費」
-https://www.businessyee.com/article/6057-aws
+母親節健康革命！南山人壽三大關鍵行動，助女性儲存健康資本
+https://www.businessyee.com/article/6065-nanshan-mother-day-2025
 
-永豐金法說》Q1獲利創新高，總座朱士廷：Ｑ2挑戰加劇
-https://www.businessyee.com/article/6055-SinoPac-2025-q1-earningcall
+【2025最新】台股配息王榜單出爐！高現金股利、各產業配息排名全解析
+https://www.businessyee.com/article/6064-2025-dividend
 
-台新金Q1法說》匯率升1角僅影響壽險8000萬，不因台幣急升提高避險比
-https://www.businessyee.com/article/6054-taishin-q1-earningcall
+【AMD Q1財報】本季營收優，但晶片出口管制將增加費用拉低未來毛利率
+https://www.businessyee.com/article/6063-amd-q1-earnings
 
-【福特Q1財報】關稅衝擊預估15億美元，福特暫停2025全年財測
-https://www.businessyee.com/article/6052-ford-motor-Q1-earnings
+國泰世華銀行《請支援理財》Ep18：讓「信用分數」變成創業軟實力，新創必看的信用養成指南
+https://www.businessyee.com/article/6038-cathaybk
 
-聯準會要降息了嗎？9張數據圖表解讀Fed下一步行動
-https://www.businessyee.com/article/6053-Fed-Rate-Cut-Analysis
+【電商 Q1財報】富邦媒穩賺EPS 3.41元；網家收斂虧損
+https://www.businessyee.com/article/6062-pchome-momo-2025-q1-earnings
 
-30歲以下族群台股開戶數成長居冠 偏好定期定額
-https://www.businessyee.com/article/6051-brokerage-account-statistics
+撕掉傳統標籤！台電合作民間企業，發展智慧電網達成永續使命
+https://www.businessyee.com/article/6072-aws
 
-【COMPUTEX 2025-AI Next Forum】AWS王定愷：未來製造不再是「人海戰術」，將面臨機器人挑戰
-https://www.businessyee.com/article/6050-computex-ai-next-forum-aws
+【美超微Q3財報】財測保守；關稅與GPU世代交替壓抑訂單動能
+https://www.businessyee.com/article/6061-super-micro-smci-q3-2025-earnings
 
-【巴菲特管理學】經理人向股神請益企業經營筆記
-https://www.businessyee.com/article/6049-buffett-management-lessons
-
-楊金龍喊匯市失序到此為止 新台幣升勢放緩守住30元
-https://www.businessyee.com/article/6048-local-dollar-rose
-
-川普喊降息無用，Fed鮑爾利率按兵不動機率達98%
-https://www.businessyee.com/article/6046-fed-powell-defy-trump
-
-Java Code Compilation Using Java Compiler API
-https://feeds.feedblitz.com/~/917779853/0/baeldung~Java-Code-Compilation-Using-Java-Compiler-API
+忘記訂母親節蛋糕？今天訂、明天出貨的店家一覽
+https://www.businessyee.com/article/6060-mothers-day-cake
