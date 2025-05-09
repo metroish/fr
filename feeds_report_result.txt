@@ -1,28 +1,58 @@
-# 2025-05-08 09:18:27 Feeds Report 
+# 2025-05-09 09:18:32 Feeds Report 
 
-Daily Hacker News for 2025-05-07
-https://www.daemonology.net/hn-daily/2025-05-07.html
+Daily Hacker News for 2025-05-08
+https://www.daemonology.net/hn-daily/2025-05-08.html
 
-PostgreSQL 18 的 async i/o
-https://blog.gslin.org/archives/2025/05/08/12389/postgresql-18-%e7%9a%84-async-i-o/
+Elasticsearch 與 OpenSearch 的差異
+https://blog.gslin.org/archives/2025/05/08/12391/elasticsearch-%e8%88%87-opensearch-%e7%9a%84%e5%b7%ae%e7%95%b0/
 
-微軟導入Agent2Agent協定推進AI代理跨平臺互通
-https://www.ithome.com.tw/news/168840
+FoundationDB 的 SQL 介面
+https://blog.gslin.org/archives/2025/05/08/12390/foundationdb-%e7%9a%84-sql-%e4%bb%8b%e9%9d%a2/
 
-Mistral推出可本地部署的企業級AI協作平臺
-https://www.ithome.com.tw/news/168837
+【茶包射手日記】CMD.exe 正常開啟，視窗卻不見蹤影
+https://blog.darkthread.net/blog/off-screen-cmd/
 
-Apache基金會修補Tomcat高風險資安漏洞
-https://www.ithome.com.tw/news/168839
+降低老客戶線上訂購門檻，臺酒靠IT全力衝刺電商化發展
+https://www.ithome.com.tw/people/168863
 
-Anthropic API新增網頁搜尋功能
-https://www.ithome.com.tw/news/168838
+資安團隊感的浮現
+https://www.ithome.com.tw/voice/168861
 
-蘋果打算在Safari上提供AI搜尋
-https://www.ithome.com.tw/news/168836
+每瓦效能表現出色，Dell推出2U單路Xeon 6伺服器
+https://www.ithome.com.tw/review/168849
 
-【奧蘭多現場直擊】數據分析大廠SAS揭3大技術戰略新進展，瞄準代理型AI、數位雙生和量子AI
-https://www.ithome.com.tw/news/168835
+教育內容出版商Pearson遭網攻外洩客戶資料、程式原始碼
+https://www.ithome.com.tw/news/168860
+
+【資安日報】5月9日，臺灣未來4年國家資通安全發展方案正式出爐，將從4大層面著手
+https://www.ithome.com.tw/news/168859
+
+Google在Chrome及搜尋中導入AI以避免用戶遭到詐騙
+https://www.ithome.com.tw/news/168858
+
+中國駭客MirrorFace鎖定臺灣、日本，散布惡意軟體RoamingMouse、Anel
+https://www.ithome.com.tw/news/168857
+
+資安臺灣隊大集結
+https://www.ithome.com.tw/article/168856
+
+Matter 1.4.1版支援NFC輕觸配對、多裝置QR code
+https://www.ithome.com.tw/news/168851
+
+OpenAI延攬Instacart執行長Fidji Simo擔任應用執行長
+https://www.ithome.com.tw/news/168850
+
+Amazon導入具觸覺感知能力的倉儲機器人Vulcan，可精巧夾取與持握貨物
+https://www.ithome.com.tw/news/168847
+
+OpenSearch轉交Linux基金會後首次釋出重大版本3.0
+https://www.ithome.com.tw/news/168843
+
+【理論很美，現實很「硬」】企業資安框架落地的五階段實戰指南
+https://www.ithome.com.tw/article/168487
+
+【奧蘭多現場直擊】AI轉型實例：阿聯酋政府靠AI縮小醫療落差，荷蘭Erasmus醫學中心將AI倫理導入臨床
+https://www.ithome.com.tw/news/168848
 
 【資安日報】5月8日，勒索軟體駭客Play旗下團體利用CLFS零時差漏洞犯案
 https://www.ithome.com.tw/news/168833
@@ -42,101 +72,80 @@ https://www.ithome.com.tw/news/168824
 微軟4月安全更新導致Server 2025驗證問題
 https://www.ithome.com.tw/news/168819
 
-ServiceNow用AI打通CRM流程中臺與前線協作斷點
-https://www.ithome.com.tw/news/168817
+【Editors&#039; Picks】有智慧佛珠還有葛飾北齋：母親節小禮送一卡通四選
+https://www.inside.com.tw/article/38395-four-ipass-card-options-for-mothers-day-gifts
 
-圖像化LLM應用開發工具Langflow存在RCE漏洞，CISA證實已被用於實際攻擊
-https://www.ithome.com.tw/news/168806
+【Editors&#039; Picks】養成媽媽的健康意識吧！用 Apple Watch 提醒她照顧自己
+https://www.inside.com.tw/article/38389-build-healthy-habits-for-mom-with-apple-watch
 
-【2025臺灣資安年鑑｜數發部資安署署長蔡福隆】致力打造「可信賴」數位環境，臺灣資安邁向全面升級之路
-https://www.ithome.com.tw/article/168480
+比亞迪宣布進軍日本 K-car 市場！預計 2026 年上市
+https://www.inside.com.tw/article/38393-byd-enters-japans-k-car-market-with-launch-expected-in-2026
 
-資料視覺化系統Kibana再爆高風險原型污染漏洞
-https://www.ithome.com.tw/news/168798
+Meta 再度挑戰加密貨幣！已在討論引進穩定幣作為支付方式
+https://www.inside.com.tw/article/38391-meta-plans-on-stablecoin-deployment
 
-Google修補已遭利用的Android漏洞CVE-2025-27363
-https://www.ithome.com.tw/news/168797
+TOYOTA Q1 財報：重新檢討 2026 年銷售 150 萬輛電動車的目標
+https://www.inside.com.tw/article/38390-ev-growth-remains-slow-toyota-stresses-multi-powertrain-strategy-for-steady-progress-toward-carbon-neutrality
 
-思科發表量子網路糾纏晶片原型，替量子資料中心鋪路
-https://www.ithome.com.tw/news/168796
+Uber Eats 公開外送員平均時薪 270 元，外送產業工會：明顯與實情不符
+https://www.inside.com.tw/article/38388-uber-eats-reports-average-delivery-pay-of-nt-270-per-hour-union-says-the-claim-is-far-from-reality
 
-微軟Copilot+ PC新增能變更設定的AI代理人、Click to Do功能
-https://www.ithome.com.tw/news/168793
+遠距成新常態！威盛十年磨劍『學習吧 LearnMode』 AWS 助陣高負載效能 單日使用量突破 51 萬人
+https://www.inside.com.tw/feature/aws-tw/38348-aws
 
-Nvidia開源AI語音辨識模型Parakeet TDT 0.6B
-https://www.ithome.com.tw/news/168792
+Uber Eats 第一次公開外送員收入！平均每小時 270 元
+https://www.inside.com.tw/article/38387-uber-eats-reveals-delivery-partner-earnings-for-the-first-time-with-average-pay-at-nt-270-per-hour
 
-美國陪審團要NSO Group支付1.6億美元的賠償金予Meta
-https://www.ithome.com.tw/news/168791
+比爾蓋茲宣布將捐出近乎全部財富，20 年內結束蓋茲基金會
+https://www.inside.com.tw/article/38386-bill-gates-announces-plan-to-donate-nearly-all-wealth-and-close-foundation-within-20-years
 
-Uber 攜手中國小馬智行，擴大無人計程車版圖到中東
-https://www.inside.com.tw/article/38382-uber-partners-with-chinas-pony-ai-deploy-self-driving-taxis-key-middle-east
+蘇姿丰：中國 AI 正在迎頭趕上，但台灣會扮演美國領先「關鍵角色」
+https://www.inside.com.tw/article/38385-us-ai-execs-give-congress-policy-wishlist-beating-china
 
-Google 在美將協助投資，新設三座核電廠
-https://www.inside.com.tw/article/38381-google-to-fund-elementl-to-prepare-three-nuclear-power-sites
+台灣人的二戰連結──談歐戰勝利八十周年
+https://voicettank.org/20250508-1/
 
-Apple 押注 AI 晶片新布局！選擇 AWS 客製化 AI 加速器
-https://www.inside.com.tw/feature/aws-tw/38343-aws
+【書摘】《分身：與陰謀論者交鋒的鏡像世界之旅》
+https://voicettank.org/20250508-2/
 
-【Generative AI 年會爐邊談】工程師沒那麼愛 AI？Will 保哥：AI 要「用對方向」
-https://www.inside.com.tw/feature/2025-generative-ai/38379-ai-adoption-challenges-among-engineers-will-perspective
+理財規劃顧問怎麼教小孩？不藏私教你5個步驟打造一生受用的財商力！
+https://www.businessyee.com/article/6099-Financial-Education
 
-廢除智慧財產相關法律合理嗎？
-https://www.inside.com.tw/article/38372-copyrights-arguments
+【月營收評比】晶圓廠4月營收：台積電再創奇蹟！成熟製程趨勢持平穩定
+https://www.businessyee.com/article/6098-foundry-revenue-apr-2025
 
-500 萬美元換美國居留權：DOGE 部門動起來準備「川普金卡簽證」，與 EB-5 投資移民計畫有何差異？
-https://www.inside.com.tw/article/38380-trump-gold-card-issuing
+立院三讀！國定假日多4+1天，今年教師節、光復節、行憲紀念日放假
+https://www.businessyee.com/article/6097-4-more-national-holidays
 
-Anthropic API 有網頁搜尋功能了！供開發者用最新資訊打造產品
-https://www.inside.com.tw/article/38378-anthropic-web-search-api
+只剩金管會點頭！永豐金與京城銀簽署員工安置計畫，合併案進最後一哩路
+https://www.businessyee.com/article/6096-2890-merge-2809
 
-全球首款「核抗」監視機器人問世，用來防護美國飛彈發射井
-https://www.inside.com.tw/article/38377-worlds-first-nuke-proof-spy-camera
+母親節別送洗碗機或掃地機，要嘛送錢要嘛送媽媽好好放鬆去！
+https://www.businessyee.com/article/6095-Gifts-for-Mom
 
-和 AI 對話來找劇！Netflix 正式推出 ChatGPT 驅動的搜尋功能
-https://www.inside.com.tw/article/38376-netflix-launches-ai-search
+月營收｜台積電4月營收3495.67億元，月增22.2 %、年增48.1 %！再創史上最高月營收，累計前4月營收破兆
+https://www.businessyee.com/article/6094-tsmc-revenue-apr-2025
 
-祖克伯：未來你的大多數朋友將會是 AI！
-https://www.inside.com.tw/article/38375-zuckerberg-ai-friends-vision-meta
+蘇姿丰示警：即使沒有最好晶片，中國正迎頭趕美；台灣扮演雙方差距關鍵角色
+https://www.businessyee.com/article/6093-amd-lisa-su-ai-race-china
 
-台新銀信用卡帳單地址錯置，引發千人個資外洩風險，金管會罰600萬元
-https://www.businessyee.com/article/6088-
+重返10萬美元！比特幣漲什麼？川普：現在是買股最佳時機
+https://www.businessyee.com/article/6092-trump-us-trade-agreement-bitcoin
 
-房貨比十家都不夠！房屋網站樂居善用 AWS 資料庫為屋主找到 CP 值最高的物件
-https://www.businessyee.com/article/6075-aws
+【TOYOTA 2026財測】佐藤恒志：不會動搖守護供應鏈的決心！關稅與日圓升值雙重壓力，純益降35%
+https://www.businessyee.com/article/6091-toyota-forecast-2026
 
-存美元正逢時！永豐銀推外幣優利定存方案， 7天期年息最高9.5%
-https://www.businessyee.com/article/6087-sinopacBT-usd-Fixed-deposit
+如何挑選適合你的手持式吸塵器？2025最熱銷款看過來！
+https://www.businessyee.com/article/6090-wireless-vacuum-cleaner-2025
 
-台幣升抵30大關！出口商苦哈哈，央行承諾研議中小企避險工具
-https://www.businessyee.com/article/6085-exporters-suffer-foreign-exchange-losses
+【版主有話說】棄嬰保溫箱與匿名生產制度
+https://changyuchieh.com/2025/05/08/udn-confidential-birth/?utm_source=rss&utm_medium=rss&utm_campaign=udn-confidential-birth
 
-AMD蘇姿丰：中國AI商機龐大，美出口管制應找平衡點
-https://www.businessyee.com/article/6084-amd-ceo-lisa-su
+【版主有話說】器官移植旅遊的爭議與問題
+https://changyuchieh.com/2025/04/26/udn-transplant-ourism/?utm_source=rss&utm_medium=rss&utm_campaign=udn-transplant-ourism
 
-不動產集中度降至36.9%！立委籲鬆綁信用管制，央行總裁楊金龍承諾檢討
-https://www.businessyee.com/article/6083-centralbankl-estate-loan-regulation-20250508
+Validate Map Using Spring Validator
+https://feeds.feedblitz.com/~/917988032/0/baeldung~Validate-Map-Using-Spring-Validator
 
-黃仁勳示警：被擋在中國AI市場外，輝達恐面臨重大損失
-https://www.businessyee.com/article/6067-nvidia-ceo-says-missing-china-ai
-
-AWS調查：生成式AI取代資安，成企業明年首要投資
-https://www.businessyee.com/article/6077-generative-ai-tops-cybersecurity
-
-【Arm Q4財報】財測冷！無視營收年增34%，盤後重挫12%
-https://www.businessyee.com/article/6080-arm-earnings-2025-q4
-
-駁美國施壓論！央行總裁楊金龍：結巴是口才不好，不是有難言之隱
-https://www.businessyee.com/article/6082-us-pressure-central-bank
-
-Transcribing Audio Files With OpenAI in Spring AI
-https://feeds.feedblitz.com/~/917913881/0/baeldung~Transcribing-Audio-Files-With-OpenAI-in-Spring-AI
-
-Call Java Class in JSP
-https://feeds.feedblitz.com/~/917912807/0/baeldung~Call-Java-Class-in-JSP
-
-Micrometer Observation and Spring Kafka
-https://feeds.feedblitz.com/~/917912810/0/baeldung~Micrometer-Observation-and-Spring-Kafka
-
-How to Install NVM in a Docker Container
-https://feeds.feedblitz.com/~/917911949/0/baeldung~How-to-Install-NVM-in-a-Docker-Container
+Testing in Java Series
+https://feeds.feedblitz.com/~/917965241/0/baeldung~Testing-in-Java-Series
