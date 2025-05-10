@@ -1,25 +1,7 @@
-# 2025-05-09 09:18:32 Feeds Report 
+# 2025-05-10 09:16:04 Feeds Report 
 
-Daily Hacker News for 2025-05-08
-https://www.daemonology.net/hn-daily/2025-05-08.html
-
-Elasticsearch 與 OpenSearch 的差異
-https://blog.gslin.org/archives/2025/05/08/12391/elasticsearch-%e8%88%87-opensearch-%e7%9a%84%e5%b7%ae%e7%95%b0/
-
-FoundationDB 的 SQL 介面
-https://blog.gslin.org/archives/2025/05/08/12390/foundationdb-%e7%9a%84-sql-%e4%bb%8b%e9%9d%a2/
-
-【茶包射手日記】CMD.exe 正常開啟，視窗卻不見蹤影
-https://blog.darkthread.net/blog/off-screen-cmd/
-
-降低老客戶線上訂購門檻，臺酒靠IT全力衝刺電商化發展
-https://www.ithome.com.tw/people/168863
-
-資安團隊感的浮現
-https://www.ithome.com.tw/voice/168861
-
-每瓦效能表現出色，Dell推出2U單路Xeon 6伺服器
-https://www.ithome.com.tw/review/168849
+Daily Hacker News for 2025-05-09
+https://www.daemonology.net/hn-daily/2025-05-09.html
 
 教育內容出版商Pearson遭網攻外洩客戶資料、程式原始碼
 https://www.ithome.com.tw/news/168860
@@ -39,113 +21,32 @@ https://www.ithome.com.tw/article/168856
 Matter 1.4.1版支援NFC輕觸配對、多裝置QR code
 https://www.ithome.com.tw/news/168851
 
-OpenAI延攬Instacart執行長Fidji Simo擔任應用執行長
-https://www.ithome.com.tw/news/168850
+AWS 偕同策略夥伴建構雲世代資安長安全戰略思維
+https://www.inside.com.tw/feature/aws-tw/38345-aws
 
-Amazon導入具觸覺感知能力的倉儲機器人Vulcan，可精巧夾取與持握貨物
-https://www.ithome.com.tw/news/168847
+上榜名校的神隊友！Soarogo 用 AWS 技術贏下台灣補教市場
+https://www.inside.com.tw/feature/aws-tw/38344-aws
 
-OpenSearch轉交Linux基金會後首次釋出重大版本3.0
-https://www.ithome.com.tw/news/168843
+遏止尖端科技外流！美擬立法要求 AI 晶片安裝位置驗證機制
+https://www.inside.com.tw/article/38400-us-senator-introduces-bill-calling-location-tracking-ai-chips
 
-【理論很美，現實很「硬」】企業資安框架落地的五階段實戰指南
-https://www.ithome.com.tw/article/168487
+【Editors&#039; Picks】幫自己的手機換新衣，就像換了一段新人生！犀牛盾設計系列手機殼推薦
+https://www.inside.com.tw/article/38397-rhinoshield-iphone-case
 
-【奧蘭多現場直擊】AI轉型實例：阿聯酋政府靠AI縮小醫療落差，荷蘭Erasmus醫學中心將AI倫理導入臨床
-https://www.ithome.com.tw/news/168848
+避免 AI 產生幻覺的「雲端硬碟」
+https://www.inside.com.tw/article/38394-the-cloud-drive-designed-to-prevent-ai-hallucinations
 
-【資安日報】5月8日，勒索軟體駭客Play旗下團體利用CLFS零時差漏洞犯案
-https://www.ithome.com.tw/news/168833
+【Editors&#039; Picks】母親節按摩好物特輯：為媽媽精選五款療癒身心的舒壓禮物
+https://www.inside.com.tw/article/38396-massage-gadgets
 
-醫材廠Masimo遭網路攻擊 影響產線運作
-https://www.ithome.com.tw/news/168832
+別挑禮物了！送錢最實際？精打細算的禮券挑選法
+https://www.businessyee.com/article/6102-gift-voucher
 
-OpenAI發表OpenAI for Countries，將協助各國打造AI基礎設施
-https://www.ithome.com.tw/news/168831
+洪怡芳：任何事都會被取代，找到「對的人」才是創業的護城河！
+https://www.businessyee.com/article/6101-ruby
 
-【臺灣資安大會直擊】將資通訊科技風險納入企業風險管理，掌握整合兩者的關鍵方法
-https://www.ithome.com.tw/news/168795
+【好險有聽】7 個重點建構買對保險的認知模式！
+https://www.businessyee.com/article/6100-insurance-literacy
 
-微軟4月修補的零時差漏洞也遭Play勒索軟體駭客覬覦
-https://www.ithome.com.tw/news/168824
-
-微軟4月安全更新導致Server 2025驗證問題
-https://www.ithome.com.tw/news/168819
-
-【Editors&#039; Picks】有智慧佛珠還有葛飾北齋：母親節小禮送一卡通四選
-https://www.inside.com.tw/article/38395-four-ipass-card-options-for-mothers-day-gifts
-
-【Editors&#039; Picks】養成媽媽的健康意識吧！用 Apple Watch 提醒她照顧自己
-https://www.inside.com.tw/article/38389-build-healthy-habits-for-mom-with-apple-watch
-
-比亞迪宣布進軍日本 K-car 市場！預計 2026 年上市
-https://www.inside.com.tw/article/38393-byd-enters-japans-k-car-market-with-launch-expected-in-2026
-
-Meta 再度挑戰加密貨幣！已在討論引進穩定幣作為支付方式
-https://www.inside.com.tw/article/38391-meta-plans-on-stablecoin-deployment
-
-TOYOTA Q1 財報：重新檢討 2026 年銷售 150 萬輛電動車的目標
-https://www.inside.com.tw/article/38390-ev-growth-remains-slow-toyota-stresses-multi-powertrain-strategy-for-steady-progress-toward-carbon-neutrality
-
-Uber Eats 公開外送員平均時薪 270 元，外送產業工會：明顯與實情不符
-https://www.inside.com.tw/article/38388-uber-eats-reports-average-delivery-pay-of-nt-270-per-hour-union-says-the-claim-is-far-from-reality
-
-遠距成新常態！威盛十年磨劍『學習吧 LearnMode』 AWS 助陣高負載效能 單日使用量突破 51 萬人
-https://www.inside.com.tw/feature/aws-tw/38348-aws
-
-Uber Eats 第一次公開外送員收入！平均每小時 270 元
-https://www.inside.com.tw/article/38387-uber-eats-reveals-delivery-partner-earnings-for-the-first-time-with-average-pay-at-nt-270-per-hour
-
-比爾蓋茲宣布將捐出近乎全部財富，20 年內結束蓋茲基金會
-https://www.inside.com.tw/article/38386-bill-gates-announces-plan-to-donate-nearly-all-wealth-and-close-foundation-within-20-years
-
-蘇姿丰：中國 AI 正在迎頭趕上，但台灣會扮演美國領先「關鍵角色」
-https://www.inside.com.tw/article/38385-us-ai-execs-give-congress-policy-wishlist-beating-china
-
-台灣人的二戰連結──談歐戰勝利八十周年
-https://voicettank.org/20250508-1/
-
-【書摘】《分身：與陰謀論者交鋒的鏡像世界之旅》
-https://voicettank.org/20250508-2/
-
-理財規劃顧問怎麼教小孩？不藏私教你5個步驟打造一生受用的財商力！
-https://www.businessyee.com/article/6099-Financial-Education
-
-【月營收評比】晶圓廠4月營收：台積電再創奇蹟！成熟製程趨勢持平穩定
-https://www.businessyee.com/article/6098-foundry-revenue-apr-2025
-
-立院三讀！國定假日多4+1天，今年教師節、光復節、行憲紀念日放假
-https://www.businessyee.com/article/6097-4-more-national-holidays
-
-只剩金管會點頭！永豐金與京城銀簽署員工安置計畫，合併案進最後一哩路
-https://www.businessyee.com/article/6096-2890-merge-2809
-
-母親節別送洗碗機或掃地機，要嘛送錢要嘛送媽媽好好放鬆去！
-https://www.businessyee.com/article/6095-Gifts-for-Mom
-
-月營收｜台積電4月營收3495.67億元，月增22.2 %、年增48.1 %！再創史上最高月營收，累計前4月營收破兆
-https://www.businessyee.com/article/6094-tsmc-revenue-apr-2025
-
-蘇姿丰示警：即使沒有最好晶片，中國正迎頭趕美；台灣扮演雙方差距關鍵角色
-https://www.businessyee.com/article/6093-amd-lisa-su-ai-race-china
-
-重返10萬美元！比特幣漲什麼？川普：現在是買股最佳時機
-https://www.businessyee.com/article/6092-trump-us-trade-agreement-bitcoin
-
-【TOYOTA 2026財測】佐藤恒志：不會動搖守護供應鏈的決心！關稅與日圓升值雙重壓力，純益降35%
-https://www.businessyee.com/article/6091-toyota-forecast-2026
-
-如何挑選適合你的手持式吸塵器？2025最熱銷款看過來！
-https://www.businessyee.com/article/6090-wireless-vacuum-cleaner-2025
-
-【版主有話說】棄嬰保溫箱與匿名生產制度
-https://changyuchieh.com/2025/05/08/udn-confidential-birth/?utm_source=rss&utm_medium=rss&utm_campaign=udn-confidential-birth
-
-【版主有話說】器官移植旅遊的爭議與問題
-https://changyuchieh.com/2025/04/26/udn-transplant-ourism/?utm_source=rss&utm_medium=rss&utm_campaign=udn-transplant-ourism
-
-Validate Map Using Spring Validator
-https://feeds.feedblitz.com/~/917988032/0/baeldung~Validate-Map-Using-Spring-Validator
-
-Testing in Java Series
-https://feeds.feedblitz.com/~/917965241/0/baeldung~Testing-in-Java-Series
+Java Weekly, Issue 593
+https://feeds.feedblitz.com/~/918015167/0/baeldung~Java-Weekly-Issue
