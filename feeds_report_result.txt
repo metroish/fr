@@ -1,52 +1,19 @@
-# 2025-05-10 09:16:04 Feeds Report 
+# 2025-05-11 09:16:31 Feeds Report 
 
-Daily Hacker News for 2025-05-09
-https://www.daemonology.net/hn-daily/2025-05-09.html
+Daily Hacker News for 2025-05-10
+https://www.daemonology.net/hn-daily/2025-05-10.html
 
-教育內容出版商Pearson遭網攻外洩客戶資料、程式原始碼
-https://www.ithome.com.tw/news/168860
+Weekly Ask Hacker News for 2025-05-04 -- 2025-05-10
+http://www.daemonology.net/hn-weekly-ask/2025-05-10.html
 
-【資安日報】5月9日，臺灣未來4年國家資通安全發展方案正式出爐，將從4大層面著手
-https://www.ithome.com.tw/news/168859
+AWS 攜手智邦科技推雲端智慧能源監控系統 助力製造業用電效益最佳化
+https://www.inside.com.tw/feature/aws-tw/38350-aws
 
-Google在Chrome及搜尋中導入AI以避免用戶遭到詐騙
-https://www.ithome.com.tw/news/168858
+超過 500 間門市的 LOUISA 路易莎如何導入 AWS 雲端營運系統，助力門市版圖擴展？
+https://www.inside.com.tw/feature/aws-tw/38349-aws
 
-中國駭客MirrorFace鎖定臺灣、日本，散布惡意軟體RoamingMouse、Anel
-https://www.ithome.com.tw/news/168857
+媒體識讀教授給鄰居的反共公開信
+https://ckhung0.blogspot.com/2025/05/letter.html
 
-資安臺灣隊大集結
-https://www.ithome.com.tw/article/168856
-
-Matter 1.4.1版支援NFC輕觸配對、多裝置QR code
-https://www.ithome.com.tw/news/168851
-
-AWS 偕同策略夥伴建構雲世代資安長安全戰略思維
-https://www.inside.com.tw/feature/aws-tw/38345-aws
-
-上榜名校的神隊友！Soarogo 用 AWS 技術贏下台灣補教市場
-https://www.inside.com.tw/feature/aws-tw/38344-aws
-
-遏止尖端科技外流！美擬立法要求 AI 晶片安裝位置驗證機制
-https://www.inside.com.tw/article/38400-us-senator-introduces-bill-calling-location-tracking-ai-chips
-
-【Editors&#039; Picks】幫自己的手機換新衣，就像換了一段新人生！犀牛盾設計系列手機殼推薦
-https://www.inside.com.tw/article/38397-rhinoshield-iphone-case
-
-避免 AI 產生幻覺的「雲端硬碟」
-https://www.inside.com.tw/article/38394-the-cloud-drive-designed-to-prevent-ai-hallucinations
-
-【Editors&#039; Picks】母親節按摩好物特輯：為媽媽精選五款療癒身心的舒壓禮物
-https://www.inside.com.tw/article/38396-massage-gadgets
-
-別挑禮物了！送錢最實際？精打細算的禮券挑選法
-https://www.businessyee.com/article/6102-gift-voucher
-
-洪怡芳：任何事都會被取代，找到「對的人」才是創業的護城河！
-https://www.businessyee.com/article/6101-ruby
-
-【好險有聽】7 個重點建構買對保險的認知模式！
-https://www.businessyee.com/article/6100-insurance-literacy
-
-Java Weekly, Issue 593
-https://feeds.feedblitz.com/~/918015167/0/baeldung~Java-Weekly-Issue
+與路共生
+https://dushuyizhi.net/crossings/
