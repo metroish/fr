@@ -1,19 +1,100 @@
-# 2025-05-11 09:16:31 Feeds Report 
+# 2025-05-12 09:19:46 Feeds Report 
 
-Daily Hacker News for 2025-05-10
-https://www.daemonology.net/hn-daily/2025-05-10.html
+Daily Hacker News for 2025-05-11
+https://www.daemonology.net/hn-daily/2025-05-11.html
 
-Weekly Ask Hacker News for 2025-05-04 -- 2025-05-10
-http://www.daemonology.net/hn-weekly-ask/2025-05-10.html
+【資安週報】0505~0509，第七期國家資通安全發展方案正式出爐，以建構可信賴、安全的數位社會為核心價值
+https://www.ithome.com.tw/news/168882
 
-AWS 攜手智邦科技推雲端智慧能源監控系統 助力製造業用電效益最佳化
-https://www.inside.com.tw/feature/aws-tw/38350-aws
+NPM套件rand-user-agent遭供應鏈攻擊，植入遠端木馬監控用戶系統
+https://www.ithome.com.tw/news/168884
 
-超過 500 間門市的 LOUISA 路易莎如何導入 AWS 雲端營運系統，助力門市版圖擴展？
-https://www.inside.com.tw/feature/aws-tw/38349-aws
+【臺灣資安大會直擊】凱基人壽公開資安聯防作法，藉集團資安情資分享平臺防禦威脅
+https://www.ithome.com.tw/news/168862
 
-媒體識讀教授給鄰居的反共公開信
-https://ckhung0.blogspot.com/2025/05/letter.html
+【臺灣資安大會直擊】國泰金控推動零信任強化計畫，目標三年內集團各子公司重要風險場景達到進階水準
+https://www.ithome.com.tw/news/168864
 
-與路共生
-https://dushuyizhi.net/crossings/
+勒索軟體LockBit傳出遭駭，內部資料外流
+https://www.ithome.com.tw/news/168886
+
+Windows部署服務曝DoS漏洞，有機會被用於遠端發動零點擊攻擊
+https://www.ithome.com.tw/news/168885
+
+Fintech周報第265期：摩根大通集團資安長發布公開信，呼籲金融機構強化供應鏈安全控管
+https://www.ithome.com.tw/news/168883
+
+微軟Teams將以新功能防止視訊畫面被螢幕擷圖
+https://www.ithome.com.tw/news/168880
+
+Google將自動把桌機、手機用戶密碼升級為通行密鑰
+https://www.ithome.com.tw/news/168879
+
+Google Gemini API加入更省錢的隱含快取功能
+https://www.ithome.com.tw/news/168878
+
+SUSE要將中國社群開發的Deepin桌面環境自openSUSE中移除
+https://www.ithome.com.tw/news/168877
+
+阿里巴巴開源ZeroSearch，讓AI模擬搜尋以降低訓練成本
+https://www.ithome.com.tw/news/168876
+
+Google Play強制App支援16KB記憶體分頁，提升Android 15效能與相容性
+https://www.ithome.com.tw/news/168874
+
+思科修補JWT寫死的令牌漏洞，防止IOS XE控制器被遠端操控
+https://www.ithome.com.tw/news/168873
+
+「雲到哪裡，服務就到哪裡！」AWS南台灣雲端產業論壇，推動大南方雲經濟
+https://www.inside.com.tw/feature/aws-tw/38366-aws
+
+科學家解決 70 年核融合難題：有效控制高能粒子在反應器內活動度
+https://www.inside.com.tw/article/38413-a-nuclear-fusion-problem-solved
+
+發表「AI 可能不算合理使用」兩天後，川普政府解雇了美國版權局局長
+https://www.inside.com.tw/article/38412-ai-inccidents-and-us-copyright-register
+
+前凱基證券分析師 Freddy：AI 最大贏家是誰？談談台灣人怎麼觀察美股【塞掐 Side Chat】E340
+https://www.inside.com.tw/feature/side-chat/38411-side-chat-e340
+
+文字生成樂高設計！AI 模型「LegoGPT」能打造不會倒的積木結構
+https://www.inside.com.tw/article/38410-legogpt-creates-stable-lego-design
+
+OpenAI、微軟重新談判合約！討論重組、IPO 之後，合作關係如何演進
+https://www.inside.com.tw/article/38408-openai-microsoft-negotiates
+
+小型核能 SMR 真的能成 AI 救世主嗎？
+https://www.inside.com.tw/article/37162-can-small-modular-reactors-become-ai-power-solution
+
+台灣 5 月 17 日正式邁入「非核家園」，台電鼓勵核能員工轉火力
+https://www.inside.com.tw/article/38407-taipower-encourages-nuclear-staff-to-transfer-to-thermal-power-operations
+
+聯合航空推出 Starlink 衛星 Wi-Fi 服務，飛航模式時代即將終結？
+https://www.inside.com.tw/article/38405-united-starlink-wifi
+
+固態電池破紀錄！德國科學家成功讓鋰離子移動速度提升 30%
+https://www.inside.com.tw/article/38406-scientists-develop-new-material-for-solid-state-batteries
+
+寧德時代啟動40億美元港股IPO，美資參與受限
+https://www.businessyee.com/article/6107-chinas-catl-HK-IPO
+
+讓 AI 大眾化，Amazon Bedrock 生成無限可能
+https://www.businessyee.com/article/6069-aws
+
+美中會談結束 美國財長：取得實質性進展
+https://www.businessyee.com/article/6108-us-china-tariff
+
+貿易協議卡位戰！白宮：以美英模式為藍圖，本週起陸續公布
+https://www.businessyee.com/article/6106-trump-tariff-uk
+
+OpenAI擬推IPO！與微軟重啟合作條款
+https://www.businessyee.com/article/6105-openai-ipo
+
+AWS 舉辦 2023 製造轉型戰略峰會 助力台灣製造業加速智慧和永續轉型、布局全球
+https://www.businessyee.com/article/6068-aws
+
+高盛示警：期限溢價陡峭扭轉，聯準會陷「抗通膨信譽」保衛戰
+https://www.businessyee.com/article/6104-us-bond-steepening-twist
+
+【COMPUTEX 2025】黃仁勳來台！開幕演講將聚焦 AI 最新突破
+https://www.businessyee.com/article/6103-jensen-huang-taiwan-computex-2025
