@@ -15,3 +15,4 @@ https://manny-li.com/feed|2025-01-23 15:07:51
 https://dushuyizhi.net/feed|2025-05-11 09:16:27
 https://changyuchieh.com/feed|2025-05-09 09:18:32
 https://feeds.feedblitz.com/baeldung&x=1|2025-05-10 09:16:04
+https://lobste.rs/rss|2025-05-13 09:00:00
