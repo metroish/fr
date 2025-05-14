@@ -1,25 +1,52 @@
-# 2025-05-13 09:18:56 Feeds Report 
+# 2025-05-14 09:18:47 Feeds Report 
 
-Daily Hacker News for 2025-05-12
-https://www.daemonology.net/hn-daily/2025-05-12.html
+Daily Hacker News for 2025-05-13
+https://www.daemonology.net/hn-daily/2025-05-13.html
 
-Ubuntu 22.04 安裝新版 Golang / Node.js
-https://blog.darkthread.net/blog/ubuntu2204-apt-go-nodejs-version/
+Servo 的一些進展
+https://blog.gslin.org/archives/2025/05/14/12394/servo-%e7%9a%84%e4%b8%80%e4%ba%9b%e9%80%b2%e5%b1%95/
 
-美暫停實施中國高關稅，但未放行Temu與Shein
-https://www.ithome.com.tw/news/168920
+Mozilla 把 Firefox 的 code repository 搬到 GitHub 上
+https://blog.gslin.org/archives/2025/05/14/12393/mozilla-%e6%8a%8a-firefox-%e7%9a%84-code-repository-%e6%90%ac%e5%88%b0-github-%e4%b8%8a/
 
-北韓駭客APT37偽冒國安論壇邀請信網釣目標，執行RoKRAT間諜攻擊
-https://www.ithome.com.tw/news/168917
+screen 這次的安全性問題
+https://blog.gslin.org/archives/2025/05/13/12392/screen-%e9%80%99%e6%ac%a1%e7%9a%84%e5%ae%89%e5%85%a8%e6%80%a7%e5%95%8f%e9%a1%8c/
 
-Mitel網路電話存在重大漏洞，恐被用於命令注入攻擊
-https://www.ithome.com.tw/news/168908
+前端小技 - 單一網頁模擬多頁切換(支援回上頁)
+https://blog.darkthread.net/blog/multipage-nav-in-single-html/
 
-C# 14推出擴充成員語法，強化屬性與方法擴充能力
-https://www.ithome.com.tw/news/168904
+美國數位銀行Chime申請IPO
+https://www.ithome.com.tw/news/168943
 
-微軟將提供Windows 10上的M365 App安全更新到2028年　但不包含Office
-https://www.ithome.com.tw/news/168907
+Ivanti修補兩個已遭利用零時差漏洞，問題出在EPMM採用的開源程式庫
+https://www.ithome.com.tw/news/168936
+
+近期NetWeaver遭利用零時差漏洞不只一個，SAP月度安全更新再修補另一個
+https://www.ithome.com.tw/news/168935
+
+微軟將裁撤6,000名員工，接近3%人力
+https://www.ithome.com.tw/news/168934
+
+Google發表新一代設計語言Material 3 Expressive
+https://www.ithome.com.tw/news/168933
+
+微軟發布5月例行更新，修補5項已被用於攻擊的零時差漏洞
+https://www.ithome.com.tw/news/168932
+
+Notion推出AI for Work提供會議記錄、搜尋、模型工具
+https://www.ithome.com.tw/news/168931
+
+沙烏地阿拉伯啟動國家級AI計畫，攜手Nvidia、AMD及AWS等業者
+https://www.ithome.com.tw/news/168929
+
+Radware WAF爆出Filter Bypass漏洞，但廠商說2023年就已修補
+https://www.ithome.com.tw/news/168924
+
+Google搜尋測試以AI Mode取代「I&#039;m Feeling Lucky」
+https://www.ithome.com.tw/news/168923
+
+VS Code加強AI協作能力，擴展自動修正與跨裝置同步開發機制
+https://www.ithome.com.tw/news/168919
 
 華碩主機板存在遠端程式碼執行漏洞
 https://www.ithome.com.tw/news/168906
@@ -30,86 +57,116 @@ https://www.ithome.com.tw/news/168905
 353億美元併購案IT架構整合挑戰大，100%上雲美國金融巨頭重回混合雲架構
 https://www.ithome.com.tw/news/168900
 
-Node.js強化非同步追蹤機制，上下文管理更穩定
-https://www.ithome.com.tw/news/168896
+電支戰局風雲再起：LINE Pay 叩關申請執照，蝦皮支付重返觀察名單
+https://www.inside.com.tw/article/38430-third-party-payment
 
-【臺灣資安大會直擊】凱基人壽公開資安聯防作法，藉集團資安情資分享平臺防禦威脅
-https://www.ithome.com.tw/news/168862
+Google 不會做產品？Apple 輔助使用更新哪些功能、Stripe 大會 Jony Ive 受訪亮點【塞掐 Side Chat】E341
+https://www.inside.com.tw/feature/side-chat/38431-side-chat-e341
 
-【臺灣資安大會直擊】國泰金控推動零信任強化計畫，目標三年內集團各子公司重要風險場景達到進階水準
-https://www.ithome.com.tw/news/168864
+【Generative AI 年會爐邊談】專訪 Ø Studio Davis Chang：獲獎的 AI 影片是怎麼煉成的？
+https://www.inside.com.tw/feature/2025-generative-ai/38427-davis-chang-how-award-winning-ai-videos-are-created
 
-勒索軟體LockBit傳出遭駭，內部資料外流
-https://www.ithome.com.tw/news/168886
+支援腦機介面！Apple 輔助使用功能再進化，有哪些新功能？
+https://www.inside.com.tw/article/38426-apple-unveils-powerful-accessibility-features-coming-later-this-year
 
-Windows部署服務曝DoS漏洞，有機會被用於遠端發動零點擊攻擊
-https://www.ithome.com.tw/news/168885
+AI 扭轉醫界高負荷的起點！高雄榮總用 AWS 改善護理人員工作流程
+https://www.inside.com.tw/feature/aws-tw/38422-aws
 
-Fintech周報第265期：摩根大通集團資安長發布公開信，呼籲金融機構強化供應鏈安全控管
-https://www.ithome.com.tw/news/168883
+美國新創推出「超級木材」：防火防水比鋼鐵堅韌 10 倍但觸感跟天然一樣好
+https://www.inside.com.tw/article/38425-revolutionary-superwood-stronger-than-steel
 
-運用全代管無伺服器 AWS 服務，微電能源打造低成本無門檻完美微電網
-https://www.inside.com.tw/feature/aws-tw/38368-aws
+色彩更艷了！Google 正式公布 Android 16 新設計語言 Material 3 Expressive
+https://www.inside.com.tw/article/38424-google-material-3
 
-Mercedes-AMG 亮相純電 GT 車型！預計對標保時捷 Taycan
-https://www.inside.com.tw/article/38418-mercedes-amg-teases-first-ever-bespoke-1000-hp-electric-super-sedan
+街口支付擴張策略觀察：跨境、嵌入式金融與情境延伸的三軌佈局
+https://www.inside.com.tw/article/38423-jko-team-expand
 
-進軍醫療保健領域！OpenAI 推出醫療 AI 評估標準 HealthBench
-https://www.inside.com.tw/article/38419-openai-healthbench
+【Generative AI 年會爐邊談】「不用研究提示詞了，改版太快！」永聯物流開發陳凱翔 AI 實戰經驗談
+https://www.inside.com.tw/feature/2025-generative-ai/38420-alp-practical-ai-implementation-experiences-in-logistics-industry
 
-Perplexity 新一輪融資！預計以 140 億美元估值，募 5 億美元
-https://www.inside.com.tw/article/38417-perpleity-new-500m-funding-round
+營收毛利雙創同期新高，LINE Pay 首季營收破 18 億，毛利年增 32%
+https://www.inside.com.tw/article/38421-line-pay-2025-q1
 
-家外廣告無法精準投放？AWS 科技助東森分眾傳媒破除障礙
-https://www.inside.com.tw/feature/aws-tw/38367-aws
+永豐金證限量開賣「股票禮品卡」，用LINE 一鍵送出台積電、0050等熱門股
+https://www.businessyee.com/article/6129-stock-gift-card
 
-Google 近十年首次更新「G」logo！
-https://www.inside.com.tw/article/38416-google-changes-g-logo
+【Sony 2026 財測】川普關稅衝擊 1000 億日圓！純益預估年減 13%；宣布 2500 億日圓庫藏股回購
+https://www.businessyee.com/article/6128-sony-forecast-2026
 
-貝佐斯也看好！模組化電動皮卡 Slate Auto 突破十萬筆預約
-https://www.inside.com.tw/article/38415-slate-auto-crosses-100000-refundable-reservations-in-two-weeks
+【造山者影評】在求快的時代，請慢下來回頭看走過的路
+https://www.businessyee.com/article/6127-a-chip-odyssey
 
-雲塑產業 AI 新布局  智啟雲世代轉型－年度雲端盛會 Google Cloud Summit Taipei 六月登場
-https://www.inside.com.tw/feature/google-cloud-2023/38357-googlecloud
+與女股神同行！中信ARK主動式ETF（00983A） 6/2開募，搶先卡位顛覆創新
+https://www.businessyee.com/article/6126-00983a-ipo
 
-統一資訊 RMN-R 技術整合 OPENPOINT APP 與 pDOOH 螢幕，數位看板展示母親節感人告白
-https://www.inside.com.tw/article/38414-president-information-rmn
+AI 扭轉醫界高負荷的起點！高雄榮總用 AWS 改善護理人員工作流程
+https://www.businessyee.com/article/6123-aws
 
-《NEXTCOMM 衛星通訊共振未來》Satellite x 6G 標準化趨勢產業論壇，布局全球衛星市場、搶攻 6G 新商機
-https://www.inside.com.tw/article/38392-NEXTCOMM
+台積電重訊：釋出逾21億元設備！助世界先進130-40奈米擴產
+https://www.businessyee.com/article/6125-tsmc-vsmc
 
-電價的政治經濟學
-https://voicettank.org/20250512-2/
+安聯人壽慶30歲，亞太區CEO誓言2030年全台10%人口為安聯保戶
+https://www.businessyee.com/article/6124-taiwan-allianz-life-30-years-old
 
-朱立倫納粹論：梅杜莎之筏
-https://voicettank.org/20250512-1/
+中國「不讓步」策略見效！美方大幅調降對中關稅
+https://www.businessyee.com/article/6122-xi-defiance-pays-off-trump
 
-LINE Pay首季EPS 2.39元，毛利年增32%創同期新高
-https://www.businessyee.com/article/6121-linepay-2025-q1-result
+The penultimate conditional syntax
+https://dotat.at/@/2025-05-13-if-is.html
 
-限時預購｜今年端午，你開吃南部粽還是北部粽？
-https://www.businessyee.com/article/6120-dragon-boat-festival-zongzi
+Preventing outages with pkill's new --require-handler flag
+https://chrisdown.name/2025/05/13/safer-signal-sending-with-pkill-require-handler.html
 
-Coinbase 5/19起納入標普500，盤後股價大漲近一成
-https://www.businessyee.com/article/6119-coinbase-join-s&p500
+Firefox moves to GitHub
+https://github.com/mozilla-firefox/firefox
 
-從購物網站到語音助手，AWS 如何讓生成式 AI 全民化？
-https://www.businessyee.com/article/6071-aws
+Writing that changed how I think about PL
+https://bernsteinbear.com/blog/pl-writing/
 
-比爾蓋茲宣布20年內捐2,000 億美元
-https://www.businessyee.com/article/6118-Gates-wealth
+LibreWolf Browser
+https://librewolf.net/
 
-輝達海外總部選址 傳黃仁勳本週來台拍板定案
-https://www.businessyee.com/article/6117-nvidia-tw-office
+The first year of free-threaded Python
+https://labs.quansight.org/blog/free-threaded-one-year-recap
 
-美國調降中港澳小額包裹關稅 從120%降至54%
-https://www.businessyee.com/article/6116-US-China-Tariffs
+Policy of transience
+https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/transience/
 
-【月營收評比】六大通路4月營收：零售業乍暖還寒時候，關稅影響是否晚來風急？
-https://www.businessyee.com/article/6115-channel-revenue-apr-2025
+$20K Bounty Offered for Optimizing Rust Code in rav1d AV1 Decoder
+https://www.memorysafety.org/blog/rav1d-perf-bounty/
 
-僅凱壽賺錢！6大壽險4月合計虧損187.76億，南山最慘
-https://www.businessyee.com/article/6114-life-insurance-2025-apr
+An accessibility update
+https://blog.gtk.org/2025/05/12/an-accessibility-update/
 
-爲什麽 AWS 提供更安全、合規、負責任的生成式 AI？
-https://www.businessyee.com/article/6070-aws
+Avian Physics 0.3
+https://joonaa.dev/blog/08/avian-0-3
+
+Apple unveils powerful accessibility features coming later this year
+https://www.apple.com/newsroom/2025/05/apple-unveils-powerful-accessibility-features-coming-later-this-year/
+
+My DjangoCon Europe 2025
+https://www.paulox.net/2025/05/13/my-djangocon-europe-2025/
+
+Misadventures in DTrace: how to debug the macOS kernel
+https://jade.fyi/blog/misadventures-in-dtrace/
+
+Cracking The Dave & Buster’s Anomaly
+https://rambo.codes/posts/2025-05-12-cracking-the-dave-and-busters-anomaly
+
+Experiment on your code freely with Git worktree
+https://opensource.com/article/21/4/git-worktree
+
+A case for intransitive operator precedence (2019)
+https://blog.adamant-lang.org/2019/operator-precedence/
+
+How is Stack memory allocated when using 'push' or 'sub' x86 instructions?
+https://stackoverflow.com/a/46791370
+
+AI Is Like a Crappy Consultant
+https://lukekanies.com/writing/ai-is-like-a-crappy-consultant/
+
+Minus 100 points
+https://learn.microsoft.com/en-us/archive/blogs/ericgu/minus-100-points
+
+Makepad 1.0 : Rust UI Framework
+https://makepad.nl/
