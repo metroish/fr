@@ -1,31 +1,49 @@
-# 2025-05-15 09:18:49 Feeds Report 
+# 2025-05-16 09:18:29 Feeds Report 
 
-Daily Hacker News for 2025-05-14
-https://www.daemonology.net/hn-daily/2025-05-14.html
+Daily Hacker News for 2025-05-15
+https://www.daemonology.net/hn-daily/2025-05-15.html
 
-中國駭客、勒索軟體駭客加入利用SAP NetWeaver滿分漏洞的行列
-https://www.ithome.com.tw/news/168966
+資安業者Proofpoint將買下競爭對手Hornetsecurity
+https://www.ithome.com.tw/news/168996
 
-股票交易平臺eToro以52美元的發行價登上那斯達克，首日上漲29%
-https://www.ithome.com.tw/news/168965
+新世代分散式儲存平臺興起
+https://www.ithome.com.tw/article/168994
 
-台新銀行完成多雲災備POC，靠演練驗證應用上雲能力並培養IT團隊實作技能
-https://www.ithome.com.tw/news/168964
+【角逐AI應用的高效能儲存需求】新世代平行檔案儲存系統興起
+https://www.ithome.com.tw/tech/168979
 
-國科會揭AI智慧機器人計畫，祭出4大推動策略
-https://www.ithome.com.tw/news/168963
+【從架構與功能，檢視主流平行檔案系統的異同】新世代平行檔案儲存系統的特性
+https://www.ithome.com.tw/tech/168992
 
-微軟將在今年8月關閉Bing Search APIs
-https://www.ithome.com.tw/news/168962
+APT28利用郵件系統漏洞從事網路間諜活動，鎖定政府機關竊取重要資料
+https://www.ithome.com.tw/news/168993
 
-Databricks將以10億美元買下開源雲端資料庫新創Neon
-https://www.ithome.com.tw/news/168961
+GovTech月報第41期：數發部與金融業者聯手成立防詐實驗室發展識詐技術；沙國啟動國家AI新計畫，加速AI基礎建設
+https://www.ithome.com.tw/news/168978
 
-Google將防止Chrome以管理員權限開啟
-https://www.ithome.com.tw/news/168960
+Android Find My Device擴增功能 改名為Find Hub
+https://www.ithome.com.tw/news/168991
 
-美商務部取消前政府AI晶片出口管制　但宣布新管制措施
-https://www.ithome.com.tw/news/168959
+Windsurf發表專為軟體工程師建置的SWE-1模型
+https://www.ithome.com.tw/news/168980
+
+用資料驅動20億餐飲集團決策，開展用AI支援餐廳最前線
+https://www.ithome.com.tw/people/168976
+
+Google發布Chrome 136緊急更新，修補已遭利用的零時差漏洞
+https://www.ithome.com.tw/news/168977
+
+掌握全球資安情資的捷徑
+https://www.ithome.com.tw/voice/168974
+
+中國部署首個AI運算衛星星系
+https://www.ithome.com.tw/news/168973
+
+美國加密貨幣交易平臺Coinbase有內賊，部分客戶資料外洩
+https://www.ithome.com.tw/news/168972
+
+微軟測試Windows 11以Hey Copilot喚醒Copilot Voice
+https://www.ithome.com.tw/news/168971
 
 Adobe發布5月更新，呼籲IT人員優先處理ColdFusion資安漏洞
 https://www.ithome.com.tw/news/168958
@@ -39,167 +57,134 @@ https://www.ithome.com.tw/news/168952
 歐盟漏洞資料庫專案EUVD正式登場
 https://www.ithome.com.tw/news/168951
 
-Steam 8,900萬用戶帳號資料疑外洩 母公司否認系統遭駭
-https://www.ithome.com.tw/news/168950
+馬斯克證實特斯拉無人計程車將進軍沙烏地阿拉伯
+https://www.inside.com.tw/article/38463-tesla-robotaxi-saudi-arabia-elon-musk
 
-微軟發布5月例行更新，修補5項已被用於攻擊的零時差漏洞
-https://www.ithome.com.tw/news/168932
+全球首座商用碳捕捉濾材超級工廠啟用，年產量可捕捉超過 2,700 萬輛汽車碳排放
+https://www.inside.com.tw/article/38462-svantes-new-factory-traps-10m-tonnes-of-carbon
 
-Notion推出AI for Work提供會議記錄、搜尋、模型工具
-https://www.ithome.com.tw/news/168931
+貝佐斯斥資 7200 萬美元押注 AI 資料未來，荷蘭公司 Toloka 成佈局新棋
+https://www.inside.com.tw/article/38429-bezos-toloka-amazon-ai-strategy
 
-沙烏地阿拉伯啟動國家級AI計畫，攜手Nvidia、AMD及AWS等業者
-https://www.ithome.com.tw/news/168929
+伊雲谷助攻研華科技在數位轉型保持領先，利用Salesforce雲端資源打造跨境電商平台IoTMart國際站實現B2B精準行銷
+https://www.inside.com.tw/article/38360-ecloudvalley_advantech
 
-Radware WAF爆出Filter Bypass漏洞，但廠商說2023年就已修補
-https://www.ithome.com.tw/news/168924
+Netflix 2026 將亮相互動式 AI 廣告！目標與影視內容無縫融合
+https://www.inside.com.tw/article/38460-netflix-generative-ai-ads
 
-Google搜尋測試以AI Mode取代「I&#039;m Feeling Lucky」
-https://www.ithome.com.tw/news/168923
+Google 超車 IBM、穩坐 Gen AI 專利霸主，中國勢力緊追在後
+https://www.inside.com.tw/article/38458-google-leading-ai-patent-applications
 
-總統接見「114 年青年百億海外圓夢基金計畫」代表獻上祝褔：平安回來才是任務成功
-https://www.inside.com.tw/article/38448-president-meets-first-cohort-of-2025-overseas-dream-fund-representatives-and-offers-blessing-mission-success-means-returning-safely
+「忍你們多年了！」川普促庫克別擴大印度產能，應回美國設廠
+https://www.inside.com.tw/article/38457-trump-apple-india-iphone-tariffs-trade-war
 
-【Generative AI 年會爐邊談】專訪高見龍：n8n 如何串接系統節點、解放工作流程？
-https://www.inside.com.tw/article/38445-5xcampus-n8n
+Anthropic 律師為自家 Claude 在法律文件上胡說八道致歉
+https://www.inside.com.tw/article/38456-anthropics-lawyer-was-forced-to-apologize-after-claude-hallucinated-a-legal-citation
 
-Dynabook 歡慶 40 周年！承載歷程榮光，續寫 AI 新里程
-https://www.inside.com.tw/article/38446-dynabook
+AI 技術「復活」喜劇天王豬哥亮，逝世八週年推出新單曲 MV
+https://www.inside.com.tw/article/38455-ai-technology-revives-comedy-legend-chu-ko-liang-with-new-single-on-eighth-death-anniversary
 
-印度批准富士康興建 4.35 億美元晶圓廠，預計 2027 年開始量產
-https://www.inside.com.tw/article/38443-india-foxconn-chip-plant
+蘋果正式推出 CarPlay Ultra！將支援各項車輛基本功能
+https://www.inside.com.tw/article/38454-apple-launched-new-gen-of-carplay-carplay-ultra
 
-Google Gemini 現場實演為 I/O 暖身！今年有哪些功能大幅進化了？
-https://www.inside.com.tw/article/38444-gemini-live-demo-google-io-2025-preview
+中信金Q1法說》關稅、匯率風險可控，台壽台幣升值1角匯損2.6億
+https://www.businessyee.com/article/6158-
 
-美國成功開發新太陽能電池保護層，可達 25% 以上光電轉換率
-https://www.inside.com.tw/article/38442-tough-solar-cell-hits-25-efficiency
+一片搞定備菜到烤肉、上桌？好洗不殘留味道，台灣製砧板「鈦」好用！
+https://www.businessyee.com/article/6157-tiann-cutting-board
 
-微軟將於 8 月關閉 Bing 搜尋 API
-https://www.inside.com.tw/article/38441-microsoft-shuts-down-bing-search-api
+川普：忍耐蘋果很久了，Tim Cook請回美國設廠
+https://www.businessyee.com/article/6156-dont-make-iPhones-in-India
 
-台積電：實體 AI 是大趨勢！2030 年機器人市場達 350 億美元
-https://www.inside.com.tw/article/38440-tsmc-says-physical-ai-is-the-future-robot-market-to-reach-35-billion-usd-by-2030
+【應用材料Q1財報】出口管制少賺中國客戶的錢，盤後股價跌5%
+https://www.businessyee.com/article/6155-Applied-Materials-q1-rarnings
 
-GPT-4.1 降臨 ChatGPT！付費和免費使用者皆可體驗
-https://www.inside.com.tw/article/38439-gpt-4-1-to-chatgpt
+德州廠啟用｜環球晶：美國客戶需求殷切！加碼投資40億美元
+https://www.businessyee.com/article/6154-globalwafers-us-gwa-4b
 
-【Generative AI 年會爐邊談】專訪張志祺：導入 AI 不是技術創新，而是「體驗設計」
-https://www.inside.com.tw/feature/2025-generative-ai/38438-shasha77-ai
+Temu、SHEIN挑戰再加1！日本擬跟進美國、越南取消小額包裹免稅制度
+https://www.businessyee.com/article/6153-japan-de-minimis-temu-shein
 
-前後任全球首富為了窮人開罵
-https://voicettank.org/20250514-1/
+【沃爾瑪Q1財報】獲利年減 13%！電商成長 22%；關稅壓力將漲價
+https://www.businessyee.com/article/6152-walmart-earnings-tariff-consumers-inflation
 
-日本首相石破茂訪問越南及菲律賓之研析
-https://voicettank.org/20250514-2/
+川普中東談生意！4天4國帶去哪些伴手禮、帶回哪些戰利品？
+https://www.businessyee.com/article/6151-trump-business-and-ceos-lunch-saudi-arabia
 
-買賣美股賺價差、領股息要繳稅嗎？美股投資海外所得稅務「6大重點」解析
-https://www.businessyee.com/article/6145-investment-Income-taxes
+ETF募集不只查責任額！金管會：將一併檢視績效制度與管理疏失
+https://www.businessyee.com/article/6150-etf-ipo-investigation
 
-產險史上第二大！明台產短估車險損失誤差近5億，金管會罰900萬
-https://www.businessyee.com/article/6144-msig-mingtai-rshort-estimate
+辜仲諒涉澄清湖大樓案被判刑，金管會：金融機構負責人應「知所進退」
+https://www.businessyee.com/article/6149-ku
 
-《零基礎也不怕，史丹佛給你最好懂的經濟學》：舊書新讀看懂川普關稅衝擊背後的經濟原理
-https://www.businessyee.com/article/6143-the-instant-economist-everything-you-need-to-know-about-how-the-economy-works
+Java Weekly, Issue 594
+https://feeds.feedblitz.com/~/918370220/0/baeldung~Java-Weekly-Issue
 
-Gogolook明改列上市：定位信任科技軍火商，把握全球資安防詐強勁需求
-https://www.businessyee.com/article/6141-gogolook-ipo-again
+How to Use Maps in Protobuf
+https://feeds.feedblitz.com/~/918351698/0/baeldung~How-to-Use-Maps-in-Protobuf
 
-沙國AI大單助攻！輝達成「美股七雄」第三檔止跌回彈科技股
-https://www.businessyee.com/article/6139-nvidia-turns-positive-for-2025
+Introduction to RESTHeart
+https://feeds.feedblitz.com/~/918350807/0/baeldung~Introduction-to-RESTHeart
 
-傳美國與阿聯達初步協議：年供輝達AI晶片50萬顆
-https://www.businessyee.com/article/6140-uae-import-nvidias-chips
+My 2025 high-end Linux PC
+https://michael.stapelberg.ch/posts/2025-05-15-my-2025-high-end-linux-pc/
 
-聯發科：半導體產業2030年產值可能達到1兆美元
-https://www.businessyee.com/article/6138-AI-trends
+Announcing Rust 1.87.0 and ten years of Rust
+https://blog.rust-lang.org/2025/05/15/Rust-1.87.0/
 
-【CoreWeaveQ1財報】上市後首次公布財報，營收年增420%淨損也擴大
-https://www.businessyee.com/article/6137-CoreWeave-q1-earnigns
+I don’t like NumPy
+https://dynomight.net/numpy/
 
-ETF IPO制度下的血汗責任額：基層營業員集體反擊券商潛規則
-https://www.businessyee.com/article/6136-ETF-sales-system-unfair
+A leap year check in three instructions
+https://hueffner.de/falk/blog/a-leap-year-check-in-three-instructions.html
 
-波音大單！卡達航空砸下史上最大採購案：210架飛機、400顆引擎，川普親見證簽約
-https://www.businessyee.com/article/6135-boeing-qatar-trump-plane-deal
+The current state of TLA⁺ development
+https://ahelwer.ca/post/2025-05-15-tla-dev-status/
 
-旅館有權要求在日本居住的外國人出示護照或在留卡嗎？答：房客沒有義務提供，但可能會遭拒
-https://changyuchieh.com/2025/05/15/foreigner-checkin/?utm_source=rss&utm_medium=rss&utm_campaign=foreigner-checkin
+Teal: a statically-typed dialect of Lua
+https://teal-language.org/
 
-Modify Property Files in Java
-https://feeds.feedblitz.com/~/918289892/0/baeldung~Modify-Property-Files-in-Java
+Asahi Linux Progress Report: Linux 6.15
+https://asahilinux.org/2025/05/progress-report-6-15/
 
-Spring AOP for a Method Call Within the Same Class
-https://feeds.feedblitz.com/~/918289895/0/baeldung~Spring-AOP-for-a-Method-Call-Within-the-Same-Class
+Stack overflow is almost dead
+https://blog.pragmaticengineer.com/stack-overflow-is-almost-dead/
 
-Conditional Logging With Logback
-https://feeds.feedblitz.com/~/918289898/0/baeldung~Conditional-Logging-With-Logback
+Introducing lazy trees in Determinate Nix 3.5
+https://determinate.systems/posts/changelog-determinate-nix-352/
 
-Introduction to the Class-File API
-https://feeds.feedblitz.com/~/918288833/0/baeldung~Introduction-to-the-ClassFile-API
+Rust 1.0, ten years later
+https://steveklabnik.com/writing/rust-ten-years-later/
 
-Doing Minus Operation on String in Java
-https://feeds.feedblitz.com/~/918288836/0/baeldung~Doing-Minus-Operation-on-String-in-Java
+10 Years of Stable Rust: An Infrastructure Story
+https://rustfoundation.org/media/10-years-of-stable-rust-an-infrastructure-story/
 
-If AI is so good at coding … where are the open source contributions?
-https://pivot-to-ai.com/2025/05/13/if-ai-is-so-good-at-coding-where-are-the-open-source-contributions/
+Refactoring Clojure
+https://www.orsolabs.com/post/refactoring-clojure-1/
 
-Scalar Select Anti-Pattern
-https://matklad.github.io/2025/05/14/scalar-select-aniti-pattern.html
+sunbeam: command-line launcher
+https://github.com/pomdtr/sunbeam
 
-SMS 2FA is not just insecure, it's also hostile to mountain people
-https://blog.stillgreenmoss.net/sms-2fa-is-not-just-insecure-its-also-hostile-to-mountain-people
+Pathfinding
+https://juhrjuhr.itch.io/deep-space-exploitation/devlog/945428/9-pathfinding
 
-Why I wrote the fx web server
-https://huijzer.xyz/posts/74
+Initialization in C++ is bonkers (2017)
+https://blog.tartanllama.xyz/initialization-is-bonkers/
 
-ZJIT has been merged into Ruby
-https://railsatscale.com/2025-05-14-merge-zjit/
+Lua for Elixir
+https://davelucia.com/blog/lua-elixir
 
-Why we need lisp machines
-https://fultonsramblings.substack.com/p/why-we-need-lisp-machines
+Please Please Please
+https://we.phorge.it/book/flavor/article/please_please_please/
 
-Stop using REST for state synchronization
-https://www.mbid.me/posts/stop-using-rest-for-state-synchronization/
+Unravelling t-strings
+https://snarky.ca/unravelling-t-strings/
 
-Good enough ten-second sum types for Postgres
-https://duckrabbit.tech/articles/pg-epoch.html
+Rethinking Modern Asynchronous Paradigms
+https://blog.dogac.dev/modern-asynchronous-paradigms/
 
-Introducing oniux: Kernel-level Tor isolation for any Linux app
-https://blog.torproject.org/introducing-oniux-tor-isolation-using-linux-namespaces/
+There's More To That Nugget of Wisdom (2023)
+https://www.stackstaves.net/post/2023-12-07-theres-more-to-that/
 
-RULECOMPILE - Undocumented Ghidra decompiler rule language
-https://msm.lt/re/ghidra/rulecompile/
-
-High Available Mosquitto MQTT on Kubernetes
-https://raymii.org/s/tutorials/High_Available_Mosquitto_MQTT_Broker_on_Kubernetes.html
-
-Breaking out of restricted mode: XSS to RCE in Visual Studio Code
-https://starlabs.sg/blog/2025/05-breaking-out-of-restricted-mode-xss-to-rce-in-visual-studio-code/
-
-Why I use WebAssembly
-https://nasso.dev/blog/why-i-use-wasm
-
-The Server That Wasn't Meant to Exist
-https://it-notes.dragas.net/2025/05/13/the_server_that_wasnt_meant_to_exist/
-
-Crowdsourcing Broken QR Codes
-https://www.humanqr.com/news/qr-code-not-scanning-well-try-to-help/
-
-Temporal Super Resolution via Multisampling
-http://filmicworlds.com/blog/temporal-super-resolution-via-multisampling/
-
-Doom on the oldest digital computer in America
-https://www.youtube.com/watch?v=no0CkQk7id0
-
-Data is code
-https://blog.information-superhighway.net/data-is-code
-
-The cryptography behind passkeys
-https://blog.trailofbits.com/2025/05/14/the-cryptography-behind-passkeys/
-
-Warteschlangensimulator
-https://a-herzog.github.io/Warteschlangensimulator/
-
-MinorMiner: we turn your kid's maths homework into Bitcoin
-https://robertheaton.com/minor-miner/
+A coherent European/non-US cloud strategy: building railroads for the cloud economy
+https://berthub.eu/articles/posts/a-coherent-non-us-cloud-strategy/
