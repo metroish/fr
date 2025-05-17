@@ -1,28 +1,10 @@
-# 2025-05-16 09:18:29 Feeds Report 
+# 2025-05-17 09:16:36 Feeds Report 
 
-Daily Hacker News for 2025-05-15
-https://www.daemonology.net/hn-daily/2025-05-15.html
+Daily Hacker News for 2025-05-16
+https://www.daemonology.net/hn-daily/2025-05-16.html
 
-資安業者Proofpoint將買下競爭對手Hornetsecurity
-https://www.ithome.com.tw/news/168996
-
-新世代分散式儲存平臺興起
-https://www.ithome.com.tw/article/168994
-
-【角逐AI應用的高效能儲存需求】新世代平行檔案儲存系統興起
-https://www.ithome.com.tw/tech/168979
-
-【從架構與功能，檢視主流平行檔案系統的異同】新世代平行檔案儲存系統的特性
-https://www.ithome.com.tw/tech/168992
-
-APT28利用郵件系統漏洞從事網路間諜活動，鎖定政府機關竊取重要資料
-https://www.ithome.com.tw/news/168993
-
-GovTech月報第41期：數發部與金融業者聯手成立防詐實驗室發展識詐技術；沙國啟動國家AI新計畫，加速AI基礎建設
-https://www.ithome.com.tw/news/168978
-
-Android Find My Device擴增功能 改名為Find Hub
-https://www.ithome.com.tw/news/168991
+GitHub 最近的限流
+https://blog.gslin.org/archives/2025/05/16/12398/github-%e6%9c%80%e8%bf%91%e7%9a%84%e9%99%90%e6%b5%81/
 
 Windsurf發表專為軟體工程師建置的SWE-1模型
 https://www.ithome.com.tw/news/168980
@@ -45,146 +27,110 @@ https://www.ithome.com.tw/news/168972
 微軟測試Windows 11以Hey Copilot喚醒Copilot Voice
 https://www.ithome.com.tw/news/168971
 
-Adobe發布5月更新，呼籲IT人員優先處理ColdFusion資安漏洞
-https://www.ithome.com.tw/news/168958
+與台積電團隊於鄒記食舖晚餐暢談 3 小時，黃仁勳表示氣氛融洽
+https://www.inside.com.tw/article/38472-jensen-huang-shares-three-hour-dinner-with-tsmc-team-at-zhou-ji-bistro-says-atmosphere-was-pleasant
 
-Uber推出有固定班次及路徑的Route Share共乘服務
-https://www.ithome.com.tw/news/168953
+核三 2 號機 17 日下午降載 18 日凌晨停機，台灣正式進入「非核家園」時代
+https://www.inside.com.tw/article/38471-maanshan-nuclear-plant-unit-2-begins-shutdown-on-april-17-taiwan-officially-enters-non-nuclear-era
 
-Fortinet修補已遭利用的企業電話系統FortiVoice零時差漏洞
-https://www.ithome.com.tw/news/168952
+川普關稅重擊賴索托台商，台灣紡織業投資陷生存危機
+https://www.inside.com.tw/article/38470-trump-tariffs-hit-taiwanese-businesses-in-lesotho-hard-putting-taiwans-textile-investments-in-crisis
 
-歐盟漏洞資料庫專案EUVD正式登場
-https://www.ithome.com.tw/news/168951
+還是有人操作！特斯拉奧斯汀無人計程車將導入大量遠端操作
+https://www.inside.com.tw/article/38469-tesla-robotaxi-fleet-powered-by-plenty-of-teleoperation
 
-馬斯克證實特斯拉無人計程車將進軍沙烏地阿拉伯
-https://www.inside.com.tw/article/38463-tesla-robotaxi-saudi-arabia-elon-musk
+【Editors&#039; Picks】在 AI 時代，為何還要手寫筆記？
+https://www.inside.com.tw/article/38461-journalist-notebook-recommendations
 
-全球首座商用碳捕捉濾材超級工廠啟用，年產量可捕捉超過 2,700 萬輛汽車碳排放
-https://www.inside.com.tw/article/38462-svantes-new-factory-traps-10m-tonnes-of-carbon
+風電大國也開始考慮核能？丹麥重啟核電政策評估，反映歐洲能源戰略再洗牌
+https://www.inside.com.tw/article/38464-denmark-rethinking-40-year-nuclear-power-ban-amid-europe-wide-shift
 
-貝佐斯斥資 7200 萬美元押注 AI 資料未來，荷蘭公司 Toloka 成佈局新棋
-https://www.inside.com.tw/article/38429-bezos-toloka-amazon-ai-strategy
+Speak 華語市場負責人 Ginger Chen：如何成為外商新創台灣首位員工？用矽谷數據思維打造 AI 語言教學的行銷奇襲【塞掐 Side Chat】E324
+https://www.inside.com.tw/feature/side-chat/38467-side-chat-e342
 
-伊雲谷助攻研華科技在數位轉型保持領先，利用Salesforce雲端資源打造跨境電商平台IoTMart國際站實現B2B精準行銷
-https://www.inside.com.tw/article/38360-ecloudvalley_advantech
+「國有器官」採訪人物筆記
+https://ckhung0.blogspot.com/2025/05/state-organs.html
 
-Netflix 2026 將亮相互動式 AI 廣告！目標與影視內容無縫融合
-https://www.inside.com.tw/article/38460-netflix-generative-ai-ads
+【書摘】《誰的「國語」？誰的「普通話」？：從官方政策、教育現場、大眾傳媒到常民口說習慣，看兩岸語音標準化如何為社會規範、身分認同與國族政治服務》
+https://voicettank.org/20250516-3/
 
-Google 超車 IBM、穩坐 Gen AI 專利霸主，中國勢力緊追在後
-https://www.inside.com.tw/article/38458-google-leading-ai-patent-applications
+海纜若斷台灣如何不斷線？── 衛星網路備援建設的真相與挑戰
+https://voicettank.org/20250516-2/
 
-「忍你們多年了！」川普促庫克別擴大印度產能，應回美國設廠
-https://www.inside.com.tw/article/38457-trump-apple-india-iphone-tariffs-trade-war
+從中國國防白皮書到國家安全白皮書，透露出哪些訊息？
+https://voicettank.org/20250516-1/
 
-Anthropic 律師為自家 Claude 在法律文件上胡說八道致歉
-https://www.inside.com.tw/article/38456-anthropics-lawyer-was-forced-to-apologize-after-claude-hallucinated-a-legal-citation
+【好險有聽】消費者一定要知道產品責任險，4 個案例來了解！
+https://www.businessyee.com/article/6160-ep31
 
-AI 技術「復活」喜劇天王豬哥亮，逝世八週年推出新單曲 MV
-https://www.inside.com.tw/article/38455-ai-technology-revives-comedy-legend-chu-ko-liang-with-new-single-on-eighth-death-anniversary
+【聽進理投】想學巴菲特投資智慧？ 千萬別錯過波克夏股東會！
+https://www.businessyee.com/article/6130-ep125
 
-蘋果正式推出 CarPlay Ultra！將支援各項車輛基本功能
-https://www.inside.com.tw/article/38454-apple-launched-new-gen-of-carplay-carplay-ultra
+黃仁勳：「這趟台灣之旅有許多事情要宣布」
+https://www.businessyee.com/article/6161-jensen-computex
 
-中信金Q1法說》關稅、匯率風險可控，台壽台幣升值1角匯損2.6億
-https://www.businessyee.com/article/6158-
+波克夏Q1大砍美銀、花旗等金融股，蓋牌「神秘新股」引話題
+https://www.businessyee.com/article/6159-Berkshire-2025-q1
 
-一片搞定備菜到烤肉、上桌？好洗不殘留味道，台灣製砧板「鈦」好用！
-https://www.businessyee.com/article/6157-tiann-cutting-board
+浪江「大堀相馬燒」松永窯遺址將成福島縣內首座民營震災遺構
+https://changyuchieh.com/2025/05/16/obori-somayaki/?utm_source=rss&utm_medium=rss&utm_campaign=obori-somayaki
 
-川普：忍耐蘋果很久了，Tim Cook請回美國設廠
-https://www.businessyee.com/article/6156-dont-make-iPhones-in-India
+Senior devs aren't just faster, they can dodge problems juniors are forced to solve
+https://boydkane.com/essays/experts
 
-【應用材料Q1財報】出口管制少賺中國客戶的錢，盤後股價跌5%
-https://www.businessyee.com/article/6155-Applied-Materials-q1-rarnings
+Evolution of Rust compiler errors
+https://kobzol.github.io/rust/rustc/2025/05/16/evolution-of-rustc-errors.html
 
-德州廠啟用｜環球晶：美國客戶需求殷切！加碼投資40億美元
-https://www.businessyee.com/article/6154-globalwafers-us-gwa-4b
+A Ledger In PostgreSQL Is Fast
+https://www.pgrs.net/2025/05/16/pgledger-in-postgresql-is-fast/
 
-Temu、SHEIN挑戰再加1！日本擬跟進美國、越南取消小額包裹免稅制度
-https://www.businessyee.com/article/6153-japan-de-minimis-temu-shein
+New Life Hack: Using LLMs to Generate Constraint Solver Programs for Personal Logistics Tasks
+https://emschwartz.me/new-life-hack-using-llms-to-generate-constraint-solver-programs-for-personal-logistics-tasks/
 
-【沃爾瑪Q1財報】獲利年減 13%！電商成長 22%；關稅壓力將漲價
-https://www.businessyee.com/article/6152-walmart-earnings-tariff-consumers-inflation
+GNU Parallel Examples
+https://www.gnu.org/software/parallel/parallel_examples.html
 
-川普中東談生意！4天4國帶去哪些伴手禮、帶回哪些戰利品？
-https://www.businessyee.com/article/6151-trump-business-and-ceos-lunch-saudi-arabia
+Using unwrap() in Rust is Okay
+https://burntsushi.net/unwrap/
 
-ETF募集不只查責任額！金管會：將一併檢視績效制度與管理疏失
-https://www.businessyee.com/article/6150-etf-ipo-investigation
+Jetrelay: A high-performance ATproto relay in 500 LOC
+https://www.asayers.com/jetrelay/
 
-辜仲諒涉澄清湖大樓案被判刑，金管會：金融機構負責人應「知所進退」
-https://www.businessyee.com/article/6149-ku
+Classical "Single user computers" were a flawed or at least limited idea
+https://utcc.utoronto.ca/~cks/space/blog/tech/SingleUserComputerFlawed
 
-Java Weekly, Issue 594
-https://feeds.feedblitz.com/~/918370220/0/baeldung~Java-Weekly-Issue
+Don’t Use ISO/IEC 14977 Extended Backus-Naur Form (EBNF) (2019, 2023)
+https://dwheeler.com/essays/dont-use-iso-14977-ebnf.html
 
-How to Use Maps in Protobuf
-https://feeds.feedblitz.com/~/918351698/0/baeldung~How-to-Use-Maps-in-Protobuf
+What Problems are Truly Technical, not Social?
+https://lobste.rs/s/m2y5jx/what_problems_are_truly_technical_not
 
-Introduction to RESTHeart
-https://feeds.feedblitz.com/~/918350807/0/baeldung~Introduction-to-RESTHeart
+My favourite fonts to use with LaTeX (2022)
+https://www.lfe.pt/latex/fonts/typography/2022/11/21/latex-fonts-part1.html
 
-My 2025 high-end Linux PC
-https://michael.stapelberg.ch/posts/2025-05-15-my-2025-high-end-linux-pc/
+Mutexes Are Faster Than Spinlocks
+https://matklad.github.io/2020/01/04/mutexes-are-faster-than-spinlocks.html
 
-Announcing Rust 1.87.0 and ten years of Rust
-https://blog.rust-lang.org/2025/05/15/Rust-1.87.0/
+Deep Dive on New Combinators
+https://github.com/codereport/meeting-notes/blob/cb55ebad66137deade7213b66aeec0b9af7bd7e6/2022-03-12-Deep-Dive-on-New-Combinators.md#combinator-introductions
 
-I don’t like NumPy
-https://dynomight.net/numpy/
+OCaml Web Development: Essential Tools and Libraries in 2025
+https://tarides.com/blog/2025-05-15-ocaml-web-development-essential-tools-and-libraries-in-2025/
 
-A leap year check in three instructions
-https://hueffner.de/falk/blog/a-leap-year-check-in-three-instructions.html
+erlang-red: Visual low-code flow-based programming environment for Erlang, inspired by Node-RED
+https://github.com/gorenje/erlang-red
 
-The current state of TLA⁺ development
-https://ahelwer.ca/post/2025-05-15-tla-dev-status/
+Detecting malicious Unicode
+https://daniel.haxx.se/blog/2025/05/16/detecting-malicious-unicode/
 
-Teal: a statically-typed dialect of Lua
-https://teal-language.org/
+Static types are for perfectionists
+https://mmapped.blog/posts/38-static-types-perfectionism
 
-Asahi Linux Progress Report: Linux 6.15
-https://asahilinux.org/2025/05/progress-report-6-15/
+Java at 30: The Genius Behind the Code That Changed Tech
+https://thenewstack.io/java-at-30-the-genius-behind-the-code-that-changed-tech/
 
-Stack overflow is almost dead
-https://blog.pragmaticengineer.com/stack-overflow-is-almost-dead/
+Pallene: a statically typed ahead-of-time compiled sister language to Lua, with a focus on performance
+https://github.com/pallene-lang/pallene/tree/master
 
-Introducing lazy trees in Determinate Nix 3.5
-https://determinate.systems/posts/changelog-determinate-nix-352/
-
-Rust 1.0, ten years later
-https://steveklabnik.com/writing/rust-ten-years-later/
-
-10 Years of Stable Rust: An Infrastructure Story
-https://rustfoundation.org/media/10-years-of-stable-rust-an-infrastructure-story/
-
-Refactoring Clojure
-https://www.orsolabs.com/post/refactoring-clojure-1/
-
-sunbeam: command-line launcher
-https://github.com/pomdtr/sunbeam
-
-Pathfinding
-https://juhrjuhr.itch.io/deep-space-exploitation/devlog/945428/9-pathfinding
-
-Initialization in C++ is bonkers (2017)
-https://blog.tartanllama.xyz/initialization-is-bonkers/
-
-Lua for Elixir
-https://davelucia.com/blog/lua-elixir
-
-Please Please Please
-https://we.phorge.it/book/flavor/article/please_please_please/
-
-Unravelling t-strings
-https://snarky.ca/unravelling-t-strings/
-
-Rethinking Modern Asynchronous Paradigms
-https://blog.dogac.dev/modern-asynchronous-paradigms/
-
-There's More To That Nugget of Wisdom (2023)
-https://www.stackstaves.net/post/2023-12-07-theres-more-to-that/
-
-A coherent European/non-US cloud strategy: building railroads for the cloud economy
-https://berthub.eu/articles/posts/a-coherent-non-us-cloud-strategy/
+Programming in Martin-Lof's Type Theory: An Introduction (1990)
+https://www.cse.chalmers.se/research/group/logic/book/
