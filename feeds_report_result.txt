@@ -1,136 +1,88 @@
-# 2025-05-17 09:16:36 Feeds Report 
+# 2025-05-18 09:16:31 Feeds Report 
 
-Daily Hacker News for 2025-05-16
-https://www.daemonology.net/hn-daily/2025-05-16.html
+Daily Hacker News for 2025-05-17
+https://www.daemonology.net/hn-daily/2025-05-17.html
 
-GitHub 最近的限流
-https://blog.gslin.org/archives/2025/05/16/12398/github-%e6%9c%80%e8%bf%91%e7%9a%84%e9%99%90%e6%b5%81/
+Weekly Ask Hacker News for 2025-05-11 -- 2025-05-17
+http://www.daemonology.net/hn-weekly-ask/2025-05-17.html
 
-Windsurf發表專為軟體工程師建置的SWE-1模型
-https://www.ithome.com.tw/news/168980
+【Editors’ Picks】Z 世代的復古流行，有線才酷！戴上 EarPods，你就是最靚的仔！
+https://www.inside.com.tw/article/38465-put-on-your-wired-earphones-and-be-a-cool-guy
 
-用資料驅動20億餐飲集團決策，開展用AI支援餐廳最前線
-https://www.ithome.com.tw/people/168976
+典範轉移：教師們，AI 時代請將角色轉變為「引導者」
+https://www.inside.com.tw/article/38474-teachers-must-transform-into-facilitators-in-ai-era
 
-Google發布Chrome 136緊急更新，修補已遭利用的零時差漏洞
-https://www.ithome.com.tw/news/168977
+輝達 H20 遭管制，黃仁勳：不再推中國版 Hopper 晶片
+https://www.inside.com.tw/article/38473-nvidia-h20-restricted-jensen-huang-says-no-more-china-specific-hopper-chips
 
-掌握全球資安情資的捷徑
-https://www.ithome.com.tw/voice/168974
+Business Process Automation with Kogito
+https://feeds.feedblitz.com/~/918479039/0/baeldung~Business-Process-Automation-with-Kogito
 
-中國部署首個AI運算衛星星系
-https://www.ithome.com.tw/news/168973
+Read a Gradle Defined Variable in Java
+https://feeds.feedblitz.com/~/918479042/0/baeldung~Read-a-Gradle-Defined-Variable-in-Java
 
-美國加密貨幣交易平臺Coinbase有內賊，部分客戶資料外洩
-https://www.ithome.com.tw/news/168972
+How to Configure GraphQL/REST APIs Using Apache Camel
+https://feeds.feedblitz.com/~/918479045/0/baeldung~How-to-Configure-GraphQLREST-APIs-Using-Apache-Camel
 
-微軟測試Windows 11以Hey Copilot喚醒Copilot Voice
-https://www.ithome.com.tw/news/168971
+Postman is logging all your secrets and environment variables
+https://anonymousdata.medium.com/postman-is-logging-all-your-secrets-and-environment-variables-9c316e92d424
 
-與台積電團隊於鄒記食舖晚餐暢談 3 小時，黃仁勳表示氣氛融洽
-https://www.inside.com.tw/article/38472-jensen-huang-shares-three-hour-dinner-with-tsmc-team-at-zhou-ji-bistro-says-atmosphere-was-pleasant
+Firefox Security Response to pwn2own 2025
+https://blog.mozilla.org/security/2025/05/17/firefox-security-response-to-pwn2own-2025/
 
-核三 2 號機 17 日下午降載 18 日凌晨停機，台灣正式進入「非核家園」時代
-https://www.inside.com.tw/article/38471-maanshan-nuclear-plant-unit-2-begins-shutdown-on-april-17-taiwan-officially-enters-non-nuclear-era
+CHERIoT: The last ten years
+https://cheriot.org/cheri/history/2025/05/16/last-ten-years.html
 
-川普關稅重擊賴索托台商，台灣紡織業投資陷生存危機
-https://www.inside.com.tw/article/38470-trump-tariffs-hit-taiwanese-businesses-in-lesotho-hard-putting-taiwans-textile-investments-in-crisis
+GNU Taler v1.0 released
+https://www.taler.net/en/news/2025-01.html
 
-還是有人操作！特斯拉奧斯汀無人計程車將導入大量遠端操作
-https://www.inside.com.tw/article/38469-tesla-robotaxi-fleet-powered-by-plenty-of-teleoperation
+O2 VoLTE: locating any customer with a phone call
+https://mastdatabase.co.uk/blog/2025/05/o2-expose-customer-location-call-4g/
 
-【Editors&#039; Picks】在 AI 時代，為何還要手寫筆記？
-https://www.inside.com.tw/article/38461-journalist-notebook-recommendations
+Japan's IC cards are weird and wonderful
+https://aruarian.dance/blog/japan-ic-cards/
 
-風電大國也開始考慮核能？丹麥重啟核電政策評估，反映歐洲能源戰略再洗牌
-https://www.inside.com.tw/article/38464-denmark-rethinking-40-year-nuclear-power-ban-amid-europe-wide-shift
+Push Ifs Up And Fors Down (2023)
+https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html
 
-Speak 華語市場負責人 Ginger Chen：如何成為外商新創台灣首位員工？用矽谷數據思維打造 AI 語言教學的行銷奇襲【塞掐 Side Chat】E324
-https://www.inside.com.tw/feature/side-chat/38467-side-chat-e342
+Fortran For C Programmers
+https://flang.llvm.org/docs/FortranForCProgrammers.html
 
-「國有器官」採訪人物筆記
-https://ckhung0.blogspot.com/2025/05/state-organs.html
+The Language That Never Was
+https://blog.celes42.com/the_language_that_never_was.html
 
-【書摘】《誰的「國語」？誰的「普通話」？：從官方政策、教育現場、大眾傳媒到常民口說習慣，看兩岸語音標準化如何為社會規範、身分認同與國族政治服務》
-https://voicettank.org/20250516-3/
+JavaScript's New Superpower: Explicit Resource Management
+https://v8.dev/features/explicit-resource-management
 
-海纜若斷台灣如何不斷線？── 衛星網路備援建設的真相與挑戰
-https://voicettank.org/20250516-2/
+Every programming language has its 'killer' domain
+https://huijzer.xyz/posts/67
 
-從中國國防白皮書到國家安全白皮書，透露出哪些訊息？
-https://voicettank.org/20250516-1/
+Easily Using SSH with FIDO2/U2F Hardware Security Keys
+https://www.complete.org/easily-using-ssh-with-fido2-u2f-hardware-security-keys/
 
-【好險有聽】消費者一定要知道產品責任險，4 個案例來了解！
-https://www.businessyee.com/article/6160-ep31
+Remarks on AI from NZ
+https://nealstephenson.substack.com/p/remarks-on-ai-from-nz
 
-【聽進理投】想學巴菲特投資智慧？ 千萬別錯過波克夏股東會！
-https://www.businessyee.com/article/6130-ep125
+QUIC restarts, slow problems: udpgrm to the rescue
+https://blog.cloudflare.com/quic-restarts-slow-problems-udpgrm-to-the-rescue/
 
-黃仁勳：「這趟台灣之旅有許多事情要宣布」
-https://www.businessyee.com/article/6161-jensen-computex
+Mystical
+https://suberic.net/~dmm/projects/mystical/README.html
 
-波克夏Q1大砍美銀、花旗等金融股，蓋牌「神秘新股」引話題
-https://www.businessyee.com/article/6159-Berkshire-2025-q1
+Xata: Postgres with data branching and PII anonymization
+https://xata.io/blog/xata-postgres-with-data-branching-and-pii-anonymization
 
-浪江「大堀相馬燒」松永窯遺址將成福島縣內首座民營震災遺構
-https://changyuchieh.com/2025/05/16/obori-somayaki/?utm_source=rss&utm_medium=rss&utm_campaign=obori-somayaki
+Implementing a RISC-V hypervisor
+https://seiya.me/blog/riscv-hypervisor
 
-Senior devs aren't just faster, they can dodge problems juniors are forced to solve
-https://boydkane.com/essays/experts
+Java Native Interface Integration with Rust
+https://medium.com/@greptime/how-to-supercharge-your-java-project-with-rust-a-practical-guide-to-jni-integration-with-a-86f60e9708b8
 
-Evolution of Rust compiler errors
-https://kobzol.github.io/rust/rustc/2025/05/16/evolution-of-rustc-errors.html
+Ending TLS Client Authentication Certificate Support in 2026
+https://letsencrypt.org/2025/05/14/ending-tls-client-authentication/
 
-A Ledger In PostgreSQL Is Fast
-https://www.pgrs.net/2025/05/16/pgledger-in-postgresql-is-fast/
+Passwords are okay, impulsive Internet isn't
+https://www.dedoimedo.com/life/passwords-passkeys.html
 
-New Life Hack: Using LLMs to Generate Constraint Solver Programs for Personal Logistics Tasks
-https://emschwartz.me/new-life-hack-using-llms-to-generate-constraint-solver-programs-for-personal-logistics-tasks/
-
-GNU Parallel Examples
-https://www.gnu.org/software/parallel/parallel_examples.html
-
-Using unwrap() in Rust is Okay
-https://burntsushi.net/unwrap/
-
-Jetrelay: A high-performance ATproto relay in 500 LOC
-https://www.asayers.com/jetrelay/
-
-Classical "Single user computers" were a flawed or at least limited idea
-https://utcc.utoronto.ca/~cks/space/blog/tech/SingleUserComputerFlawed
-
-Don’t Use ISO/IEC 14977 Extended Backus-Naur Form (EBNF) (2019, 2023)
-https://dwheeler.com/essays/dont-use-iso-14977-ebnf.html
-
-What Problems are Truly Technical, not Social?
-https://lobste.rs/s/m2y5jx/what_problems_are_truly_technical_not
-
-My favourite fonts to use with LaTeX (2022)
-https://www.lfe.pt/latex/fonts/typography/2022/11/21/latex-fonts-part1.html
-
-Mutexes Are Faster Than Spinlocks
-https://matklad.github.io/2020/01/04/mutexes-are-faster-than-spinlocks.html
-
-Deep Dive on New Combinators
-https://github.com/codereport/meeting-notes/blob/cb55ebad66137deade7213b66aeec0b9af7bd7e6/2022-03-12-Deep-Dive-on-New-Combinators.md#combinator-introductions
-
-OCaml Web Development: Essential Tools and Libraries in 2025
-https://tarides.com/blog/2025-05-15-ocaml-web-development-essential-tools-and-libraries-in-2025/
-
-erlang-red: Visual low-code flow-based programming environment for Erlang, inspired by Node-RED
-https://github.com/gorenje/erlang-red
-
-Detecting malicious Unicode
-https://daniel.haxx.se/blog/2025/05/16/detecting-malicious-unicode/
-
-Static types are for perfectionists
-https://mmapped.blog/posts/38-static-types-perfectionism
-
-Java at 30: The Genius Behind the Code That Changed Tech
-https://thenewstack.io/java-at-30-the-genius-behind-the-code-that-changed-tech/
-
-Pallene: a statically typed ahead-of-time compiled sister language to Lua, with a focus on performance
-https://github.com/pallene-lang/pallene/tree/master
-
-Programming in Martin-Lof's Type Theory: An Introduction (1990)
-https://www.cse.chalmers.se/research/group/logic/book/
+A JavaScript library for building parsers, interpreters, compilers, and more
+https://ohmjs.org/
