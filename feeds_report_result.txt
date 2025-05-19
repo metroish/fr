@@ -1,88 +1,166 @@
-# 2025-05-18 09:16:31 Feeds Report 
+# 2025-05-19 09:20:00 Feeds Report 
 
-Daily Hacker News for 2025-05-17
-https://www.daemonology.net/hn-daily/2025-05-17.html
+Daily Hacker News for 2025-05-18
+https://www.daemonology.net/hn-daily/2025-05-18.html
 
-Weekly Ask Hacker News for 2025-05-11 -- 2025-05-17
-http://www.daemonology.net/hn-weekly-ask/2025-05-17.html
+玩玩 IPFire_
+https://blog.gslin.org/archives/2025/05/19/12402/%e7%8e%a9%e7%8e%a9-ipfire_/
 
-【Editors’ Picks】Z 世代的復古流行，有線才酷！戴上 EarPods，你就是最靚的仔！
-https://www.inside.com.tw/article/38465-put-on-your-wired-earphones-and-be-a-cool-guy
+電腦線圈！
+https://blog.gslin.org/archives/2025/05/19/12400/%e9%9b%bb%e8%85%a6%e7%b7%9a%e5%9c%88%ef%bc%81/
 
-典範轉移：教師們，AI 時代請將角色轉變為「引導者」
-https://www.inside.com.tw/article/38474-teachers-must-transform-into-facilitators-in-ai-era
+AWS推Transform for .NET自動化工具，助企業現代化.NET Framework舊應用
+https://www.ithome.com.tw/news/169018
 
-輝達 H20 遭管制，黃仁勳：不再推中國版 Hopper 晶片
-https://www.inside.com.tw/article/38473-nvidia-h20-restricted-jensen-huang-says-no-more-china-specific-hopper-chips
+AI促進科學創新重要研究遭MIT審查否決，要求arXiv標註撤回
+https://www.ithome.com.tw/news/169014
 
-Business Process Automation with Kogito
-https://feeds.feedblitz.com/~/918479039/0/baeldung~Business-Process-Automation-with-Kogito
+Check Point揭露新型AI駭客兵團雛型
+https://www.ithome.com.tw/news/169016
 
-Read a Gradle Defined Variable in Java
-https://feeds.feedblitz.com/~/918479042/0/baeldung~Read-a-Gradle-Defined-Variable-in-Java
+勒索軟體INC聲稱攻擊南非航空
+https://www.ithome.com.tw/news/169013
 
-How to Configure GraphQL/REST APIs Using Apache Camel
-https://feeds.feedblitz.com/~/918479045/0/baeldung~How-to-Configure-GraphQLREST-APIs-Using-Apache-Camel
+【資安週報】0512~0516，多組中國駭客組織、勒索軟體駭客鎖定SAP NetWeaver漏洞入侵關鍵CI與企業組織
+https://www.ithome.com.tw/news/169009
 
-Postman is logging all your secrets and environment variables
-https://anonymousdata.medium.com/postman-is-logging-all-your-secrets-and-environment-variables-9c316e92d424
+OpenAI公布ChatGPT程式撰寫代理人Codex 可多任務平行作業
+https://www.ithome.com.tw/news/169008
 
-Firefox Security Response to pwn2own 2025
-https://blog.mozilla.org/security/2025/05/17/firefox-security-response-to-pwn2own-2025/
+惡意軟體FrigidStealer假借Safari更新做為誘餌，攻擊macOS用戶
+https://www.ithome.com.tw/news/169007
 
-CHERIoT: The last ten years
-https://cheriot.org/cheri/history/2025/05/16/last-ten-years.html
+Jenkins揭露眾多外掛程式漏洞，包括可繞過身分驗證的CVE-2025-47889
+https://www.ithome.com.tw/news/169006
 
-GNU Taler v1.0 released
-https://www.taler.net/en/news/2025-01.html
+Grok亂說話，xAI公布系統提示以強化透明度
+https://www.ithome.com.tw/news/169005
 
-O2 VoLTE: locating any customer with a phone call
-https://mastdatabase.co.uk/blog/2025/05/o2-expose-customer-location-call-4g/
+導入Blackwell架構、GDDR7，輝達專業繪圖GPU邁入新紀元
+https://www.ithome.com.tw/review/168875
 
-Japan's IC cards are weird and wonderful
-https://aruarian.dance/blog/japan-ic-cards/
+面對 2030 全球勞動力危機，NVIDIA 推出 RTX Pro AI Server 為 AI 員工而生
+https://www.inside.com.tw/article/38485-what-is-nvidia-rtx-pro-ai-server
 
-Push Ifs Up And Fors Down (2023)
-https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html
+高通兩大震撼彈：Snapdragon 7 Gen 4 來了，還要進軍資料中心市場！
+https://www.inside.com.tw/article/38486-qualcomm-drops-two-bombshells-snapdragon-7-gen-4-launch-and-data-center-market-entry
 
-Fortran For C Programmers
-https://flang.llvm.org/docs/FortranForCProgrammers.html
+黃仁勳在 COMPUTEX 的好料「NVIDIA NVLink Fusion」是什麼？聯發科、高通都是夥伴！
+https://www.inside.com.tw/article/38484-what-is-nvidia-nvlink-fusion
 
-The Language That Never Was
-https://blog.celes42.com/the_language_that_never_was.html
+科技業誰薪水最優？調查：類比 IC 設計工程師是冠軍
+https://www.inside.com.tw/article/38482-who-earns-the-most-in-tech-industry-survey-shows-analog-ic-design-engineers-top-the-list
 
-JavaScript's New Superpower: Explicit Resource Management
-https://v8.dev/features/explicit-resource-management
+華碩施崇棠：AI 工廠是下一次工業革命！我們得光速進行
+https://www.inside.com.tw/article/38481-jonney-shih-ai-factories-are-the-next-industrial-revolution-and-must-advance-at-lightspeed
 
-Every programming language has its 'killer' domain
-https://huijzer.xyz/posts/67
+黃仁勳：NVIDIA 已經不再是一家科技公司！宣布了哪些新產品？
+https://www.inside.com.tw/article/38483-nvidia-no-longer-a-tech-company
 
-Easily Using SSH with FIDO2/U2F Hardware Security Keys
-https://www.complete.org/easily-using-ssh-with-fido2-u2f-hardware-security-keys/
+《NEXTCOMM 衛星通訊共振未來》Satellite x 6G 標準化趨勢產業論壇，布局全球衛星市場、搶攻 6G 新商機
+https://www.inside.com.tw/article/38392-NEXTCOMM
 
-Remarks on AI from NZ
-https://nealstephenson.substack.com/p/remarks-on-ai-from-nz
+距蘋果宣布 Siri 重大 AI 更新滿一年，為什麼沒啥實質進展？
+https://www.inside.com.tw/article/38476-apple-siri-delay-issues
 
-QUIC restarts, slow problems: udpgrm to the rescue
-https://blog.cloudflare.com/quic-restarts-slow-problems-udpgrm-to-the-rescue/
+NVIDIA CEO 黃仁勳：台灣總部將落腳在北投士林
+https://www.inside.com.tw/article/38475-nvidia-taipei-headquater
 
-Mystical
-https://suberic.net/~dmm/projects/mystical/README.html
+知名 NFT 系列 CryptoPunks 售予非營利組織 數位藝術保存邁入新里程
+https://www.inside.com.tw/article/38451-cryptopunks-sold
 
-Xata: Postgres with data branching and PII anonymization
-https://xata.io/blog/xata-postgres-with-data-branching-and-pii-anonymization
+黃仁勳演講背板驚見玉山銀，5/21展示高速運算破解金融詐欺難題
+https://www.businessyee.com/article/6171-e-sun-nvidia-cooperation
 
-Implementing a RISC-V hypervisor
-https://seiya.me/blog/riscv-hypervisor
+【COMPUTEX 2025】高通執行長：要重返資料中心市場
+https://www.businessyee.com/article/6170-COMPUTEX-Cristiano-Amon-Qualcomm
 
-Java Native Interface Integration with Rust
-https://medium.com/@greptime/how-to-supercharge-your-java-project-with-rust-a-practical-guide-to-jni-integration-with-a-86f60e9708b8
+加密幣暴漲推升「綁架潮」！幣圈富豪接連遇襲，CEO 保全費飆破億元
+https://www.businessyee.com/article/6167-Crypto-elite-personal-safety
 
-Ending TLS Client Authentication Certificate Support in 2026
-https://letsencrypt.org/2025/05/14/ending-tls-client-authentication/
+【COMPUTEX 2025】台積電米玉傑：與NVIDIA合作進化為系統級整合
+https://www.businessyee.com/article/6169-computex-2025-nvidia-tsmc-yj-mii
 
-Passwords are okay, impulsive Internet isn't
-https://www.dedoimedo.com/life/passwords-passkeys.html
+【2025年5月】台灣下市高風險ETF清單，25檔市值低迷、成交冷清
+https://www.businessyee.com/article/6168-ETF-deathwatch-2025-05
 
-A JavaScript library for building parsers, interpreters, compilers, and more
-https://ohmjs.org/
+【COMPUTEX 2025】黃仁勳主題演講：台灣將AI帶給世界，AI將回來改變台灣
+https://www.businessyee.com/article/6166-computex-2025-keynote-nvidia-jensen-huang
+
+【COMPUTEX 2025】盛大開展！5/23開放民眾購票參觀
+https://www.businessyee.com/article/6164-computex-opening
+
+美債仍是避風港？外國3月狂買2,330億美元，持有總額9兆美元創新高
+https://www.businessyee.com/article/6163-us-bond-2025-03
+
+【COMPUTEX 2025】黃仁勳開講在即！台股利多聚焦 AI
+https://www.businessyee.com/article/6162-computex-nvidia-jen-hsun-huan-speech
+
+The Great Divorce 開往天堂的巴士
+https://dushuyizhi.net/the-great-divorce/
+
+A Beginner's Guide to SourceHut
+https://btxx.org/posts/beginners-guide-sourcehut/
+
+async/await versus the Calloop Model
+https://notgull.net/calloop/
+
+Don't Unwrap Options: There Are Better Ways
+https://corrode.dev/blog/rust-option-handling-best-practices/
+
+macOS VMs in a Docker Container
+https://github.com/trycua/cua/tree/main/libs/lumier
+
+The X220 ThinkPad is the Best Laptop in the World (2023)
+https://btxx.org/posts/x220/
+
+"Safe" YAML monster
+https://gist.github.com/taramtrampam/fca4e599992909b48a3ba1ce69e215a2
+
+Ditching Obsidian and building my own
+https://amberwilliams.io/blogs/building-my-own-pkms
+
+LLM text chat is everywhere. Who’s optimizing its UX?
+https://xenodium.com/llm-text-chat-is-everywhere-whos-optimizing-ux
+
+Adding Mastodon Comments to your Blog
+https://beej.us/blog/data/mastodon-comments/
+
+Another HTML/CSS engine
+https://github.com/skift-org/vaev
+
+Coding Without a Laptop - Two Weeks with AR Glasses and Linux on Android
+https://holdtherobot.com/blog/2025/05/11/linux-on-android-with-ar-glasses/
+
+Mimalloc Cigarette: Losing one week of my life catching a memory leak
+https://pwy.io/posts/mimalloc-cigarette/
+
+iOS Deep-Linking with Bevy in Rust
+https://rustunit.com/blog/2025/05-18-bevy-ios-deep-linking/
+
+Git: Move files from one repo to another with history (2021)
+https://vivekdhami.com/posts/git-move-repo-files-with-history/
+
+The fastest Postgres inserts
+https://docs.hatchet.run/blog/fastest-postgres-inserts
+
+The little editor that could
+https://www.youtube.com/watch?v=GoyNMFccbow
+
+Building my childhood dream PC
+https://fabiensanglard.net/2168/index.html
+
+Mapgen4 trade routes
+https://www.redblobgames.com/blog/2025-05-08-mapgen4-trade-routes/
+
+Racket v8.17
+https://blog.racket-lang.org/2025/05/racket-v8-17.html
+
+How to have the browser pick a contrasting color in CSS
+https://webkit.org/blog/16929/contrast-color/
+
+Frida 17.0.0 Released
+https://frida.re/news/2025/05/17/frida-17-0-0-released/
+
+Rust turns 10
+https://smallcultfollowing.com/babysteps/blog/2025/05/15/10-years-of-rust/
