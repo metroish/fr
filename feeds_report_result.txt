@@ -1,166 +1,199 @@
-# 2025-05-19 09:20:00 Feeds Report 
+# 2025-05-20 09:19:29 Feeds Report 
 
-Daily Hacker News for 2025-05-18
-https://www.daemonology.net/hn-daily/2025-05-18.html
+Daily Hacker News for 2025-05-19
+https://www.daemonology.net/hn-daily/2025-05-19.html
 
-玩玩 IPFire_
-https://blog.gslin.org/archives/2025/05/19/12402/%e7%8e%a9%e7%8e%a9-ipfire_/
+收釣魚信學冷知識 - 在 SMTP 郵件假冒寄件人
+https://blog.darkthread.net/blog/fake-sender-email/
 
-電腦線圈！
-https://blog.gslin.org/archives/2025/05/19/12400/%e9%9b%bb%e8%85%a6%e7%b7%9a%e5%9c%88%ef%bc%81/
+Rust十周年發布1.87.0版強化匿名管道與安全函式庫設計
+https://www.ithome.com.tw/news/169048
 
-AWS推Transform for .NET自動化工具，助企業現代化.NET Framework舊應用
-https://www.ithome.com.tw/news/169018
+開源API工具Insomnia曝重大漏洞，恐被用於範本注入攻擊
+https://www.ithome.com.tw/news/169046
 
-AI促進科學創新重要研究遭MIT審查否決，要求arXiv標註撤回
-https://www.ithome.com.tw/news/169014
+從IT現代化轉向AI推論需求，博通亞太高層揭露VMware策略如何瞄準GenAI
+https://www.ithome.com.tw/news/169050
 
-Check Point揭露新型AI駭客兵團雛型
-https://www.ithome.com.tw/news/169016
+WordPress存在可洩露未公開草稿標題的漏洞，10億網站曝險
+https://www.ithome.com.tw/news/169047
+
+Docker要以安全映像檔防護企業生產環境容器
+https://www.ithome.com.tw/news/169041
+
+微軟公布Windows AI Foundry、強化AI Foundry代理人開發工具
+https://www.ithome.com.tw/news/169045
+
+NotebookLM行動程式來了
+https://www.ithome.com.tw/news/169044
+
+Anthropic推出Claude Code SDK，強化AI助理與自動化開發整合
+https://www.ithome.com.tw/news/169038
+
+Linux程式庫Glibc存在重大漏洞，恐被用於執行任意程式碼
+https://www.ithome.com.tw/news/169043
+
+AMD以30億美元出售ZT Systems伺服器製造業務
+https://www.ithome.com.tw/news/169042
+
+微軟發表可用自然語言查詢網站內容的開源專案NLWeb
+https://www.ithome.com.tw/news/169040
+
+歐盟漏洞資料庫EUVD上線，儀表板可快速檢視9分以上重大漏洞、新遭利用漏洞
+https://www.ithome.com.tw/news/169037
+
+微軟、GitHub支援Anthropic發起的MCP協定
+https://www.ithome.com.tw/news/169035
+
+Nvidia要在臺灣打造AI超級電腦，AI性能是Taiwania 2的8倍
+https://www.ithome.com.tw/news/169034
+
+惡意PyPI套件偽裝成加密貨幣Solana工具，意圖竊取開發者原始碼與機密資訊
+https://www.ithome.com.tw/news/169026
+
+開源資料科學工具Anaconda整合AI開發流程推出統一平臺
+https://www.ithome.com.tw/news/169019
 
 勒索軟體INC聲稱攻擊南非航空
 https://www.ithome.com.tw/news/169013
 
-【資安週報】0512~0516，多組中國駭客組織、勒索軟體駭客鎖定SAP NetWeaver漏洞入侵關鍵CI與企業組織
-https://www.ithome.com.tw/news/169009
-
-OpenAI公布ChatGPT程式撰寫代理人Codex 可多任務平行作業
-https://www.ithome.com.tw/news/169008
-
-惡意軟體FrigidStealer假借Safari更新做為誘餌，攻擊macOS用戶
-https://www.ithome.com.tw/news/169007
-
-Jenkins揭露眾多外掛程式漏洞，包括可繞過身分驗證的CVE-2025-47889
-https://www.ithome.com.tw/news/169006
-
-Grok亂說話，xAI公布系統提示以強化透明度
-https://www.ithome.com.tw/news/169005
-
 導入Blackwell架構、GDDR7，輝達專業繪圖GPU邁入新紀元
 https://www.ithome.com.tw/review/168875
 
-面對 2030 全球勞動力危機，NVIDIA 推出 RTX Pro AI Server 為 AI 員工而生
-https://www.inside.com.tw/article/38485-what-is-nvidia-rtx-pro-ai-server
+賴清德將成立主權基金，分析跟國發基金、國安基金、台杉投資有何不同？
+https://www.inside.com.tw/article/38501-taiwan-to-establish-new-sovereign-wealth-fund
 
-高通兩大震撼彈：Snapdragon 7 Gen 4 來了，還要進軍資料中心市場！
-https://www.inside.com.tw/article/38486-qualcomm-drops-two-bombshells-snapdragon-7-gen-4-launch-and-data-center-market-entry
+當車變成電腦   德國萊因車用白皮書揭智慧車的下一個轉型關鍵
+https://www.inside.com.tw/article/38500-T%C3%9CV
 
-黃仁勳在 COMPUTEX 的好料「NVIDIA NVLink Fusion」是什麼？聯發科、高通都是夥伴！
-https://www.inside.com.tw/article/38484-what-is-nvidia-nvlink-fusion
+鴻海：積極佈局 AI 工廠、電動車與智慧城市三大平台，並與 NVIDIA 合作共創 AI 新局
+https://www.inside.com.tw/article/38497-foxconn-expands-across-three-key-platforms-ai-factories-evs-and-smart-cities-in-collaboration-with-nvidia-to-shape-a-new-ai-era
 
-科技業誰薪水最優？調查：類比 IC 設計工程師是冠軍
-https://www.inside.com.tw/article/38482-who-earns-the-most-in-tech-industry-survey-shows-analog-ic-design-engineers-top-the-list
+川普簽署法案要打擊 AI 深偽色情影像！平台受通知後 48 小時內需下架
+https://www.inside.com.tw/article/38499-trump-signs-take-it-down-app
 
-華碩施崇棠：AI 工廠是下一次工業革命！我們得光速進行
-https://www.inside.com.tw/article/38481-jonney-shih-ai-factories-are-the-next-industrial-revolution-and-must-advance-at-lightspeed
+韓國媒體的焦慮：NVIDIA 將第二總部設於台灣，韓國將被限制於記憶體領域
+https://www.inside.com.tw/article/38498-nvidia-second-hq-taiwan-sparks-korea-concerns
 
-黃仁勳：NVIDIA 已經不再是一家科技公司！宣布了哪些新產品？
-https://www.inside.com.tw/article/38483-nvidia-no-longer-a-tech-company
+僅需 6 分鐘充至 80%，新型鈉離子電池達成超過 3,000 次充放電循環
+https://www.inside.com.tw/article/38496-new-sodium-ion-battery-charges-to-80-percent-in-6-minutes-achieves-over-3000-cycles
 
-《NEXTCOMM 衛星通訊共振未來》Satellite x 6G 標準化趨勢產業論壇，布局全球衛星市場、搶攻 6G 新商機
-https://www.inside.com.tw/article/38392-NEXTCOMM
+AI 學習神器 NotebookLM 正式推出 iOS、Android app！
+https://www.inside.com.tw/article/38495-notebooklm-app
 
-距蘋果宣布 Siri 重大 AI 更新滿一年，為什麼沒啥實質進展？
-https://www.inside.com.tw/article/38476-apple-siri-delay-issues
+美國科學家開發出常溫 PHz 級光電晶體！有望讓電腦速度提升百萬倍
+https://www.inside.com.tw/article/38494-us-develops-petahertz-transistor
 
-NVIDIA CEO 黃仁勳：台灣總部將落腳在北投士林
-https://www.inside.com.tw/article/38475-nvidia-taipei-headquater
+阿里巴巴蘋果 AI 合作遭美國審查！股價大跌引市場關注
+https://www.inside.com.tw/article/38493-alibaba-shares-fall-on-report-of-us-concern-over-apple-ai-deal
 
-知名 NFT 系列 CryptoPunks 售予非營利組織 數位藝術保存邁入新里程
-https://www.inside.com.tw/article/38451-cryptopunks-sold
+Microsoft Build：微軟正在盡全力 All In「AI Agent」
+https://www.inside.com.tw/article/38492-microsoft-build-conference-shows-company-going-all-in-on-ai-agents
 
-黃仁勳演講背板驚見玉山銀，5/21展示高速運算破解金融詐欺難題
-https://www.businessyee.com/article/6171-e-sun-nvidia-cooperation
+恐懼失控：「詐騙王國」的迷思與真實
+https://voicettank.org/20250519-1/
 
-【COMPUTEX 2025】高通執行長：要重返資料中心市場
-https://www.businessyee.com/article/6170-COMPUTEX-Cristiano-Amon-Qualcomm
+正面看待國際匯率的中長期結構變局
+https://voicettank.org/20250519-2/
 
-加密幣暴漲推升「綁架潮」！幣圈富豪接連遇襲，CEO 保全費飆破億元
-https://www.businessyee.com/article/6167-Crypto-elite-personal-safety
+金融業導入 AI 首度突破三成，生成式 AI 擴展成效與挑戰並存
+https://www.businessyee.com/article/6181-financial-industry-use-ai
 
-【COMPUTEX 2025】台積電米玉傑：與NVIDIA合作進化為系統級整合
-https://www.businessyee.com/article/6169-computex-2025-nvidia-tsmc-yj-mii
+房市降溫不動產貸款餘額仍在飆！央行未鬆口信用管制何時鬆綁
+https://www.businessyee.com/article/6180-estate-loan-regulation-20250520
 
-【2025年5月】台灣下市高風險ETF清單，25檔市值低迷、成交冷清
-https://www.businessyee.com/article/6168-ETF-deathwatch-2025-05
+2025台股除權息行情啟動！一文掌握上市櫃公司股利發放時程
+https://www.businessyee.com/article/6179-2025-dividend-%20schedule
 
-【COMPUTEX 2025】黃仁勳主題演講：台灣將AI帶給世界，AI將回來改變台灣
-https://www.businessyee.com/article/6166-computex-2025-keynote-nvidia-jensen-huang
+痛失最後3A頂級信評！穆迪降評象徵美國無限舉債時代結束
+https://www.businessyee.com/article/6177-Moody-removes-top-us-sovereign-credit
 
-【COMPUTEX 2025】盛大開展！5/23開放民眾購票參觀
-https://www.businessyee.com/article/6164-computex-opening
+2025星宇航股東1500元機票折扣碼 5/19 開領，怎麼領？零股可以領嗎？
+https://www.businessyee.com/article/3890-starlux-airlines-shareholders-souvenirs-2025
 
-美債仍是避風港？外國3月狂買2,330億美元，持有總額9兆美元創新高
-https://www.businessyee.com/article/6163-us-bond-2025-03
+陳立武首度以執行長身分訪台！揭示Intel未來兩大目標
+https://www.businessyee.com/article/6176-Intel-40-years
 
-【COMPUTEX 2025】黃仁勳開講在即！台股利多聚焦 AI
-https://www.businessyee.com/article/6162-computex-nvidia-jen-hsun-huan-speech
+【COMPUTEX 2025】軟銀孫正義拜會鄭麗君！肯定台灣在全球科技中的關鍵地位
+https://www.businessyee.com/article/6175-computex-son-masayoshi
 
-The Great Divorce 開往天堂的巴士
-https://dushuyizhi.net/the-great-divorce/
+【COMPUTEX 2025】NVIDIA為什麼選北市科？黃仁勳：地點、大小都完美
+https://www.businessyee.com/article/6174-computex-nvidia-taiwan-office-reason
 
-A Beginner's Guide to SourceHut
-https://btxx.org/posts/beginners-guide-sourcehut/
+一邊喝可樂一邊回看COMPUTEX到半夜？你只差一個保冰杯！
+https://www.businessyee.com/article/6173-tiger-computex
 
-async/await versus the Calloop Model
-https://notgull.net/calloop/
+【COMPUTEX 2025】施崇棠：AI 工廠是下一次工業革命，必須光速前進
+https://www.businessyee.com/article/6172-computex-2025-nvidia-asus-jonney-shih
 
-Don't Unwrap Options: There Are Better Ways
-https://corrode.dev/blog/rust-option-handling-best-practices/
+Stream Gatherers in Java
+https://feeds.feedblitz.com/~/918610334/0/baeldung
 
-macOS VMs in a Docker Container
-https://github.com/trycua/cua/tree/main/libs/lumier
+How to Check if a Number Is the Sum of Two or More Consecutive Integers
+https://feeds.feedblitz.com/~/918610337/0/baeldung
 
-The X220 ThinkPad is the Best Laptop in the World (2023)
-https://btxx.org/posts/x220/
+Flexible Pub/Sub Messaging With Spring Boot and Dapr
+https://feeds.feedblitz.com/~/918572855/0/baeldung
 
-"Safe" YAML monster
-https://gist.github.com/taramtrampam/fca4e599992909b48a3ba1ce69e215a2
+Don't Guess My Language
+https://vitonsky.net/blog/2025/05/17/language-detection/
 
-Ditching Obsidian and building my own
-https://amberwilliams.io/blogs/building-my-own-pkms
+The Windows Subsystem for Linux is now open source
+https://blogs.windows.com/windowsdeveloper/2025/05/19/the-windows-subsystem-for-linux-is-now-open-source/
 
-LLM text chat is everywhere. Who’s optimizing its UX?
-https://xenodium.com/llm-text-chat-is-everywhere-whos-optimizing-ux
+Making Video Games in 2025 (without an engine)
+https://noelberry.ca/posts/making_games_in_2025/
 
-Adding Mastodon Comments to your Blog
-https://beej.us/blog/data/mastodon-comments/
+Justification Filler Phrases
+https://serce.me/posts/2025-05-19-justification-filler-phrases
 
-Another HTML/CSS engine
-https://github.com/skift-org/vaev
+Microsoft Edit is now open source
+https://devblogs.microsoft.com/commandline/edit-is-now-open-source/
 
-Coding Without a Laptop - Two Weeks with AR Glasses and Linux on Android
-https://holdtherobot.com/blog/2025/05/11/linux-on-android-with-ar-glasses/
+Is Winter Coming?
+https://www.datagubbe.se/winter/
 
-Mimalloc Cigarette: Losing one week of my life catching a memory leak
-https://pwy.io/posts/mimalloc-cigarette/
+too much go misdirection
+https://flak.tedunangst.com/post/too-much-go-misdirection
 
-iOS Deep-Linking with Bevy in Rust
-https://rustunit.com/blog/2025/05-18-bevy-ios-deep-linking/
+Building a personal archive of the web, the slow way
+https://alexwlchan.net/2025/personal-archive-of-the-web/
 
-Git: Move files from one repo to another with history (2021)
-https://vivekdhami.com/posts/git-move-repo-files-with-history/
+A Python frozenset interpretation of Dependent Type Theory
+https://www.philipzucker.com/frozenset_dtt/
 
-The fastest Postgres inserts
-https://docs.hatchet.run/blog/fastest-postgres-inserts
+Steve Langasek, One of Ubuntu Linux's Leading Lights, Has Died
+https://thenewstack.io/steve-langasek-one-of-ubuntu-linuxs-leading-lights-has-died/
 
-The little editor that could
-https://www.youtube.com/watch?v=GoyNMFccbow
+Particle Life simulation in browser using WebGPU
+https://lisyarus.github.io/blog/posts/particle-life-simulation-in-browser-using-webgpu.html
 
-Building my childhood dream PC
-https://fabiensanglard.net/2168/index.html
+Ann, the Small Annotation Server (2023)
+https://mccd.space/posts/design-pitch-ann/
 
-Mapgen4 trade routes
-https://www.redblobgames.com/blog/2025-05-08-mapgen4-trade-routes/
+Internationalization puzzles
+https://i18n-puzzles.com/
 
-Racket v8.17
-https://blog.racket-lang.org/2025/05/racket-v8-17.html
+Submissions to Spring Lisp Game Jam 2025
+https://itch.io/jam/spring-lisp-game-jam-2025/entries
 
-How to have the browser pick a contrasting color in CSS
-https://webkit.org/blog/16929/contrast-color/
+The value of model checking in distributed protocols design
+https://protocols-made-fun.com/modelchecking/2025/04/08/value.html
 
-Frida 17.0.0 Released
-https://frida.re/news/2025/05/17/frida-17-0-0-released/
+What are you doing this week?
+https://lobste.rs/s/zthrjb/what_are_you_doing_this_week
 
-Rust turns 10
-https://smallcultfollowing.com/babysteps/blog/2025/05/15/10-years-of-rust/
+Introducing Obelisk deterministic workflow engine
+https://obeli.sk/blog/introducing-obelisk/
+
+In defense of an old pixel
+https://www.youtube.com/watch?v=SDI8ubVZi7w
+
+Not causal chains, but interactions and adaptations
+https://surfingcomplexity.blog/2025/05/19/not-causal-chains-but-interactions-and-adaptations/
+
+Go’s FIPS 140-3 Compliance
+https://go.dev/doc/security/fips140
+
+Palette Lighting Tricks on the Nintendo 64
+https://30fps.net/pages/palette-lighting-tricks-n64/
