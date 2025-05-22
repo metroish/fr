@@ -1,34 +1,58 @@
-# 2025-05-21 09:19:34 Feeds Report 
+# 2025-05-22 09:19:04 Feeds Report 
 
-Daily Hacker News for 2025-05-20
-https://www.daemonology.net/hn-daily/2025-05-20.html
+Daily Hacker News for 2025-05-21
+https://www.daemonology.net/hn-daily/2025-05-21.html
 
-淺談 Exchange 退信通知處理自動化
-https://blog.darkthread.net/blog/exchange-ndr-parse-summary/
+非負整數上的 x % d == 0 可以用 x * p <= q 代換
+https://blog.gslin.org/archives/2025/05/22/12405/%e9%9d%9e%e8%b2%a0%e6%95%b4%e6%95%b8%e4%b8%8a%e7%9a%84-x-d-0-%e5%8f%af%e4%bb%a5%e7%94%a8-x-p-q-%e4%bb%a3%e6%8f%9b/
 
-AMD發表新GPU及最高96核心工作站級處理器, 瞄準本地端AI推論及AI開發需求
-https://www.ithome.com.tw/news/169075
+維基百科上被翻譯成最多語言的條目
+https://blog.gslin.org/archives/2025/05/22/12404/%e7%b6%ad%e5%9f%ba%e7%99%be%e7%a7%91%e4%b8%8a%e8%a2%ab%e7%bf%bb%e8%ad%af%e6%88%90%e6%9c%80%e5%a4%9a%e8%aa%9e%e8%a8%80%e7%9a%84%e6%a2%9d%e7%9b%ae/
 
-Google行動AI開發方案Firebase AI Logic更新，升級多語言支援與串流回應能力
-https://www.ithome.com.tw/news/169071
+閒聊：一閃而逝的洪水級網路流量
+https://blog.darkthread.net/blog/google-doodle-flush/
 
-馬來西亞以華為晶片建置首個國家級AI基礎設施
-https://www.ithome.com.tw/news/169074
+研究人員公布Ivanti EPMM零時差漏洞細節，駭客用於散布滲透測試工具、挖掘資料庫內容
+https://www.ithome.com.tw/news/169112
 
-駭客組織Hazy Hawk濫用DNS組態不當配置，意圖挾持已棄用的受信任網域
-https://www.ithome.com.tw/news/169073
+Signal Desktop預設阻擋Windows 11 Recall截圖，確保用戶聊天隱私
+https://www.ithome.com.tw/news/169105
 
-第一銀行公開最新GenAI行動方案GALA計畫，優先賦能員工素養，再聚焦兩大發展重點
-https://www.ithome.com.tw/news/169052
+2030年我國溫室氣體階段管制目標出爐，能源、製造、運輸等6大部門減排降幅目標確定
+https://www.ithome.com.tw/news/169109
 
-微軟開放GitHub Copilot Chat原始碼，推動VS Code成開源AI編輯器
-https://www.ithome.com.tw/news/169067
+VMware針對旗下虛擬化平臺、混合雲平臺修補高風險漏洞
+https://www.ithome.com.tw/news/169108
 
-Mozilla修補Pwn2Own漏洞挖掘競賽找到的Firefox零時差漏洞
-https://www.ithome.com.tw/news/169069
+JetBrains與Azul合作最佳化JVM效能，提升Kotlin執行表現
+https://www.ithome.com.tw/news/169092
 
-Google發布可生成聲音及影像的Veo 3與AI電影製作工具Flow
-https://www.ithome.com.tw/news/169068
+圖表資料呈現系統Grafana存在XSS高風險漏洞，傳出細節已遭公開
+https://www.ithome.com.tw/news/169102
+
+感染近40萬臺Windows電腦，微軟帶頭摧毀Lumma惡意程式網路
+https://www.ithome.com.tw/news/169101
+
+SQL Server 2025預覽版釋出，重點升級AI整合與資料庫效能
+https://www.ithome.com.tw/news/169089
+
+資安新聞網站Krebs On Security驚傳遭大規模DDoS攻擊
+https://www.ithome.com.tw/news/169091
+
+OpenAI買下由Jony Ive創立的AI裝置新創io
+https://www.ithome.com.tw/news/169088
+
+Google NotebookLM加入Video Overviews能輸出簡報影片
+https://www.ithome.com.tw/news/169086
+
+主打行動裝置本地AI運算，Google釋出Gemma 3n輕量模型
+https://www.ithome.com.tw/news/169081
+
+Nvidia發表Isaac GR00T N1.5模型與資料生成框架，加速人形機器人訓練與部署
+https://www.ithome.com.tw/news/169078
+
+駭客假冒影片生成模型Kling AI，生成惡意程式
+https://www.ithome.com.tw/news/169085
 
 Google Chrome可偵測並修正已外洩密碼
 https://www.ithome.com.tw/news/169066
@@ -36,152 +60,140 @@ https://www.ithome.com.tw/news/169066
 D-Wave新一代量子電腦Advantage2正式商用，鎖定AI應用與最佳化難題
 https://www.ithome.com.tw/news/169063
 
-韓國電信業者SK Telecom遭駭調查結果出爐，駭客已埋伏近3年並滲透23臺伺服器
-https://www.ithome.com.tw/news/169065
+台灣大虛擬資產交易所 TWEX 正式上線！富邦董座蔡明忠親自購買人生第一顆比特幣
+https://www.inside.com.tw/article/38530-twex-announced
 
-Google找Warby Parker開發Android XR智慧眼鏡
-https://www.ithome.com.tw/news/169062
+比特幣再創歷史新高至 10.98 萬美元！
+https://www.inside.com.tw/article/38529-bitcoin-may-new-high
 
-被視作Google搜尋的未來，AI Mode在美國上線
-https://www.ithome.com.tw/news/169064
+特斯拉承認，自駕技術落後於 Waymo
+https://www.inside.com.tw/article/38527-tesla-head-self-driving-admits-lagging-a-couple-years-behind-waymo
 
-【波士頓直擊】紅帽年會首日5大宣布，全面瞄準企業大規模GAI運用潮
-https://www.ithome.com.tw/news/169060
+搶人大戰！Meta 將大撒幣招攬新創使用 Llama
+https://www.inside.com.tw/article/38526-meta-llama-startup-program
 
-微軟宣布WSL正式開源，開放社群貢獻程式碼
-https://www.ithome.com.tw/news/169051
+OpenAI 收購 Jony Ive 新創！要打造前所未見的消費性 AI 硬體產品
+https://www.inside.com.tw/article/38525-openai-acquires-io
 
-NotebookLM行動程式來了
-https://www.ithome.com.tw/news/169044
+AMD 搶攻 AI 市場！推入門級顯示卡 Radeon RX 9060 XT
+https://www.inside.com.tw/article/38523-amd-radeon-rx-9060-xt
 
-Anthropic推出Claude Code SDK，強化AI助理與自動化開發整合
-https://www.ithome.com.tw/news/169038
+COMPUTEX 2025 神雲科技展現品牌整合成果 全新 AI 伺服器、整機櫃液冷和軟硬體解決方案亮相 助攻全球資料中心高效、永續發展
+https://www.inside.com.tw/article/38524-mitac
 
-Linux程式庫Glibc存在重大漏洞，恐被用於執行任意程式碼
-https://www.ithome.com.tw/news/169043
+BMW：一間傳統車廠，怎麼擁抱智慧工廠、全新神經系統？
+https://www.inside.com.tw/article/38520-from-smart-factories-to-a-new-digital-neural-network-bmw-maps-out-the-future-of-luxury-mobility
 
-「因為穩定太重要了」黃仁勳大方談為何在台灣設置總部
-https://www.inside.com.tw/article/38515-nvidia-taiwan-no-chairs
+沒電就沒 AI，Arm：邊緣 AI 才能因應能源挑戰
+https://www.inside.com.tw/article/38522-arm-computex-no-power-no-ai
 
-黃仁勳不看好 UALink 未來？「大家都正在轉用 NVLink」
-https://www.inside.com.tw/article/38514-nvidia-nvlink-vs-ualink-ai-center-shift
+罷免志工遇到言語或錄影等等輕微影騷擾時 我的回應方式：鼓勵搜尋
+https://ckhung0.blogspot.com/2025/05/harass.html
 
-【COMPUTEX 2025】AI 浪潮下的儲存革新：Toshiba 與生態圈夥伴引領企業數據新未來
-https://www.inside.com.tw/article/38459-
+台灣反核運動是一場與民主轉型同行反抗威權的環境運動
+https://voicettank.org/20250521-1/
 
-黃仁勳：DeepSeek 非常優秀！中國市場對 NVIDIA 仍非常重要
-https://www.inside.com.tw/article/38511-jensen-huang-praises-deepseek-excellence-china-market-remains-critical-for-nvidia
+中國航艦編隊戰力研析──以「福建艦」為例
+https://voicettank.org/20250521-2/
 
-7大展區提供完整策略地圖！ QNAP Tech Summit 2025揭示企業新世代IT架構全貌
-https://www.inside.com.tw/article/38513-qnap_computex2025
+關稅影響有限！亞馬遜CEO：亞馬遜買氣未見趨緩，也無調漲計畫
+https://www.businessyee.com/article/6199-amazon-jassy-tariffs
 
-高通將推動 AI 代理人！藉跨裝置協同、雲端 ID 帶來無縫 AI 體驗
-https://www.inside.com.tw/article/38512-computex-2025-qualcomm-qa
+搬進「鑽石級」綠建築！安聯人壽台中新基地開箱，創業氛圍滿分
+https://www.businessyee.com/article/6203-allianz-life-taichung-New-Office
 
-AI 引爆產業新革命！MarTech Asia 2025 掌握企業升級五大關鍵
-https://www.inside.com.tw/article/38510-MarTechAsia2025
+併購Foodpanda？羅智先：接近消費者服務都會嚴肅檢討
+https://www.businessyee.com/article/6202-2912
 
-【Google I/O 2025】全能 AI 助理時代來臨！Gemini Live + Project Astra 記得你所有偏好，動口就能整行程、購物
-https://www.inside.com.tw/article/38509-google-io-2025-gemini-live-project-astra
+高鐵營收首破500億，新列車2027年上線
+https://www.businessyee.com/article/6201-thsr-earnings
 
-【Google I/O 2025】Google 大幅更新 AI Agent「Project Mariner」，可同時完成 10 種任務
-https://www.inside.com.tw/article/38508-google-announces-major-updates-to-ai-agent-project-mariner
+美債信心危機擴大？川普赤字預算與新債反應差引爆拋售潮
+https://www.businessyee.com/article/6198-us-treasury
 
-【Google I/O 2025】Android XR 眼鏡現身！可即時顯示翻譯、針對環境提供資訊
-https://www.inside.com.tw/article/38507-google-io-2025-android-xr
+OpenAI跨足硬體！64億美元收購前iPhone設計師的AI新創「io」
+https://www.businessyee.com/article/6197-sam-and-jony
 
-打造金融AI Agent！國泰金訓練LLM通過授信考試，表現超越GPT-4o
-https://www.businessyee.com/article/6193-cathay-credit-business-ai-Agent
+撐不住關稅壓力！Nike傳最快本週漲價
+https://www.businessyee.com/article/6196-nike
 
-【COMPUTEX 2025】黃仁勳嗆美國出口政策：錯誤管制反助長中國AI加速
-https://www.businessyee.com/article/6192-nvidia-jensen-huang-computex
+中鋼股東會紀念品輕巧冷水瓶5/22開領，零股可以領嗎？領取地點？
+https://www.businessyee.com/article/5967-2002-shareholders-souvenirs-2025
 
-未來五年持續帶領特斯拉！馬斯克：將大幅減少DOGE投入時間
-https://www.businessyee.com/article/6190-elon-musk-tesla-in-five-years
+路跑賽事備戰中？別忘了下單自備補給！
+https://www.businessyee.com/article/6195-world-masters-games-running
 
-IPO責任額亂象！全金聯：設吹哨者制度、勸誘借貸投資究責高層
-https://www.businessyee.com/article/6189-etf-ipo-chaos
+【版主有話說】廣島與長崎原爆和平紀念儀式的「雙標」風波
+https://changyuchieh.com/2025/05/22/udn-double-standard/?utm_source=rss&utm_medium=rss&utm_campaign=udn-double-standard
 
-台積電赴美商機｜鳳凰城首條亞洲直航線！星宇航空證實明年2月開航
-https://www.businessyee.com/article/6188-starlux-tsmc-phoenix
+By Default, Signal Doesn't Recall
+https://signal.org/blog/signal-doesnt-recall/
 
-賴清德宣布成立主權基金！財部：籌措財源責無旁貸
-https://www.businessyee.com/article/6187-taiwan-swf
+Vim vs. Kakoune puzzles
+https://strongly-typed-thoughts.net/blog/vim-kakoune-puzzles-2025
 
-打造百萬瓩級訓練中心！馬斯克預告再掃輝達、AMD晶片，缺電明年衝擊AI
-https://www.businessyee.com/article/6186-musk-sweep-nvidia-amd-chips
+TypeID in Lua
+https://push.cx/typeid-in-lua
 
-可穿戴的降溫裝置！日本熱銷缺貨 REON POCKET 5 正式登台
-https://www.businessyee.com/article/6185-sony-reon-pocket-5
+Tales From Mainframe Modernization
+https://oppi.li/posts/tales_from_mainframe_modernization/
 
-【COMPUTEX 2025】鴻海劉揚偉：實測發現AI不會取代人類
-https://www.businessyee.com/article/6183-foxconn-computex
+Introduction to Bases - Obsidian Help
+https://help.obsidian.md/bases
 
-首波虛擬資產保管業務4銀行遞件，6/15開放第二階段申請
-https://www.businessyee.com/article/6182-virtual-asset-custody-business
+Reading code is still the most effective method to debug multi-thread bug
+https://nanxiao.me/en/reading-code-is-still-the-most-effective-method-to-debug-multi-thread-bug/
 
-apply.coop - Matching people with jobs that fit their values & passions
-https://apply.coop
+My Technological Regrets
+https://jezenthomas.com/2025/01/my-technological-regrets/
 
-Reports of Deno's Demise Have Been Greatly Exaggerated
-https://deno.com/blog/greatly-exaggerated
+Erlang/OTP 28.0 Release
+https://www.erlang.org/news/180
 
-An Open File Format for storing the information from a forge such as issues, pull/merge requests, milestones
-https://f3.forgefriends.org/
+Artiflakery, an easy way to distribute static Nix flake artifacts
+https://luj.fr/blog/artiflakery-webserver-flake-artifacts.html
 
-Open Source Can't Coordinate
-https://matklad.github.io/2025/05/20/open-source-cant-coordinate.html
+ChatGPT Heard About Eagles Fans
+https://www.dbreunig.com/2025/05/21/chatgpt-heard-about-eagles-fans.html
 
-Litestream: Revamped
-https://fly.io/blog/litestream-revamped/
+Recent disruptive changes from Setuptools
+https://lwn.net/SubscriberLink/1020576/fcef31015579a9b1/
 
-Enlightenmentware
-https://mmapped.blog/posts/28-enlightenmentware
+Introducing Roto: A Compiled Scripting Language for Rust
+https://blog.nlnetlabs.nl/introducing-roto-a-compiled-scripting-language-for-rust/
 
-Hypervisor as a Library
-https://seiya.me/blog/hypervisor-as-a-library
+kotlin-lsp: Kotlin Language Server and plugin for Visual Studio Code
+https://github.com/Kotlin/kotlin-lsp
 
-Jwno: a tiling WM for Windows, written in Janet
-https://agent-kilo.github.io/jwno/
+Oodle 2.9.14 and Intel 13th/14th gen CPUs
+https://fgiesen.wordpress.com/2025/05/21/oodle-2-9-14-and-intel-13th-14th-gen-cpus/
 
-Optional Rust-In-FreeBSD Support May 2025 Status Report
-https://hardenedbsd.org/article/shawn-webb/2025-05-20/optional-rust-freebsd-support-may-2025-status-report
+We did the math on AI’s energy footprint. Here’s the story you haven’t heard
+https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/
 
-Tag Proposal: concatenative
-https://lobste.rs/s/7q3ntz/tag_proposal_concatenative
+Functional hash tables explained
+https://spritely.institute/news/functional-hash-tables-explained.html
 
-FreeBSD and NetBSD Zig Cross-Compilation Support
-https://ziglang.org/devlog/2025/#2025-05-20
+Subreply is now open source
+https://github.com/lucianmarin/subreply
 
-Interview: Chief maintainer of Qt project on language independence, KDE, and the pain of Qt 5 to Qt 6
-https://devclass.com/2025/05/16/interview-chief-maintainer-of-qt-project-on-language-independence-kde-and-the-pain-of-qt-5-to-qt-6/
+Idiomatic errors in Clojure
+https://www.daveliepmann.com/articles/idiomatic-clojure-errors.html
 
-The Ingredients of a Productive Monorepo
-https://blog.swgillespie.me/posts/monorepo-ingredients/
+Introducing Converse 11: A Major Leap Forward for XMPP Webchat
+https://opkode.com/blog/2025-05-21-converse-11/
 
-KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS
-https://krebsonsecurity.com/2025/05/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos/
+There Ain’t No Such Thing as a Free Custom Memory Allocator
+https://arxiv.org/pdf/2206.11728
 
-Compiling OCaml to the TI-84+ CE Calculator
-https://farlow.dev/2025/05/17/ocaml-on-calculator
+Gradients are the new intervals
+https://www.mattkeeter.com/blog/2025-05-14-gradients/
 
-If composers were hackers
-https://mmapped.blog/posts/18-if-composers-were-hackers
+Encore's MCP Server enables your AI tools to introspect your application
+https://encore.dev/blog/mcp-server
 
-Lerp smoothing is broken
-https://www.youtube.com/watch?v=LSNQuFEDOyQ
+Root Cause Analysis: PostgreSQL MultiXact member exhaustion incidents
+https://metronome.com/blog/root-cause-analysis-postgresql-multixact-member-exhaustion-incidents-may-2025
 
-When rethinking a codebase is better than a workaround
-https://sniffnet.net/news/rethink-over-workaround/
-
-A simple search engine from scratch
-https://bernsteinbear.com/blog/simple-search/
-
-Building a fast website with the MASH stack in Rust
-https://emschwartz.me/building-a-fast-website-with-the-mash-stack-in-rust/
-
-Finding hard 24 puzzles with planner programming
-https://buttondown.com/hillelwayne/archive/finding-hard-24-puzzles-with-planner-programming/
-
-Writing into uninitialized buffers in Rust
-https://blog.sunfishcode.online/writingintouninitializedbuffersinrust/
+Erlang/OTP 28 Highlights
+https://www.erlang.org/blog/highlights-otp-28/
