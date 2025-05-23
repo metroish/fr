@@ -1,31 +1,82 @@
-# 2025-05-22 09:19:04 Feeds Report 
+# 2025-05-23 09:18:51 Feeds Report 
 
-Daily Hacker News for 2025-05-21
-https://www.daemonology.net/hn-daily/2025-05-21.html
+Daily Hacker News for 2025-05-22
+https://www.daemonology.net/hn-daily/2025-05-22.html
 
-非負整數上的 x % d == 0 可以用 x * p <= q 代換
-https://blog.gslin.org/archives/2025/05/22/12405/%e9%9d%9e%e8%b2%a0%e6%95%b4%e6%95%b8%e4%b8%8a%e7%9a%84-x-d-0-%e5%8f%af%e4%bb%a5%e7%94%a8-x-p-q-%e4%bb%a3%e6%8f%9b/
+Pocket 總算要關掉了...
+https://blog.gslin.org/archives/2025/05/23/12409/pocket-%e7%b8%bd%e7%ae%97%e8%a6%81%e9%97%9c%e6%8e%89%e4%ba%86/
 
-維基百科上被翻譯成最多語言的條目
-https://blog.gslin.org/archives/2025/05/22/12404/%e7%b6%ad%e5%9f%ba%e7%99%be%e7%a7%91%e4%b8%8a%e8%a2%ab%e7%bf%bb%e8%ad%af%e6%88%90%e6%9c%80%e5%a4%9a%e8%aa%9e%e8%a8%80%e7%9a%84%e6%a2%9d%e7%9b%ae/
+Signal 擋 Microsoft Recall 抓截圖的方法：把畫面上 DRM
+https://blog.gslin.org/archives/2025/05/23/12407/signal-%e6%93%8b-microsoft-recall-%e6%8a%93%e6%88%aa%e5%9c%96%e7%9a%84%e6%96%b9%e6%b3%95%ef%bc%9a%e6%8a%8a%e7%95%ab%e9%9d%a2%e4%b8%8a-drm/
 
-閒聊：一閃而逝的洪水級網路流量
-https://blog.darkthread.net/blog/google-doodle-flush/
+好消息，Obsidian 免費開放商業使用
+https://blog.darkthread.net/blog/obsidian-free-for-work/
 
-研究人員公布Ivanti EPMM零時差漏洞細節，駭客用於散布滲透測試工具、挖掘資料庫內容
-https://www.ithome.com.tw/news/169112
+Google Gemini Diffusion新模型得益於擴散機制，大幅加速文字生成效率
+https://www.ithome.com.tw/news/169137
 
-Signal Desktop預設阻擋Windows 11 Recall截圖，確保用戶聊天隱私
-https://www.ithome.com.tw/news/169105
+OpenAI的AI裝置長怎樣？不是手機、亦非眼鏡，沒有螢幕
+https://www.ithome.com.tw/news/169138
 
-2030年我國溫室氣體階段管制目標出爐，能源、製造、運輸等6大部門減排降幅目標確定
-https://www.ithome.com.tw/news/169109
+Ruby 3.5效能最佳化，物件配置速度為之前版本6倍以上
+https://www.ithome.com.tw/news/169132
 
-VMware針對旗下虛擬化平臺、混合雲平臺修補高風險漏洞
-https://www.ithome.com.tw/news/169108
+Mozilla關閉Firefox附加工具Pocket、Fakespot
+https://www.ithome.com.tw/news/169136
 
-JetBrains與Azul合作最佳化JVM效能，提升Kotlin執行表現
-https://www.ithome.com.tw/news/169092
+【資安日報】5月23日，新版Windows伺服器作業系統dMSA服務帳號的遷移流程可被濫用而惹議
+https://www.ithome.com.tw/news/169135
+
+資產管理系統Cityworks零時差漏洞傳出遭到利用，中國駭客對美國地方政府發動攻擊
+https://www.ithome.com.tw/news/169134
+
+Anthropic發布Claude Opus 4與Claude Sonnet 4，前者號稱是全球最強大的程式碼撰寫模型
+https://www.ithome.com.tw/news/169131
+
+Meta公布Llama新創贊助計畫
+https://www.ithome.com.tw/news/169133
+
+中國駭客利用Ivanti EPMM漏洞從事攻擊，對歐美、亞太地區出手
+https://www.ithome.com.tw/news/169130
+
+TypeScript Native預覽版開放，編譯效能飆上10倍速
+https://www.ithome.com.tw/news/169122
+
+Mistral公布24億參數程式設計代理人模型Devstral　可單機本地部署
+https://www.ithome.com.tw/news/169127
+
+Windows Server 2025的dMSA服務帳號提權惹議，起因是遷移流程可被濫用
+https://www.ithome.com.tw/news/169126
+
+OpenAI發表Stargate UAE，於阿布達比建置AI資料中心
+https://www.ithome.com.tw/news/169121
+
+處處靠AI提升人員效率，不只改造工作流程，更強化商業模式
+https://www.ithome.com.tw/news/169106
+
+TVBS用AI走進媒體新時代
+https://www.ithome.com.tw/article/169110
+
+數據架構經歷兩次脫胎換骨，成為支持AI轉型的重要基礎建設
+https://www.ithome.com.tw/news/169107
+
+培育種子人才成為推廣大使，促使非技術部門擁抱AI、應用AI
+https://www.ithome.com.tw/news/169104
+
+從Martech到AI，TVBS用數據驅動數位通路經營
+https://www.ithome.com.tw/news/169098
+
+將現代科技注入傳統媒體思維，TVBS用大數據和AI自我改造
+https://www.ithome.com.tw/news/169093
+
+韌性與彈性
+https://www.ithome.com.tw/voice/169115
+
+分散式應用開發平臺.NET Aspire 9.3強化AI除錯，並完善多雲服務管理
+https://www.ithome.com.tw/news/169113
+
+Google更新AI代理開發工具，ADK與A2A協定同步升級
+https://www.ithome.com.tw/news/169111
 
 圖表資料呈現系統Grafana存在XSS高風險漏洞，傳出細節已遭公開
 https://www.ithome.com.tw/news/169102
@@ -33,167 +84,131 @@ https://www.ithome.com.tw/news/169102
 感染近40萬臺Windows電腦，微軟帶頭摧毀Lumma惡意程式網路
 https://www.ithome.com.tw/news/169101
 
-SQL Server 2025預覽版釋出，重點升級AI整合與資料庫效能
-https://www.ithome.com.tw/news/169089
+【Generative AI 年會】玉山銀行導入 GitHub Copilot 的實戰成效
+https://www.inside.com.tw/feature/2025-generative-ai/38540-e-sun-bank-github-copilot-implementation-results-and-performance
 
-資安新聞網站Krebs On Security驚傳遭大規模DDoS攻擊
-https://www.ithome.com.tw/news/169091
+比亞迪在歐洲純電動車市場首次超越特斯拉
+https://www.inside.com.tw/article/38541-chinas-byd-outsells-tesla-europe-first-time
 
-OpenAI買下由Jony Ive創立的AI裝置新創io
-https://www.ithome.com.tw/news/169088
+【Generative AI 年會】生成式 AI 實戰：如何讓印刷產業用 AI 數位轉型？
+https://www.inside.com.tw/feature/2025-generative-ai/38539-generative-ai-in-action-how-to-digitally-transform-the-expertise-of-the-daily-chemical-printing-industry
 
-Google NotebookLM加入Video Overviews能輸出簡報影片
-https://www.ithome.com.tw/news/169086
+小米發表自研 3 奈米晶片 「玄戒 O1」追趕蘋果、聯發科與高通地位
+https://www.inside.com.tw/article/38537-xiaomi-xring-o1-flagship-chipset
 
-主打行動裝置本地AI運算，Google釋出Gemma 3n輕量模型
-https://www.ithome.com.tw/news/169081
+Google 找 AI 新創合作也出事？美司法部啟動調查
+https://www.inside.com.tw/article/38536-google-faces-doj-probe-over-deal-ai-tech
 
-Nvidia發表Isaac GR00T N1.5模型與資料生成框架，加速人形機器人訓練與部署
-https://www.ithome.com.tw/news/169078
+Johnson Electric 全面布局液冷泵浦  全面解決 AI 伺服器散熱痛點
+https://www.inside.com.tw/article/38535-je
 
-駭客假冒影片生成模型Kling AI，生成惡意程式
-https://www.ithome.com.tw/news/169085
+不能落後 Google、Meta，傳蘋果最快 2026 推智慧眼鏡
+https://www.inside.com.tw/article/38534-apple-plans-glasses-for-2026-as-part-of-ai-push-nixes-watch-with-camera
 
-Google Chrome可偵測並修正已外洩密碼
-https://www.ithome.com.tw/news/169066
+蘋果設計之神 Jony Ive 回歸！攜手 OpenAI 打造「頸掛式」 AI 裝置對抗 Google
+https://www.inside.com.tw/article/38533-jony-ive-sam-altman-ai-device-ipod-shuffle-ai-pin
 
-D-Wave新一代量子電腦Advantage2正式商用，鎖定AI應用與最佳化難題
-https://www.ithome.com.tw/news/169063
+Anthropic Claude 4 來了！是怎麼做到即時、深度思考能力的？
+https://www.inside.com.tw/article/38532-anthropic-claude-4
 
-台灣大虛擬資產交易所 TWEX 正式上線！富邦董座蔡明忠親自購買人生第一顆比特幣
-https://www.inside.com.tw/article/38530-twex-announced
+可以砸錢移民美國了？美商務部長：川普金卡官網 1 周內上線
+https://www.inside.com.tw/article/38528-trump-golden-visa-website-launch
 
-比特幣再創歷史新高至 10.98 萬美元！
-https://www.inside.com.tw/article/38529-bitcoin-may-new-high
+【書摘】《聲音的台灣史：音樂與民族的當代探索》
+https://voicettank.org/20250522-2/
 
-特斯拉承認，自駕技術落後於 Waymo
-https://www.inside.com.tw/article/38527-tesla-head-self-driving-admits-lagging-a-couple-years-behind-waymo
+日本防衛大臣中谷元訪問印度之研析
+https://voicettank.org/20250522-3/
 
-搶人大戰！Meta 將大撒幣招攬新創使用 Llama
-https://www.inside.com.tw/article/38526-meta-llama-startup-program
+鴻華拚上市後5年獲利 劉揚偉：洽商其他車廠合作
+https://www.businessyee.com/article/6207-2258
 
-OpenAI 收購 Jony Ive 新創！要打造前所未見的消費性 AI 硬體產品
-https://www.inside.com.tw/article/38525-openai-acquires-io
+黃仁勳回去了，8天台灣行程回顧：COMPUTEX系列演講與美食清單
+https://www.businessyee.com/article/6206-jensen-huang
 
-AMD 搶攻 AI 市場！推入門級顯示卡 Radeon RX 9060 XT
-https://www.inside.com.tw/article/38523-amd-radeon-rx-9060-xt
+【全球半導體供應鏈夥伴論壇】賴清德：團結合作是為了避免任何一國低價傾銷、致使創新無法持續
+https://www.businessyee.com/article/6205-global-semiconductor-supply-chain-partnership-forum
 
-COMPUTEX 2025 神雲科技展現品牌整合成果 全新 AI 伺服器、整機櫃液冷和軟硬體解決方案亮相 助攻全球資料中心高效、永續發展
-https://www.inside.com.tw/article/38524-mitac
+接班人阿貝爾訪東京！波克夏與日本5大商社審視合作方向
+https://www.businessyee.com/article/6204-greg-abel-go-to-japan
 
-BMW：一間傳統車廠，怎麼擁抱智慧工廠、全新神經系統？
-https://www.inside.com.tw/article/38520-from-smart-factories-to-a-new-digital-neural-network-bmw-maps-out-the-future-of-luxury-mobility
+【聽進理投】你以為的理財公式不會幫你變有錢
+https://www.businessyee.com/article/6194-ep126
 
-沒電就沒 AI，Arm：邊緣 AI 才能因應能源挑戰
-https://www.inside.com.tw/article/38522-arm-computex-no-power-no-ai
+【黃仁勳專訪】談中東 AI 市場、晶片管制：單靠封鎖H20晶片無法阻止中國發展 AI
+https://www.businessyee.com/article/6184-Stratechery-interview-nvidia-ceo-jensen-huang
 
-罷免志工遇到言語或錄影等等輕微影騷擾時 我的回應方式：鼓勵搜尋
-https://ckhung0.blogspot.com/2025/05/harass.html
+寧德時代港股掛牌首日漲逾16%，刷新今年全球IPO紀錄
+https://www.businessyee.com/article/6178-CATL-HongKong
 
-台灣反核運動是一場與民主轉型同行反抗威權的環境運動
-https://voicettank.org/20250521-1/
+特斯拉無人計程車Robotaxi今年6月底試營運！德州搶先上路
+https://www.businessyee.com/article/6191-elon-musk-tesla-robotaxi
 
-中國航艦編隊戰力研析──以「福建艦」為例
-https://voicettank.org/20250521-2/
+AMD 宣布 60 億美元股票回購計畫，股價應聲漲 6%！
+https://www.businessyee.com/article/6142-amd-6-billion-share-buyback
 
-關稅影響有限！亞馬遜CEO：亞馬遜買氣未見趨緩，也無調漲計畫
-https://www.businessyee.com/article/6199-amazon-jassy-tariffs
+AI伺服器需求旺！輝達背書的CoreWeave 發債20億美元、股價飆漲19%
+https://www.businessyee.com/article/6200-coreweave-shares-offering
 
-搬進「鑽石級」綠建築！安聯人壽台中新基地開箱，創業氛圍滿分
-https://www.businessyee.com/article/6203-allianz-life-taichung-New-Office
+Loading Test Data from Files in JUnit Tests with Java Test Gadgets Test Data Factory
+https://feeds.feedblitz.com/~/918794885/0/baeldung
 
-併購Foodpanda？羅智先：接近消費者服務都會嚴肅檢討
-https://www.businessyee.com/article/6202-2912
+Java Weekly, Issue 595
+https://feeds.feedblitz.com/~/918773114/0/baeldung
 
-高鐵營收首破500億，新列車2027年上線
-https://www.businessyee.com/article/6201-thsr-earnings
+The Future of Customer Support is Lies, I Guess
+https://aphyr.com/posts/387-the-future-of-customer-support-is-lies-i-guess
 
-美債信心危機擴大？川普赤字預算與新債反應差引爆拋售潮
-https://www.businessyee.com/article/6198-us-treasury
+Making the rav1d Video Decoder 1% Faster
+https://ohadravid.github.io/posts/2025-05-rav1d-faster/
 
-OpenAI跨足硬體！64億美元收購前iPhone設計師的AI新創「io」
-https://www.businessyee.com/article/6197-sam-and-jony
+3 Years of Extremely Remote Work
+https://www.brendangregg.com/blog/2025-05-22/3-years-of-extremely-remote-work.html
 
-撐不住關稅壓力！Nike傳最快本週漲價
-https://www.businessyee.com/article/6196-nike
+Transpiler is a meaningless word (2023)
+https://people.csail.mit.edu/rachit/post/transpiler/
 
-中鋼股東會紀念品輕巧冷水瓶5/22開領，零股可以領嗎？領取地點？
-https://www.businessyee.com/article/5967-2002-shareholders-souvenirs-2025
+another tale of go.mod bloat
+https://flak.tedunangst.com/post/another-tale-of-gomod-bloat
 
-路跑賽事備戰中？別忘了下單自備補給！
-https://www.businessyee.com/article/6195-world-masters-games-running
+Debugging memory leaks in Postgres, heaptrack edition
+https://www.enterprisedb.com/blog/debugging-memory-leaks-postgres-heaptrack-edition
 
-【版主有話說】廣島與長崎原爆和平紀念儀式的「雙標」風波
-https://changyuchieh.com/2025/05/22/udn-double-standard/?utm_source=rss&utm_medium=rss&utm_campaign=udn-double-standard
+Hypersystem: a pixel display font for Hypermedia Systems
+https://deniz.aksimsek.tr/2025/hypersystem/
 
-By Default, Signal Doesn't Recall
-https://signal.org/blog/signal-doesnt-recall/
+Async from scratch 3: Pinned against the wall
+https://natkr.com/2025-05-22-async-from-scratch-3/
 
-Vim vs. Kakoune puzzles
-https://strongly-typed-thoughts.net/blog/vim-kakoune-puzzles-2025
+Claude and I write a utility program
+https://blog.plover.com/tech/gpt/claude-xar.html
 
-TypeID in Lua
-https://push.cx/typeid-in-lua
+Closures And Objects Are Equivalent (2013)
+https://wiki.c2.com/?ClosuresAndObjectsAreEquivalent
 
-Tales From Mainframe Modernization
-https://oppi.li/posts/tales_from_mainframe_modernization/
+The GradBench Benchmark Suite for Automatic Differentiation
+https://sigkill.dk/blog/2025-04-03-gradbench.html
 
-Introduction to Bases - Obsidian Help
-https://help.obsidian.md/bases
+How to Get Your Research Paper Accepted
+https://maxwellforbes.com/posts/how-to-get-a-paper-accepted
 
-Reading code is still the most effective method to debug multi-thread bug
-https://nanxiao.me/en/reading-code-is-still-the-most-effective-method-to-debug-multi-thread-bug/
+Fast Allocations in Ruby 3.5
+https://railsatscale.com/2025-05-21-fast-allocations-in-ruby-3-5/
 
-My Technological Regrets
-https://jezenthomas.com/2025/01/my-technological-regrets/
+Whippet GC notes on Guile, heuristics, and heap growth
+https://wingolog.org/archives/2025/05/22/whippet-lab-notebook-guile-heuristics-and-heap-growth
 
-Erlang/OTP 28.0 Release
-https://www.erlang.org/news/180
+Machinist and Machine
+https://punkx.org/jackdoe/misery.html
 
-Artiflakery, an easy way to distribute static Nix flake artifacts
-https://luj.fr/blog/artiflakery-webserver-flake-artifacts.html
+OpenBSD IO benchmarking: How Many Jobs Are Worth It?
+https://rsadowski.de/posts/2025/fio_simple_benckmarking/
 
-ChatGPT Heard About Eagles Fans
-https://www.dbreunig.com/2025/05/21/chatgpt-heard-about-eagles-fans.html
+Recreating performant fish school animation of Abzû
+https://youtube.com/watch?v=dQI7y7eSUGU
 
-Recent disruptive changes from Setuptools
-https://lwn.net/SubscriberLink/1020576/fcef31015579a9b1/
+Everything’s a bug (or an issue)
+https://www.bozemanpass.com/everythings-a-bug-or-an-issue/
 
-Introducing Roto: A Compiled Scripting Language for Rust
-https://blog.nlnetlabs.nl/introducing-roto-a-compiled-scripting-language-for-rust/
-
-kotlin-lsp: Kotlin Language Server and plugin for Visual Studio Code
-https://github.com/Kotlin/kotlin-lsp
-
-Oodle 2.9.14 and Intel 13th/14th gen CPUs
-https://fgiesen.wordpress.com/2025/05/21/oodle-2-9-14-and-intel-13th-14th-gen-cpus/
-
-We did the math on AI’s energy footprint. Here’s the story you haven’t heard
-https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/
-
-Functional hash tables explained
-https://spritely.institute/news/functional-hash-tables-explained.html
-
-Subreply is now open source
-https://github.com/lucianmarin/subreply
-
-Idiomatic errors in Clojure
-https://www.daveliepmann.com/articles/idiomatic-clojure-errors.html
-
-Introducing Converse 11: A Major Leap Forward for XMPP Webchat
-https://opkode.com/blog/2025-05-21-converse-11/
-
-There Ain’t No Such Thing as a Free Custom Memory Allocator
-https://arxiv.org/pdf/2206.11728
-
-Gradients are the new intervals
-https://www.mattkeeter.com/blog/2025-05-14-gradients/
-
-Encore's MCP Server enables your AI tools to introspect your application
-https://encore.dev/blog/mcp-server
-
-Root Cause Analysis: PostgreSQL MultiXact member exhaustion incidents
-https://metronome.com/blog/root-cause-analysis-postgresql-multixact-member-exhaustion-incidents-may-2025
-
-Erlang/OTP 28 Highlights
-https://www.erlang.org/blog/highlights-otp-28/
+Fork Union: Beyond OpenMP in C++ and Rust?
+https://ashvardanian.com/posts/beyond-openmp-in-cpp-rust/
