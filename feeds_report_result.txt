@@ -1,16 +1,55 @@
-# 2025-05-27 09:18:33 Feeds Report 
+# 2025-05-28 09:19:11 Feeds Report 
 
-Daily Hacker News for 2025-05-26
-https://www.daemonology.net/hn-daily/2025-05-26.html
+Daily Hacker News for 2025-05-27
+https://www.daemonology.net/hn-daily/2025-05-27.html
 
-Backblaze 這次的硬碟報告只剩下表，沒有圖了...
-https://blog.gslin.org/archives/2025/05/27/12417/backblaze-%e9%80%99%e6%ac%a1%e7%9a%84%e7%a1%ac%e7%a2%9f%e5%a0%b1%e5%91%8a%e5%8f%aa%e5%89%a9%e4%b8%8b%e8%a1%a8%ef%bc%8c%e6%b2%92%e6%9c%89%e5%9c%96%e4%ba%86/
+愛料理創辦人：不會寫程式也能靠GenAI打造科技產品賺錢，但成功關鍵仍是商業能力
+https://www.ithome.com.tw/news/169241
 
-Hacker News 的底層換掉了...
-https://blog.gslin.org/archives/2025/05/27/12415/hacker-news-%e7%9a%84%e5%ba%95%e5%b1%a4%e6%8f%9b%e6%8e%89%e4%ba%86/
+持續擴大身分安全防護產品陣容，Computex 2025臺廠展出多種硬體解決方案
+https://www.ithome.com.tw/news/169198
 
-資安新聞：SSL/TLS 憑證效期愈來愈短，每月更新一次的時代即將來臨
-https://blog.darkthread.net/blog/cert-vald-47days/
+硬體規格精簡、不支援路由，Ruckus新型L2交換器上市
+https://www.ithome.com.tw/review/169177
+
+駭客組織Everest、Gehenna聲稱竊得可口可樂內部資料
+https://www.ithome.com.tw/news/169228
+
+【臺灣資安大會直擊】詐騙、網攻、雲端服務出包、AI偽造帶來信任危機!?企業應建立數位信任強化與外界的互動關係
+https://www.ithome.com.tw/news/169224
+
+荷蘭警方去年遭駭，傳出是俄羅斯駭客Void Blizzard所為
+https://www.ithome.com.tw/news/169223
+
+知名運動品牌Adidas遭網路攻擊，客戶資料外洩
+https://www.ithome.com.tw/news/169222
+
+Zscaler將買下MDR業者Red Canary
+https://www.ithome.com.tw/news/169221
+
+德州通過App Store問責法案，要求程式市集驗證兒童年紀
+https://www.ithome.com.tw/news/169220
+
+俄羅斯駭客Void Blizzard以假Entra登入網頁為誘餌，入侵逾20家非政府組織
+https://www.ithome.com.tw/news/169219
+
+Mistral推出Mistral Agents API
+https://www.ithome.com.tw/news/169218
+
+Computex秀AI資安新方向，趨勢科技用數位孿生助企業攻防演練
+https://www.ithome.com.tw/news/169194
+
+Salesforce將以約80億美元買下雲端資料管理業者Informatica，著眼於代理式AI
+https://www.ithome.com.tw/news/169211
+
+臺灣企業如何因應地緣政治風險？從BCM 1.0升級2.0，專家建議從六大面向因應極端情境
+https://www.ithome.com.tw/news/169208
+
+中國稱用於保護身分的網路ID系統 已有600萬人啟用
+https://www.ithome.com.tw/news/169206
+
+Copilot代理深入整合Office擴充，統一開發工具加速辦公應用自動化
+https://www.ithome.com.tw/news/169201
 
 5,300臺網路設備遭殭屍網路綁架，中國駭客ViciousTrap利用未有修補程式的已知漏洞入侵
 https://www.ithome.com.tw/news/169195
@@ -27,152 +66,116 @@ https://www.ithome.com.tw/news/169192
 OpenAI將Operator模型升級為具推理能力的o3
 https://www.ithome.com.tw/news/169180
 
-微軟開源Aurora AI模型跨域天氣預報，準確度全面超越傳統數值模擬方法
-https://www.ithome.com.tw/news/169170
+蘋果 WWDC 將推出全新遊戲 App？彭博：將取代現有 Game Center
+https://www.inside.com.tw/article/38578-apple-new-gaming-app
 
-研究人員相信Careto駭客組織背後是西班牙政府
-https://www.ithome.com.tw/news/169179
+你去掃虹膜了嗎？Sam Altman 的「World」正式在台推出
+https://www.inside.com.tw/article/38582-sam-altman-world-taiwan
 
-Dero惡意程式可自動感染公開Docker容器執行挖礦
-https://www.ithome.com.tw/news/169165
+福斯柴油門德國再判刑，四名前高層詐欺罪成立
+https://www.inside.com.tw/article/38579-volkswagen-germany-diesel-emissions-court-fraud
 
-Node.js函式庫Samlify存在近滿分重大漏洞，攻擊者可輕易冒充管理員身分
-https://www.ithome.com.tw/news/169156
+川普媒體集團豪擲 25 億美元購入比特幣！呼應國家級戰略儲備政策
+https://www.inside.com.tw/article/38576-trump-media-bitcoin-crypto
 
-OpenAI Deep Research也可以搜尋Box、Dropbox檔案
-https://www.ithome.com.tw/news/169155
+台積電在德成立晶片設計中心 今年 Q3 啟用
+https://www.inside.com.tw/article/38575-tsmc-will-open-european-chip-design-centre-munich-germany
 
-台積電搶下 Google 大單？Tensor G5 處理器傳改由台灣代工
-https://www.inside.com.tw/article/38573-tsmc-google-tensor-g5-taiwan-foundry
+全台灣第一輛 Level 3 電動巴士亮相！符合聯合國 UN R157 標準
+https://www.inside.com.tw/article/38574-taiwans-first-level-3-electric-bus-officially-unveiled-with-smart-cockpit-and-ai-server-noise-detection-zone-debuting-simultaneously
 
-微軟為 Windows 11 導入抗量子加密技術，搶先部署未來資安防線
-https://www.inside.com.tw/article/38571-microsoft-windows-11-quantum-resistant-encryption-security-defense
+NVIDIA進駐北士科掀人才戰？施崇棠盼合作但「別搶人」
+https://www.businessyee.com/article/6253-asus-earnings-nvidia-ai
 
-17 歲天才少年革新無人機設計，獲美軍 2.3 萬美元獎學金
-https://www.inside.com.tw/article/38572-new-design-of-drones
+25億鎂挺加密幣！川普媒體企業：打造比特幣金庫、免受金融歧視
+https://www.businessyee.com/article/6252-trump-bitcoin
 
-南韓是 ChatGPT 付費用戶數第二多的地區！OpenAI 將設首個辦公室
-https://www.inside.com.tw/article/38570-openai-south-korea-office
+日本40年債利率飆新高！買氣弱，財務省砍近三成發行額
+https://www.businessyee.com/article/6251-japanese-goverment-bond
 
-「別關掉我！」研究發現 ChatGPT o3 會主動修改程式避免被關機
-https://www.inside.com.tw/article/38569-researchers-claim-chatgpt-o3-bypassed-shutdown-in-controlled-test
+金管會6月發函！壽險投資單一ETF上限30%，超限不得再新增部位
+https://www.businessyee.com/article/6250-life-insurance-etf-limit
 
-黑暗中的 GPS——一圖看懂 帶你認識 3D 磁感定位精準 ICH 手術導航系統
-https://www.inside.com.tw/article/38246-ich
+安聯報告：台灣保費成長領跑亞洲，未來十年每年估增5.2%
+https://www.businessyee.com/article/6249-allian-2024-survey
 
-寧德時代手握的三大電動車電池新技術
-https://www.inside.com.tw/article/38567-the-catl-you-should-know
+業界首家！南山人壽啟用金融Fast-ID行動投保
+https://www.businessyee.com/article/6248-
 
-環境部公布報告：台灣溫室氣體排放量正在穩定下降
-https://www.inside.com.tw/article/38568-taiwan-greenhouse-gas-emissions-showing-steady-decline
+川普關稅朝令夕改！安永：台廠供應鏈可用三招應戰
+https://www.businessyee.com/article/6247-trump-tariffs
 
-中共如何買下哈佛
-https://voicettank.org/20250526-1/
+關稅談判｜朝日新聞獨家：日政府擬補助企業買NVIDIA等美國晶片！訂單上看1兆日圓
+https://www.businessyee.com/article/6246-japan-proposes-buy-us-chip
 
-虛擬電廠：穩定電網的生力軍
-https://voicettank.org/20250526-2/
+請支援歐洲！台積電：慕尼黑晶片設計中心第 3 季啟用
+https://www.businessyee.com/article/6244-tsmc-eu-chip-design-center
 
-美晶片禁令擋不住中國 AI 野心！騰訊、百度靠囤貨與自製突圍
-https://www.businessyee.com/article/6240-tencent-baidu-us-ai-chip
+限空令退場金管會仍高度警戒，多元擔保品研議常態化
+https://www.businessyee.com/article/6245-trading-short-limit
 
-雪上加霜！蘋果遭全美最大退休基金拋售，股價今年來摔22%
-https://www.businessyee.com/article/6239-CalPERS-sell-apple
+List of "tech for good" job boards
+https://evanhahn.com/list-of-tech-for-good-job-boards/
 
-【台泥股東會】董座張安平：一天工作15小時夠加油嗎？持股9年報酬率逾130%
-https://www.businessyee.com/article/6238-Taiwan-Cement-stock-meeting-2025
+Own Your Email Domain
+https://matthewsanabria.dev/posts/own-your-email-domain/
 
-【富邦媒股東會】董座蔡明忠：下半年營運可望轉強、電商仍有成長空間
-https://www.businessyee.com/article/6237-momo-stockeholder-meeting-2025
+Scrappy: make little apps for you and your friends
+https://pontus.granstrom.me/scrappy/
 
-一口氣降價22萬！比亞迪大促銷恐傷利潤，股價創高後急跌8%
-https://www.businessyee.com/article/6236-Chinas-EV-byd-shares-plunge
+Pyrefly vs. ty: Comparing Python’s Two New Rust-Based Type Checkers
+https://blog.edward-li.com/tech/comparing-pyrefly-vs-ty/
 
-輝達效應點火北士科房市！新紡股價飆高、標售千坪土地年底有望入帳
-https://www.businessyee.com/article/6235-shinkong-textile-stockholder-meeting
+Awesome Emacs on macOS
+https://xenodium.com/awesome-emacs-on-macos
 
-【裕隆股東會】爭取三菱電動車外銷代工，拚2026年供車澳紐市場
-https://www.businessyee.com/article/6234-Yulon-stockholder-meeting-2025
+The two types of open source
+https://filiph.net/text/two-types-of-open-source.html
 
-難擋大盤震盪！統一台股增長主動ETF 00981A掛牌首日失守發行價
-https://www.businessyee.com/article/6233-00981a-ipo-first-day
+Docker
+https://icculus.org/openbox/2/docker/
 
-保德信跨國藍籌100ETF（009810）6/24開募 ，一次佈局全球百大藍籌
-https://www.businessyee.com/article/6232-009810-ipo
+Hacker News now runs on top of Common Lisp
+https://lisp-journey.gitlab.io/blog/hacker-news-now-runs-on-top-of-common-lisp/
 
-美歐關稅戰按暫停鍵！市場反彈但專家警告勿過度樂觀
-https://www.businessyee.com/article/6231-us-eu-tariff-war-put-on-hold
+Rust streams and timeouts gotcha
+https://laplab.me/posts/rust-streams-gotcha/
 
-A Guide to OpenAI Text-to-Speech (TTS) in Spring AI
-https://feeds.feedblitz.com/~/919047686/0/baeldung~A-Guide-to-OpenAI-TexttoSpeech-TTS-in-Spring-AI
+What a Difference a Faster Hash Makes
+https://nickdrozd.github.io/2025/05/27/faster-hash.html
 
-Generate a Unique Integer From a Unique String
-https://feeds.feedblitz.com/~/919047689/0/baeldung~Generate-a-Unique-Integer-From-a-Unique-String
+Firefox 139 adds experimental AI-powered link previews
+https://9to5mac.com/2025/05/27/firefox-ai-link-previews/
 
-Fixing the Hibernate Error “DuplicateMappingException: Column is Duplicated in Mapping For Entity”
-https://feeds.feedblitz.com/~/919047692/0/baeldung~Fixing-the-Hibernate-Error-DuplicateMappingException-Column-is-Duplicated-in-Mapping-For-Entity
+Why are 2025/05/28 and 2025-05-28 different days in JavaScript?
+https://brandondong.github.io/blog/javascript_dates/
 
-Collision Detection Between Two Images in Java
-https://feeds.feedblitz.com/~/919046690/0/baeldung~Collision-Detection-Between-Two-Images-in-Java
+Large Language Models can run tools in your terminal with LLM 0.26
+https://simonwillison.net/2025/May/27/llm-tools/
 
-Add a Line Break/Blank Line After Log Statements in Java
-https://feeds.feedblitz.com/~/919046693/0/baeldung~Add-a-Line-BreakBlank-Line-After-Log-Statements-in-Java
+Teaching old hippies new tricks
+https://www.oblomovka.com/wp/2025/01/02/teaching-old-hippies-new-tricks/
 
-Asserting Implications
-https://tigerbeetle.com/blog/2025-05-26-asserting-implications/
+BGP handling bug causes widespread internet routing instability
+https://blog.benjojo.co.uk/post/bgp-attr-40-junos-arista-session-reset-incident
 
-GitHub MCP Exploited: Accessing private repositories via MCP
-https://simonwillison.net/2025/May/26/github-mcp-exploited/
+Just make it scale: An Aurora DSQL story
+https://www.allthingsdistributed.com/2025/05/just-make-it-scale-an-aurora-dsql-story.html
 
-Against Curry-Howard Mysticism
-https://liamoc.net/forest/loc-000S/index.xml
+Add Virtual Threads to Python
+https://discuss.python.org/t/add-virtual-threads-to-python/91403
 
-Access Control Syntax
-https://journal.stuffwithstuff.com/2025/05/26/access-control-syntax/
+Failed Backup Server Build
+https://vermaden.wordpress.com/2025/05/28/failed-backup-server-build/
 
-jjui: a text user interface (TUI) for the Jujutsu version control system
-https://github.com/idursun/jjui
+MCP explained without hype or fluff
+https://blog.nilenso.com/blog/2025/05/12/mcp-explained-without-hype-or-fluff/
 
-Five-year review of BQN design
-https://mlochbaum.github.io/BQN/commentary/fiveyears.html
+flags and usability
+https://orib.dev/flags.html
 
-ash: a hybrid between getopts and 'sh -c'
-https://github.com/avamsi/ash
+SIMD in zlib-rs (part 2): compare256
+https://tweedegolf.nl/en/blog/155/simd-in-zlib-rs-part-2-compare256
 
-DumPy: NumPy except it’s OK if you’re dum
-https://dynomight.net/dumpy/
-
-Non-Pointless Software Projects for New Devs in the LLM Age
-https://cprimozic.net/blog/non-pointless-software-projects-for-new-devs-in-the-llm-age/
-
-HTML is like a camera
-https://robbowen.digital/wrote-about/html-is-like-a-camera/
-
-Acronis True Image Costs Performance When Not Used
-https://randomascii.wordpress.com/2025/05/26/acronis-true-image-costs-performance-when-not-used/
-
-The Conversation Game
-https://www.airs.com/blog/archives/673
-
-Scheming a mise-en-abîme in BQN
-https://panadestein.github.io/blog/posts/si.html#fnr.2
-
-Vending-Bench: A Benchmark for Long-Term Coherence of Autonomous Agents
-https://arxiv.org/pdf/2502.15840
-
-Luciole Math: a typeface developed explicitly for visually impaired academics
-https://luciole-vision.com/en/math.html
-
-What are you doing this week?
-https://lobste.rs/s/ozianb/what_are_you_doing_this_week
-
-Linux cgroup from first principles
-https://fzakaria.com/2025/05/26/linux-cgroup-from-first-principles
-
-Turning Portal 2 into a Web Server
-https://www.youtube.com/watch?v=-v5vCLLsqbA
-
-Memory Access Patterns Are Important
-https://mechanical-sympathy.blogspot.com/2012/08/memory-access-patterns-are-important.html
-
-A Vibe‐Coding Experience
-https://github.com/clauderouxster/kriegspiel/wiki/A-Vibe%E2%80%90Coding-Experience
+WebGPU Fluid Simulations: High Performance & Real-Time Rendering
+https://tympanus.net/codrops/2025/02/26/webgpu-fluid-simulations-high-performance-real-time-rendering/
