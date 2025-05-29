@@ -1,34 +1,52 @@
-# 2025-05-28 09:19:11 Feeds Report 
+# 2025-05-29 09:19:06 Feeds Report 
 
-Daily Hacker News for 2025-05-27
-https://www.daemonology.net/hn-daily/2025-05-27.html
+Daily Hacker News for 2025-05-28
+https://www.daemonology.net/hn-daily/2025-05-28.html
 
-愛料理創辦人：不會寫程式也能靠GenAI打造科技產品賺錢，但成功關鍵仍是商業能力
-https://www.ithome.com.tw/news/169241
+Firefox 上關閉 lazyload 的方式
+https://blog.gslin.org/archives/2025/05/29/12421/firefox-%e4%b8%8a%e9%97%9c%e9%96%89-lazyload-%e7%9a%84%e6%96%b9%e5%bc%8f/
 
-持續擴大身分安全防護產品陣容，Computex 2025臺廠展出多種硬體解決方案
-https://www.ithome.com.tw/news/169198
+用 strace 換掉 syscall
+https://blog.gslin.org/archives/2025/05/29/12419/%e7%94%a8-strace-%e6%8f%9b%e6%8e%89-syscall/
 
-硬體規格精簡、不支援路由，Ruckus新型L2交換器上市
-https://www.ithome.com.tw/review/169177
+MariaDB 買 Galera Cluster？！
+https://blog.gslin.org/archives/2025/05/28/12418/mariadb-%e8%b2%b7-galera-cluster%ef%bc%9f%ef%bc%81/
 
-駭客組織Everest、Gehenna聲稱竊得可口可樂內部資料
-https://www.ithome.com.tw/news/169228
+以提供防毒軟體為幌子，駭客意圖散布木馬程式VenomRAT搜括帳密
+https://www.ithome.com.tw/news/169258
 
-【臺灣資安大會直擊】詐騙、網攻、雲端服務出包、AI偽造帶來信任危機!?企業應建立數位信任強化與外界的互動關係
-https://www.ithome.com.tw/news/169224
+由Sam Altman共同創辦的Tools for Humanity及World進駐臺灣市場
+https://www.ithome.com.tw/news/169257
 
-荷蘭警方去年遭駭，傳出是俄羅斯駭客Void Blizzard所為
-https://www.ithome.com.tw/news/169223
+購物網站商品收藏清單外掛驚傳滿分漏洞，逾10萬網站受影響
+https://www.ithome.com.tw/news/169256
 
-知名運動品牌Adidas遭網路攻擊，客戶資料外洩
-https://www.ithome.com.tw/news/169222
+Telegram宣稱將整合xAI的Grok，遭馬斯克打臉
+https://www.ithome.com.tw/news/169253
 
-Zscaler將買下MDR業者Red Canary
-https://www.ithome.com.tw/news/169221
+微軟公布統一化Windows Update協作平臺
+https://www.ithome.com.tw/news/169251
 
-德州通過App Store問責法案，要求程式市集驗證兒童年紀
-https://www.ithome.com.tw/news/169220
+9千臺華碩路由器遭殭屍網路AyySSHush入侵，駭客植入SSH後門
+https://www.ithome.com.tw/news/169252
+
+Nvidia首季財報出爐，營收成長69%
+https://www.ithome.com.tw/news/169250
+
+兩大IT自動化平臺Terraform和Ansible未來如何整合？雙方技術長對談未來整合願景
+https://www.ithome.com.tw/news/169249
+
+Opera推出代理式AI瀏覽器Neon 可幫用戶寫報告、打Game
+https://www.ithome.com.tw/news/169248
+
+Anthropic公布Claude語音模式
+https://www.ithome.com.tw/news/169247
+
+Google引入用戶層級差分隱私，最佳化LLM微調效能與隱私
+https://www.ithome.com.tw/news/169246
+
+勒索軟體DragonForce利用遠端管理工具SimpleHelp漏洞，攻擊MSP業者與其客戶
+https://www.ithome.com.tw/news/169242
 
 俄羅斯駭客Void Blizzard以假Entra登入網頁為誘餌，入侵逾20家非政府組織
 https://www.ithome.com.tw/news/169219
@@ -36,7 +54,7 @@ https://www.ithome.com.tw/news/169219
 Mistral推出Mistral Agents API
 https://www.ithome.com.tw/news/169218
 
-Computex秀AI資安新方向，趨勢科技用數位孿生助企業攻防演練
+Computex秀AI資安新方向，趨勢科技用Digital Twin助紅藍演練
 https://www.ithome.com.tw/news/169194
 
 Salesforce將以約80億美元買下雲端資料管理業者Informatica，著眼於代理式AI
@@ -45,137 +63,122 @@ https://www.ithome.com.tw/news/169211
 臺灣企業如何因應地緣政治風險？從BCM 1.0升級2.0，專家建議從六大面向因應極端情境
 https://www.ithome.com.tw/news/169208
 
-中國稱用於保護身分的網路ID系統 已有600萬人啟用
-https://www.ithome.com.tw/news/169206
+GameStop 砸 5.13 億美元購買比特幣 轉型加密貨幣投資策略
+https://www.inside.com.tw/article/38590-gamestop-bitcoin
 
-Copilot代理深入整合Office擴充，統一開發工具加速辦公應用自動化
-https://www.ithome.com.tw/news/169201
+國科會：台灣自製火箭 2034 年發射！將載 200 公斤衛星入軌
+https://www.inside.com.tw/article/38591-taiwans-self-made-rocket-will-send-satellite-into-orbit-in-2034
 
-5,300臺網路設備遭殭屍網路綁架，中國駭客ViciousTrap利用未有修補程式的已知漏洞入侵
-https://www.ithome.com.tw/news/169195
+全球最大仿星器創歷史！德國成功產生高能氦-3 離子，核融合商用化再進一步
+https://www.inside.com.tw/article/38589-nuclear-fusion-stellarator-helium-3
 
-Glitch將關閉程式代管服務
-https://www.ithome.com.tw/news/169193
+任天堂宣布：Switch 2 將於 7/10 在台灣發售！
+https://www.inside.com.tw/article/38588-switch-2-july-launch
 
-GitHub MCP曝嚴重漏洞，惡意Issue可誘使AI代理外洩私有儲存庫資料
-https://www.ithome.com.tw/news/169191
+馬斯克 xAI 砸 3 億美元進軍 Telegram，Grok 搶攻十億用戶市場
+https://www.inside.com.tw/article/38587-telegram-musks-xai-partner-distribute-grok-messaging-apps-users
 
-OpenAI在韓國設立子公司
-https://www.ithome.com.tw/news/169192
+OpenAI 財務長：重組成公益公司後，將為未來 IPO 鋪路！
+https://www.inside.com.tw/article/38586-openai-restructuring-to-ipo
 
-OpenAI將Operator模型升級為具推理能力的o3
-https://www.ithome.com.tw/news/169180
+彭博：Apple 全面改採年份制命名，iPhone 用戶準備迎接 iOS 26
+https://www.inside.com.tw/article/38585-apple-to-rebrand-device-operating-systems-ios-26-macos-26-watchos-26
 
-蘋果 WWDC 將推出全新遊戲 App？彭博：將取代現有 Game Center
-https://www.inside.com.tw/article/38578-apple-new-gaming-app
+攻克癌症又進一步？科學家找到 CAR-T 細胞「體內製造」法
+https://www.inside.com.tw/article/38584-cancer-fighting-immune-cells-could-soon-be-engineered-inside-our-bodies
 
-你去掃虹膜了嗎？Sam Altman 的「World」正式在台推出
-https://www.inside.com.tw/article/38582-sam-altman-world-taiwan
+中國商用核反應爐發展概況研析
+https://voicettank.org/20250528-2/
 
-福斯柴油門德國再判刑，四名前高層詐欺罪成立
-https://www.inside.com.tw/article/38579-volkswagen-germany-diesel-emissions-court-fraud
+奈伊與軟實力遺產
+https://voicettank.org/20250528-1/
 
-川普媒體集團豪擲 25 億美元購入比特幣！呼應國家級戰略儲備政策
-https://www.inside.com.tw/article/38576-trump-media-bitcoin-crypto
+【鴻海股東會】配息5.8元創新高！劉揚偉喊全年營收拚破7兆
+https://www.businessyee.com/article/6269-honhai-2025-shareholders-meeting
 
-台積電在德成立晶片設計中心 今年 Q3 啟用
-https://www.inside.com.tw/article/38575-tsmc-will-open-european-chip-design-centre-munich-germany
+黃仁勳：美國要主導 AI 技術話語權，就不該忽視中國市場
+https://www.businessyee.com/article/6266-nvidia-ceo-jensen-huang-hammers-chip-exports
 
-全台灣第一輛 Level 3 電動巴士亮相！符合聯合國 UN R157 標準
-https://www.inside.com.tw/article/38574-taiwans-first-level-3-electric-bus-officially-unveiled-with-smart-cockpit-and-ai-server-noise-detection-zone-debuting-simultaneously
+【兆豐金Q1法說】減碼台股80億，估年底才有降息空間
+https://www.businessyee.com/article/6268-mega-2025q1-earningcall
 
-NVIDIA進駐北士科掀人才戰？施崇棠盼合作但「別搶人」
-https://www.businessyee.com/article/6253-asus-earnings-nvidia-ai
+【聯發科股東會】蔡明介：未來三年雲端ASIC市場逾400億鎂！
+https://www.businessyee.com/article/6267-mediatek-shareholders-meeting
 
-25億鎂挺加密幣！川普媒體企業：打造比特幣金庫、免受金融歧視
-https://www.businessyee.com/article/6252-trump-bitcoin
+【台灣大股東會】電信再整併？蔡明忠：兩家競爭對消費者未必不利
+https://www.businessyee.com/article/6265-taiwanmobile-shareholders-meeting
 
-日本40年債利率飆新高！買氣弱，財務省砍近三成發行額
-https://www.businessyee.com/article/6251-japanese-goverment-bond
+川普再出招封鎖中國晶片設計，美軟體大廠股價重跌
+https://www.businessyee.com/article/6263-chip-software-trump-china
 
-金管會6月發函！壽險投資單一ETF上限30%，超限不得再新增部位
-https://www.businessyee.com/article/6250-life-insurance-etf-limit
+【LINE Pay股東會】董座丁雄注：三大策略深耕亞洲市場
+https://www.businessyee.com/article/6264-line-pay-stockholder-meeting-2025
 
-安聯報告：台灣保費成長領跑亞洲，未來十年每年估增5.2%
-https://www.businessyee.com/article/6249-allian-2024-survey
+鎖定移工、跨境支付！全盈+PAY總座劉美玲：策略聯盟擴大版圖
+https://www.businessyee.com/article/6262-pluspay
 
-業界首家！南山人壽啟用金融Fast-ID行動投保
-https://www.businessyee.com/article/6248-
+退出川普團隊！馬斯克：DOGE任務將成為政府日常
+https://www.businessyee.com/article/6261-elon-musk-trump-doge
 
-川普關稅朝令夕改！安永：台廠供應鏈可用三招應戰
-https://www.businessyee.com/article/6247-trump-tariffs
+【永豐金股東會】京城銀獲利衰退惹關注，財務長：處分資產致短期影響
+https://www.businessyee.com/article/6260-SinoPac-2025-stockholder-meeting
 
-關稅談判｜朝日新聞獨家：日政府擬補助企業買NVIDIA等美國晶片！訂單上看1兆日圓
-https://www.businessyee.com/article/6246-japan-proposes-buy-us-chip
+@Provides vs Provider Classes in Guice
+https://feeds.feedblitz.com/~/919184498/0/baeldung~Provides-vs-Provider-Classes-in-Guice
 
-請支援歐洲！台積電：慕尼黑晶片設計中心第 3 季啟用
-https://www.businessyee.com/article/6244-tsmc-eu-chip-design-center
+Converting a String to a SOAPMessage
+https://feeds.feedblitz.com/~/919184501/0/baeldung~Converting-a-String-to-a-SOAPMessage
 
-限空令退場金管會仍高度警戒，多元擔保品研議常態化
-https://www.businessyee.com/article/6245-trading-short-limit
+I am disappointed in the AI discourse
+https://steveklabnik.com/writing/i-am-disappointed-in-the-ai-discourse/
 
-List of "tech for good" job boards
-https://evanhahn.com/list-of-tech-for-good-job-boards/
+A Personal Software Runtime inspired by Emacs, Plan 9, Erlang, Hypermedia, and Unix
+https://github.com/leoshimo/vrs
 
-Own Your Email Domain
-https://matthewsanabria.dev/posts/own-your-email-domain/
+parking_lot: ffffffffffffffff
+https://fly.io/blog/parking-lot-ffffffffffffffff/
 
-Scrappy: make little apps for you and your friends
-https://pontus.granstrom.me/scrappy/
+Using SAT to Get the World Record on LinkedIn's Queens
+https://ryanberger.me/posts/queens/
 
-Pyrefly vs. ty: Comparing Python’s Two New Rust-Based Type Checkers
-https://blog.edward-li.com/tech/comparing-pyrefly-vs-ty/
+Compiler Explorer and the Promise of URLs That Last Forever
+https://xania.org/202505/compiler-explorer-urls-forever
 
-Awesome Emacs on macOS
-https://xenodium.com/awesome-emacs-on-macos
+Mullvad Leta
+https://leta.mullvad.net
 
-The two types of open source
-https://filiph.net/text/two-types-of-open-source.html
+Saying Bye to Glitch
+https://pketh.org/bye-glitch.html
 
-Docker
-https://icculus.org/openbox/2/docker/
+LLM Codegen go Brrr – Parallelization with Git Worktrees and Tmux
+https://www.skeptrune.com/posts/git-worktrees-agents-and-tmux/
 
-Hacker News now runs on top of Common Lisp
-https://lisp-journey.gitlab.io/blog/hacker-news-now-runs-on-top-of-common-lisp/
+Can we fix (or retire) the vibecoding tag?
+https://lobste.rs/s/djzqbn/can_we_fix_retire_vibecoding_tag
 
-Rust streams and timeouts gotcha
-https://laplab.me/posts/rust-streams-gotcha/
+Ray Tracing in J
+https://idle.nprescott.com/2020/ray-tracing-in-j.html
 
-What a Difference a Faster Hash Makes
-https://nickdrozd.github.io/2025/05/27/faster-hash.html
+Compiling a Neural Net to C for a 1,744× speedup
+https://slightknack.dev/blog/difflogic/
 
-Firefox 139 adds experimental AI-powered link previews
-https://9to5mac.com/2025/05/27/firefox-ai-link-previews/
+go may require prefaulting mmap
+https://flak.tedunangst.com/post/go-may-require-prefaulting-mmap
 
-Why are 2025/05/28 and 2025-05-28 different days in JavaScript?
-https://brandondong.github.io/blog/javascript_dates/
+Cory Doctorow on how we lost the internet
+https://lwn.net/SubscriberLink/1021871/ffeed46818908c91/
 
-Large Language Models can run tools in your terminal with LLM 0.26
-https://simonwillison.net/2025/May/27/llm-tools/
+The 3 Ways JavaScript Frameworks Render the DOM
+https://www.youtube.com/watch?v=0C-y59betmY
 
-Teaching old hippies new tricks
-https://www.oblomovka.com/wp/2025/01/02/teaching-old-hippies-new-tricks/
+workflows for ai coding
+https://anniecherkaev.com/the-times-they-are-ai-changing
 
-BGP handling bug causes widespread internet routing instability
-https://blog.benjojo.co.uk/post/bgp-attr-40-junos-arista-session-reset-incident
+Wake up, Remix
+https://remix.run/blog/wake-up-remix
 
-Just make it scale: An Aurora DSQL story
-https://www.allthingsdistributed.com/2025/05/just-make-it-scale-an-aurora-dsql-story.html
+Linux Mount Namespaces and persistence
+https://jmtd.net/log/mount_namespaces/
 
-Add Virtual Threads to Python
-https://discuss.python.org/t/add-virtual-threads-to-python/91403
-
-Failed Backup Server Build
-https://vermaden.wordpress.com/2025/05/28/failed-backup-server-build/
-
-MCP explained without hype or fluff
-https://blog.nilenso.com/blog/2025/05/12/mcp-explained-without-hype-or-fluff/
-
-flags and usability
-https://orib.dev/flags.html
-
-SIMD in zlib-rs (part 2): compare256
-https://tweedegolf.nl/en/blog/155/simd-in-zlib-rs-part-2-compare256
-
-WebGPU Fluid Simulations: High Performance & Real-Time Rendering
-https://tympanus.net/codrops/2025/02/26/webgpu-fluid-simulations-high-performance-real-time-rendering/
+Performance of ES6 features relative to the ES5 baseline operations per second (2022)
+http://incaseofstairs.com/six-speed/
