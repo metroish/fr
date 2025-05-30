@@ -1,25 +1,31 @@
-# 2025-05-29 09:19:06 Feeds Report 
+# 2025-05-30 09:18:29 Feeds Report 
 
-Daily Hacker News for 2025-05-28
-https://www.daemonology.net/hn-daily/2025-05-28.html
+Daily Hacker News for 2025-05-29
+https://www.daemonology.net/hn-daily/2025-05-29.html
 
-Firefox 上關閉 lazyload 的方式
-https://blog.gslin.org/archives/2025/05/29/12421/firefox-%e4%b8%8a%e9%97%9c%e9%96%89-lazyload-%e7%9a%84%e6%96%b9%e5%bc%8f/
+OpenBao (Valut 的開源版本) 的後續消息
+https://blog.gslin.org/archives/2025/05/30/12425/openbao-valut-%e7%9a%84%e9%96%8b%e6%ba%90%e7%89%88%e6%9c%ac-%e7%9a%84%e5%be%8c%e7%ba%8c%e6%b6%88%e6%81%af/
 
-用 strace 換掉 syscall
-https://blog.gslin.org/archives/2025/05/29/12419/%e7%94%a8-strace-%e6%8f%9b%e6%8e%89-syscall/
+Mullvad 的搜尋 Proxy 開放讓一般人使用了 (Mullvad Leta)
+https://blog.gslin.org/archives/2025/05/30/12424/mullvad-%e7%9a%84%e6%90%9c%e5%b0%8b-proxy-%e9%96%8b%e6%94%be%e8%ae%93%e4%b8%80%e8%88%ac%e4%ba%ba%e4%bd%bf%e7%94%a8%e4%ba%86-mullvad-leta/
 
-MariaDB 買 Galera Cluster？！
-https://blog.gslin.org/archives/2025/05/28/12418/mariadb-%e8%b2%b7-galera-cluster%ef%bc%9f%ef%bc%81/
+資料供應商LexisNexis資料外洩　影響逾36萬用戶
+https://www.ithome.com.tw/news/169271
 
-以提供防毒軟體為幌子，駭客意圖散布木馬程式VenomRAT搜括帳密
-https://www.ithome.com.tw/news/169258
+川普政府傳將禁止EDA軟體售予中國
+https://www.ithome.com.tw/news/169270
 
-由Sam Altman共同創辦的Tools for Humanity及World進駐臺灣市場
-https://www.ithome.com.tw/news/169257
+Perplexity AI推出可執行跨領域專案的Perplexity Labs
+https://www.ithome.com.tw/news/169269
 
-購物網站商品收藏清單外掛驚傳滿分漏洞，逾10萬網站受影響
-https://www.ithome.com.tw/news/169256
+Anduril Industries與Meta合作，共同開發戰鬥VR頭戴裝置
+https://www.ithome.com.tw/news/169268
+
+Anthropic執行長Dario Amodei警告，AI將會消滅一半的入門白領工作
+https://www.ithome.com.tw/news/169267
+
+C#迎來腳本開發時代，原生支援單檔執行模式
+https://www.ithome.com.tw/news/169266
 
 Telegram宣稱將整合xAI的Grok，遭馬斯克打臉
 https://www.ithome.com.tw/news/169253
@@ -39,146 +45,104 @@ https://www.ithome.com.tw/news/169249
 Opera推出代理式AI瀏覽器Neon 可幫用戶寫報告、打Game
 https://www.ithome.com.tw/news/169248
 
-Anthropic公布Claude語音模式
-https://www.ithome.com.tw/news/169247
+全盈+PAY 今宣布四大戰略，預告日、韓跨境支付年底登場
+https://www.inside.com.tw/article/38592-pluspay-2025
 
-Google引入用戶層級差分隱私，最佳化LLM微調效能與隱私
-https://www.ithome.com.tw/news/169246
+【書摘】《故事餐酒館：混口飯——一場跨界的食物饗宴》
+https://voicettank.org/20250529-2/
 
-勒索軟體DragonForce利用遠端管理工具SimpleHelp漏洞，攻擊MSP業者與其客戶
-https://www.ithome.com.tw/news/169242
+歷史夾縫中的臺灣研究
+https://voicettank.org/20250529-1/
 
-俄羅斯駭客Void Blizzard以假Entra登入網頁為誘餌，入侵逾20家非政府組織
-https://www.ithome.com.tw/news/169219
+菲律賓與德國簽署國防合作協議之研析
+https://voicettank.org/20250529-3/
 
-Mistral推出Mistral Agents API
-https://www.ithome.com.tw/news/169218
+【Costco Q3財報】營收成長8%！對應關稅政策將「精選」供應商大量採購
+https://www.businessyee.com/article/6274-costco-earnings-2025-q3
 
-Computex秀AI資安新方向，趨勢科技用Digital Twin助紅藍演練
-https://www.ithome.com.tw/news/169194
+一年內三起併購案！永豐金證砸16.28億娶台灣匯立證
+https://www.businessyee.com/article/6273-sinopac-merge-cl-securities
 
-Salesforce將以約80億美元買下雲端資料管理業者Informatica，著眼於代理式AI
-https://www.ithome.com.tw/news/169211
+金管會籲審慎後首家撤案！台壽取消發放現金股利
+https://www.businessyee.com/article/6272-taiwan-life-cancels-cash-dividend-payment
 
-臺灣企業如何因應地緣政治風險？從BCM 1.0升級2.0，專家建議從六大面向因應極端情境
-https://www.ithome.com.tw/news/169208
+外資投信深耕台灣再添三家，貝萊德、富達、瀚亞擬設區域中心
+https://www.businessyee.com/article/6271-Foreign-investment-credit
 
-GameStop 砸 5.13 億美元購買比特幣 轉型加密貨幣投資策略
-https://www.inside.com.tw/article/38590-gamestop-bitcoin
+匯損與股票評價減損拖累，壽險業4月單月慘虧400億
+https://www.businessyee.com/article/6270-life-insurance-2025-apr-result
 
-國科會：台灣自製火箭 2034 年發射！將載 200 公斤衛星入軌
-https://www.inside.com.tw/article/38591-taiwans-self-made-rocket-will-send-satellite-into-orbit-in-2034
+Replace Specific Word From File With Java
+https://feeds.feedblitz.com/~/919285097/0/baeldung~Replace-Specific-Word-From-File-With-Java
 
-全球最大仿星器創歷史！德國成功產生高能氦-3 離子，核融合商用化再進一步
-https://www.inside.com.tw/article/38589-nuclear-fusion-stellarator-helium-3
+Java Weekly, Issue 596
+https://feeds.feedblitz.com/~/919222895/0/baeldung~Java-Weekly-Issue
 
-任天堂宣布：Switch 2 將於 7/10 在台灣發售！
-https://www.inside.com.tw/article/38588-switch-2-july-launch
+The case for using a web browser as your terminal
+https://blog.pomdtr.me/posts/tweety-v1/
 
-馬斯克 xAI 砸 3 億美元進軍 Telegram，Grok 搶攻十億用戶市場
-https://www.inside.com.tw/article/38587-telegram-musks-xai-partner-distribute-grok-messaging-apps-users
+A break from programming languages
+https://lexi-lambda.github.io/blog/2025/05/29/a-break-from-programming-languages/
 
-OpenAI 財務長：重組成公益公司後，將為未來 IPO 鋪路！
-https://www.inside.com.tw/article/38586-openai-restructuring-to-ipo
+Which New Language Should I Learn for Web Development?
+https://mtlynch.io/notes/which-new-language/
 
-彭博：Apple 全面改採年份制命名，iPhone 用戶準備迎接 iOS 26
-https://www.inside.com.tw/article/38585-apple-to-rebrand-device-operating-systems-ios-26-macos-26-watchos-26
+A poor man’s types
+https://blog.snork.dev/posts/a-poor-man-s-types.html
 
-攻克癌症又進一步？科學家找到 CAR-T 細胞「體內製造」法
-https://www.inside.com.tw/article/38584-cancer-fighting-immune-cells-could-soon-be-engineered-inside-our-bodies
+This website does not exist
+https://thiswebsitedoesnotexist.net/
 
-中國商用核反應爐發展概況研析
-https://voicettank.org/20250528-2/
+What's cooking on SourceHut? Q2 2025
+https://sourcehut.org/blog/2025-05-29-whats-cooking-q2/
 
-奈伊與軟實力遺產
-https://voicettank.org/20250528-1/
+Systems Correctness Practices at Amazon Web Services
+https://cacm.acm.org/practice/systems-correctness-practices-at-amazon-web-services/
 
-【鴻海股東會】配息5.8元創新高！劉揚偉喊全年營收拚破7兆
-https://www.businessyee.com/article/6269-honhai-2025-shareholders-meeting
+Net-Negative Cursor
+https://lukasatkinson.de/2025/net-negative-cursor/
 
-黃仁勳：美國要主導 AI 技術話語權，就不該忽視中國市場
-https://www.businessyee.com/article/6266-nvidia-ceo-jensen-huang-hammers-chip-exports
+Making openat(2) and friends more useful in practice
+https://undeadly.org/cgi?action=article;sid=20250529080623
 
-【兆豐金Q1法說】減碼台股80億，估年底才有降息空間
-https://www.businessyee.com/article/6268-mega-2025q1-earningcall
+Revisiting Loop Recognition in C++... in Rust
+http://blomqu.ist/posts/2025/loop-recognition
 
-【聯發科股東會】蔡明介：未來三年雲端ASIC市場逾400億鎂！
-https://www.businessyee.com/article/6267-mediatek-shareholders-meeting
+OpenBao v2.3 now supports Namespaces (HashiCorp Vault fork)
+https://openbao.org/blog/namespaces-announcement/
 
-【台灣大股東會】電信再整併？蔡明忠：兩家競爭對消費者未必不利
-https://www.businessyee.com/article/6265-taiwanmobile-shareholders-meeting
+Grog: the mono-repo build tool for the grug-brained dev
+https://grog.build/
 
-川普再出招封鎖中國晶片設計，美軟體大廠股價重跌
-https://www.businessyee.com/article/6263-chip-software-trump-china
+Learning C3
+https://alloc.dev/2025/05/29/learning_c3
 
-【LINE Pay股東會】董座丁雄注：三大策略深耕亞洲市場
-https://www.businessyee.com/article/6264-line-pay-stockholder-meeting-2025
+Three Level Summary: Neural Radiance Fields vs. 3D Gaussian Splatting
+https://edwardahn.me/archive/2024/02/19/NeRFvs3DGS
 
-鎖定移工、跨境支付！全盈+PAY總座劉美玲：策略聯盟擴大版圖
-https://www.businessyee.com/article/6262-pluspay
+The Coming AI Revolution in Distributed Systems
+https://zfhuang99.github.io/github%20copilot/formal%20verification/tla+/2025/05/24/ai-revolution-in-distributed-systems.html
 
-退出川普團隊！馬斯克：DOGE任務將成為政府日常
-https://www.businessyee.com/article/6261-elon-musk-trump-doge
+The-One-True-Lisp-Style-Guide
+https://github.com/foxsae/The-One-True-Lisp-Style-Guide
 
-【永豐金股東會】京城銀獲利衰退惹關注，財務長：處分資產致短期影響
-https://www.businessyee.com/article/6260-SinoPac-2025-stockholder-meeting
+Announcing dotnet run app.cs—A simpler way to start with C# and .NET 10
+https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/
 
-@Provides vs Provider Classes in Guice
-https://feeds.feedblitz.com/~/919184498/0/baeldung~Provides-vs-Provider-Classes-in-Guice
+How to fix email encryption
+https://weddige.eu/en/articles/lets-encrypt-emails/
 
-Converting a String to a SOAPMessage
-https://feeds.feedblitz.com/~/919184501/0/baeldung~Converting-a-String-to-a-SOAPMessage
+Terraria and Celeste ported to WebAssembly
+https://velzie.rip/blog/celeste-wasm
 
-I am disappointed in the AI discourse
-https://steveklabnik.com/writing/i-am-disappointed-in-the-ai-discourse/
+The Linux 6.15 kernel arrives and it's big a victory for Rust fans
+https://www.zdnet.com/article/the-linux-6-15-kernel-arrives-and-its-big-a-victory-for-rust-fans/
 
-A Personal Software Runtime inspired by Emacs, Plan 9, Erlang, Hypermedia, and Unix
-https://github.com/leoshimo/vrs
+Redesigning the Initial Bootstrap Sequence
+https://blog.rust-lang.org/inside-rust/2025/05/29/redesigning-the-initial-bootstrap-sequence/
 
-parking_lot: ffffffffffffffff
-https://fly.io/blog/parking-lot-ffffffffffffffff/
+HellCaptcha: Accessibility Theater at Its Worst
+https://fireborn.mataroa.blog/blog/hellcaptcha-accessibility-theater-at-its-worst/
 
-Using SAT to Get the World Record on LinkedIn's Queens
-https://ryanberger.me/posts/queens/
-
-Compiler Explorer and the Promise of URLs That Last Forever
-https://xania.org/202505/compiler-explorer-urls-forever
-
-Mullvad Leta
-https://leta.mullvad.net
-
-Saying Bye to Glitch
-https://pketh.org/bye-glitch.html
-
-LLM Codegen go Brrr – Parallelization with Git Worktrees and Tmux
-https://www.skeptrune.com/posts/git-worktrees-agents-and-tmux/
-
-Can we fix (or retire) the vibecoding tag?
-https://lobste.rs/s/djzqbn/can_we_fix_retire_vibecoding_tag
-
-Ray Tracing in J
-https://idle.nprescott.com/2020/ray-tracing-in-j.html
-
-Compiling a Neural Net to C for a 1,744× speedup
-https://slightknack.dev/blog/difflogic/
-
-go may require prefaulting mmap
-https://flak.tedunangst.com/post/go-may-require-prefaulting-mmap
-
-Cory Doctorow on how we lost the internet
-https://lwn.net/SubscriberLink/1021871/ffeed46818908c91/
-
-The 3 Ways JavaScript Frameworks Render the DOM
-https://www.youtube.com/watch?v=0C-y59betmY
-
-workflows for ai coding
-https://anniecherkaev.com/the-times-they-are-ai-changing
-
-Wake up, Remix
-https://remix.run/blog/wake-up-remix
-
-Linux Mount Namespaces and persistence
-https://jmtd.net/log/mount_namespaces/
-
-Performance of ES6 features relative to the ES5 baseline operations per second (2022)
-http://incaseofstairs.com/six-speed/
+How Instacart Built a Modern Search Infrastructure on Postgres
+https://tech.instacart.com/how-instacart-built-a-modern-search-infrastructure-on-postgres-c528fa601d54
