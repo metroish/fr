@@ -1,148 +1,85 @@
-# 2025-05-30 09:18:29 Feeds Report 
+# 2025-05-31 09:17:04 Feeds Report 
 
-Daily Hacker News for 2025-05-29
-https://www.daemonology.net/hn-daily/2025-05-29.html
+Daily Hacker News for 2025-05-30
+https://www.daemonology.net/hn-daily/2025-05-30.html
 
-OpenBao (Valut 的開源版本) 的後續消息
-https://blog.gslin.org/archives/2025/05/30/12425/openbao-valut-%e7%9a%84%e9%96%8b%e6%ba%90%e7%89%88%e6%9c%ac-%e7%9a%84%e5%be%8c%e7%ba%8c%e6%b6%88%e6%81%af/
+Google資料湖倉更新，原生支援Iceberg與AI資料治理
+https://www.ithome.com.tw/news/169272
 
-Mullvad 的搜尋 Proxy 開放讓一般人使用了 (Mullvad Leta)
-https://blog.gslin.org/archives/2025/05/30/12424/mullvad-%e7%9a%84%e6%90%9c%e5%b0%8b-proxy-%e9%96%8b%e6%94%be%e8%ae%93%e4%b8%80%e8%88%ac%e4%ba%ba%e4%bd%bf%e7%94%a8%e4%ba%86-mullvad-leta/
-
-資料供應商LexisNexis資料外洩　影響逾36萬用戶
-https://www.ithome.com.tw/news/169271
-
-川普政府傳將禁止EDA軟體售予中國
-https://www.ithome.com.tw/news/169270
-
-Perplexity AI推出可執行跨領域專案的Perplexity Labs
-https://www.ithome.com.tw/news/169269
-
-Anduril Industries與Meta合作，共同開發戰鬥VR頭戴裝置
-https://www.ithome.com.tw/news/169268
-
-Anthropic執行長Dario Amodei警告，AI將會消滅一半的入門白領工作
-https://www.ithome.com.tw/news/169267
+Hugging Face公布低成本人型機器人，最低僅300美元
+https://www.ithome.com.tw/news/169273
 
 C#迎來腳本開發時代，原生支援單檔執行模式
 https://www.ithome.com.tw/news/169266
 
-Telegram宣稱將整合xAI的Grok，遭馬斯克打臉
-https://www.ithome.com.tw/news/169253
+《紐時》爆料：聯邦承包商 SpaceX 藥檢不公，執行長馬斯克提早知情
+https://www.inside.com.tw/article/38594-spacex-musk-test-controversy
 
-微軟公布統一化Windows Update協作平臺
-https://www.ithome.com.tw/news/169251
+俥顧問創辦人 Winson：揭密中古車定價邏輯 數據如金、AI 上場，資訊透明化市場多大？【塞掐 Side Chat】E346
+https://www.inside.com.tw/feature/side-chat/38593-side-chat-e346
 
-9千臺華碩路由器遭殭屍網路AyySSHush入侵，駭客植入SSH後門
-https://www.ithome.com.tw/news/169252
+【書摘】《敗者的東京：翻轉勝者敘事的都市論，回看德川幕府、薩長同盟、美軍進駐的三次占領》
+https://voicettank.org/20250530-3/
 
-Nvidia首季財報出爐，營收成長69%
-https://www.ithome.com.tw/news/169250
+台灣主權基金：治理文化與風險承擔的考驗
+https://voicettank.org/20250530-2/
 
-兩大IT自動化平臺Terraform和Ansible未來如何整合？雙方技術長對談未來整合願景
-https://www.ithome.com.tw/news/169249
+網路效應的真實與虛幻
+https://voicettank.org/20250530-1/
 
-Opera推出代理式AI瀏覽器Neon 可幫用戶寫報告、打Game
-https://www.ithome.com.tw/news/169248
+MinIO Removes Web UI Features from Community Version, Pushes Users to Paid Plans
+https://biggo.com/news/202505261334_MinIO_Removes_Web_UI_Features
 
-全盈+PAY 今宣布四大戰略，預告日、韓跨境支付年底登場
-https://www.inside.com.tw/article/38592-pluspay-2025
+Improving EC2 boot time from 4s to 2.8s
+https://depot.dev/blog/accelerating-builds-improve-ec2-boot-time
 
-【書摘】《故事餐酒館：混口飯——一場跨界的食物饗宴》
-https://voicettank.org/20250529-2/
+When was the last time you broke production and how?
+https://lobste.rs/s/ytefme/when_was_last_time_you_broke_production
 
-歷史夾縫中的臺灣研究
-https://voicettank.org/20250529-1/
+I Want to Love Linux. It Doesn't Love Me Back: Post 3 – Speakup, BRLTTY, and the Forgotten Infrastructure of Console Access
+https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-3-speakup-brltty-and-the-forgotten-infrastructure-of-console-access/
 
-菲律賓與德國簽署國防合作協議之研析
-https://voicettank.org/20250529-3/
+Simpler backoff
+https://commaok.xyz/post/simple-backoff/
 
-【Costco Q3財報】營收成長8%！對應關稅政策將「精選」供應商大量採購
-https://www.businessyee.com/article/6274-costco-earnings-2025-q3
+Implementing a Forth
+https://ratfactor.com/forth/implementing
 
-一年內三起併購案！永豐金證砸16.28億娶台灣匯立證
-https://www.businessyee.com/article/6273-sinopac-merge-cl-securities
+Programming Beyond Practices
+https://notes.skillstopractice.com/pbp.pdf
 
-金管會籲審慎後首家撤案！台壽取消發放現金股利
-https://www.businessyee.com/article/6272-taiwan-life-cancels-cash-dividend-payment
+What are you doing this weekend?
+https://lobste.rs/s/xkvw45/what_are_you_doing_this_weekend
 
-外資投信深耕台灣再添三家，貝萊德、富達、瀚亞擬設區域中心
-https://www.businessyee.com/article/6271-Foreign-investment-credit
+Using ‘Slop Forensics’ to Determine Model Ancestry
+https://www.dbreunig.com/2025/05/30/using-slop-forensics-to-determine-model-ancestry.html
 
-匯損與股票評價減損拖累，壽險業4月單月慘虧400億
-https://www.businessyee.com/article/6270-life-insurance-2025-apr-result
+The radix 2^51 trick to 256-bit addition (2020)
+https://www.chosenplaintext.ca/articles/radix-2-51-trick.html
 
-Replace Specific Word From File With Java
-https://feeds.feedblitz.com/~/919285097/0/baeldung~Replace-Specific-Word-From-File-With-Java
+Iconography of the X Window System: The Boot Stipple
+https://matttproud.com/blog/posts/x-window-system-boot-stipple.html
 
-Java Weekly, Issue 596
-https://feeds.feedblitz.com/~/919222895/0/baeldung~Java-Weekly-Issue
+What is Racket DOING???
+https://defn.io/2025/05/30/racket-thread-stack-dumps/
 
-The case for using a web browser as your terminal
-https://blog.pomdtr.me/posts/tweety-v1/
+Beating the kCTF PoW with AVX512IFMA for $51k
+https://anemato.de/blog/kctf-vdf
 
-A break from programming languages
-https://lexi-lambda.github.io/blog/2025/05/29/a-break-from-programming-languages/
+C++ to Rust Phrasebook
+https://cel.cs.brown.edu/crp/title-page.html
 
-Which New Language Should I Learn for Web Development?
-https://mtlynch.io/notes/which-new-language/
+Inboxes are Underrated
+https://borretti.me/article/inboxes-are-underrated
 
-A poor man’s types
-https://blog.snork.dev/posts/a-poor-man-s-types.html
+Writing your own C++ standard library part 2
+https://nibblestew.blogspot.com/2025/05/writing-your-own-c-standard-library.html
 
-This website does not exist
-https://thiswebsitedoesnotexist.net/
+Types and other techniques as an accessibility tool for the ADHD brain
+https://www.youtube.com/watch?v=DG5gLPFKcbk
 
-What's cooking on SourceHut? Q2 2025
-https://sourcehut.org/blog/2025-05-29-whats-cooking-q2/
+The Book of Shen
+https://shenlanguage.org/TBoS/tbos.html
 
-Systems Correctness Practices at Amazon Web Services
-https://cacm.acm.org/practice/systems-correctness-practices-at-amazon-web-services/
-
-Net-Negative Cursor
-https://lukasatkinson.de/2025/net-negative-cursor/
-
-Making openat(2) and friends more useful in practice
-https://undeadly.org/cgi?action=article;sid=20250529080623
-
-Revisiting Loop Recognition in C++... in Rust
-http://blomqu.ist/posts/2025/loop-recognition
-
-OpenBao v2.3 now supports Namespaces (HashiCorp Vault fork)
-https://openbao.org/blog/namespaces-announcement/
-
-Grog: the mono-repo build tool for the grug-brained dev
-https://grog.build/
-
-Learning C3
-https://alloc.dev/2025/05/29/learning_c3
-
-Three Level Summary: Neural Radiance Fields vs. 3D Gaussian Splatting
-https://edwardahn.me/archive/2024/02/19/NeRFvs3DGS
-
-The Coming AI Revolution in Distributed Systems
-https://zfhuang99.github.io/github%20copilot/formal%20verification/tla+/2025/05/24/ai-revolution-in-distributed-systems.html
-
-The-One-True-Lisp-Style-Guide
-https://github.com/foxsae/The-One-True-Lisp-Style-Guide
-
-Announcing dotnet run app.cs—A simpler way to start with C# and .NET 10
-https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/
-
-How to fix email encryption
-https://weddige.eu/en/articles/lets-encrypt-emails/
-
-Terraria and Celeste ported to WebAssembly
-https://velzie.rip/blog/celeste-wasm
-
-The Linux 6.15 kernel arrives and it's big a victory for Rust fans
-https://www.zdnet.com/article/the-linux-6-15-kernel-arrives-and-its-big-a-victory-for-rust-fans/
-
-Redesigning the Initial Bootstrap Sequence
-https://blog.rust-lang.org/inside-rust/2025/05/29/redesigning-the-initial-bootstrap-sequence/
-
-HellCaptcha: Accessibility Theater at Its Worst
-https://fireborn.mataroa.blog/blog/hellcaptcha-accessibility-theater-at-its-worst/
-
-How Instacart Built a Modern Search Infrastructure on Postgres
-https://tech.instacart.com/how-instacart-built-a-modern-search-infrastructure-on-postgres-c528fa601d54
+Decomplexification
+https://daniel.haxx.se/blog/2025/05/29/decomplexification/
