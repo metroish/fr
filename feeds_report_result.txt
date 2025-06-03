@@ -1,34 +1,37 @@
-# 2025-06-02 09:20:00 Feeds Report 
+# 2025-06-03 09:19:33 Feeds Report 
 
-Daily Hacker News for 2025-06-01
-https://www.daemonology.net/hn-daily/2025-06-01.html
+Daily Hacker News for 2025-06-02
+https://www.daemonology.net/hn-daily/2025-06-02.html
 
-透過 GDPR 取得面試的記錄？
-https://blog.gslin.org/archives/2025/06/02/12432/%e9%80%8f%e9%81%8e-gdpr-%e5%8f%96%e5%be%97%e9%9d%a2%e8%a9%a6%e7%9a%84%e8%a8%98%e9%8c%84%ef%bc%9f/
+FDA推出通用AI工具Elsa，可望加速審查流程
+https://www.ithome.com.tw/news/169338
 
-讓 Flutter 在 Console (CLI) 下可以 auto hot reload (或是 auto hot restart)
-https://blog.gslin.org/archives/2025/06/02/12431/%e8%ae%93-flutter-%e5%9c%a8-console-cli-%e4%b8%8b%e5%8f%af%e4%bb%a5-auto-hot-reload-%e6%88%96%e6%98%af-auto-hot-restart/
+盤點7間零售巨頭法說會，靠物流能力發展電商是主旋律，還靠AI改善買家與賣家體驗
+https://www.ithome.com.tw/news/169332
 
-讓網頁偵測是否在前景 (foreground) 失效
-https://blog.gslin.org/archives/2025/06/02/12429/%e8%ae%93%e7%b6%b2%e9%a0%81%e5%81%b5%e6%b8%ac%e6%98%af%e5%90%a6%e5%9c%a8%e5%89%8d%e6%99%af-foreground-%e5%a4%b1%e6%95%88/
+美國Google Wallet本月將停止支援PayPal
+https://www.ithome.com.tw/news/169330
 
-駭客利用vBulletin滿分漏洞來植入後門
-https://www.ithome.com.tw/news/169300
+Snowflake將收購PostgreSQL業者Crunchy Data
+https://www.ithome.com.tw/news/169327
 
-時尚業者Victoria’s Secret遭遇網路攻擊，網站一度離線
-https://www.ithome.com.tw/news/169292
+微軟、CrowdStrike合作發展對照表 對應各自的駭客命名
+https://www.ithome.com.tw/news/169323
 
-Anthropic公開運算電路追蹤工具　推進語言模型可解釋性研究
-https://www.ithome.com.tw/news/169288
+針對遭殭屍網路AyySSHush利用的路由器漏洞，華碩針對這些資安弱點公告提出說明
+https://www.ithome.com.tw/news/169322
 
-美國制裁專門提供詐騙基礎設施的菲律賓公司Funnull
-https://www.ithome.com.tw/news/169291
+xAI打算同時透過要約收購、融資及債券發行來籌資
+https://www.ithome.com.tw/news/169321
 
-國際警方關閉被駭客用來對抗防毒軟體的AVCheck
-https://www.ithome.com.tw/news/169290
+微軟Bing提供以Sora為基礎 但免費的影片生成工具
+https://www.ithome.com.tw/news/169320
 
-【資安週報】0526~0529，兩大創新技術用於改善資安，防禦方式可望獲得重大突破
-https://www.ithome.com.tw/news/169283
+蘋果傳下一代macOS將命名為Tahoe、所有OS版本統一
+https://www.ithome.com.tw/news/169319
+
+合規改善不符要求，Chrome將從8月起停止預設信任中華電信TLS新憑證
+https://www.ithome.com.tw/news/169318
 
 巴西測試數位錢包，鼓勵民眾將個資變現
 https://www.ithome.com.tw/news/169289
@@ -42,89 +45,131 @@ https://www.ithome.com.tw/news/169286
 X正在測試新的通訊程式XChat、支付程式XMoney
 https://www.ithome.com.tw/news/169285
 
-鋰電池價格創 7 年最大跌幅！電動車普及進入新階段
-https://www.inside.com.tw/article/38604-lithium-battery-price-drop-7-year-low-ev-adoption-new-phase
+地表唯一 能「切割」NVIDIA 與 AMD 全系列 GPU 的軟體公司 你不能不知台灣 AI 基礎設施領導者 「數位無限 INFINITIX 」
+https://www.inside.com.tw/article/38609-infinitix
 
-深入理解烏克蘭「蜘蛛網」無人機攻勢：一場策劃一年半的秘密行動
-https://www.inside.com.tw/article/38603-understanding-ukraine-spider-web-drone-offensive-a-secret-operation-18-months-in-planning
+打造比 AI 更專業的編輯技能！台北雜誌公會「媒體數位編輯即戰力」招生中
+https://www.inside.com.tw/article/38617-ai-editor-course
 
-Google 悄悄推出實驗性 App！在手機上下載、本地運行各種 AI 模型
-https://www.inside.com.tw/article/38601-google-ai-edge-gallery
+Euro NCAP 為什麼明年開始要求有實體按鈕才有五星評價？
+https://www.inside.com.tw/article/38618-why-euro-ncap-requires-physical-buttons-for-five-star-rating-starting-next-year
 
-WWDC 2025 是蘋果近年最小活動？彭博：員工對 AI 進度感到失望
-https://www.inside.com.tw/article/38599-apple-s-wwdc-2025-plan-macos-tahoe-apple-intelligence-ai-ios-26-games-app
+Google 點名「合規失誤」，中華電信 TLS 憑證遭 Chrome 預設移除信任
+https://www.inside.com.tw/article/38616-google-cites-compliance-error-chunghwa-telecom-tls-certificate-removed-from-chrome-trust
 
-像《攻殼》意識上傳電腦的世界還有多久？科學家認真回：200 年
-https://www.inside.com.tw/article/38600-uploading-the-human-mind-could-become-a-reality-expert-says
+Model Y 壓倒性勝利！特斯拉 5 月份挪威銷量暴增 213%
+https://www.inside.com.tw/article/38615-tesla-dominates-in-norway-with-213-sales-jump-from-24
 
-擔心股市下跌，月薪3.8萬小資族該如何投資ETF讓錢安心長大？
-https://www.businessyee.com/article/6282-ETF-investing-tips
+Sora 免費開放！Bing 應用程式宣布加入新影片生成功能
+https://www.inside.com.tw/article/38612-sora-bing-integration
 
-投資人紛紛跟隨巴菲特：撤出長債、擁抱超短債 ETF
-https://www.businessyee.com/article/6277-investors-follow-warren-buffett-bonds
+台積電魏哲家：關稅政策雖有風險，但客戶行為未見轉變
+https://www.inside.com.tw/article/38614-tsmc-chairman-cc-wei-tariff-policy-risks-no-customer-behavior-changes
 
-防災包再升級！LifeStraw吸管式濾水器，隨時隨地安心喝水
-https://www.businessyee.com/article/6280-lifestraw-peak-series
+劍指 Neuralink！Paradromics 完成首次人類腦機介面植入
+https://www.inside.com.tw/article/38613-paradromics-tests-first-human-implant
 
-0050分割將「一拆四」 ，6/10為最後買進日
-https://www.businessyee.com/article/6279-0050
+Meta 計畫推出全自動 AI 廣告服務，傳統廣告巨頭慘跌近 4%
+https://www.inside.com.tw/article/38611-meta-aims-to-fully-automate-ad-creation-using-ai
 
-川普關稅壓力升溫！HSBC：歐洲央行將連7降至2%
-https://www.businessyee.com/article/6278-european-central-bank
+賈伯斯遺孀 Laurene 力挺 Jony Ive 與 OpenAI 的神秘 AI 裝置
+https://www.inside.com.tw/article/38610-jony-ive-openai-laurene-powell-jobs
 
-市場憂美債將爆發危機，美國財長：赤字會降，永遠不會違約
-https://www.businessyee.com/article/6276-Scott-Bessent
+升級戰力不夠，最好整一下臉──《我獨自升級》與南韓的資本主義末日想像
+https://voicettank.org/20250602-1/
 
-川普：「當好人到此為止」！中國違約拖延稀土出口惹怒白宮
-https://www.businessyee.com/article/6275-trump-tariff-china-rare-earth
+【書摘】《故事餐酒館：混口飯——一場跨界的食物饗宴》
+https://voicettank.org/20250529-2/
 
-How to Do Nested Mapping in Mapstruct?
-https://feeds.feedblitz.com/~/919509224/0/baeldung~How-to-Do-Nested-Mapping-in-Mapstruct
+雖AI加溫，然半導體業仍面臨匯率、晶片關稅壓境
+https://voicettank.org/20250602-2/
 
-A Guide to Embeddings Model API in Spring AI
-https://feeds.feedblitz.com/~/919509227/0/baeldung~A-Guide-to-Embeddings-Model-API-in-Spring-AI
+【東元股東會】關稅影響不大，強攻電網變壓器和AI基礎建設
+https://www.businessyee.com/article/6289-teco
 
-How to Return anydata on GraphQL Mutation
-https://feeds.feedblitz.com/~/919508372/0/baeldung~How-to-Return-anydata-on-GraphQL-Mutation
+編輯私推SONY降噪耳機（WH-1000XM6 ）＋老用戶評價
+https://www.businessyee.com/article/6287-WH-1000XM6-sony
 
-Introduction to Tribuo – A Java Machine Learning Library
-https://feeds.feedblitz.com/~/919508375/0/baeldung~Introduction-to-Tribuo-A-Java-Machine-Learning-Library
+挑戰傳統廣告！Meta拚2026年底前推AI 自動化生成廣告
+https://www.businessyee.com/article/6285-meta-aims-fully-automate-advertising
 
-Is the transition to IPv6 inevitable?
-https://ipv6.hanazo.no/posts/ipv6-transition-inevitable/
+【台積電股東會】漲價空間？魏哲家：「賣我們應該有的價值」！
+https://www.businessyee.com/article/6286-tsmc-2025-shareholders-meeting
 
-What technology to use for a small NGO website?
-https://lobste.rs/s/qmtc8m/what_technology_use_for_small_ngo_website
+彭建文《思維的良率》跨國出版歷程：用心做對的事讓文字長出翅膀
+https://www.businessyee.com/article/6284-The-Quality-of-Thinking-Published-in-Japanese-Edition
 
-Progressive JSON
-https://overreacted.io/progressive-json/
+川普政府要求各國在6/4前提出最佳談判條件
+https://www.businessyee.com/article/6283-best-offers
 
-wl-kbptr: Control the mouse pointer with the keyboard on Wayland
-https://github.com/moverest/wl-kbptr
+杜拜打造AI重鎮：免稅高薪、黃金居留簽背後暗藏「國籍不平等」
+https://www.businessyee.com/article/6281-Dubai-AI-job-market
 
-Root Shell on Credit Card Terminal
-https://stefan-gloor.ch/yomani-hack
+Gleam v1.11.0 released
+https://gleam.run/news/gleam-javascript-gets-30-percent-faster/
 
-Is It JavaScript?
-https://blog.jim-nielsen.com/2025/is-it-javascript/
+Google Logo Ligature Bug
+https://www.jefftk.com/p/google-logo-ligature-bug
 
-Designing Error Types in Rust Libraries
-https://d34dl0ck.me/rust-bites-designing-error-types-in-rust-libraries/index.html
+GenAI is Our Polyester
+https://culture.ghost.io/genai-is-our-polyester/
 
-Backfilling Postgres TOAST Columns in Debezium Data Change Events
-https://www.morling.dev/blog/backfilling-postgres-toast-columns-debezium-change-events/
+Beachpatrol: CLI to automate your everyday web browser
+https://github.com/sebastiancarlos/beachpatrol
 
-Hypervisors for Memory Introspection and Reverse Engineering
-https://secret.club/2025/06/02/hypervisors-for-memory-introspection-and-reverse-engineering.html
+A tour of upcoming RFCs for the Hare programming language
+https://harelang.org/blog/2025-06-02-planned-breaking-changes/
 
-I’m Open-Sourcing my Custom Benchmark GUI
-https://probablydance.com/2025/05/31/im-open-sourcing-my-custom-benchmark-gui/
+Conformance Checking at MongoDB: Testing That Our Code Matches Our TLA+ Specs | MongoDB Blog
+https://www.mongodb.com/blog/post/engineering/conformance-checking-at-mongodb-testing-our-code-matches-our-tla-specs
 
-A developer’s perspective on G.Mate’s YOPY Linux PDA (2002)
-https://linuxdevices.org/a-developers-perspective-on-gmates-yopy-linux-pda-a/
+Our Grafana and Loki installs have quietly become 'legacy software' here
+https://utcc.utoronto.ca/~cks/space/blog/sysadmin/GrafanaAndLokiLegacyHere
 
-The 3D Gaussian Splatting Adventure: Past, Present, Future
-https://www.youtube.com/watch?v=DjOqkVIlEGY
+GoDaddy Issues Thousands of Certificates That Don't Work in Safari (again)
+https://sslmate.com/blog/post/godaddy_issues_thousands_of_broken_certificates
 
-How to Grow an LSM-tree? Towards Bridging the Gap Between Theory and Practice
-https://arxiv.org/abs/2504.17178
+Swift at Apple: migrating the Password Monitoring service from Java
+https://www.swift.org/blog/swift-at-apple-migrating-the-password-monitoring-service-from-java/
+
+My AI Skeptic Friends Are All Nuts
+https://fly.io/blog/youre-all-nuts/
+
+Tests should not contain logic
+https://blog.snork.dev/posts/tests-should-not-contain-logic.html
+
+Practical /dev/tcp in the HTTPS Era
+https://blog.pkgforge.dev/https-via-http
+
+public/protected/private is an unnecessary feature
+https://catern.com/private.html
+
+Faster route propagation by rewriting our Traefik gateway in Rust
+https://rivet.gg/blog/2025-06-02-faster-route-propagation-by-rewriting-our-traefik-gateway-in-rust
+
+What's higher-order about so-called higher-order references?
+https://www.williamjbowman.com/blog/2025/06/02/what-s-higher-order-about-so-called-higher-order-references/
+
+WhisperD: linux voice-to-text using OpenAI whisper-1 transcription
+https://github.com/icholy/whisperd/
+
+Can a chrome extension host a terminal emulator?
+https://blog.pomdtr.me/posts/integrated-terminal/
+
+tpde: A fast framework for writing baseline compiler back-ends in C++
+https://github.com/tpde2/tpde
+
+Technical Guide To System Calls: Implementation And Signal Handling In Modern Operating systems
+https://mohitmishra786.github.io/chessman/2025/03/31/Technical-Guide-to-System-Calls-Implementation-and-Signal-Handling-in-Modern-Operating-Systems.html
+
+Example of Splitting a PR
+https://www.jefftk.com/p/example-of-splitting-a-pr
+
+What are you doing this week?
+https://lobste.rs/s/usvbn9/what_are_you_doing_this_week
+
+AI didn’t kill Stack Overflow
+https://www.infoworld.com/article/3993482/ai-didnt-kill-stack-overflow.html
+
+The DuckLake Manifesto: SQL as a Lakehouse Format
+https://ducklake.select/manifesto/
