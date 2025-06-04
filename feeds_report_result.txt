@@ -1,19 +1,46 @@
-# 2025-06-03 09:19:33 Feeds Report 
+# 2025-06-04 09:19:15 Feeds Report 
 
-Daily Hacker News for 2025-06-02
-https://www.daemonology.net/hn-daily/2025-06-02.html
+Daily Hacker News for 2025-06-03
+https://www.daemonology.net/hn-daily/2025-06-03.html
 
-FDA推出通用AI工具Elsa，可望加速審查流程
-https://www.ithome.com.tw/news/169338
+讀懂資安新聞 - Chrome 為什麼取消中華電信的根憑證信任？
+https://blog.darkthread.net/blog/chrome-remove-epki-trust/
 
-盤點7間零售巨頭法說會，靠物流能力發展電商是主旋律，還靠AI改善買家與賣家體驗
-https://www.ithome.com.tw/news/169332
+Windows內建的OpenSSH元件被濫用，駭客試圖建立後門連線
+https://www.ithome.com.tw/news/169361
 
-美國Google Wallet本月將停止支援PayPal
-https://www.ithome.com.tw/news/169330
+NotebookLM現在可讓使用者公開分享筆記
+https://www.ithome.com.tw/news/169360
 
-Snowflake將收購PostgreSQL業者Crunchy Data
-https://www.ithome.com.tw/news/169327
+Meta與Constellation Energy簽署20年的核能採購協議
+https://www.ithome.com.tw/news/169359
+
+郵件伺服器Roundcube存在10年重大漏洞，逾5,300萬主機恐曝險
+https://www.ithome.com.tw/news/169358
+
+澳洲新法規要求付勒索軟體贖金的企業通報政府
+https://www.ithome.com.tw/news/169357
+
+TechCrunch關閉歐洲業務
+https://www.ithome.com.tw/news/169356
+
+戶外用品與運動服飾業者The North Face遭遇帳號填充攻擊，部分客戶個資外洩
+https://www.ithome.com.tw/news/169353
+
+Google Chrome桌機版更新修補已遭濫用的零時差漏洞
+https://www.ithome.com.tw/news/169349
+
+精品業者Cartier遭駭外洩客戶個資
+https://www.ithome.com.tw/news/169348
+
+Codex CLI改採Rust原生重寫，提升效能與跨平臺支援
+https://www.ithome.com.tw/news/169341
+
+中華電信8月起暫停簽發TLS網站憑證
+https://www.ithome.com.tw/news/169347
+
+保留AST1700特色、納入FPGA，信驊搶先展示下一代I/O擴展晶片
+https://www.ithome.com.tw/tech/169346
 
 微軟、CrowdStrike合作發展對照表 對應各自的駭客命名
 https://www.ithome.com.tw/news/169323
@@ -27,149 +54,125 @@ https://www.ithome.com.tw/news/169321
 微軟Bing提供以Sora為基礎 但免費的影片生成工具
 https://www.ithome.com.tw/news/169320
 
-蘋果傳下一代macOS將命名為Tahoe、所有OS版本統一
-https://www.ithome.com.tw/news/169319
+TNL Mediagene 關鍵評論網媒體集團合辦 2025 Generative AI 年會，再掀台灣 AI 學習風潮
+https://www.inside.com.tw/article/38620-
 
-合規改善不符要求，Chrome將從8月起停止預設信任中華電信TLS新憑證
-https://www.ithome.com.tw/news/169318
+突破影音經營逆境！台北雜誌公會舉辦「全方位影音經營戰略班」
+https://www.inside.com.tw/article/38628-mbat-events-youtube
 
-巴西測試數位錢包，鼓勵民眾將個資變現
-https://www.ithome.com.tw/news/169289
+黃仁勳現身任天堂影片！解密 NVIDIA 如何幫 Switch 2 客製化晶片
+https://www.inside.com.tw/article/38629-jensen-nintendo-switch2
 
-研究人員揭露Browser in the Middle攻擊竊密手法　Chrome、Edge、Safari都有風險
-https://www.ithome.com.tw/news/169287
+圖靈獎得主 Yoshua Bengio 開設新組織，要研發「完全不說謊」的 AI
+https://www.inside.com.tw/article/38626-yoshua-bengio-lawzero
 
-Google悄悄測試能下載AI模型到手機執行的AI Edge Gallery App
-https://www.ithome.com.tw/news/169286
+Pixel 10 Pro 原型機曝光！相機條變更凸？
+https://www.inside.com.tw/article/38625-pixel-10-pro-prototype
 
-X正在測試新的通訊程式XChat、支付程式XMoney
-https://www.ithome.com.tw/news/169285
+啟動第一哩路：學研創業的 FITI 實戰養成記
+https://www.inside.com.tw/article/38627-fiti
 
-地表唯一 能「切割」NVIDIA 與 AMD 全系列 GPU 的軟體公司 你不能不知台灣 AI 基礎設施領導者 「數位無限 INFINITIX 」
-https://www.inside.com.tw/article/38609-infinitix
+一文了解南韓新任總統李在明的 AI、科技與能源政策
+https://www.inside.com.tw/article/38623-understanding-south-korea-new-president-lee-jae-myung-ai-technology-and-energy-policies
 
-打造比 AI 更專業的編輯技能！台北雜誌公會「媒體數位編輯即戰力」招生中
-https://www.inside.com.tw/article/38617-ai-editor-course
+台版「彈簧刀」！中科院公開勁蜂無人機影片，能用 AI 精準攻擊
+https://www.inside.com.tw/article/38622-national-chung-shan-institute-reveals-hornet-drone-video-featuring-ai-precision-strikes
 
-Euro NCAP 為什麼明年開始要求有實體按鈕才有五星評價？
-https://www.inside.com.tw/article/38618-why-euro-ncap-requires-physical-buttons-for-five-star-rating-starting-next-year
+美國總統川普簽署行政命令鬆綁核能之戰略意涵
+https://voicettank.org/20250603-2/
 
-Google 點名「合規失誤」，中華電信 TLS 憑證遭 Chrome 預設移除信任
-https://www.inside.com.tw/article/38616-google-cites-compliance-error-chunghwa-telecom-tls-certificate-removed-from-chrome-trust
+防災電力學：台灣設計製造的ACER Power Bar儲能行動電源
+https://www.businessyee.com/article/6299-acer-power-bar
 
-Model Y 壓倒性勝利！特斯拉 5 月份挪威銷量暴增 213%
-https://www.inside.com.tw/article/38615-tesla-dominates-in-norway-with-213-sales-jump-from-24
+【聽進理投】債券到底安不安全？先搞清楚你投資的是哪一種債？
+https://www.businessyee.com/article/6229-ep127
 
-Sora 免費開放！Bing 應用程式宣布加入新影片生成功能
-https://www.inside.com.tw/article/38612-sora-bing-integration
+存房還是存ETF？指數化投資人想買房必須考慮哪些事？
+https://www.businessyee.com/article/6297-Invest-in-ETFs-or-real-estate
 
-台積電魏哲家：關稅政策雖有風險，但客戶行為未見轉變
-https://www.inside.com.tw/article/38614-tsmc-chairman-cc-wei-tariff-policy-risks-no-customer-behavior-changes
+黃仁勳現身任天堂影片 解密Switch 2客製化晶片
+https://www.businessyee.com/article/6296-Switch2-NVIDIA
 
-劍指 Neuralink！Paradromics 完成首次人類腦機介面植入
-https://www.inside.com.tw/article/38613-paradromics-tests-first-human-implant
+為AI搶電！Meta首購核電、簽下20年長約
+https://www.businessyee.com/article/6295-meta-signs-nuclear-power-deal
 
-Meta 計畫推出全自動 AI 廣告服務，傳統廣告巨頭慘跌近 4%
-https://www.inside.com.tw/article/38611-meta-aims-to-fully-automate-ad-creation-using-ai
+馬斯克：川普「大而美預算法案」令人作嘔
+https://www.businessyee.com/article/6294-trump-elon-musk
 
-賈伯斯遺孀 Laurene 力挺 Jony Ive 與 OpenAI 的神秘 AI 裝置
-https://www.inside.com.tw/article/38610-jony-ive-openai-laurene-powell-jobs
+「第一階段協議」不玩了！WSJ：中國關稅談判將強硬要求美放行晶片
+https://www.businessyee.com/article/6293-wsj-trade-negotiator-he-lifeng-hardball
 
-升級戰力不夠，最好整一下臉──《我獨自升級》與南韓的資本主義末日想像
-https://voicettank.org/20250602-1/
+輝達超車微軟，重返全球市值第一
+https://www.businessyee.com/article/6292-nvidia-most-valuable-company
 
-【書摘】《故事餐酒館：混口飯——一場跨界的食物饗宴》
-https://voicettank.org/20250529-2/
+【CrowdStrike Q1財報】展望失色、達美航空紛爭未解：股價急跌逾6%
+https://www.businessyee.com/article/6291-crowdstrike-earnings-2025-q1
 
-雖AI加溫，然半導體業仍面臨匯率、晶片關稅壓境
-https://voicettank.org/20250602-2/
+TNL Mediagene 關鍵評論網媒體集團合辦 2025 Generative AI 年會，再掀台灣 AI 學習風潮
+https://www.businessyee.com/article/6290-GAI
 
-【東元股東會】關稅影響不大，強攻電網變壓器和AI基礎建設
-https://www.businessyee.com/article/6289-teco
+【鏡頭之外】台籍被爆者群像與人數統計上的困難度
+https://changyuchieh.com/2025/06/04/taiwanese-hibakusya/?utm_source=rss&utm_medium=rss&utm_campaign=taiwanese-hibakusya
 
-編輯私推SONY降噪耳機（WH-1000XM6 ）＋老用戶評價
-https://www.businessyee.com/article/6287-WH-1000XM6-sony
+jujutsu on tangled
+https://blog.tangled.sh/stacking
 
-挑戰傳統廣告！Meta拚2026年底前推AI 自動化生成廣告
-https://www.businessyee.com/article/6285-meta-aims-fully-automate-advertising
+[ On | No ] syntactic support for error handling
+https://go.dev/blog/error-syntax
 
-【台積電股東會】漲價空間？魏哲家：「賣我們應該有的價值」！
-https://www.businessyee.com/article/6286-tsmc-2025-shareholders-meeting
+Don't McBlock me
+https://www.schneems.com/2025/06/03/dont-mcblock-me/
 
-彭建文《思維的良率》跨國出版歷程：用心做對的事讓文字長出翅膀
-https://www.businessyee.com/article/6284-The-Quality-of-Thinking-Published-in-Japanese-Edition
+Interfacing MCP with Combinatorial, Convex, and SMT Solvers
+https://www.stephendiehl.com/posts/smt_and_mcp_solvers/
 
-川普政府要求各國在6/4前提出最佳談判條件
-https://www.businessyee.com/article/6283-best-offers
+Where did <random> go wrong?
+https://codingnest.com/files/What%20Went%20Wrong%20With%20_random__.pdf
 
-杜拜打造AI重鎮：免稅高薪、黃金居留簽背後暗藏「國籍不平等」
-https://www.businessyee.com/article/6281-Dubai-AI-job-market
+DiffX - Next-Generation Extensible Diff Format
+https://diffx.org/
 
-Gleam v1.11.0 released
-https://gleam.run/news/gleam-javascript-gets-30-percent-faster/
+Vibe coding case study: ScubaDuck
+https://blog.ezyang.com/2025/06/vibe-coding-case-study-scubaduck/
 
-Google Logo Ligature Bug
-https://www.jefftk.com/p/google-logo-ligature-bug
+Mapping latitude and longitude to country, state, or city
+https://austinhenley.com/blog/coord2state.html
 
-GenAI is Our Polyester
-https://culture.ghost.io/genai-is-our-polyester/
+Physicality: the new age of UI
+https://www.lux.camera/physicality-the-new-age-of-ui/
 
-Beachpatrol: CLI to automate your everyday web browser
-https://github.com/sebastiancarlos/beachpatrol
+Building Industrial Strength Software without Unit Tests
+https://chrispenner.ca/posts/transcript-tests
 
-A tour of upcoming RFCs for the Hare programming language
-https://harelang.org/blog/2025-06-02-planned-breaking-changes/
+Zero-Cost 'Tagless Final' in Rust with GADT-style Enums
+https://www.inferara.com/en/blog/rust-tagless-final-gadt/
 
-Conformance Checking at MongoDB: Testing That Our Code Matches Our TLA+ Specs | MongoDB Blog
-https://www.mongodb.com/blog/post/engineering/conformance-checking-at-mongodb-testing-our-code-matches-our-tla-specs
+What Happens If We Inline Everything?
+https://sbaziotis.com/compilers/what-happens-if-we-inline-everything.html
 
-Our Grafana and Loki installs have quietly become 'legacy software' here
-https://utcc.utoronto.ca/~cks/space/blog/sysadmin/GrafanaAndLokiLegacyHere
+How Compiler Explorer Works in 2025
+https://xania.org/202506/how-compiler-explorer-works
 
-GoDaddy Issues Thousands of Certificates That Don't Work in Safari (again)
-https://sslmate.com/blog/post/godaddy_issues_thousands_of_broken_certificates
+What's your go-to message queue in 2025?
+https://lobste.rs/s/uwp2hd/what_s_your_go_message_queue_2025
 
-Swift at Apple: migrating the Password Monitoring service from Java
-https://www.swift.org/blog/swift-at-apple-migrating-the-password-monitoring-service-from-java/
+Claude Code is My Computer
+https://steipete.me/posts/2025/claude-code-is-my-computer
 
-My AI Skeptic Friends Are All Nuts
-https://fly.io/blog/youre-all-nuts/
+Deep learning gets the glory, deep fact checking gets ignored
+https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html
 
-Tests should not contain logic
-https://blog.snork.dev/posts/tests-should-not-contain-logic.html
+Covert Web-to-App Tracking via Localhost on Android
+https://localmess.github.io/
 
-Practical /dev/tcp in the HTTPS Era
-https://blog.pkgforge.dev/https-via-http
+Handling bidirectional control flow
+https://dl.acm.org/doi/10.1145/3428207
 
-public/protected/private is an unnecessary feature
-https://catern.com/private.html
+Coding Through Chaos: Addiction, Recovery and Acceptance
+https://corecursive.com/coding-through-chaos-with-john-walker/
 
-Faster route propagation by rewriting our Traefik gateway in Rust
-https://rivet.gg/blog/2025-06-02-faster-route-propagation-by-rewriting-our-traefik-gateway-in-rust
+Why GUIs are built at least 2.5 times
+https://patricia.no/2025/05/30/why_lean_software_dev_is_wrong.html
 
-What's higher-order about so-called higher-order references?
-https://www.williamjbowman.com/blog/2025/06/02/what-s-higher-order-about-so-called-higher-order-references/
-
-WhisperD: linux voice-to-text using OpenAI whisper-1 transcription
-https://github.com/icholy/whisperd/
-
-Can a chrome extension host a terminal emulator?
-https://blog.pomdtr.me/posts/integrated-terminal/
-
-tpde: A fast framework for writing baseline compiler back-ends in C++
-https://github.com/tpde2/tpde
-
-Technical Guide To System Calls: Implementation And Signal Handling In Modern Operating systems
-https://mohitmishra786.github.io/chessman/2025/03/31/Technical-Guide-to-System-Calls-Implementation-and-Signal-Handling-in-Modern-Operating-Systems.html
-
-Example of Splitting a PR
-https://www.jefftk.com/p/example-of-splitting-a-pr
-
-What are you doing this week?
-https://lobste.rs/s/usvbn9/what_are_you_doing_this_week
-
-AI didn’t kill Stack Overflow
-https://www.infoworld.com/article/3993482/ai-didnt-kill-stack-overflow.html
-
-The DuckLake Manifesto: SQL as a Lakehouse Format
-https://ducklake.select/manifesto/
+AI Changes Everything
+https://lucumr.pocoo.org/2025/6/4/changes/
