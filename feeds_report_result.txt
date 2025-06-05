@@ -1,13 +1,43 @@
-# 2025-06-04 09:19:15 Feeds Report 
+# 2025-06-05 09:19:16 Feeds Report 
 
-Daily Hacker News for 2025-06-03
-https://www.daemonology.net/hn-daily/2025-06-03.html
+Daily Hacker News for 2025-06-04
+https://www.daemonology.net/hn-daily/2025-06-04.html
 
-讀懂資安新聞 - Chrome 為什麼取消中華電信的根憑證信任？
-https://blog.darkthread.net/blog/chrome-remove-epki-trust/
+Let's Encrypt 針對無主用戶端的限制
+https://blog.gslin.org/archives/2025/06/05/12436/lets-encrypt-%e9%87%9d%e5%b0%8d%e7%84%a1%e4%b8%bb%e7%94%a8%e6%88%b6%e7%ab%af%e7%9a%84%e9%99%90%e5%88%b6/
 
-Windows內建的OpenSSH元件被濫用，駭客試圖建立後門連線
-https://www.ithome.com.tw/news/169361
+Reverse geocoding 的簡化
+https://blog.gslin.org/archives/2025/06/05/12434/reverse-geocoding-%e7%9a%84%e7%b0%a1%e5%8c%96/
+
+求職信網釣鎖定財務長與金融高層而來，駭客企圖遠端存取工具Netbird控制受害電腦
+https://www.ithome.com.tw/news/169385
+
+勒索軟體Lyrix用Windows內建API對電腦發動攻擊，回避偵測、防止研究人員分析
+https://www.ithome.com.tw/news/169384
+
+挑戰Nvidia，AMD收購AI優化軟體新創業者Brium
+https://www.ithome.com.tw/news/169382
+
+Nokia將率領逾40個組織共同打造一個由歐盟贊助的無人載具專案，以保護重大基礎設施
+https://www.ithome.com.tw/news/169381
+
+ChatGPT新增連接器功能以存取第三方服務
+https://www.ithome.com.tw/news/169380
+
+Coinbase資料外洩事故傳出新消息，2名印度客服外包業者TaskUs員工涉案
+https://www.ithome.com.tw/news/169378
+
+微軟擴大提供歐盟各國政府免費安全服務
+https://www.ithome.com.tw/news/169377
+
+Windsurf控訴Anthropic忽然切斷Claude模型存取限額
+https://www.ithome.com.tw/news/169375
+
+Reddit控告Anthropic擅自抓取資料訓練AI模型
+https://www.ithome.com.tw/news/169371
+
+Angular v20正式棄用結構指令，反應式狀態管理進入穩定階段
+https://www.ithome.com.tw/news/169355
 
 NotebookLM現在可讓使用者公開分享筆記
 https://www.ithome.com.tw/news/169360
@@ -27,152 +57,116 @@ https://www.ithome.com.tw/news/169356
 戶外用品與運動服飾業者The North Face遭遇帳號填充攻擊，部分客戶個資外洩
 https://www.ithome.com.tw/news/169353
 
-Google Chrome桌機版更新修補已遭濫用的零時差漏洞
-https://www.ithome.com.tw/news/169349
+NVIDIA 到底選北士科哪塊地？蔣萬安親口答：就是 T17、18
+https://www.inside.com.tw/article/38649-nvidia-taiwan-new-hq
 
-精品業者Cartier遭駭外洩客戶個資
-https://www.ithome.com.tw/news/169348
+【長文】網路女王 Mary Meeker 2025 AI 趨勢報告重磅降臨，帶您一次仔細閱讀
+https://www.inside.com.tw/article/38647-mary-meeker-reports-2025
 
-Codex CLI改採Rust原生重寫，提升效能與跨平臺支援
-https://www.ithome.com.tw/news/169341
+全球僅六家！ GMI Cloud 榮登 NVIDIA Reference Platform 雲端合作夥伴之列 —— 引領 AI 雲端基礎設施國際標準
+https://www.inside.com.tw/article/38648-GMICloud
 
-中華電信8月起暫停簽發TLS網站憑證
-https://www.ithome.com.tw/news/169347
+受台灣 AI 崛起啟發，矽谷台裔高中生辦 AI 模擬聯合國
+https://www.inside.com.tw/article/38642-inspired-by-taiwans-ai-rise-taiwanese-american-student-in-silicon-valley-launches-ai-model-un
 
-保留AST1700特色、納入FPGA，信驊搶先展示下一代I/O擴展晶片
-https://www.ithome.com.tw/tech/169346
+模型即服務，算力即未來——亞太唯三、台灣首家輝達 NCP，GMI Cloud 助企業奪回 AI 環境控制權
+https://www.inside.com.tw/article/38624-gmicloud
 
-微軟、CrowdStrike合作發展對照表 對應各自的駭客命名
-https://www.ithome.com.tw/news/169323
+中國電動車起火？載滿三千多台車貨輪在太平洋燒毀
+https://www.inside.com.tw/article/38645-car-carrier-with-800-evs-is-burning-and-abandoned-mid-pacific
 
-針對遭殭屍網路AyySSHush利用的路由器漏洞，華碩針對這些資安弱點公告提出說明
-https://www.ithome.com.tw/news/169322
+AirPods 史上最大升級來了？新增相機遙控與睡眠偵測功能
+https://www.inside.com.tw/article/38644-apple-airpods-camera-controls-sleep-detection-wwdc-rumors
 
-xAI打算同時透過要約收購、融資及債券發行來籌資
-https://www.ithome.com.tw/news/169321
+金屬中心展現科研實力，榮獲美國愛迪生獎四項大獎
+https://www.inside.com.tw/article/38643-mirdc
 
-微軟Bing提供以Sora為基礎 但免費的影片生成工具
-https://www.ithome.com.tw/news/169320
+無人機是合作重點！台美國防產業論壇 11 日登場
+https://www.inside.com.tw/article/38640-tw-us-defense-industry-forum
 
-TNL Mediagene 關鍵評論網媒體集團合辦 2025 Generative AI 年會，再掀台灣 AI 學習風潮
-https://www.inside.com.tw/article/38620-
+面對「AI 定義汽車」時代，Arm 發表 Zena CSS 加速新車開發速度
+https://www.inside.com.tw/article/38641-arm-launches-zena-css-to-accelerate-auto-development-in-ai-defined-vehicle-era
 
-突破影音經營逆境！台北雜誌公會舉辦「全方位影音經營戰略班」
-https://www.inside.com.tw/article/38628-mbat-events-youtube
+所得稅「扣繳制度」新制上路！三分鐘懶人包，幫你掌握修法重點與影響
+https://www.businessyee.com/article/6307-ntbca
 
-黃仁勳現身任天堂影片！解密 NVIDIA 如何幫 Switch 2 客製化晶片
-https://www.inside.com.tw/article/38629-jensen-nintendo-switch2
+工作再努力還是無法升遷？培養5種特質，向優秀的人學習升遷關鍵
+https://www.businessyee.com/article/6306-How-to-Get-Promoted-at-Work
 
-圖靈獎得主 Yoshua Bengio 開設新組織，要研發「完全不說謊」的 AI
-https://www.inside.com.tw/article/38626-yoshua-bengio-lawzero
+第二大穩定幣發行商Circle登陸紐交所，IPO後估值上看69億美元！
+https://www.businessyee.com/article/6305-circle-ipo-debuts-on-nyse
 
-Pixel 10 Pro 原型機曝光！相機條變更凸？
-https://www.inside.com.tw/article/38625-pixel-10-pro-prototype
+OpenAI付費企業用戶破300萬：ChatGPT加碼推職場新功能！
+https://www.businessyee.com/article/6302-openai-chatgpt-enterprise-ai
 
-啟動第一哩路：學研創業的 FITI 實戰養成記
-https://www.inside.com.tw/article/38627-fiti
+省時不流汗、讓我怦然心動之吹風機：Dyson戴森HD16粉霧玫瑰
+https://www.businessyee.com/article/6304-Dyson-HD16
 
-一文了解南韓新任總統李在明的 AI、科技與能源政策
-https://www.inside.com.tw/article/38623-understanding-south-korea-new-president-lee-jae-myung-ai-technology-and-energy-policies
+美商務部長：中國暫不具備大規模生產先進 AI 晶片能力
+https://www.businessyee.com/article/6303-howard-lutnick
 
-台版「彈簧刀」！中科院公開勁蜂無人機影片，能用 AI 精準攻擊
-https://www.inside.com.tw/article/38622-national-chung-shan-institute-reveals-hornet-drone-video-featuring-ai-precision-strikes
+美鋼鋁關稅翻倍至50%！中鋼黃建智：美鋼價若不漲，台灣出口產品將難以競爭
+https://www.businessyee.com/article/6301-us-tariff-steel-aluminum
 
-美國總統川普簽署行政命令鬆綁核能之戰略意涵
-https://voicettank.org/20250603-2/
+美商務部長：拜登時期晶片法補助款要重談，台積電是成功案例
+https://www.businessyee.com/article/6300-Lutnick-chip-act
 
-防災電力學：台灣設計製造的ACER Power Bar儲能行動電源
-https://www.businessyee.com/article/6299-acer-power-bar
+【聽進理投】不論幸運或能力帶來的「意外之財」你都要把它留下來！
+https://www.businessyee.com/article/6298-ep128
 
-【聽進理投】債券到底安不安全？先搞清楚你投資的是哪一種債？
-https://www.businessyee.com/article/6229-ep127
+Java Weekly, Issue 597
+https://feeds.feedblitz.com/~/919706507/0/baeldung~Java-Weekly-Issue
 
-存房還是存ETF？指數化投資人想買房必須考慮哪些事？
-https://www.businessyee.com/article/6297-Invest-in-ETFs-or-real-estate
+jujutsu v0.30.0 released
+https://github.com/jj-vcs/jj/releases/tag/v0.30.0
 
-黃仁勳現身任天堂影片 解密Switch 2客製化晶片
-https://www.businessyee.com/article/6296-Switch2-NVIDIA
+I Think I’m Done Thinking About genAI For Now
+https://blog.glyph.im/2025/06/i-think-im-done-thinking-about-genai-for-now.html
 
-為AI搶電！Meta首購核電、簽下20年長約
-https://www.businessyee.com/article/6295-meta-signs-nuclear-power-deal
+Days since last Rust Minecraft server
+https://dayssincelastrustmcserver.com/
 
-馬斯克：川普「大而美預算法案」令人作嘔
-https://www.businessyee.com/article/6294-trump-elon-musk
+gg: GG - Gui for JJ
+https://github.com/gulbanana/gg
 
-「第一階段協議」不玩了！WSJ：中國關稅談判將強硬要求美放行晶片
-https://www.businessyee.com/article/6293-wsj-trade-negotiator-he-lifeng-hardball
+Why I Wrote the BEAM Book
+https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/
 
-輝達超車微軟，重返全球市值第一
-https://www.businessyee.com/article/6292-nvidia-most-valuable-company
+Experimenting with no-build Web Applications
+https://andregarzia.com/2025/06/experimenting-with-no-build-web-applications.html
 
-【CrowdStrike Q1財報】展望失色、達美航空紛爭未解：股價急跌逾6%
-https://www.businessyee.com/article/6291-crowdstrike-earnings-2025-q1
+Goblinville: A Spring Lisp Game Jam 2025 retrospective
+https://spritely.institute/news/goblinville-a-spring-lisp-game-jam-2025-retrospective.html
 
-TNL Mediagene 關鍵評論網媒體集團合辦 2025 Generative AI 年會，再掀台灣 AI 學習風潮
-https://www.businessyee.com/article/6290-GAI
+How Let’s Encrypt reduced the impact of zombie clients
+https://letsencrypt.org/2025/06/04/how-we-reduced-the-impact-of-zombie-clients/
 
-【鏡頭之外】台籍被爆者群像與人數統計上的困難度
-https://changyuchieh.com/2025/06/04/taiwanese-hibakusya/?utm_source=rss&utm_medium=rss&utm_campaign=taiwanese-hibakusya
+DejaGNU (2011)
+https://www.airs.com/blog/archives/499/
 
-jujutsu on tangled
-https://blog.tangled.sh/stacking
+Redesigned Swift.org is now live
+https://www.swift.org/blog/redesigned-swift-org-is-now-live/
 
-[ On | No ] syntactic support for error handling
-https://go.dev/blog/error-syntax
+yet another LLM
+https://www.yetanotherllm.com/
 
-Don't McBlock me
-https://www.schneems.com/2025/06/03/dont-mcblock-me/
+Premature Design Is Not Design
+https://articles.pragdave.me/p/premature-design-is-not-design
 
-Interfacing MCP with Combinatorial, Convex, and SMT Solvers
-https://www.stephendiehl.com/posts/smt_and_mcp_solvers/
+When memory was measured in kilobytes: The art of efficient vision
+https://www.softwareheritage.org/2025/06/04/history_computer_vision/
 
-Where did <random> go wrong?
-https://codingnest.com/files/What%20Went%20Wrong%20With%20_random__.pdf
+phptop: PHP basic ressource profiler safe and useful for production sites
+https://github.com/bearstech/phptop
 
-DiffX - Next-Generation Extensible Diff Format
-https://diffx.org/
+Error Monads The Hard Way
+https://articles.pragdave.me/p/error-monads-the-hard-way
 
-Vibe coding case study: ScubaDuck
-https://blog.ezyang.com/2025/06/vibe-coding-case-study-scubaduck/
+Streams as web resources with access controls
+https://s2.dev/blog/access-control
 
-Mapping latitude and longitude to country, state, or city
-https://austinhenley.com/blog/coord2state.html
+No More Shading Languages: Compiling C++ to Vulkan Shaders
+https://xol.io/random/vcc-paper.pdf
 
-Physicality: the new age of UI
-https://www.lux.camera/physicality-the-new-age-of-ui/
-
-Building Industrial Strength Software without Unit Tests
-https://chrispenner.ca/posts/transcript-tests
-
-Zero-Cost 'Tagless Final' in Rust with GADT-style Enums
-https://www.inferara.com/en/blog/rust-tagless-final-gadt/
-
-What Happens If We Inline Everything?
-https://sbaziotis.com/compilers/what-happens-if-we-inline-everything.html
-
-How Compiler Explorer Works in 2025
-https://xania.org/202506/how-compiler-explorer-works
-
-What's your go-to message queue in 2025?
-https://lobste.rs/s/uwp2hd/what_s_your_go_message_queue_2025
-
-Claude Code is My Computer
-https://steipete.me/posts/2025/claude-code-is-my-computer
-
-Deep learning gets the glory, deep fact checking gets ignored
-https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html
-
-Covert Web-to-App Tracking via Localhost on Android
-https://localmess.github.io/
-
-Handling bidirectional control flow
-https://dl.acm.org/doi/10.1145/3428207
-
-Coding Through Chaos: Addiction, Recovery and Acceptance
-https://corecursive.com/coding-through-chaos-with-john-walker/
-
-Why GUIs are built at least 2.5 times
-https://patricia.no/2025/05/30/why_lean_software_dev_is_wrong.html
-
-AI Changes Everything
-https://lucumr.pocoo.org/2025/6/4/changes/
+Storing arbitrary data in pokemon emerald
+https://sardap.github.io/mon-fs/
