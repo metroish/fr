@@ -1,28 +1,55 @@
-# 2025-06-05 09:19:16 Feeds Report 
+# 2025-06-06 09:19:03 Feeds Report 
 
-Daily Hacker News for 2025-06-04
-https://www.daemonology.net/hn-daily/2025-06-04.html
+Daily Hacker News for 2025-06-05
+https://www.daemonology.net/hn-daily/2025-06-05.html
 
-Let's Encrypt 針對無主用戶端的限制
-https://blog.gslin.org/archives/2025/06/05/12436/lets-encrypt-%e9%87%9d%e5%b0%8d%e7%84%a1%e4%b8%bb%e7%94%a8%e6%88%b6%e7%ab%af%e7%9a%84%e9%99%90%e5%88%b6/
+忘記比較 us-east-1 與 ap-east-2 的價錢了？
+https://blog.gslin.org/archives/2025/06/06/12439/%e5%bf%98%e8%a8%98%e6%af%94%e8%bc%83-us-east-1-%e8%88%87-ap-east-2-%e7%9a%84%e5%83%b9%e9%8c%a2%e4%ba%86%ef%bc%9f/
 
-Reverse geocoding 的簡化
-https://blog.gslin.org/archives/2025/06/05/12434/reverse-geocoding-%e7%9a%84%e7%b0%a1%e5%8c%96/
+AWS 的 Taipei Region 開了
+https://blog.gslin.org/archives/2025/06/06/12438/aws-%e7%9a%84-taipei-region-%e9%96%8b%e4%ba%86/
 
-求職信網釣鎖定財務長與金融高層而來，駭客企圖遠端存取工具Netbird控制受害電腦
-https://www.ithome.com.tw/news/169385
+Canonical 要停止 Launchpad 上的 Bazaar 了
+https://blog.gslin.org/archives/2025/06/06/12437/canonical-%e8%a6%81%e5%81%9c%e6%ad%a2-launchpad-%e4%b8%8a%e7%9a%84-bazaar-%e4%ba%86/
 
-勒索軟體Lyrix用Windows內建API對電腦發動攻擊，回避偵測、防止研究人員分析
-https://www.ithome.com.tw/news/169384
+勒索及惡意軟體偽裝成AI工具散布
+https://www.ithome.com.tw/news/169407
 
-挑戰Nvidia，AMD收購AI優化軟體新創業者Brium
-https://www.ithome.com.tw/news/169382
+Anthropic發表專為美國國安設計的Claude Gov模型
+https://www.ithome.com.tw/news/169406
+
+以色列資安業者Cellebrite買下Arm架構虛擬化技術開發商Corellium
+https://www.ithome.com.tw/news/169405
+
+USDC穩定幣開發商Circle上市首日股價大漲168%
+https://www.ithome.com.tw/news/169403
+
+X開始禁止第三方使用其內容來訓練模型
+https://www.ithome.com.tw/news/169402
+
+思科修補身分服務引擎的驗證繞過漏洞
+https://www.ithome.com.tw/news/169401
+
+聯發科修補藍牙驅動程式高風險漏洞
+https://www.ithome.com.tw/news/169400
+
+【資安日報】6月6日，鎖定求職者的網釣不再只針對IT人員，出現向企業財務高層以挖角為誘餌的網路攻擊
+https://www.ithome.com.tw/news/169399
+
+Meta、Yandex被揭露監聽Android本機通訊埠，橋接瀏覽器與App身分進行追蹤
+https://www.ithome.com.tw/news/169394
+
+AWS正式啟用臺北區域資料中心，第一批啟用六十多項常見基礎服務
+https://www.ithome.com.tw/news/169398
 
 Nokia將率領逾40個組織共同打造一個由歐盟贊助的無人載具專案，以保護重大基礎設施
 https://www.ithome.com.tw/news/169381
 
 ChatGPT新增連接器功能以存取第三方服務
 https://www.ithome.com.tw/news/169380
+
+IBM資安平臺QRadar Suite存在重大權限提升漏洞
+https://www.ithome.com.tw/news/169379
 
 Coinbase資料外洩事故傳出新消息，2名印度客服外包業者TaskUs員工涉案
 https://www.ithome.com.tw/news/169378
@@ -33,140 +60,131 @@ https://www.ithome.com.tw/news/169377
 Windsurf控訴Anthropic忽然切斷Claude模型存取限額
 https://www.ithome.com.tw/news/169375
 
-Reddit控告Anthropic擅自抓取資料訓練AI模型
-https://www.ithome.com.tw/news/169371
+AWS亞太（台北）區域重磅登場，首波服務搶先看！台灣產業高效韌性新時代來臨
+https://www.inside.com.tw/feature/aws-tw/38660-aws
 
-Angular v20正式棄用結構指令，反應式狀態管理進入穩定階段
-https://www.ithome.com.tw/news/169355
+Gemini 2.5 Pro 再更新！LMArena 排名維持第一
+https://www.inside.com.tw/article/38659-gemini-2-5-pro-0605-update
 
-NotebookLM現在可讓使用者公開分享筆記
-https://www.ithome.com.tw/news/169360
+隔空開罵！川普揚言撤政府合約，馬斯克嗆總統忘恩負義、挺彈劾
+https://www.inside.com.tw/article/38656-trump-and-musk-conflict
 
-Meta與Constellation Energy簽署20年的核能採購協議
-https://www.ithome.com.tw/news/169359
+座落台灣的 AWS 雲來了！Region 在台正式啟用，承諾投資逾 50 億美元
+https://www.inside.com.tw/article/38655-aws-taipei-region
 
-郵件伺服器Roundcube存在10年重大漏洞，逾5,300萬主機恐曝險
-https://www.ithome.com.tw/news/169358
+一文看全 Apple WWDC25 預測整理，可能有哪些重磅更新？
+https://www.inside.com.tw/article/38653-apple-wwdc-2025-what-to-expect
 
-澳洲新法規要求付勒索軟體贖金的企業通報政府
-https://www.ithome.com.tw/news/169357
+迷因幣的原罪？馬斯克、川普關係破裂讓狗狗幣重挫 22%
+https://www.inside.com.tw/article/38654-musk-spat-with-trump-and-exit-from-doge-bad-for-dogecoin
 
-TechCrunch關閉歐洲業務
-https://www.ithome.com.tw/news/169356
-
-戶外用品與運動服飾業者The North Face遭遇帳號填充攻擊，部分客戶個資外洩
-https://www.ithome.com.tw/news/169353
-
-NVIDIA 到底選北士科哪塊地？蔣萬安親口答：就是 T17、18
-https://www.inside.com.tw/article/38649-nvidia-taiwan-new-hq
-
-【長文】網路女王 Mary Meeker 2025 AI 趨勢報告重磅降臨，帶您一次仔細閱讀
-https://www.inside.com.tw/article/38647-mary-meeker-reports-2025
-
-全球僅六家！ GMI Cloud 榮登 NVIDIA Reference Platform 雲端合作夥伴之列 —— 引領 AI 雲端基礎設施國際標準
-https://www.inside.com.tw/article/38648-GMICloud
-
-受台灣 AI 崛起啟發，矽谷台裔高中生辦 AI 模擬聯合國
-https://www.inside.com.tw/article/38642-inspired-by-taiwans-ai-rise-taiwanese-american-student-in-silicon-valley-launches-ai-model-un
+穩定幣鉅子 Circle 紐交所 IPO 首日飆漲 168%，市值衝破 68 億美元
+https://www.inside.com.tw/article/38652-stablecoin-issuer-circle-soars-in-nyse-debut-after-pricing-ipo-above-expected-range
 
 模型即服務，算力即未來——亞太唯三、台灣首家輝達 NCP，GMI Cloud 助企業奪回 AI 環境控制權
 https://www.inside.com.tw/article/38624-gmicloud
 
-中國電動車起火？載滿三千多台車貨輪在太平洋燒毀
-https://www.inside.com.tw/article/38645-car-carrier-with-800-evs-is-burning-and-abandoned-mid-pacific
+國際美妝品牌的會員再進化：愛酷智能科技 UnifyMA 打造數據整合壁壘，加速行銷自動化效能
+https://www.inside.com.tw/article/38646-accuhit-unifyma
 
-AirPods 史上最大升級來了？新增相機遙控與睡眠偵測功能
-https://www.inside.com.tw/article/38644-apple-airpods-camera-controls-sleep-detection-wwdc-rumors
+美軍將淘汰超過 20 年的柴油軍卡，改用全新混動車款
+https://www.inside.com.tw/article/38651-marine-corps-mtt-hybrid-trucks
 
-金屬中心展現科研實力，榮獲美國愛迪生獎四項大獎
-https://www.inside.com.tw/article/38643-mirdc
+歐盟的裂痕與馬克宏模式的終局
+https://voicettank.org/20250605-1/
 
-無人機是合作重點！台美國防產業論壇 11 日登場
-https://www.inside.com.tw/article/38640-tw-us-defense-industry-forum
+【書摘】《採訪紀事：新聞特派員說故事》
+https://voicettank.org/20250605-2/
 
-面對「AI 定義汽車」時代，Arm 發表 Zena CSS 加速新車開發速度
-https://www.inside.com.tw/article/38641-arm-launches-zena-css-to-accelerate-auto-development-in-ai-defined-vehicle-era
+【大立光股東會】史上最高配息97.5元！小股東喊股價拚回6000元
+https://www.businessyee.com/article/6314-largan-2025-shareholders-meeting
 
-所得稅「扣繳制度」新制上路！三分鐘懶人包，幫你掌握修法重點與影響
-https://www.businessyee.com/article/6307-ntbca
+AWS亞太（台北）區域重磅登場，首波服務搶先看！台灣產業高效韌性新時代來臨
+https://www.businessyee.com/article/6313-aws
 
-工作再努力還是無法升遷？培養5種特質，向優秀的人學習升遷關鍵
-https://www.businessyee.com/article/6306-How-to-Get-Promoted-at-Work
+花20年圓夢上清大？或許選擇比努力重要，但努力能贏得更多選擇
+https://www.businessyee.com/article/6312-make-a-wise-choice
 
-第二大穩定幣發行商Circle登陸紐交所，IPO後估值上看69億美元！
-https://www.businessyee.com/article/6305-circle-ipo-debuts-on-nyse
+【好險有聽】失能險是什麼？為什麼停賣？4個案例了解失能險
+https://www.businessyee.com/article/6310-ep33
 
-OpenAI付費企業用戶破300萬：ChatGPT加碼推職場新功能！
-https://www.businessyee.com/article/6302-openai-chatgpt-enterprise-ai
+【Broadcom Q2財報】AI 晶片正搶手！財報、展望俱佳，CEO：雲端巨頭投資「堅定不移」
+https://www.businessyee.com/article/6311-broadcom-earnings-2025-q2
 
-省時不流汗、讓我怦然心動之吹風機：Dyson戴森HD16粉霧玫瑰
-https://www.businessyee.com/article/6304-Dyson-HD16
+市場血洗！川普、馬斯克公開互嗆，特斯拉蒸發1520億美元創紀錄
+https://www.businessyee.com/article/6309-trump-musk-tesla-shares
 
-美商務部長：中國暫不具備大規模生產先進 AI 晶片能力
-https://www.businessyee.com/article/6303-howard-lutnick
+日美談判新焦點：救車廠斷鏈危機，日提稀土供應鏈合作促美關稅讓步
+https://www.businessyee.com/article/6308-japan-us-tariff-ev-rare-earth-supply-chain
 
-美鋼鋁關稅翻倍至50%！中鋼黃建智：美鋼價若不漲，台灣出口產品將難以競爭
-https://www.businessyee.com/article/6301-us-tariff-steel-aluminum
+Guide to Java Diff Utils
+https://feeds.feedblitz.com/~/919793519/0/baeldung~Guide-to-Java-Diff-Utils
 
-美商務部長：拜登時期晶片法補助款要重談，台積電是成功案例
-https://www.businessyee.com/article/6300-Lutnick-chip-act
+Resolving Spring JDBC “IncorrectResultSetColumnCountException: Incorrect column count”
+https://feeds.feedblitz.com/~/919793522/0/baeldung~Resolving-Spring-JDBC-IncorrectResultSetColumnCountException-Incorrect-column-count
 
-【聽進理投】不論幸運或能力帶來的「意外之財」你都要把它留下來！
-https://www.businessyee.com/article/6298-ep128
+AI is a gamechanger for TLA+ users
+https://buttondown.com/hillelwayne/archive/ai-is-a-gamechanger-for-tla-users/
 
-Java Weekly, Issue 597
-https://feeds.feedblitz.com/~/919706507/0/baeldung~Java-Weekly-Issue
+In which I have Opinions about parsing and grammars
+https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/parsing/
 
-jujutsu v0.30.0 released
-https://github.com/jj-vcs/jj/releases/tag/v0.30.0
+Announcing the Bonfire Social 1.0 Release Candidate
+https://bonfirenetworks.org//posts/bonfire_social_rc/
 
-I Think I’m Done Thinking About genAI For Now
-https://blog.glyph.im/2025/06/i-think-im-done-thinking-about-genai-for-now.html
+I Learned Rust In 24 Hours To Eat Free Pizza Morally
+https://medium.com/@sebastiancarlos/i-learned-rust-in-24-hours-to-eat-free-pizza-morally-28ea8312e523
 
-Days since last Rust Minecraft server
-https://dayssincelastrustmcserver.com/
+DNS4EU For Public is available
+https://www.joindns4.eu/for-public
 
-gg: GG - Gui for JJ
-https://github.com/gulbanana/gg
+A programming system
+https://andreyor.st/posts/2023-10-18-a-programming-system/
 
-Why I Wrote the BEAM Book
-https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/
+Introducing facet: Reflection for Rust
+https://youtu.be/0mqFCqw_XvI
 
-Experimenting with no-build Web Applications
-https://andregarzia.com/2025/06/experimenting-with-no-build-web-applications.html
+East River Source Control
+https://ersc.io
 
-Goblinville: A Spring Lisp Game Jam 2025 retrospective
-https://spritely.institute/news/goblinville-a-spring-lisp-game-jam-2025-retrospective.html
+Picking uncontested private IP subnets with usage data
+https://blog.benjojo.co.uk/post/picking-unused-rfc1918-ip-space
 
-How Let’s Encrypt reduced the impact of zombie clients
-https://letsencrypt.org/2025/06/04/how-we-reduced-the-impact-of-zombie-clients/
+magic namerefs
+https://gist.github.com/izabera/e4717562e20eb6cfb6e05f8019883efb
 
-DejaGNU (2011)
-https://www.airs.com/blog/archives/499/
+Authentication with Axum
+https://mattrighetti.com/2025/05/03/authentication-with-axum
 
-Redesigned Swift.org is now live
-https://www.swift.org/blog/redesigned-swift-org-is-now-live/
+My Node.js is a bit Rusty (2023)
+https://gal.hagever.com/posts/my-node-js-is-a-bit-rusty
 
-yet another LLM
-https://www.yetanotherllm.com/
+Reverb Part 1: “Freeverb”
+https://reillyspitzfaden.com/posts/2025/06/reverb-part-1/
 
-Premature Design Is Not Design
-https://articles.pragdave.me/p/premature-design-is-not-design
+Machine Code Isn't Scary
+https://jimmyhmiller.com/machine-code-isnt-scary
 
-When memory was measured in kilobytes: The art of efficient vision
-https://www.softwareheritage.org/2025/06/04/history_computer_vision/
+Is GenAI Digital Cocaine?
+https://makemeacto.substack.com/p/is-genai-digital-cocaine
 
-phptop: PHP basic ressource profiler safe and useful for production sites
-https://github.com/bearstech/phptop
+Growing the Topos tech team
+https://topos.institute/blog/2025-05-29-software-team/
 
-Error Monads The Hard Way
-https://articles.pragdave.me/p/error-monads-the-hard-way
+Consumer Routers - Router Security
+https://routersecurity.org/consumerrouters.php
 
-Streams as web resources with access controls
-https://s2.dev/blog/access-control
+Phasing out Bazaar code hosting at Launchpad
+https://discourse.ubuntu.com/t/phasing-out-bazaar-code-hosting/62189
 
-No More Shading Languages: Compiling C++ to Vulkan Shaders
-https://xol.io/random/vcc-paper.pdf
+Convolutions, Polynomials and Flipped Kernels
+https://eli.thegreenplace.net/2025/convolutions-polynomials-and-flipped-kernels/
 
-Storing arbitrary data in pokemon emerald
-https://sardap.github.io/mon-fs/
+Digital Frame Hacking - Cracking It Open
+https://ezhart.com/posts/digital-frame-hacking-1
+
+Fun with Futex: building my own mutex in C for funtex
+https://blog.fredrb.com/2025/06/02/futex-fun/
+
+Skribidi -  Nimble bidirectional text stack for UIs
+https://github.com/memononen/Skribidi
