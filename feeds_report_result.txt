@@ -1,109 +1,82 @@
-# 2025-06-07 09:17:04 Feeds Report 
+# 2025-06-08 09:16:39 Feeds Report 
 
-Daily Hacker News for 2025-06-06
-https://www.daemonology.net/hn-daily/2025-06-06.html
+Daily Hacker News for 2025-06-07
+https://www.daemonology.net/hn-daily/2025-06-07.html
 
-PHP 環境下找出哪個網址最慢的 Profiling 方式
-https://blog.gslin.org/archives/2025/06/06/12440/php-%e7%92%b0%e5%a2%83%e4%b8%8b%e6%89%be%e5%87%ba%e5%93%aa%e5%80%8b%e7%b6%b2%e5%9d%80%e6%9c%80%e6%85%a2%e7%9a%84-profiling-%e6%96%b9%e5%bc%8f/
+Weekly Ask Hacker News for 2025-06-01 -- 2025-06-07
+http://www.daemonology.net/hn-weekly-ask/2025-06-07.html
 
-勒索及惡意軟體偽裝成AI工具散布
-https://www.ithome.com.tw/news/169407
+Linux Foundation 宣佈獨立的 WordPress 基礎建設：FAIR Package Manager Project
+https://blog.gslin.org/archives/2025/06/07/12442/linux-foundation-%e5%ae%a3%e4%bd%88%e7%8d%a8%e7%ab%8b%e7%9a%84-wordpress-%e5%9f%ba%e7%a4%8e%e5%bb%ba%e8%a8%ad%ef%bc%9afair-package-manager-project/
 
-Anthropic發表專為美國國安設計的Claude Gov模型
-https://www.ithome.com.tw/news/169406
+閒聊 - 作廢的 Code 你會刪掉還是做成註解牆？順聊程式設計爭議心法
+https://blog.darkthread.net/blog/comment-wall/
 
-以色列資安業者Cellebrite買下Arm架構虛擬化技術開發商Corellium
-https://www.ithome.com.tw/news/169405
+再探網路管制環境之 Outlook 啟動卡住問題
+https://blog.darkthread.net/blog/outlook-in-restricted-env/
 
-USDC穩定幣開發商Circle上市首日股價大漲168%
-https://www.ithome.com.tw/news/169403
+蘋果傳奇工程師比爾艾金森 74 歲胰臟癌辭世，Mac 圖形介面、雙擊功能都是他的創造
+https://www.inside.com.tw/article/38668-bill-atkinson-passed
 
-X開始禁止第三方使用其內容來訓練模型
-https://www.ithome.com.tw/news/169402
+AI 時代的行銷人指南：利用優勢，成為市場搶手的行銷新戰力
+https://www.inside.com.tw/article/38667-anymind-ai-marketing-skill
 
-健身房老闆靠這 5 招自來客行銷，讓學員自己來找你
-https://www.inside.com.tw/article/38665-bookfast-marketing
+Authorize Request for Certain URL and HTTP Method in Spring Security
+https://feeds.feedblitz.com/~/919858091/0/baeldung~Authorize-Request-for-Certain-URL-and-HTTP-Method-in-Spring-Security
 
-英國大學生耗 15 週打造機器人，以破紀錄時間破解 4x4 魔術方塊
-https://www.inside.com.tw/article/38434-robot-record-breaking-rubik-cube-time
+Bill Atkinson Dies From Cancer at 74
+https://daringfireball.net/linked/2025/06/07/bill-atkinson-rip
 
-OpenAI 最強勁敵 Anthropic 狠賺 年化營收達 30 億美元
-https://www.inside.com.tw/article/38602-anthropic-hits-3-billion-annualized-revenue-business-demand-ai
+xq: Query XML data using XPath
+https://github.com/linkdd/xq
 
-臉被 AI 複製怎麼辦？臉部合成與肖像權授權爭議
-https://www.inside.com.tw/article/38521-ai-face-clone
+How can one write blazing fast yet useful compilers (for lazy pure functional languages)?
+https://lobste.rs/s/e8abqn/how_can_one_write_blazing_fast_yet_useful
 
-AI 耗電增速驚人，科技 4 巨頭間接碳排驟增 150%
-https://www.inside.com.tw/article/38662-ai-power-consumption-surges-indirect-carbon-emissions-of-techs-big-four-jump-150-percent
+I Read All Of Cloudflare's Claude-Generated Commits
+https://www.maxemitchell.com/writings/i-read-all-of-cloudflares-claude-generated-commits/
 
-Elon Musk 透露，Tesla 旗下超級電腦將在今年稍晚時候換成下一代系統「Dojo 2」
-https://www.inside.com.tw/article/38661-elon-musk-revealed-that-teslas-supercomputer-will-be-replaced-by-the-next-generation-system-dojo-2-later-this-year
+MCP vs API
+https://glama.ai/blog/2025-06-06-mcp-vs-api
 
-《原始碼：成為比爾・蓋茲》譯者吳凱琳：眾人推薦的育兒寶典？接密微軟創辦人崛起，天時地利人和下誕生的傳奇【塞掐 Side Chat】E348
-https://www.inside.com.tw/feature/side-chat/38663-side-chat-348
+Performance of random floats
+https://dotat.at/@/2025-06-08-floats.html
 
-全球能源投資達歷史高峰，但 IEA 則警示電網基礎建設不足
-https://www.inside.com.tw/article/38658-global-energy-investment-hits-record-high-but-iea-warns-of-grid-infrastructure-shortfall
+A plan for SIMD
+https://linebender.org/blog/a-plan-for-simd/
 
-Jepsen: TigerBeetle 0.16.11
-https://jepsen.io/analyses/tigerbeetle-0.16.11
+Astonishing discovery by computer scientist: how to squeeze space into time
+https://www.youtube.com/watch?v=8JuWdXrCmWg
 
-Curate your shell history
-https://esham.io/2025/05/shell-history
+Unveiling the EndBOX
+https://www.endbasic.dev/2025/06/unveiling-the-endbox.html
 
-Just fucking code
-https://www.justfuckingcode.com/
+Making Sense of Acquire-Release Semantics (2023)
+https://davekilian.com/acquire-release.html
 
-git-remote-sqlite: Single-file Git repos that can replicate with Litestream
-https://github.com/chrislloyd/git-remote-sqlite
+Too Many Open Files
+https://mattrighetti.com/2025/06/04/too-many-files-open
 
-Small Programs and Languages
-https://ratfactor.com/cards/pl-small
+Why not use the new MTA-STS?
+https://www.bsdhowto.ch/mtasts.html
 
-The next phase of jank's C++ interop
-https://jank-lang.org/blog/2025-06-06-next-phase-of-interop/
+Why not use DNS over HTTPS (DoH)?
+https://www.bsdhowto.ch/doh.html
 
-Sharing everything I could understand about gradient noise
-https://blog.pkh.me/p/42-sharing-everything-i-could-understand-about-gradient-noise.html
+Shell scripting in C
+https://sebastiano.tronto.net/blog/2024-09-20-c-scripting/
 
-Fuzzer Blind Spots (Meet Jepsen!)
-https://tigerbeetle.com/blog/2025-06-06-fuzzer-blind-spots-meet-jepsen/
+Getting started with QT, without the nonsense
+https://sebastiano.tronto.net/blog/2025-04-04-qt-minimal/
 
-A year of funded FreeBSD
-http://www.daemonology.net/blog/2025-06-06-A-year-of-funded-FreeBSD.html
+A masochist's guide to web development
+https://sebastiano.tronto.net/blog/2025-06-06-webdev/
 
-First usermode exploit and more: Nintendo Switch 2 had a busy (hacking) week for its launch
-https://wololo.net/2025/06/06/first-usermode-exploit-and-more-nintendo-switch-2-had-a-busy-hacking-week-for-its-launch/
+memvid: Video-based AI memory library
+https://github.com/Olow304/memvid
 
-Hacking is Necessary
-https://scharenbroch.dev/blog/hacking-is-necessary/
+Einops
+https://einops.rocks
 
-GPU Memory Consistency: Specifications, Testing, and Opportunities for Performance Tooling
-https://www.sigarch.org/gpu-memory-consistency-specifications-testing-and-opportunities-for-performance-tooling/
-
-A tool for burning visible pictures on a compact disc surface
-https://github.com/arduinocelentano/cdimage
-
-Enable Dark Theme in LibreWolf
-https://bitwilli.com/enable-dark-theme-in-librewolf
-
-CLIPS: An Elevator Pitch
-https://ryjo.codes/articles/clips-elevator-pitch.html
-
-What are you doing this weekend?
-https://lobste.rs/s/bgytib/what_are_you_doing_this_weekend
-
-Analyzing Metastable Failures in Distributed Systems
-http://muratbuffalo.blogspot.com/2025/06/analyzing-metastable-failures-in.html
-
-Supercharging GCP Navigation with Alfred
-https://dineshgowda.com/posts/supercharging-gcp-navigation-with-alfred/
-
-Binary Lambda Calculus
-https://gist.github.com/tromp/86b3184f852f65bfb814e3ab0987d861
-
-I Let ChatGPT Make All My Architectural Decisions for a Month: The Surprising Results
-https://medium.com/@sohail_saifi/i-let-chatgpt-make-all-my-architectural-decisions-for-a-month-the-surprising-results-e21f1254c74c
-
-Conventional Commit message generator using local LLMs
-https://wimpysworld.com/posts/faff-ollama-conventional-commit-generator/
+What was Radiant AI, anyway?
+https://blog.paavo.me/radiant-ai/
