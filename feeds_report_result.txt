@@ -1,25 +1,49 @@
-# 2025-06-09 09:20:04 Feeds Report 
+# 2025-06-10 09:19:34 Feeds Report 
 
-Daily Hacker News for 2025-06-08
-https://www.daemonology.net/hn-daily/2025-06-08.html
+Daily Hacker News for 2025-06-09
+https://www.daemonology.net/hn-daily/2025-06-09.html
 
-Kagi 訂閱超過 50k 用戶
-https://blog.gslin.org/archives/2025/06/09/12445/kagi-%e8%a8%82%e9%96%b1%e8%b6%85%e9%81%8e-50k-%e7%94%a8%e6%88%b6/
+蘋果官方推出在 macOS 上跑 Linux container 的方案了 (可以 arm64/x86-64)
+https://blog.gslin.org/archives/2025/06/10/12448/%e8%98%8b%e6%9e%9c%e5%ae%98%e6%96%b9%e6%8e%a8%e5%87%ba%e5%9c%a8-macos-%e4%b8%8a%e8%b7%91-linux-container-%e7%9a%84%e6%96%b9%e6%a1%88%e4%ba%86-%e5%8f%af%e4%bb%a5-arm64-x86-64/
 
-MariaDB 11.8 LTS
-https://blog.gslin.org/archives/2025/06/09/12444/mariadb-11-8-lts/
+暴力法取得 Google 使用者的手機號碼的安全漏洞
+https://blog.gslin.org/archives/2025/06/10/12446/%e6%9a%b4%e5%8a%9b%e6%b3%95%e5%8f%96%e5%be%97-google-%e4%bd%bf%e7%94%a8%e8%80%85%e7%9a%84%e6%89%8b%e6%a9%9f%e8%99%9f%e7%a2%bc%e7%9a%84%e5%ae%89%e5%85%a8%e6%bc%8f%e6%b4%9e/
 
-不該用 DoH (DNS over HTTPS) 的原因
-https://blog.gslin.org/archives/2025/06/09/12443/%e4%b8%8d%e8%a9%b2%e7%94%a8-doh-dns-over-https-%e7%9a%84%e5%8e%9f%e5%9b%a0/
+中國駭客鎖定資安業者SentinelOne而來，意圖對用戶從事供應鏈攻擊
+https://www.ithome.com.tw/news/169453
 
-知名AI輔助開發工具Cursor推出1.0正式版，內建BugBot自動程式碼審查功能
-https://www.ithome.com.tw/news/169433
+惡意軟體AsyncRAT透過冒牌Booking.com訂房網站散布
+https://www.ithome.com.tw/news/169451
 
-勒索軟體Qilin利用Fortinet已知漏洞從事攻擊行動
-https://www.ithome.com.tw/news/169434
+OpenAI年度經常性收入突破100億美元
+https://www.ithome.com.tw/news/169450
 
-【資安週報】0602~0606，Chrome將從8月開始不信任中華電信新簽發的TLS/HTTPS憑證
-https://www.ithome.com.tw/news/169425
+Google用戶的電話號碼可被暴力破解
+https://www.ithome.com.tw/news/169449
+
+駭客盜用React Native、GlueStack維護團隊帳號，上架惡意NPM套件散布木馬
+https://www.ithome.com.tw/news/169448
+
+特斯拉機器人部門工程主管離職
+https://www.ithome.com.tw/news/169447
+
+VMware NSX存在XSS重要風險漏洞
+https://www.ithome.com.tw/news/169446
+
+蘋果公布macOS Tahoe 26 將成Intel-based Mac最後一代OS
+https://www.ithome.com.tw/news/169445
+
+蘋果發表基礎模型框架，供第三方存取裝置上模型
+https://www.ithome.com.tw/news/169444
+
+Python壓縮檔模組tarfile存在重大資安弱點，恐導致檔案系統遭任意寫入
+https://www.ithome.com.tw/news/169422
+
+開源多媒體處理函式庫FFmpeg原生整合WebRTC，增強低延遲串流場景支援
+https://www.ithome.com.tw/news/169437
+
+蘋果研究：一旦問題變複雜，大型語言與推理模型便暴露盲點
+https://www.ithome.com.tw/news/169442
 
 非營利的EleutherAI釋出集結合法開放資料的AI訓練資料集
 https://www.ithome.com.tw/news/169432
@@ -36,113 +60,65 @@ https://www.ithome.com.tw/news/169419
 Linux基金會啟動FAIR套件管理專案，打造WordPress的去中心化套件平臺
 https://www.ithome.com.tw/news/169426
 
-Google Gemini排程行動功能上線，提供付費用戶
-https://www.ithome.com.tw/news/169424
+【Tenz科技評論】WWDC 2025 快評：蘋果真正絕招是「App 可呼叫本機 LLM」
+https://www.inside.com.tw/article/38692-apple-secret-weapon-is-apps-calling-local-llm-models
 
-中國支持的駭客利用iMessage NICKNAME零點擊漏洞　攻擊歐美重要人物
-https://www.ithome.com.tw/news/169423
+特斯拉自駕計程車於奧斯汀悄悄開始測試
+https://www.inside.com.tw/article/38691-tesla-starts-autonomous-testing-phase-austin-days-before-planned-launch
 
-Cloud Run GPU正式上線，支援AI推論與批次運算彈性擴展
-https://www.ithome.com.tw/news/169415
+重磅！Tahoe 將會是「末代」支援 Intel 版 Mac 的 macOS
+https://www.inside.com.tw/article/38690-last-macos-tahoe-intel-mac
 
-美國空軍正式啟用實驗單位，加速 AI 無人機協同戰機作戰
-https://www.inside.com.tw/article/38678-u-s-air-force-activates-experimental-operations-unit-to-advance-collaborative-combat-aircraft-integration
+升級版 Siri 明年才到？但 WWDC25 仍令人夢回 2023：AI 功能的無所不在
+https://www.inside.com.tw/article/38688-wwdc-apple-ai
 
-生成式 AI 真能威脅 Google 搜尋霸業？來看看 2025 Q1 的真實數據
-https://www.inside.com.tw/article/38677-can-generative-ai-threaten-google-search-dominance-real-data-from-2025-q1
+【WWDC 2025】iPadOS 26 要讓 iPad 更像一台 Mac
+https://www.inside.com.tw/article/38689-ipados-26-will-make-the-ipad-feel-more-like-a-mac
 
-Meta 洽談投資 Scale AI！金額有望破百億美元，成 Meta 最大外部 AI 投資
-https://www.inside.com.tw/article/38676-meta-in-talks-to-invest-scale-ai
+【WWDC 2025】蘋果發表 Xcode 26，整合 ChatGPT 支援 AI 寫 code
+https://www.inside.com.tw/article/38687-apple-announces-xcode-26-with-chatgpt-integration-for-ai-code-writing-support
 
-EVOASIS 快充站突破 102 站，將持續在雙北加速擴張
-https://www.inside.com.tw/article/38674-evoasis-fast-charging-stations-surpass-102-locations-expansion-in-taipei-area-accelerates
+【WWDC 2025】蘋果在 AI 上面真的沒有藏招，而他們也與世界越來越脫節
+https://www.inside.com.tw/article/38686-apple-has-no-hidden-ai-strategy-and-is-losing-touch-with-global-trends
 
-搶攻衛星通訊商機：台灣廠商如何透過標準化與國際合作布局衛星市場
-https://www.inside.com.tw/article/38664-Satellite
+【WWDC 2025】一次看完 iOS 26 完整更新
+https://www.inside.com.tw/article/38684-apple-ios26-wwdc
 
-BMW 預計將在美國工廠生產 iX5、iX6、iX7 等純電 SUV
-https://www.inside.com.tw/article/38673-bmw-ix5-ix7-us-production
+【WWDC 2025】蘋果推 iOS 26 視覺智慧功能，要將 Apple Intelligence 導入 iPhone 螢幕
+https://www.inside.com.tw/article/38683-apple-brings-apple-intelligence-to-the-iphone-screen
 
-微軟、華碩推出遊戲掌機 ROG Xbox Ally！加入更多 Xbox 元素
-https://www.inside.com.tw/article/38672-rog-xbox-ally-launch
+【WWDC 2025】蘋果推出 AI 即時翻譯工具，可用在 iMessage、FaceTime 與電話上！
+https://www.inside.com.tw/article/38682-apple-introduces-ai-powered-live-translation-tools-at-wwdc
 
-無須麻煩解鎖！北捷新閘門支援 iPhone 以「快速卡片」進出車站
-https://www.inside.com.tw/article/38671-taipei-mrt-update
+誰動了哈佛校長的乳酪
+https://voicettank.org/20250609-1/
 
-Apple WWDC25 倒數！活動限定贈品曝光，AI 更新將有這些？
-https://www.inside.com.tw/article/38670-what-to-expect-apple-wwdc25
+《資通安全管理法》修正草案的建議
+https://voicettank.org/20250609-2/
 
-降噪、內錄、監聽，自媒體也可輕鬆入手的專業無線麥克風 DJI 大疆MIC 2！
-https://www.businessyee.com/article/6322-DJI-MIC-2
+壽險避險奏效！國泰金5月獲利52.4億、EPS達2.64元
+https://www.businessyee.com/article/6330-
 
-台壽推美元養老險「美利富」，一次繳費、七年還本
-https://www.businessyee.com/article/6321-taiwan-life-usdinsurance
+匯損重擊壽險！富邦金5月虧逾57億、前5月EPS仍達2.89元
+https://www.businessyee.com/article/6329-fuban-result-2025-may
 
-首家串接純網銀券商！永豐金證攜LINE Bank推「定期存股」服務
-https://www.businessyee.com/article/6320-sinopac-linebk
+「鋼鐵人」黃仁勳親赴《倫敦科技週》：　盛讚英國AI投資環境與學術實力
+https://www.businessyee.com/article/6327-nvidias-jensen-huang-london-tech-week
 
-統一美國50 ETF(009811) 7/9募集，一次打包美股市值前50龍頭
-https://www.businessyee.com/article/6319-009811-ipo
+從AI挑履歷、育才到推上夢想舞台！星展銀離職率僅4.8%秘密
+https://www.businessyee.com/article/6328-dbs-hr-ai-use
 
-川普：跟馬斯克關係已結束，但NASA跟SpaceX合約仍持續
-https://www.businessyee.com/article/6317-trump-musk
+月營收｜台積電5月營收3205億元，年增 39.6%！再創歷年同月新高
+https://www.businessyee.com/article/6326-tsmc-revenue-may-2025
 
-商益精選書單｜KOBO電子書今起3天75折！精選6本財富、職涯與心靈升級好書
-https://www.businessyee.com/article/6315-kobo-pchome-25per-off-k-book-day
+台積電股價衝1,045元創3個月新高，ADR市值攀登全球第9！
+https://www.businessyee.com/article/6325-tsmc-Marketcap
 
-Event-Driven LISTEN/NOTIFY Support in Java using PostgreSQL
-https://feeds.feedblitz.com/~/919938980/0/baeldung~EventDriven-LISTENNOTIFY-Support-in-Java-using-PostgreSQL
+來勢洶洶！OpenAI年度經常性營收突破百億美元，拚2029年轉盈
+https://www.businessyee.com/article/6324-openai-revenue-2025-h1
 
-A Low-Impact Keybase Impersonation Issue on Lobsters
-https://www.naff.dev/blog/lobsters-keybase-impersonation
+蘋果WWDC iOS26亮相 宣布開放AI模型、FaceTime即時翻譯
+https://www.businessyee.com/article/6323-wwdc
 
-Zig's self-hosted x86 backend is now default in Debug mode
-https://ziglang.org/devlog/2025/?unique/#2025-06-08
-
-Two Approaches to Solving the “Quiet Fediverse” Problem: Conversation Backfilling Mechanisms
-https://hackers.pub/@hongminhee/2025/quiet-fediverse-two-approaches/en
-
-Pijul - Elpe. Yaks big. Razors bigger
-https://pijul.org/posts/2025-06-08-elpe/
-
-Sway 1.11 Released With New Wayland Protocols & More
-https://www.phoronix.com/news/Sway-1.11-Released
-
-Ditching HAProxy (in my homelab)
-https://arch.dog/bark/ditching-haproxy
-
-105 vibe-coded tools
-https://tools.simonwillison.net/colophon
-
-What next after vibe coding
-https://mastodon.social/@nixCraft/114649024218795319
-
-Pocket to linkhut
-https://gist.github.com/gsquire/f2b572da529e7aed1227c51fee1cc130
-
-Poison everywhere: No output from your MCP server is safe
-https://www.cyberark.com/resources/threat-research-blog/poison-everywhere-no-output-from-your-mcp-server-is-safe
-
-Unlocking the Motorola G23 (and some words on Motorola)
-https://shomy.is-a.dev/blog/article/unlocking-the-motorola-g23
-
-The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity
-https://machinelearning.apple.com/research/illusion-of-thinking
-
-Lisp Machines' Computer’s Boom and Bust
-https://www.youtube.com/watch?v=sV7C6Ezl35A
-
-Tesseract Open Source OCR [optical character recognition] Engine
-https://github.com/tesseract-ocr/tesseract
-
-Field Notes From Shipping Real Code With Claude
-https://diwank.space/field-notes-from-shipping-real-code-with-claude
-
-If Virtual Threads are the solution, what is the problem? (2023)
-https://webtide.com/if-virtual-threads-are-the-solution-what-is-the-problem/
-
-Analyzing ipv4 trades with gnuplot
-https://ipv4a-5539ad.gitlab.io/
-
-Context7: Up-to-date documentation for LLMs and AI code editors
-https://context7.com/
+美國長債買氣冷！華爾街聚焦本週30年期公債拍賣結果
+https://www.businessyee.com/article/6318-US-auction-unloved-bonds
