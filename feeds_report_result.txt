@@ -1,25 +1,46 @@
-# 2025-06-10 09:19:34 Feeds Report 
+# 2025-06-11 09:19:30 Feeds Report 
 
-Daily Hacker News for 2025-06-09
-https://www.daemonology.net/hn-daily/2025-06-09.html
+Daily Hacker News for 2025-06-10
+https://www.daemonology.net/hn-daily/2025-06-10.html
 
-蘋果官方推出在 macOS 上跑 Linux container 的方案了 (可以 arm64/x86-64)
-https://blog.gslin.org/archives/2025/06/10/12448/%e8%98%8b%e6%9e%9c%e5%ae%98%e6%96%b9%e6%8e%a8%e5%87%ba%e5%9c%a8-macos-%e4%b8%8a%e8%b7%91-linux-container-%e7%9a%84%e6%96%b9%e6%a1%88%e4%ba%86-%e5%8f%af%e4%bb%a5-arm64-x86-64/
+日本風扇的定時器對 50Hz 與 60Hz 的 hack
+https://blog.gslin.org/archives/2025/06/11/12453/%e6%97%a5%e6%9c%ac%e9%a2%a8%e6%89%87%e7%9a%84%e5%ae%9a%e6%99%82%e5%99%a8%e5%b0%8d-50hz-%e8%88%87-60hz-%e7%9a%84-hack/
 
-暴力法取得 Google 使用者的手機號碼的安全漏洞
-https://blog.gslin.org/archives/2025/06/10/12446/%e6%9a%b4%e5%8a%9b%e6%b3%95%e5%8f%96%e5%be%97-google-%e4%bd%bf%e7%94%a8%e8%80%85%e7%9a%84%e6%89%8b%e6%a9%9f%e8%99%9f%e7%a2%bc%e7%9a%84%e5%ae%89%e5%85%a8%e6%bc%8f%e6%b4%9e/
+OpenAI 的 o3 降價 80%
+https://blog.gslin.org/archives/2025/06/11/12451/openai-%e7%9a%84-o3-%e9%99%8d%e5%83%b9-80/
 
-中國駭客鎖定資安業者SentinelOne而來，意圖對用戶從事供應鏈攻擊
-https://www.ithome.com.tw/news/169453
+Supabase 打算要開發 PostgreSQL 上的 Vitess：Multigres
+https://blog.gslin.org/archives/2025/06/11/12450/supabase-%e6%89%93%e7%ae%97%e8%a6%81%e9%96%8b%e7%99%bc-postgresql-%e4%b8%8a%e7%9a%84-vitess%ef%bc%9amultigres/
 
-惡意軟體AsyncRAT透過冒牌Booking.com訂房網站散布
-https://www.ithome.com.tw/news/169451
+Kagi 在 50k 訂閱使用者後的活動
+https://blog.gslin.org/archives/2025/06/11/12449/kagi-%e5%9c%a8-50k-%e8%a8%82%e9%96%b1%e4%bd%bf%e7%94%a8%e8%80%85%e5%be%8c%e7%9a%84%e6%b4%bb%e5%8b%95/
 
-OpenAI年度經常性收入突破100億美元
-https://www.ithome.com.tw/news/169450
+IBM將於2029年交付史上首個可容錯的大型量子電腦Quantum Starling
+https://www.ithome.com.tw/news/169476
 
-Google用戶的電話號碼可被暴力破解
-https://www.ithome.com.tw/news/169449
+Apple整合開發環境Xcode 26導入AI助理，增強自動化開發與多平臺支援
+https://www.ithome.com.tw/news/169473
+
+Mistral AI釋出首個推理模型家族Magistral
+https://www.ithome.com.tw/news/169475
+
+SAP修補NetWeaver重大層級漏洞
+https://www.ithome.com.tw/news/169474
+
+微軟發布6月例行更新，修補已被實際利用的零時差漏洞
+https://www.ithome.com.tw/news/169471
+
+F5買下代理程式型態AI的資安新創Fletch
+https://www.ithome.com.tw/news/169470
+
+健康食品批發龍頭United Natural Foods遭網路攻擊　出貨受影響
+https://www.ithome.com.tw/news/169469
+
+法國準備出手限制15歲以下兒童使用社交媒體
+https://www.ithome.com.tw/news/169467
+
+OpenAI公布o3-pro模型 o3降價80%
+https://www.ithome.com.tw/news/169466
 
 駭客盜用React Native、GlueStack維護團隊帳號，上架惡意NPM套件散布木馬
 https://www.ithome.com.tw/news/169448
@@ -36,89 +57,134 @@ https://www.ithome.com.tw/news/169445
 蘋果發表基礎模型框架，供第三方存取裝置上模型
 https://www.ithome.com.tw/news/169444
 
-Python壓縮檔模組tarfile存在重大資安弱點，恐導致檔案系統遭任意寫入
-https://www.ithome.com.tw/news/169422
+台美國防產業論壇登場，會中倡議台灣無人機加入「Blue UAS」美國採購標準
+https://www.inside.com.tw/article/38700-taiwan-us-defense-industry-forum-advocates-taiwan-drones-for-blue-uas-procurement-standards
 
-開源多媒體處理函式庫FFmpeg原生整合WebRTC，增強低延遲串流場景支援
-https://www.ithome.com.tw/news/169437
+被指車界「恆大」後，比亞迪將供應商帳期縮至 60 天
+https://www.inside.com.tw/article/38699-once-compared-to-evergrande-byd-announces-supplier-payment-term-shortened-to-60-days
 
-蘋果研究：一旦問題變複雜，大型語言與推理模型便暴露盲點
-https://www.ithome.com.tw/news/169442
+中國發表 AI 全自動晶片設計系統「啟蒙」
+https://www.inside.com.tw/article/38698-chinese-academy-launches-automated-system-speed-chip-design-amid-us-software-curbs
 
-非營利的EleutherAI釋出集結合法開放資料的AI訓練資料集
-https://www.ithome.com.tw/news/169432
+一邊打架一邊握手？傳 OpenAI 要引進 Google 雲端服務
+https://www.inside.com.tw/article/38697-openai-taps-google-unprecedented-cloud-deal-despite-ai-rivalry
 
-Apple用Swift重寫密碼監控服務效能提升40％
-https://www.ithome.com.tw/news/169429
+OpenAI 推出號稱最強「o3-pro」模型作為 o3 推理模型的升級版
+https://www.inside.com.tw/article/38696-o3-pro-release
 
-Hugging Face開源機器人模型SmolVLA　可跑在Mac電腦上
-https://www.ithome.com.tw/news/169427
+配備升級，價格不變！KIA The New EV6 小改款登場，售價 166.9 萬起
+https://www.inside.com.tw/article/38695-kia-unveils-the-new-ev6-facelift-with-upgraded-features-and-unchanged-starting-price-of-nt169-million
 
-中國駭客Earth Lamia鎖定SQL Server、NetWeaver等應用系統而來，利用已知漏洞入侵受害組織
-https://www.ithome.com.tw/news/169419
+台灣人均 1.6 台！LiTV 發表最新 2025 CTV 連網電視報告
+https://www.inside.com.tw/article/38694-litv-ott
 
-Linux基金會啟動FAIR套件管理專案，打造WordPress的去中心化套件平臺
-https://www.ithome.com.tw/news/169426
+紀錄片《春雨424》──細膩不俗的「英雄」返鄉之路
+https://voicettank.org/20250610-1/
 
-【Tenz科技評論】WWDC 2025 快評：蘋果真正絕招是「App 可呼叫本機 LLM」
-https://www.inside.com.tw/article/38692-apple-secret-weapon-is-apps-calling-local-llm-models
+美資擬取代嵐橋承租澳達爾文港之研析
+https://voicettank.org/20250610-2/
 
-特斯拉自駕計程車於奧斯汀悄悄開始測試
-https://www.inside.com.tw/article/38691-tesla-starts-autonomous-testing-phase-austin-days-before-planned-launch
+【台塑股東會】210億大擴建！擴張半導體鏈產能、迎戰全球石化寒冬
+https://www.businessyee.com/article/6345-formosa-plastics-group
 
-重磅！Tahoe 將會是「末代」支援 Intel 版 Mac 的 macOS
-https://www.inside.com.tw/article/38690-last-macos-tahoe-intel-mac
+日債危機？日經：賣不出去、長債利率像「斷線風箏」恐升破8%
+https://www.businessyee.com/article/6344-boj-japanese-goverment-bond
 
-升級版 Siri 明年才到？但 WWDC25 仍令人夢回 2023：AI 功能的無所不在
-https://www.inside.com.tw/article/38688-wwdc-apple-ai
+OpenAI CEO奧特曼預言的未來，你認同嗎？
+https://www.businessyee.com/article/6343-The-Gentle-Singularity
 
-【WWDC 2025】iPadOS 26 要讓 iPad 更像一台 Mac
-https://www.inside.com.tw/article/38689-ipados-26-will-make-the-ipad-feel-more-like-a-mac
+禁自然人憑證開戶風波延燒？金管會：問題在風控、不是憑證
+https://www.businessyee.com/article/6342-citizen-digi-certifcate-apply-account
 
-【WWDC 2025】蘋果發表 Xcode 26，整合 ChatGPT 支援 AI 寫 code
-https://www.inside.com.tw/article/38687-apple-announces-xcode-26-with-chatgpt-integration-for-ai-code-writing-support
+「時間不站在我們這邊」！示警2027，美前陸軍部長籲台美加速防衛整合
+https://www.businessyee.com/article/6341-us-taiwan-2027-time
 
-【WWDC 2025】蘋果在 AI 上面真的沒有藏招，而他們也與世界越來越脫節
-https://www.inside.com.tw/article/38686-apple-has-no-hidden-ai-strategy-and-is-losing-touch-with-global-trends
+「晶片不是公事包塞得下！」白宮官員與黃仁勳同調，憂中國超車美國
+https://www.businessyee.com/article/6340-david-sacks
 
-【WWDC 2025】一次看完 iOS 26 完整更新
-https://www.inside.com.tw/article/38684-apple-ios26-wwdc
+南山人壽迎戰 IFRS 17，董座尹崇堯「馬拉松」妙喻：配速穩，才能走得長遠
+https://www.businessyee.com/article/6339-nanshan-2025-stockholder-meeting
 
-【WWDC 2025】蘋果推 iOS 26 視覺智慧功能，要將 Apple Intelligence 導入 iPhone 螢幕
-https://www.inside.com.tw/article/38683-apple-brings-apple-intelligence-to-the-iphone-screen
+萬海起火意外｜金管會：船體險由 3 家產險共保，貨櫃險暫無法統計
+https://www.businessyee.com/article/6338-wan-hai-fire-insurance
 
-【WWDC 2025】蘋果推出 AI 即時翻譯工具，可用在 iMessage、FaceTime 與電話上！
-https://www.inside.com.tw/article/38682-apple-introduces-ai-powered-live-translation-tools-at-wwdc
+美中敲定架構落實貿易協議 將回報兩國領袖
+https://www.businessyee.com/article/6337-US-China-trade
 
-誰動了哈佛校長的乳酪
-https://voicettank.org/20250609-1/
+【南山2025股東會】尹崇堯：5月轉入外準金404億逃過虧損，與玉山、永豐無具體併購談判
+https://www.businessyee.com/article/6336-nanshan-2025-stockholder-meeting
 
-《資通安全管理法》修正草案的建議
-https://voicettank.org/20250609-2/
+A tale of two Claudes
+https://steveklabnik.com/writing/a-tale-of-two-claudes/
 
-壽險避險奏效！國泰金5月獲利52.4億、EPS達2.64元
-https://www.businessyee.com/article/6330-
+GNOME introducing stronger dependencies on systemd
+https://blogs.gnome.org/adrianvovk/2025/06/10/gnome-systemd-dependencies/
 
-匯損重擊壽險！富邦金5月虧逾57億、前5月EPS仍達2.89元
-https://www.businessyee.com/article/6329-fuban-result-2025-may
+Malleable software: Restoring user agency in a world of locked-down apps
+https://www.inkandswitch.com/essay/malleable-software/
 
-「鋼鐵人」黃仁勳親赴《倫敦科技週》：　盛讚英國AI投資環境與學術實力
-https://www.businessyee.com/article/6327-nvidias-jensen-huang-london-tech-week
+Android 16 is here
+https://blog.google/products/android/android-16/
 
-從AI挑履歷、育才到推上夢想舞台！星展銀離職率僅4.8%秘密
-https://www.businessyee.com/article/6328-dbs-hr-ai-use
+Why Doctors Hate Their Computers (2018)
+https://web.archive.org/web/20250104014248/https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers
 
-月營收｜台積電5月營收3205億元，年增 39.6%！再創歷年同月新高
-https://www.businessyee.com/article/6326-tsmc-revenue-may-2025
+Multi-player, serverless, durable terminals
+https://s2.dev/blog/s2-term
 
-台積電股價衝1,045元創3個月新高，ADR市值攀登全球第9！
-https://www.businessyee.com/article/6325-tsmc-Marketcap
+Zig-style generics are not well-suited for most languages (2022)
+https://typesanitizer.com/blog/zig-generics.html
 
-來勢洶洶！OpenAI年度經常性營收突破百億美元，拚2029年轉盈
-https://www.businessyee.com/article/6324-openai-revenue-2025-h1
+Building a Debugger: Write a Native x64 Debugger From Scratch
+https://nostarch.com/building-a-debugger
 
-蘋果WWDC iOS26亮相 宣布開放AI模型、FaceTime即時翻譯
-https://www.businessyee.com/article/6323-wwdc
+Is Rust faster than C?
+https://steveklabnik.com/writing/is-rust-faster-than-c/
 
-美國長債買氣冷！華爾街聚焦本週30年期公債拍賣結果
-https://www.businessyee.com/article/6318-US-auction-unloved-bonds
+Daily Workflow (The Cuis-Smalltalk Book)
+https://drcuis.github.io/TheCuisBook/Daily-Workflow.html
+
+Lisp in a Shell
+https://www.youtube.com/watch?v=aeUt0x7EqPY
+
+AI-assisted coding for teams that can't get away with vibes
+https://blog.nilenso.com/blog/2025/05/29/ai-assisted-coding/
+
+FreeBSD 14.3-RELEASE Announcement
+https://freebsd.org/releases/14.3R/announce/
+
+Rewriting SymCrypt in Rust to modernize Microsoft’s cryptographic library
+https://www.microsoft.com/en-us/research/blog/rewriting-symcrypt-in-rust-to-modernize-microsofts-cryptographic-library/
+
+Mixed Boolean-Arithmetic (part 1): Introduction
+https://plzin.github.io/posts/mba
+
+Quarkdown - Markdown with superpowers
+https://quarkdown.com/
+
+Handles are the better pointers (2018)
+https://floooh.github.io/2018/06/17/handles-vs-pointers.html
+
+R9: Plan 9 in Rust
+https://github.com/r9os/r9
+
+Why We’re Moving on From Nix
+https://blog.railway.com/p/introducing-railpack
+
+Announcing Multigres: Vitess for Postgres
+https://supabase.com/blog/multigres-vitess-for-postgres
+
+Passing of Jean-Raymond Abrial
+https://en.wikipedia.org/wiki/Jean-Raymond_Abrial
+
+Why doesn’t Rust care more about compiler performance?
+https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html
+
+Embracing Swift concurrency
+https://developer.apple.com/videos/play/wwdc2025/268/
+
+Why agents are bad pair programmers
+https://justin.searls.co/posts/why-agents-are-bad-pair-programmers/
+
+Implementing DOES> in Forth, the entire reason I started this mess
+https://boston.conman.org/2025/06/09.1
