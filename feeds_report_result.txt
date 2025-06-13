@@ -1,22 +1,52 @@
-# 2025-06-12 09:18:58 Feeds Report 
+# 2025-06-13 09:19:06 Feeds Report 
 
-Daily Hacker News for 2025-06-11
-https://www.daemonology.net/hn-daily/2025-06-11.html
+Daily Hacker News for 2025-06-12
+https://www.daemonology.net/hn-daily/2025-06-12.html
 
-【OTP盜刷網釣現況大公開1】即時網釣手法已經氾濫，AiTM中間人攻擊技術助長此類威脅
-https://www.ithome.com.tw/news/169487
+來聊一下億光的感應吸頂燈 (對，這個 blog 難得講這些雜七雜八 (?) 的東西)
+https://blog.gslin.org/archives/2025/06/13/12454/%e4%be%86%e8%81%8a%e4%b8%80%e4%b8%8b%e5%84%84%e5%85%89%e7%9a%84%e6%84%9f%e6%87%89%e5%90%b8%e9%a0%82%e7%87%88-%e5%b0%8d%ef%bc%8c%e9%80%99%e5%80%8b-blog-%e9%9b%a3%e5%be%97%e8%ac%9b%e9%80%99%e4%ba%9b/
 
-Stripe將買下嵌入式錢包供應商Privy
-https://www.ithome.com.tw/news/169516
+Google發表Weather Lab互動網站以預測熱帶氣旋
+https://www.ithome.com.tw/news/169547
 
-迪士尼跟環球影業聯手控告AI新創Midjourney侵權
-https://www.ithome.com.tw/news/169505
+加密貨幣交易平臺Coinbase即將推出可回饋比特幣的信用卡Coinbase One Card
+https://www.ithome.com.tw/news/169546
 
-惡意軟體Myth Stealer同時鎖定Chrome、Firefox用戶而來，藉由冒牌遊戲網站散布
-https://www.ithome.com.tw/news/169501
+Mistral跨足AI雲端平臺業務　推出Mistral Compute
+https://www.ithome.com.tw/news/169545
 
-研究人員揭露Microsoft 365 Copilot的零點擊AI漏洞
-https://www.ithome.com.tw/news/169500
+導入HAMR技術、大幅提升單位儲存密度，希捷硬碟跨入30TB
+https://www.ithome.com.tw/review/169465
+
+【資安日報】6月13日，Mirai變種企圖利用重大漏洞綁架資安平臺Wazuh
+https://www.ithome.com.tw/news/169544
+
+Palo Alto Networks修補安全瀏覽器、SSL VPN高風險漏洞
+https://www.ithome.com.tw/news/169543
+
+金融科技業者Chime上市首日大漲37%
+https://www.ithome.com.tw/news/169542
+
+Google Cloud當機波及Cloudflare等客戶
+https://www.ithome.com.tw/news/169541
+
+開源資安平臺Wazuh重大漏洞遭鎖定，兩個Mirai殭屍網路變種用於攻擊行動
+https://www.ithome.com.tw/news/169540
+
+不只數位信任失效，更是顧客信任崩壞
+https://www.ithome.com.tw/voice/169538
+
+臺中捷運要整合IT和OT，自建中捷雲瞄準數位雙生戰情室
+https://www.ithome.com.tw/people/169536
+
+趨勢科技修補影響端點加密、安全管理中心產品多項高風險漏洞
+https://www.ithome.com.tw/news/169533
+
+臺灣首度引爆憑證信任危機
+https://www.ithome.com.tw/article/169532
+
+【美國AMD全球發表會直擊】AMD發表採用CDNA 4新架構的資料中心AI加速器MI350系列
+https://www.ithome.com.tw/news/169527
 
 Apache Tomcat遭到大規模攻擊，400個IP位址對其暴力破解、登入嘗試
 https://www.ithome.com.tw/news/169498
@@ -30,152 +60,125 @@ https://www.ithome.com.tw/news/169496
 OpenAI開源權重的模型要延到夏天
 https://www.ithome.com.tw/news/169495
 
-Patch Tuesday不相容部分Windows 11 24H2 PC，微軟撤回再送
-https://www.ithome.com.tw/news/169494
+比特幣重挫跌破 10.3 萬美元！中東衝突引發加密市場血洗
+https://www.inside.com.tw/article/38719-bitcoin-down
 
-Android 16正式發布　先提供Pixel手機
-https://www.ithome.com.tw/news/169493
+驚喜聯名！美泰兒與 OpenAI 合作，要讓芭比娃娃有 AI 大腦
+https://www.inside.com.tw/article/38718-barbie-goes-ai-as-mattel-teams-with-openai-to-reinvent-playtime-with-artificial-intelligence
 
-HPE修補備份平臺StoreOnce重大層級的身分驗證繞過漏洞
-https://www.ithome.com.tw/news/169491
+專訪月城南廣告 Hawkins：台灣 Podcast 正在迎接下一波大浪
+https://www.inside.com.tw/article/38717-exclusive-interview-podcast-ad-expert-hawkins-taiwan-podcast-scene-faces-next-big-wave
 
-Mistral AI釋出首個推理模型家族Magistral
-https://www.ithome.com.tw/news/169475
+Google 大更新手機修圖神器《Snapseed》 iOS 版
+https://www.inside.com.tw/article/38716-google-completely-remade-its-snapseed-ios-photo-editor
 
-SAP修補NetWeaver重大層級漏洞
-https://www.ithome.com.tw/news/169474
+外媒爆：蘋果有 AI 的新版 Siri 要晚到 2026 年春季推出
+https://www.inside.com.tw/article/38715-apples-ai-infused-siri-may-not-show-up-until-spring
 
-微軟發布6月例行更新，修補已被實際利用的WebDAV零時差漏洞
-https://www.ithome.com.tw/news/169471
+術業有專攻：ChatGPT 下西洋棋慘敗給 48 年前遊戲主機 Atari
+https://www.inside.com.tw/article/38714-chatgpt-suffers-crushing-chess-defeat-to-48-year-old-atari-console
 
-F5買下代理程式型態AI的資安新創Fletch
-https://www.ithome.com.tw/news/169470
+Apple 秘密實驗室曝光：iPhone、Mac 這樣「虐待」才知道有多耐用
+https://www.inside.com.tw/article/38701-apple-durability-lab-inside-look
 
-健康食品批發龍頭United Natural Foods遭網路攻擊　出貨受影響
-https://www.ithome.com.tw/news/169469
+Switch 2 被怨續航不佳！任天堂官方稱「可能是電池 Bug」送上故障排除方法
+https://www.inside.com.tw/article/38713-switch-2-battery-life-complaints-prompt-nintendo-to-suggest-possible-bug-and-fix
 
-法國準備出手限制15歲以下兒童使用社交媒體
-https://www.ithome.com.tw/news/169467
+專訪 Google Cloud Ankur Kotwal、上官林傑：開發者到底該怎麼打造出自己的 AI Agent？
+https://www.inside.com.tw/article/38712-exclusive-interview-google-cloud-ankur-kotwal-on-how-developers-should-build-ai-agents
 
-Google Cloud Summit Taipei：衛福部要攜手 Google AI 預防、管理糖尿病
-https://www.inside.com.tw/article/38708-google-health-and-taiwan-healthcare
-
-Taboola 推出新聞生成式 AI 問答引擎「DeeperDive」，助媒體抵禦 AI 搜尋濫用
-https://www.inside.com.tw/article/38707-taboola-deeperdive
-
-美商務部長：美國不會把最好晶片給中國！55%關稅不變
-https://www.inside.com.tw/article/38706-us-commerce-secretary-vows-no-advanced-chips-to-china-maintains-55-percent-tariffs
-
-阿里巴巴前高層寫了萬言書分析「大公司病」， 馬雲：寫得好
-https://www.inside.com.tw/article/38705-former-alibaba-executive-writes-essay-on-big-company-disease-jack-ma-praises-it
-
-CNN 爆料：其實馬斯克 9 日就跟川普懺悔自認太超過了
-https://www.inside.com.tw/article/38704-cnn-reports-musk-confessed-to-trump-on-9th-acknowledging-going-too-far
-
-菲律賓將擴大海軍基地現代化之戰略意涵
-https://voicettank.org/20250611-2/
-
-【書摘】《朝鮮半島六百年史：政爭、外患與地緣政治》
-https://voicettank.org/20250612-2/
-
-中國「人工智能+」政策的最後一哩路
-https://voicettank.org/20250612-1/
+微軟 Copilot 爆重大安全漏洞！零點擊攻擊鎖定 AI 代理，漏洞已修復但問題根源仍存
+https://www.inside.com.tw/article/38709-copilot-leak-and-ai-agent-attacks
 
 為台灣照亮民間社會的南方朔
 https://voicettank.org/20250611-1/
 
-【甲骨文Q4財報】營收獲利優、雲端業務動能強勁，股價盤後大漲8%！
-https://www.businessyee.com/article/6357-oracle-orcl-q4-earnings-report
+【玉山金股東會】併保德信投信「無超所值」，銀證投將進駐亞灣
+https://www.businessyee.com/article/6371-e-sun-stockholder-meeting-2025
 
-海外首度！台積電攜手東京大學成立聯合實驗室，聚焦半導體研究與人才培育
-https://www.businessyee.com/article/6358-tsmc-tokyo-university
+【華南金股東會】配息以現金為主，李耀卿：為併購布局預留火力
+https://www.businessyee.com/article/6370-huanan-stockholder-meeting-2025
 
-中東局勢緊張！國際油價單日暴漲逾 4%
-https://www.businessyee.com/article/6355-oil-prices-escalating-Middle-East
+【富邦金股東會】賺10.77元僅配4.5元，董座蔡明興坦言：讓股東委屈了
+https://www.businessyee.com/article/6369-fuban-stockholder-meeting
 
-【虛擬資產專法公聽會】央行挺境外平台落地監理，學者籲小心「泡菜溢價」
-https://www.businessyee.com/article/6356-vasp-public-hearing
+中信金總座高麗雪：公開收購有點遭污名化，未獲主管機關徵詢意見
+https://www.businessyee.com/article/6368-ctbc-response-fsc-financial-holding-merge-act
 
-【聽進理投】Vanguard推中國除外新興市場ETF，擇你所愛被動投資全世界！
-https://www.businessyee.com/article/6347-ep129
+新台幣升破29.5！國壽：備妥4500 億現金、升破29元也不怕
+https://www.businessyee.com/article/6367-cathay-stockholder-meeting-2025
 
-貝森特：願對誠意協商貿易夥伴展延關稅暫停期
-https://www.businessyee.com/article/6354-Bessent
+任天堂｜Switch 2上市首周賣破紀錄！日本銷95萬台、近前代3倍水準
+https://www.businessyee.com/article/6366-nintendo-switch-2
 
-實質薪資連13月超越通膨！前4月年增1.16%，創近年最大增幅
-https://www.businessyee.com/article/6353-salary-april
+【中信金2025股東會】董座顏文隆談澄清湖案：辜仲諒是冤枉的
+https://www.businessyee.com/article/6365-ctbc-stockholder-meeting-2025
 
-台積電除息行情失靈 開盤下跌5元貼息
-https://www.businessyee.com/article/6352-dividend-tsmc
+iPhone首季生產數大跌40％！三星重登智慧手機市佔第一
+https://www.businessyee.com/article/6364-smartphone-apple-samsung
 
-降低微軟依賴？傳OpenAI將攜手AI勁敵Google雲端擴大算力
-https://www.businessyee.com/article/6350-openai-taps-google-cloud
+批晶片禁令！黃仁勳重申：未來NVIDIA財測將不含中國市場
+https://www.businessyee.com/article/6363-jensen-huang-nvidia-cnn
 
-特斯拉 Robotaxi 啟動試點營運！馬斯克：6月22日德州奧斯汀正式上路
-https://www.businessyee.com/article/6348-tesla-robotaxi-rides-austin-begin-june-22
+Herman Miller Sayl 工學椅，為健康與專注力一次到位的投資
+https://www.businessyee.com/article/6362-herman-miller-sayl
 
-【實地採訪】不讓仇恨言論有生存空間，沖繩縣民每週三固定在那霸市役所前舉牌抗議
-https://changyuchieh.com/2025/06/11/okinawa-no-hate/?utm_source=rss&utm_medium=rss&utm_campaign=okinawa-no-hate
+Java Weekly, Issue 598
+https://feeds.feedblitz.com/~/920129993/0/baeldung~Java-Weekly-Issue
 
-“Localhost tracking” explained. It could cost Meta €32b
-https://www.zeropartydata.es/p/localhost-tracking-explained-it-could
+jemalloc Postmortem
+https://jasone.github.io/2025/06/12/jemalloc-postmortem/
 
-How much EU is in DNS4EU?
-https://techlog.jenslink.net/posts/dns4eu/
+Cursor YOLO deleted everything in my computer
+https://forum.cursor.com/t/cursor-yolo-deleted-everything-in-my-computer/103131
 
-EU launches EU-based, privacy-focused DNS resolution service
-https://www.helpnetsecurity.com/2025/06/09/eu-launches-eu-based-privacy-focused-dns-resolution-service/
+Next.js 15.1+ is unusable outside of Vercel
+https://omarabid.com/nextjs-vercel
 
-Verse Language
-https://dev.epicgames.com/documentation/en-us/fortnite/verse-language-reference
+Rumour: Google intends to discontinue the Android Open Source Project
+https://www.osnews.com/story/142553/rumour-google-intends-to-discontinue-the-android-open-source-project/
 
-Whatever happened to sandboxfs?
-https://blogsystem5.substack.com/p/whatever-happened-to-sandboxfs
+Frequent reauth doesn't make you more secure
+https://tailscale.com/blog/frequent-reath-security
 
-Avoiding generative models is the rational and responsible thing to do
-https://www.baldurbjarnason.com/2025/followup-on-trusting-your-own-judgement/
+Asterinas: A Linux ABI-compatible, Rust-based framekernel OS
+https://asterinas.github.io/2025/06/04/kernel-memory-safety-mission-accomplished.html
 
-Writing a Verified Postfix Calculator in Ada/SPARK
-https://pyjarrett.github.io/2025/06/10/postfix-calculator.html
+Radicle Desktop: a graphical user interface for the Radicle peer-to-peer code forge
+https://radicle.xyz/desktop
 
-hare-update assists in addressing breaking changes in your code
-https://harelang.org/blog/2025-06-11-hare-update/
+Three Algorithms for YSH Syntax Highlighting
+https://codeberg.org/oils/oils.vim/src/branch/main/doc/algorithms.md
 
-Raku's "core"
-https://gist.github.com/raiph/849a4a9d8875542fb86df2b2eda89296
+macOS Tahoe brings a new disk image format
+https://eclecticlight.co/2025/06/12/macos-tahoe-brings-a-new-disk-image-format/
 
-AI Boom Drives 150% Surge in Indirect Emissions at Major Tech Firms, UN Warns
-https://esgnews.com/ai-boom-drives-150-surge-in-indirect-emissions-at-major-tech-firms-un-warns/
+Agentic Coding Recommendations
+https://lucumr.pocoo.org/2025/6/12/agentic-coding/
 
-In case of emergency, break glass
-https://morrick.me/archives/10048
+If the Moon Were Only 1 Pixel - A tediously accurate map of the solar system
+https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html
 
-Firefox OS's story from a mozilla insider not working on the project
-https://ludovic.hirlimann.net/2024/01/firefox-oss-story-from-mozila-insider.html
+Architecture Decision Records
+https://www.beflagrant.com/blog/adrs
 
-Ruby on Rails Audit Complete
-https://ostif.org/ruby-on-rails-audit-complete/
+Solving LinkedIn Queens with SMT
+https://buttondown.com/hillelwayne/archive/solving-linkedin-queens-with-smt/
 
-Bypassing GitHub Actions policies in the dumbest way possible
-https://blog.yossarian.net/2025/06/11/github-actions-policies-dumb-bypass
+What I talk about when I talk about IRs
+https://bernsteinbear.com/blog/irs/
 
-Source code sandboxing
-https://kristaps.bsd.lv/devsecflops/
+The Case for Software Craftsmanship in the Era of Vibes
+https://zed.dev/blog/software-craftsmanship-in-the-era-of-vibes
 
-AOSP project is coming to an end
-https://old.reddit.com/r/StallmanWasRight/comments/1l8rhon/aosp_project_is_coming_to_an_end/
+What are you doing this weekend?
+https://lobste.rs/s/dicru5/what_are_you_doing_this_weekend
 
-How we tried to book a train ticket and ended up with a databreach with 245,000 records (2023)
-https://zerforschung.org/posts/freundschaftspass-en/
+Rendering crispy text on the GPU
+https://osor.io/text
 
-A Lightweight Merge Queue using GitHub Actions
-https://sketch.dev/blog/lightweight-merge-queue
+CP/M 2.2, CP/M 3.0, CP/M-86, Concurrent CP/M-86 listings by Digital Research
+http://www.bitsavers.org/pdf/digitalResearch/CPM_Listings
 
-WebRTC One-time permissions are here to stay
-https://blog.mozilla.org/webrtc/one-time-permissions-are-here-to-stay/
-
-Pocoo
-https://www.pocoo.org/
-
-A bit more on Twitter/X’s new encrypted messaging
-https://blog.cryptographyengineering.com/2025/06/09/a-bit-more-on-twitter-xs-new-encrypted-messaging/
+The Python Language Summit 2025
+https://pyfound.blogspot.com/2025/06/python-language-summit-2025.html
