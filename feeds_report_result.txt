@@ -1,19 +1,19 @@
-# 2025-06-13 09:19:06 Feeds Report 
+# 2025-06-14 09:18:23 Feeds Report 
 
-Daily Hacker News for 2025-06-12
-https://www.daemonology.net/hn-daily/2025-06-12.html
+Daily Hacker News for 2025-06-13
+https://www.daemonology.net/hn-daily/2025-06-13.html
 
-來聊一下億光的感應吸頂燈 (對，這個 blog 難得講這些雜七雜八 (?) 的東西)
-https://blog.gslin.org/archives/2025/06/13/12454/%e4%be%86%e8%81%8a%e4%b8%80%e4%b8%8b%e5%84%84%e5%85%89%e7%9a%84%e6%84%9f%e6%87%89%e5%90%b8%e9%a0%82%e7%87%88-%e5%b0%8d%ef%bc%8c%e9%80%99%e5%80%8b-blog-%e9%9b%a3%e5%be%97%e8%ac%9b%e9%80%99%e4%ba%9b/
+奇怪的 PostgreSQL benchmark (看起來還沒解？)
+https://blog.gslin.org/archives/2025/06/14/12463/%e5%a5%87%e6%80%aa%e7%9a%84-postgresql-benchmark-%e7%9c%8b%e8%b5%b7%e4%be%86%e9%82%84%e6%b2%92%e8%a7%a3%ef%bc%9f/
 
-Google發表Weather Lab互動網站以預測熱帶氣旋
-https://www.ithome.com.tw/news/169547
+Meta 與 Yandex 在 Android 上的違法追蹤
+https://blog.gslin.org/archives/2025/06/14/12462/meta-%e8%88%87-yandex-%e5%9c%a8-android-%e4%b8%8a%e7%9a%84%e9%81%95%e6%b3%95%e8%bf%bd%e8%b9%a4/
 
-加密貨幣交易平臺Coinbase即將推出可回饋比特幣的信用卡Coinbase One Card
-https://www.ithome.com.tw/news/169546
+產生 [0.0, 1.0) 浮點亂數的方式
+https://blog.gslin.org/archives/2025/06/14/12456/%e7%94%a2%e7%94%9f-0-0-1-0-%e6%b5%ae%e9%bb%9e%e4%ba%82%e6%95%b8%e7%9a%84%e6%96%b9%e5%bc%8f/
 
-Mistral跨足AI雲端平臺業務　推出Mistral Compute
-https://www.ithome.com.tw/news/169545
+jemalloc 收了？
+https://blog.gslin.org/archives/2025/06/13/12455/jemalloc-%e6%94%b6%e4%ba%86%ef%bc%9f/
 
 導入HAMR技術、大幅提升單位儲存密度，希捷硬碟跨入30TB
 https://www.ithome.com.tw/review/169465
@@ -39,146 +39,95 @@ https://www.ithome.com.tw/voice/169538
 臺中捷運要整合IT和OT，自建中捷雲瞄準數位雙生戰情室
 https://www.ithome.com.tw/people/169536
 
-趨勢科技修補影響端點加密、安全管理中心產品多項高風險漏洞
-https://www.ithome.com.tw/news/169533
+豐田欲攜手小米、華為、Momenta，在中國打造新世代新能源車平台
+https://www.inside.com.tw/article/38729-toyota-plans-to-collaborate-with-xiaomi-huawei-and-momenta-on-next-gen-nev-platform-in-china
 
-臺灣首度引爆憑證信任危機
-https://www.ithome.com.tw/article/169532
+史上首例！丁特「紫布事件」定讞，遊戲橘子遭罰 200 萬，虛寶機率不實開罰破紀錄
+https://www.inside.com.tw/article/38728-landmark-ruling-in-dinters-purple-cloth-case-gamania-fined-nt-2-million-for-misleading-loot-box-odds
 
-【美國AMD全球發表會直擊】AMD發表採用CDNA 4新架構的資料中心AI加速器MI350系列
-https://www.ithome.com.tw/news/169527
+亞馬遜與沃爾瑪可能發行自家穩定幣，我們或許要跨越「塑膠貨幣」時代？
+https://www.inside.com.tw/article/38727-amazon-walmart-stablecoins-crypto-genius-act
 
-Apache Tomcat遭到大規模攻擊，400個IP位址對其暴力破解、登入嘗試
-https://www.ithome.com.tw/news/169498
+川普封殺加州 2035 汽油車禁令，加州興訟反擊
+https://www.inside.com.tw/article/38726-trump-blocks-californias-2035-gas-car-ban-state-sues-in-response
 
-Safari 26原生支援WebGPU推進瀏覽器3D與AI算繪效能
-https://www.ithome.com.tw/news/169492
+BTS 回歸，不只是音樂盛事，它可能將再度撼動南韓 GDP 與全球流行文化經濟
+https://www.inside.com.tw/article/38725-bts-reunion-kpop-group-army-hybe
 
-網路儲存設備Dell PowerScale存在重大漏洞，未經授權攻擊者可存取檔案系統
-https://www.ithome.com.tw/news/169496
+Google DeepMind 研究副總裁 紀懷新｜台灣唯一智慧眼鏡原型機現身！人工智慧多模態 AI、機器人、AGI 看法全公開【塞掐 Side Chat】E350
+https://www.inside.com.tw/feature/side-chat/38723-side-chat-e350
 
-OpenAI開源權重的模型要延到夏天
-https://www.ithome.com.tw/news/169495
+特斯拉「特殊的」Yoke 方向盤如今只能在 Model S/X Plaid 版本上選配
+https://www.inside.com.tw/article/38724-tesla-retires-yoke-steering-wheel-base-model-s-x
 
-比特幣重挫跌破 10.3 萬美元！中東衝突引發加密市場血洗
-https://www.inside.com.tw/article/38719-bitcoin-down
+寶特瓶變電池？韓國科研團隊表用太陽能做氫能電池的新技術
+https://www.inside.com.tw/article/38722-plastic-bottle-turn-clean-hydrogen
 
-驚喜聯名！美泰兒與 OpenAI 合作，要讓芭比娃娃有 AI 大腦
-https://www.inside.com.tw/article/38718-barbie-goes-ai-as-mattel-teams-with-openai-to-reinvent-playtime-with-artificial-intelligence
+虛擬資產監管新進展，金管會研議延長業者過渡期
+https://www.inside.com.tw/article/38721-vsap-virtual-assets-regulation
 
-專訪月城南廣告 Hawkins：台灣 Podcast 正在迎接下一波大浪
-https://www.inside.com.tw/article/38717-exclusive-interview-podcast-ad-expert-hawkins-taiwan-podcast-scene-faces-next-big-wave
+華城：切入星際之門計畫，在美建立安全庫存
+https://www.inside.com.tw/article/38720-hwacom-joins-stargate-project-by-establishing-strategic-stockpile-in-the-us
 
-Google 大更新手機修圖神器《Snapseed》 iOS 版
-https://www.inside.com.tw/article/38716-google-completely-remade-its-snapseed-ios-photo-editor
+【好險有聽】保險經紀人要考國家考試？跟業務員哪裡不同？
+https://www.businessyee.com/article/6373-insurance-broker
 
-外媒爆：蘋果有 AI 的新版 Siri 要晚到 2026 年春季推出
-https://www.inside.com.tw/article/38715-apples-ai-infused-siri-may-not-show-up-until-spring
+羽量或巨獸、儲能設備好難選？一次聚焦「你拿得動」的3種重量級距
+https://www.businessyee.com/article/6372-portable-power-station
 
-術業有專攻：ChatGPT 下西洋棋慘敗給 48 年前遊戲主機 Atari
-https://www.inside.com.tw/article/38714-chatgpt-suffers-crushing-chess-defeat-to-48-year-old-atari-console
+Transactional Messaging for Microservices Using Eventuate Tram
+https://feeds.feedblitz.com/~/920173283/0/baeldung~Transactional-Messaging-for-Microservices-Using-Eventuate-Tram
 
-Apple 秘密實驗室曝光：iPhone、Mac 這樣「虐待」才知道有多耐用
-https://www.inside.com.tw/article/38701-apple-durability-lab-inside-look
+How to Resolve “Could Not Autowire org.springframework.mail.javamail.JavaMailSender”
+https://feeds.feedblitz.com/~/920173286/0/baeldung~How-to-Resolve-Could-Not-Autowire-orgspringframeworkmailjavamailJavaMailSender
 
-Switch 2 被怨續航不佳！任天堂官方稱「可能是電池 Bug」送上故障排除方法
-https://www.inside.com.tw/article/38713-switch-2-battery-life-complaints-prompt-nintendo-to-suggest-possible-bug-and-fix
+OxCaml, Jane Street's extension of OCaml is now open-source
+https://oxcaml.org
 
-專訪 Google Cloud Ankur Kotwal、上官林傑：開發者到底該怎麼打造出自己的 AI Agent？
-https://www.inside.com.tw/article/38712-exclusive-interview-google-cloud-ankur-kotwal-on-how-developers-should-build-ai-agents
+strace tips for better debugging
+https://rrampage.github.io/2025/06/13/strace-tips-for-better-debugging/
 
-微軟 Copilot 爆重大安全漏洞！零點擊攻擊鎖定 AI 代理，漏洞已修復但問題根源仍存
-https://www.inside.com.tw/article/38709-copilot-leak-and-ai-agent-attacks
+Tattoy: a text-based terminal compositor
+https://tattoy.sh/
 
-為台灣照亮民間社會的南方朔
-https://voicettank.org/20250611-1/
+Solving LinkedIn Queens with APL
+https://pitr.ca/2025-06-14-queens
 
-【玉山金股東會】併保德信投信「無超所值」，銀證投將進駐亞灣
-https://www.businessyee.com/article/6371-e-sun-stockholder-meeting-2025
+Hypershell: A Type-Level DSL for Shell-Scripting in Rust powered by Context-Generic Programming
+https://contextgeneric.dev/blog/hypershell-release/
 
-【華南金股東會】配息以現金為主，李耀卿：為併購布局預留火力
-https://www.businessyee.com/article/6370-huanan-stockholder-meeting-2025
+The fastest way to detect a vowel in a string
+https://austinhenley.com/blog/vowels.html
 
-【富邦金股東會】賺10.77元僅配4.5元，董座蔡明興坦言：讓股東委屈了
-https://www.businessyee.com/article/6369-fuban-stockholder-meeting
+Design Patterns for Securing LLM Agents against Prompt Injections
+https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/
 
-中信金總座高麗雪：公開收購有點遭污名化，未獲主管機關徵詢意見
-https://www.businessyee.com/article/6368-ctbc-response-fsc-financial-holding-merge-act
+Introducing the twom database format
+https://www.fastmail.com/blog/introducing-twom/
 
-新台幣升破29.5！國壽：備妥4500 億現金、升破29元也不怕
-https://www.businessyee.com/article/6367-cathay-stockholder-meeting-2025
+C2y: Hitting the Ground Running
+https://thephd.dev/c2y-hitting-the-ground-running
 
-任天堂｜Switch 2上市首周賣破紀錄！日本銷95萬台、近前代3倍水準
-https://www.businessyee.com/article/6366-nintendo-switch-2
+Builder.ai did not “fake AI with 700 engineers”
+https://blog.pragmaticengineer.com/builder-ai-did-not-fake-ai/
 
-【中信金2025股東會】董座顏文隆談澄清湖案：辜仲諒是冤枉的
-https://www.businessyee.com/article/6365-ctbc-stockholder-meeting-2025
+filedb: Disk Based Key-Value Store Inspired by Bitcask
+https://github.com/rajivharlalka/filedb
 
-iPhone首季生產數大跌40％！三星重登智慧手機市佔第一
-https://www.businessyee.com/article/6364-smartphone-apple-samsung
+Modularizing George Cave's eInk Energy Dashboard
+https://slipway.co/blog/eink-energy-dashboard
 
-批晶片禁令！黃仁勳重申：未來NVIDIA財測將不含中國市場
-https://www.businessyee.com/article/6363-jensen-huang-nvidia-cnn
+100 years of Zermelo’s axiom of choice: What was the problem with it?
+https://research.mietek.io/mi.MartinLof2006.html
 
-Herman Miller Sayl 工學椅，為健康與專注力一次到位的投資
-https://www.businessyee.com/article/6362-herman-miller-sayl
+Datalog in Rust
+https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md
 
-Java Weekly, Issue 598
-https://feeds.feedblitz.com/~/920129993/0/baeldung~Java-Weekly-Issue
+Implementing Logic Programming
+https://btmc.substack.com/p/implementing-logic-programming
 
-jemalloc Postmortem
-https://jasone.github.io/2025/06/12/jemalloc-postmortem/
+StarMalloc: verified memory allocator
+https://dl.acm.org/doi/10.1145/3689773
 
-Cursor YOLO deleted everything in my computer
-https://forum.cursor.com/t/cursor-yolo-deleted-everything-in-my-computer/103131
-
-Next.js 15.1+ is unusable outside of Vercel
-https://omarabid.com/nextjs-vercel
-
-Rumour: Google intends to discontinue the Android Open Source Project
-https://www.osnews.com/story/142553/rumour-google-intends-to-discontinue-the-android-open-source-project/
-
-Frequent reauth doesn't make you more secure
-https://tailscale.com/blog/frequent-reath-security
-
-Asterinas: A Linux ABI-compatible, Rust-based framekernel OS
-https://asterinas.github.io/2025/06/04/kernel-memory-safety-mission-accomplished.html
-
-Radicle Desktop: a graphical user interface for the Radicle peer-to-peer code forge
-https://radicle.xyz/desktop
-
-Three Algorithms for YSH Syntax Highlighting
-https://codeberg.org/oils/oils.vim/src/branch/main/doc/algorithms.md
-
-macOS Tahoe brings a new disk image format
-https://eclecticlight.co/2025/06/12/macos-tahoe-brings-a-new-disk-image-format/
-
-Agentic Coding Recommendations
-https://lucumr.pocoo.org/2025/6/12/agentic-coding/
-
-If the Moon Were Only 1 Pixel - A tediously accurate map of the solar system
-https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html
-
-Architecture Decision Records
-https://www.beflagrant.com/blog/adrs
-
-Solving LinkedIn Queens with SMT
-https://buttondown.com/hillelwayne/archive/solving-linkedin-queens-with-smt/
-
-What I talk about when I talk about IRs
-https://bernsteinbear.com/blog/irs/
-
-The Case for Software Craftsmanship in the Era of Vibes
-https://zed.dev/blog/software-craftsmanship-in-the-era-of-vibes
-
-What are you doing this weekend?
-https://lobste.rs/s/dicru5/what_are_you_doing_this_weekend
-
-Rendering crispy text on the GPU
-https://osor.io/text
-
-CP/M 2.2, CP/M 3.0, CP/M-86, Concurrent CP/M-86 listings by Digital Research
-http://www.bitsavers.org/pdf/digitalResearch/CPM_Listings
-
-The Python Language Summit 2025
-https://pyfound.blogspot.com/2025/06/python-language-summit-2025.html
+HTML WARDen (an HTML-based wiki)
+https://ratfactor.com/htmlwarden/
