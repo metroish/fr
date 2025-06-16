@@ -1,61 +1,133 @@
-# 2025-06-15 09:17:41 Feeds Report 
+# 2025-06-16 09:20:46 Feeds Report 
 
-Daily Hacker News for 2025-06-14
-https://www.daemonology.net/hn-daily/2025-06-14.html
+Daily Hacker News for 2025-06-15
+https://www.daemonology.net/hn-daily/2025-06-15.html
 
-Weekly Ask Hacker News for 2025-06-08 -- 2025-06-14
-http://www.daemonology.net/hn-weekly-ask/2025-06-14.html
+SSL 變成 TLS 名字的由來
+https://blog.gslin.org/archives/2025/06/16/12466/ssl-%e8%ae%8a%e6%88%90-tls-%e5%90%8d%e5%ad%97%e7%9a%84%e7%94%b1%e4%be%86/
 
-以24或48個GbE埠搭4個10GbE埠，Netgear新款交換器登場
-https://www.ithome.com.tw/review/169559
+PHP 的 PSR-12
+https://blog.gslin.org/archives/2025/06/15/12464/php-%e7%9a%84-psr-12/
 
-紙製品其實不如你想像的環保，造紙業污染解析
-https://www.inside.com.tw/article/38732-paper-%20industry-pollution
+紐約通過AI安全法案，要求業者揭露安全準則
+https://www.ithome.com.tw/news/169568
 
-蘋果的 Liquid Glass UI 介面將讓 CarPlay 不再擾人？
-https://www.inside.com.tw/article/38731-apple-carplay-on-ios-26
+Databricks推出整合交易處理與資料分析的AI資料庫Lakebase
+https://www.ithome.com.tw/news/169566
 
-稀土成新冷戰引信？中國壟斷全球關鍵資源，美國汽車產業首當其衝
-https://www.inside.com.tw/article/38730-rare-earths-spark-new-cold-war-fears-as-china-dominates-global-supply-and-us-auto-industry-feels-the-heat
+Google開始於搜尋中測試語音摘要
+https://www.ithome.com.tw/news/169565
 
-2026年行事曆出爐 共有9連假、春節放9天
-https://www.businessyee.com/article/6375-calendar
+Meta投資Scale AI　Google傳計畫切割
+https://www.ithome.com.tw/news/169564
 
-誠品生活台南今正式開幕，免費電影與24hr書店活動將開始！
-https://www.businessyee.com/article/6374-eslite-Tainan
+哈佛開源含有2,420億Token的AI資料集Institutional Books 1.0
+https://www.ithome.com.tw/news/169563
 
-Mosh: the mobile shell
-https://mosh.org
+OpenAI新增更多GPTs模型支援、強化ChatGPT搜尋能力
+https://www.ithome.com.tw/news/169562
 
-todo.txt tasks in my TRMNL
-https://akselmo.dev/posts/todotxt-in-my-trmnl/
+Scale AI證實取得Meta的重大投資，外傳Meta以143億美元取得49%股份
+https://www.ithome.com.tw/news/169561
 
-HTML spec change: escaping < and > in attributes
-https://developer.chrome.com/blog/escape-attributes
+Graphite間諜軟體利用iOS零點擊漏洞攻擊記者，Apple已緊急修補
+https://www.ithome.com.tw/news/169558
 
-Inside the Apollo "8-Ball" FDAI (Flight Director / Attitude Indicator)
-http://www.righto.com/2025/06/inside-apollo-fdai.html
+北韓駭客Kimsuky鎖定異議人士，透過臉書、電子郵件及Telegram展開釣魚攻擊
+https://www.ithome.com.tw/news/169556
 
-How the Final Cartridge III Freezer works
-https://www.pagetable.com/?p=1810
+電池壽命再翻倍？UCLA 開發新技術，可觀測鋰電池充電過程
+https://www.inside.com.tw/article/38736-batteries-could-get-lifespan-boost-imaging-method
 
-Modular: What about the MLIR compiler infrastructure? (Democratizing AI Compute, Part 8)
-https://www.modular.com/blog/democratizing-ai-compute-part-8-what-about-the-mlir-compiler-infrastructure
+台灣強化出口管制，華為、中芯國際取得 AI 晶片資源受阻
+https://www.inside.com.tw/article/38737-ai-chips-ban
 
-Adding public transport data to Transitous
-https://www.volkerkrause.eu/2025/06/14/transitous-adding-data.html
+換電五分鐘搞定！三菱 FUSO 攜手 Ample 在東京啟動電動卡車換電新試點
+https://www.inside.com.tw/article/38735-mitsubishi-debuts-ev-battery-swap-network-for-cars-and-trucks-in-tokyo
 
-The Art of Lisp & Writing
-https://www.dreamsongs.com/ArtOfLisp.html
+「這支廣告跟我無關」？FreakOut 用 GP 技術終結錯位投放
+https://www.inside.com.tw/article/38657-freakout
 
-Model Once, Represent Everywhere: UDA (Unified Data Architecture) at Netflix
-https://netflixtechblog.com/uda-unified-data-architecture-6a6aee261d8d
+《GENIUS 法案》的天才之處：讓穩定幣成為美債的自動販賣機
+https://www.inside.com.tw/article/38734-
 
-Self-referential abstractions: A quick look at the wacky epistemology of analog circuitry
-https://lcamtuf.coredump.cx/blog/abstractions/
+「捷徑」與「基礎模型」或許才是 Apple Intelligence 的爆發點
+https://www.inside.com.tw/article/38733-apple-ai-steps-in-wwdc25
 
-A meta-analysis of three different notions of software complexity
-https://typesanitizer.com/blog/complexity-definitions.html
+出口提前衝高藏隱憂！國泰台大估下半年恐轉負成長、央行年底可能面臨降息壓力
+https://www.businessyee.com/article/6383-cathay-ntu-forecast-2025-h2
 
-"Exploring the Amiga" blog series (2018)
-https://www.thedigitalcatonline.com/categories/amiga/
+【限時8折】中量級儲能電源市場破壞者？快充僅需70分鐘的ECOFLOW RIVER 2 Pro
+https://www.businessyee.com/article/6382-ecoflow-river-2-pro
+
+傳台積電進駐？國科會：沙崙園區籌設中，以廠商對外公告為主
+https://www.businessyee.com/article/6380-tsmc-tainan
+
+經部：華為、中芯等納實體清單，台廠出口前應申請許可
+https://www.businessyee.com/article/6379-trade-limitation
+
+中國工程師攜數據飛馬國 租用輝達伺服器訓練AI
+https://www.businessyee.com/article/6378-Chinese-engineers-go-to-Malaysia-to-train-AI
+
+亞馬遜AI野心擴張！砸200億澳元建澳洲最大資料中心
+https://www.businessyee.com/article/6377-amazon-au-data-center
+
+優惠最後兩天｜廚房神器：Le Creuset橢圓鑄鐵鍋「福利品」限時特價！
+https://www.businessyee.com/article/6376-le-creuset-618
+
+Writing Toy Software Is A Joy
+https://www.jsbarretto.com/blog/software-is-joy/
+
+Why SSL was renamed to TLS in late 90s (2014)
+https://tim.dierks.org/2014/05/security-standards-and-name-changes-in.html
+
+DevTUI - A Swiss-army app for developers
+https://devtui.com
+
+1x Forth (1999)
+https://www.ultratechnology.com/1xforth.htm
+
+Breaking my Security Assignments
+https://www.akpain.net/blog/breaking-secnet-assignments/
+
+Start your own Internet Resiliency Club
+https://bowshock.nl/irc/
+
+A SQLite VFS for remote databases via gRPC
+https://github.com/danthegoodman1/gRPSQLite
+
+Jokes and Humour in the public Android API
+https://voxelmanip.se/2025/06/14/jokes-and-humour-in-the-public-android-api/
+
+Simplest C++ callback, from SumatraPDF
+https://blog.kowalczyk.info/a-stsj/simplest-c-callback-from-sumatrapdf.html
+
+Quick takes on the GCP public incident write-up
+https://surfingcomplexity.blog/2025/06/14/quick-takes-on-the-gcp-public-incident-write-up/
+
+Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task
+https://arxiv.org/abs/2506.08872
+
+Datalog in Minikanren
+https://deosjr.github.io/dynamicland/datalog.html
+
+CSS Classes considered harmful
+https://www.keithcirkel.co.uk/css-classes-considered-harmful/
+
+How fast can the RPython GC allocate?
+https://pypy.org/posts/2025/06/rpython-gc-allocation-speed.html
+
+The Elixir Pipe Operator
+https://dev.to/adolfont/the-elixir-pipe-operator-38fa
+
+Building software on top of Large Language Models
+https://simonwillison.net/2025/May/15/building-on-llms/
+
+Modifying an HDMI dummy plug’s EDID using a Raspberry Pi
+https://www.downtowndougbrown.com/2025/06/modifying-an-hdmi-dummy-plugs-edid-using-a-raspberry-pi/
+
+An Architectural Approach to Decentralization
+https://www.infocentral.org/
+
+Breaking down ‘EchoLeak’, the First Zero-Click AI Vulnerability Enabling Data Exfiltration from Microsoft 365 Copilot
+https://www.aim.security/lp/aim-labs-echoleak-blogpost
