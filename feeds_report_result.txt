@@ -1,19 +1,43 @@
-# 2025-06-16 09:20:46 Feeds Report 
+# 2025-06-17 09:20:12 Feeds Report 
 
-Daily Hacker News for 2025-06-15
-https://www.daemonology.net/hn-daily/2025-06-15.html
+Daily Hacker News for 2025-06-16
+https://www.daemonology.net/hn-daily/2025-06-16.html
 
-SSL 變成 TLS 名字的由來
-https://blog.gslin.org/archives/2025/06/16/12466/ssl-%e8%ae%8a%e6%88%90-tls-%e5%90%8d%e5%ad%97%e7%9a%84%e7%94%b1%e4%be%86/
+OpenAI獲得美國國防部2億美元的合約
+https://www.ithome.com.tw/news/169592
 
-PHP 的 PSR-12
-https://blog.gslin.org/archives/2025/06/15/12464/php-%e7%9a%84-psr-12/
+假DeepSeek-R1廣告暗藏BrowserVenom木馬，劫持瀏覽器流量
+https://www.ithome.com.tw/news/169590
 
-紐約通過AI安全法案，要求業者揭露安全準則
-https://www.ithome.com.tw/news/169568
+華盛頓郵報電子郵件系統遭駭，部分負責國安、經濟政策、中國等領域報導的記者帳號被入侵
+https://www.ithome.com.tw/news/169591
 
-Databricks推出整合交易處理與資料分析的AI資料庫Lakebase
-https://www.ithome.com.tw/news/169566
+川普家族成立Trump Mobile，將推出499美元的美國製手機T1 Phone
+https://www.ithome.com.tw/news/169587
+
+【資安週報】0609~0613，中國驚傳40億筆民眾個資在網際網路裸奔一天
+https://www.ithome.com.tw/news/169586
+
+假借瀏覽器更新、提供軟體或服務的名義為幌子，駭客GrayAlpha意圖散布NetSupport RAT 
+https://www.ithome.com.tw/news/169582
+
+Meta正式於WhatsApp中導入廣告服務
+https://www.ithome.com.tw/news/169581
+
+微軟6月安全更新引發Windows Server DHCP運作問題
+https://www.ithome.com.tw/news/169580
+
+臺灣儲存進軍中高階應用領域：兩大本土廠商拓展企業儲存市場祭出新策略
+https://www.ithome.com.tw/tech/169579
+
+4.6萬套資料圖形視覺化Grafana系統尚未修補XSS漏洞而曝險
+https://www.ithome.com.tw/news/169578
+
+流量導向系統HelloTDS散布假圖靈驗證程式，感染數百萬裝置
+https://www.ithome.com.tw/news/169577
+
+VS Code更新著重MCP整合，增強AI與多代理開發體驗
+https://www.ithome.com.tw/news/169569
 
 Google開始於搜尋中測試語音摘要
 https://www.ithome.com.tw/news/169565
@@ -24,110 +48,134 @@ https://www.ithome.com.tw/news/169564
 哈佛開源含有2,420億Token的AI資料集Institutional Books 1.0
 https://www.ithome.com.tw/news/169563
 
-OpenAI新增更多GPTs模型支援、強化ChatGPT搜尋能力
-https://www.ithome.com.tw/news/169562
+從造船到工程建設：小型化高效銲接協作機器人啟動智慧製造轉型
+https://www.inside.com.tw/article/38580-mirdc
 
-Scale AI證實取得Meta的重大投資，外傳Meta以143億美元取得49%股份
-https://www.ithome.com.tw/news/169561
+卓越性能結合出眾風格！SYM Fiddle DX 158成就都會通勤的升級關鍵
+https://www.inside.com.tw/article/38621-symfiddledx158
 
-Graphite間諜軟體利用iOS零點擊漏洞攻擊記者，Apple已緊急修補
-https://www.ithome.com.tw/news/169558
+Meta 與 Oakley 合作智慧眼鏡確定 20 日發布，搶攻 Android XR 市場先機
+https://www.inside.com.tw/article/38744-meta-and-oakley-tease-a-smart-glasses-announcement-for-june-20
 
-北韓駭客Kimsuky鎖定異議人士，透過臉書、電子郵件及Telegram展開釣魚攻擊
-https://www.ithome.com.tw/news/169556
+WSJ：OpenAI 與 Microsoft 關係達到歷史冰點
+https://www.inside.com.tw/article/38743-wsj-openai-microsoft-relationship-historic-low
 
-電池壽命再翻倍？UCLA 開發新技術，可觀測鋰電池充電過程
-https://www.inside.com.tw/article/38736-batteries-could-get-lifespan-boost-imaging-method
+無葉風機：新型設計挑戰傳統風電，有望安全輸出 460 W 電力
+https://www.inside.com.tw/article/38745-new-bladeless-wind-turbine-design
 
-台灣強化出口管制，華為、中芯國際取得 AI 晶片資源受阻
-https://www.inside.com.tw/article/38737-ai-chips-ban
+孫宇晨的 Tron 波場將赴美 IPO，背後川普家族影子不淺
+https://www.inside.com.tw/article/38742-justin-sun-tron-plans-us-ipo-with-deep-trump-family-connections
 
-換電五分鐘搞定！三菱 FUSO 攜手 Ample 在東京啟動電動卡車換電新試點
-https://www.inside.com.tw/article/38735-mitsubishi-debuts-ev-battery-swap-network-for-cars-and-trucks-in-tokyo
+號稱「美國製造」！川普推出 499 美元智慧型手機、電信服務
+https://www.inside.com.tw/article/38741-trump-mobile-phone-t1
 
-「這支廣告跟我無關」？FreakOut 用 GP 技術終結錯位投放
-https://www.inside.com.tw/article/38657-freakout
+為 AI 版權爭議再添一筆：Meta Llama 3.1 可重現《哈利波特》42% 內容
+https://www.inside.com.tw/article/38740-metas-llama-31-can-recall-42-percent
 
-《GENIUS 法案》的天才之處：讓穩定幣成為美債的自動販賣機
-https://www.inside.com.tw/article/38734-
+格斯科技挺進國防能源戰略高地　以次世代電芯對接軍用無人機高標需求
+https://www.inside.com.tw/article/38739-gustech
 
-「捷徑」與「基礎模型」或許才是 Apple Intelligence 的爆發點
-https://www.inside.com.tw/article/38733-apple-ai-steps-in-wwdc25
+越南數位科技法正式通過，加密貨幣合法化新里程碑
+https://www.inside.com.tw/article/38738-vietnam-crypto-law
 
-出口提前衝高藏隱憂！國泰台大估下半年恐轉負成長、央行年底可能面臨降息壓力
-https://www.businessyee.com/article/6383-cathay-ntu-forecast-2025-h2
+對齊的悖論：當AI開始反問人類
+https://voicettank.org/20250616-1/
 
-【限時8折】中量級儲能電源市場破壞者？快充僅需70分鐘的ECOFLOW RIVER 2 Pro
-https://www.businessyee.com/article/6382-ecoflow-river-2-pro
+台美數位服務貿易的隱形逆差：從繞道愛爾蘭到數位服務的統計盲點
+https://voicettank.org/20250616-2/
 
-傳台積電進駐？國科會：沙崙園區籌設中，以廠商對外公告為主
-https://www.businessyee.com/article/6380-tsmc-tainan
+一樓開店、二樓住家卻保住宅火險？金管會提醒恐影響理賠
+https://www.businessyee.com/article/6395-Residential-Fire-Insurance
 
-經部：華為、中芯等納實體清單，台廠出口前應申請許可
-https://www.businessyee.com/article/6379-trade-limitation
+北富銀八成客服交由 AI，語音分析主動篩出不當話術、債務協商需求
+https://www.businessyee.com/article/6394-taipei-fuban-bank-ai-use
 
-中國工程師攜數據飛馬國 租用輝達伺服器訓練AI
-https://www.businessyee.com/article/6378-Chinese-engineers-go-to-Malaysia-to-train-AI
+暑假旅遊潮來臨！旅行保險怎麼選？金管會給建議
+https://www.businessyee.com/article/6393-summer-vacation-insurance-2025
 
-亞馬遜AI野心擴張！砸200億澳元建澳洲最大資料中心
-https://www.businessyee.com/article/6377-amazon-au-data-center
+收購12年啟動變現！Meta 宣布 WhatsApp 將首度導入廣告
+https://www.businessyee.com/article/6392-meta-whatsapp-ads
 
-優惠最後兩天｜廚房神器：Le Creuset橢圓鑄鐵鍋「福利品」限時特價！
-https://www.businessyee.com/article/6376-le-creuset-618
+英特爾內部信曝光：7月啟動史上最大工廠裁員潮，擬裁20%人力！
+https://www.businessyee.com/article/6390-intel-will-lay-off-factory-workers
 
-Writing Toy Software Is A Joy
-https://www.jsbarretto.com/blog/software-is-joy/
+廣越：訂單一路旺到9月 最大變數是匯率
+https://www.businessyee.com/article/6391-4438
 
-Why SSL was renamed to TLS in late 90s (2014)
-https://tim.dierks.org/2014/05/security-standards-and-name-changes-in.html
+幫我把工作與生活產能開全滿的AirPods Pro (第 2 代)
+https://www.businessyee.com/article/6389-AirPods-Pro-2
 
-DevTUI - A Swiss-army app for developers
-https://devtui.com
+2025年IMD世界競爭力排名：台灣進步至全球第6
+https://www.businessyee.com/article/6388-imd
 
-1x Forth (1999)
-https://www.ultratechnology.com/1xforth.htm
+OpenAI獲美國防部2億美元合約，將開發AI以應對國安挑戰
+https://www.businessyee.com/article/6387-OpenAI-US-military-contract
 
-Breaking my Security Assignments
-https://www.akpain.net/blog/breaking-secnet-assignments/
+618買太多取件難？超商推「多包快取」、「包裹送你家」服務
+https://www.businessyee.com/article/6386-retailer-618
 
-Start your own Internet Resiliency Club
-https://bowshock.nl/irc/
+phkmalloc
+https://phk.freebsd.dk/sagas/phkmalloc/
 
-A SQLite VFS for remote databases via gRPC
-https://github.com/danthegoodman1/gRPSQLite
+Goodbye Dark Inc. - Hello Darklang Inc
+https://blog.darklang.com/goodbye-dark-inc-welcome-darklang-inc/
 
-Jokes and Humour in the public Android API
-https://voxelmanip.se/2025/06/14/jokes-and-humour-in-the-public-android-api/
+Triaging security issues reported by third parties (#913) · Issues · GNOME / libxml2 ·
+https://gitlab.gnome.org/GNOME/libxml2/-/issues/913
 
-Simplest C++ callback, from SumatraPDF
-https://blog.kowalczyk.info/a-stsj/simplest-c-callback-from-sumatrapdf.html
+Slint 1.12 Released with WGPU Support, iOS Port, and Figma Variables Integration
+https://slint.dev/blog/slint-1.12-released
 
-Quick takes on the GCP public incident write-up
-https://surfingcomplexity.blog/2025/06/14/quick-takes-on-the-gcp-public-incident-write-up/
+retrobootstrapping rust for some reason
+https://graydon2.dreamwidth.org/317484.html
 
-Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task
-https://arxiv.org/abs/2506.08872
+Working on databases from prison: How I got here, part 2
+https://turso.tech/blog/working-on-databases-from-prison
 
-Datalog in Minikanren
-https://deosjr.github.io/dynamicland/datalog.html
+Xmake v3.0 released, Improve c++ modules and jobgraph support
+https://github.com/xmake-io/xmake/releases/tag/v3.0.0
 
-CSS Classes considered harmful
-https://www.keithcirkel.co.uk/css-classes-considered-harmful/
+Selfish reasons for building accessible UIs
+https://nolanlawson.com/2025/06/16/selfish-reasons-for-building-accessible-uis/
 
-How fast can the RPython GC allocate?
-https://pypy.org/posts/2025/06/rpython-gc-allocation-speed.html
+matrix is cooked
+https://paper.wf/alexia/matrix-is-cooked
 
-The Elixir Pipe Operator
-https://dev.to/adolfont/the-elixir-pipe-operator-38fa
+TIL:AI. Thoughts on AI
+https://cocoaphony.micro.blog/2025/06/16/tilai-thoughts-on-ai.html
 
-Building software on top of Large Language Models
-https://simonwillison.net/2025/May/15/building-on-llms/
+Why Generative AI Coding Tools and Agents Do Not Work For Me
+https://blog.miguelgrinberg.com/post/why-generative-ai-coding-tools-and-agents-do-not-work-for-me
 
-Modifying an HDMI dummy plug’s EDID using a Raspberry Pi
-https://www.downtowndougbrown.com/2025/06/modifying-an-hdmi-dummy-plugs-edid-using-a-raspberry-pi/
+End-to-End Encryption: Architecturally Necessary
+https://labs.ripe.net/author/flindeberg/end-to-end-encryption-architecturally-necessary/
 
-An Architectural Approach to Decentralization
-https://www.infocentral.org/
+rgSQL: A test suite to help you build your own database engine
+https://technicaldeft.com/posts/rgsql-a-test-suite-for-database-engines
 
-Breaking down ‘EchoLeak’, the First Zero-Click AI Vulnerability Enabling Data Exfiltration from Microsoft 365 Copilot
-https://www.aim.security/lp/aim-labs-echoleak-blogpost
+The Promised LAN
+https://notes.pault.ag/tpl/
+
+The Nuanced Reality of Throttling: It's Not Just About Preventing Abuse
+https://blog.joemag.dev/2025/06/the-nuanced-reality-of-throttling-its.html
+
+Comment on The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity
+https://arxiv.org/pdf/2506.09250
+
+The lethal trifecta for AI agents: private data, untrusted content, and external communication
+https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/
+
+Mathematical Illustrations: A Manual of Geometry and PostScript
+https://personal.math.ubc.ca/~cass/graphics/text/www/
+
+Changes to Kubernetes Slack
+https://www.kubernetes.dev/blog/2025/06/16/changes-to-kubernetes-slack-2025/
+
+NexusMods Changes Hands
+https://www.nexusmods.com/news/15301
+
+Debugging tricks for IntelliJ
+https://andreabergia.com/blog/2025/06/debugging-tricks-for-intellij/
+
+What are you doing this week?
+https://lobste.rs/s/joykng/what_are_you_doing_this_week
