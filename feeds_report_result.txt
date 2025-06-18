@@ -1,22 +1,52 @@
-# 2025-06-17 09:20:12 Feeds Report 
+# 2025-06-18 09:19:53 Feeds Report 
 
-Daily Hacker News for 2025-06-16
-https://www.daemonology.net/hn-daily/2025-06-16.html
+Daily Hacker News for 2025-06-17
+https://www.daemonology.net/hn-daily/2025-06-17.html
 
-OpenAI獲得美國國防部2億美元的合約
-https://www.ithome.com.tw/news/169592
+註冊已經過期的 torrent tracker domain 然後掛起來跑 OpenTracker？
+https://blog.gslin.org/archives/2025/06/18/12468/%e8%a8%bb%e5%86%8a%e5%b7%b2%e7%b6%93%e9%81%8e%e6%9c%9f%e7%9a%84-torrent-tracker-domain-%e7%84%b6%e5%be%8c%e6%8e%9b%e8%b5%b7%e4%be%86%e8%b7%91-opentracker%ef%bc%9f/
 
-假DeepSeek-R1廣告暗藏BrowserVenom木馬，劫持瀏覽器流量
-https://www.ithome.com.tw/news/169590
+AWS 也開始賣 Certificate 了
+https://blog.gslin.org/archives/2025/06/18/12467/aws-%e4%b9%9f%e9%96%8b%e5%a7%8b%e8%b3%a3-certificate-%e4%ba%86/
 
-華盛頓郵報電子郵件系統遭駭，部分負責國安、經濟政策、中國等領域報導的記者帳號被入侵
-https://www.ithome.com.tw/news/169591
+網站效能分析新手提示 - 正確解讀網站 Log 時間欄位
+https://blog.darkthread.net/blog/iislog-time-and-timetaken/
 
-川普家族成立Trump Mobile，將推出499美元的美國製手機T1 Phone
-https://www.ithome.com.tw/news/169587
+臺灣金融資安新里程碑：台新銀行成臺灣首家以銀行名義加入FIRST的業者 
+https://www.ithome.com.tw/news/169614
 
-【資安週報】0609~0613，中國驚傳40億筆民眾個資在網際網路裸奔一天
-https://www.ithome.com.tw/news/169586
+伊朗大型國有銀行Bank Sepah傳出遭駭造成服務停擺，駭客聲稱摧毀所有資料
+https://www.ithome.com.tw/news/169610
+
+中國AI新創MiniMax開源支援100萬個Token脈絡長度的M1推理模型
+https://www.ithome.com.tw/news/169609
+
+AWS身分安全再進化！率先強制所有帳戶Root使用者啟用MFA，邁向更易實踐的資安設計
+https://www.ithome.com.tw/news/169608
+
+Tenable揭露與修補漏洞管理平臺代理程式漏洞，以免攻擊者趁機覆寫Windows系統檔案
+https://www.ithome.com.tw/news/169606
+
+Google釋出Gemini 2.5 Flash與2.5 Pro穩定版，預覽入門級Gemini 2.5 Flash-Lite
+https://www.ithome.com.tw/news/169605
+
+兩年前兆勤修補的防火牆已知漏洞再傳攻擊行動
+https://www.ithome.com.tw/news/169604
+
+Amazon正在開發上千個生成式AI服務，預期未來幾年將縮編
+https://www.ithome.com.tw/news/169603
+
+美國警告TP-Link路由器已知漏洞遭到利用
+https://www.ithome.com.tw/news/169602
+
+OpenAI 7月將關閉GPT 4.5-Preview　並從API撤下
+https://www.ithome.com.tw/news/169601
+
+駭客假冒政府機關與商業夥伴，在臺灣散布惡意軟體HoldingHands RAT、Gh0stCringe
+https://www.ithome.com.tw/news/169600
+
+Android 16支援外接螢幕桌面模式，手機可雙螢幕獨立多工
+https://www.ithome.com.tw/news/169596
 
 假借瀏覽器更新、提供軟體或服務的名義為幌子，駭客GrayAlpha意圖散布NetSupport RAT 
 https://www.ithome.com.tw/news/169582
@@ -36,146 +66,98 @@ https://www.ithome.com.tw/news/169578
 流量導向系統HelloTDS散布假圖靈驗證程式，感染數百萬裝置
 https://www.ithome.com.tw/news/169577
 
-VS Code更新著重MCP整合，增強AI與多代理開發體驗
-https://www.ithome.com.tw/news/169569
+AI Agent 席捲而來：AppWorks Demo Day #30、Wistron Demo Day #8
+https://www.inside.com.tw/article/38747-appworks-demo-day-30-and-wistron-demo-day-8-kick-off-in-full-swing
 
-Google開始於搜尋中測試語音摘要
-https://www.ithome.com.tw/news/169565
+日本將參與美國金穹飛彈防禦計畫之戰略意涵
+https://voicettank.org/20250617-2/
 
-Meta投資Scale AI　Google傳計畫切割
-https://www.ithome.com.tw/news/169564
+從青鳥到大罷免的守護力量也應被珍視守護
+https://voicettank.org/20250618-1/
 
-哈佛開源含有2,420億Token的AI資料集Institutional Books 1.0
-https://www.ithome.com.tw/news/169563
+【宏遠證法說】Q1自營業務虧9,000萬元，稅後淨損0.94億元
+https://www.businessyee.com/article/6404-horizon-securites-2025-q1
 
-從造船到工程建設：小型化高效銲接協作機器人啟動智慧製造轉型
-https://www.inside.com.tw/article/38580-mirdc
+六成台灣企業家傾向家族接班，滙豐報告揭「意願高、準備低」現象
+https://www.businessyee.com/article/6403-hsbc-entrepreneurial-wealth-report
 
-卓越性能結合出眾風格！SYM Fiddle DX 158成就都會通勤的升級關鍵
-https://www.inside.com.tw/article/38621-symfiddledx158
+亞馬遜CEO向員工示警：AI取代人力勢在必行！
+https://www.businessyee.com/article/6402-amazon-expects-cut-corporate-jobs
 
-Meta 與 Oakley 合作智慧眼鏡確定 20 日發布，搶攻 Android XR 市場先機
-https://www.inside.com.tw/article/38744-meta-and-oakley-tease-a-smart-glasses-announcement-for-june-20
+行政院：國發會規劃AI新十大建設將出爐， 部署矽光子量子計算
+https://www.businessyee.com/article/6401-invest-ai
 
-WSJ：OpenAI 與 Microsoft 關係達到歷史冰點
-https://www.inside.com.tw/article/38743-wsj-openai-microsoft-relationship-historic-low
+美參院通過穩定幣《天才法案》， 加密貨幣圈迎重要里程碑
+https://www.businessyee.com/article/6399-GENIUS-Act
 
-無葉風機：新型設計挑戰傳統風電，有望安全輸出 460 W 電力
-https://www.inside.com.tw/article/38745-new-bladeless-wind-turbine-design
+川普關稅效應退潮？美5月零售銷售創今年最大月減
+https://www.businessyee.com/article/6398-us-retailer
 
-孫宇晨的 Tron 波場將赴美 IPO，背後川普家族影子不淺
-https://www.inside.com.tw/article/38742-justin-sun-tron-plans-us-ipo-with-deep-trump-family-connections
+「債保契約」買3萬元保單可借100萬？國泰、新光、富邦產險齊發聲：假的
+https://www.businessyee.com/article/6397-Debt-Insurance-Contract-Scam
 
-號稱「美國製造」！川普推出 499 美元智慧型手機、電信服務
-https://www.inside.com.tw/article/38741-trump-mobile-phone-t1
+「川普金卡」已搶7萬人才！500萬美元換居留權申請爆量
+https://www.businessyee.com/article/6396-trump-gold-card
 
-為 AI 版權爭議再添一筆：Meta Llama 3.1 可重現《哈利波特》42% 內容
-https://www.inside.com.tw/article/38740-metas-llama-31-can-recall-42-percent
+Implementing Unions in Hibernate
+https://feeds.feedblitz.com/~/920359853/0/baeldung~Implementing-Unions-in-Hibernate
 
-格斯科技挺進國防能源戰略高地　以次世代電芯對接軍用無人機高標需求
-https://www.inside.com.tw/article/38739-gustech
+KiCad and Wayland Support
+https://www.kicad.org/blog/2025/06/KiCad-and-Wayland-Support/
 
-越南數位科技法正式通過，加密貨幣合法化新里程碑
-https://www.inside.com.tw/article/38738-vietnam-crypto-law
+Resurrecting a dead torrent tracker and finding 3 million peers
+https://kianbradley.com/2025/06/15/resurrecting-a-dead-tracker.html
 
-對齊的悖論：當AI開始反問人類
-https://voicettank.org/20250616-1/
+Why I Won't Use AI
+https://agentultra.com/blog/why-i-wont-use-ai/index.html
 
-台美數位服務貿易的隱形逆差：從繞道愛爾蘭到數位服務的統計盲點
-https://voicettank.org/20250616-2/
+Building JSON on the Command Line is Obnoxious
+https://blog.stulta.dev/posts/annoying_json/
 
-一樓開店、二樓住家卻保住宅火險？金管會提醒恐影響理賠
-https://www.businessyee.com/article/6395-Residential-Fire-Insurance
+bzip2 crate switches from C to 100% rust
+https://trifectatech.org/blog/bzip2-crate-switches-from-c-to-rust/
 
-北富銀八成客服交由 AI，語音分析主動篩出不當話術、債務協商需求
-https://www.businessyee.com/article/6394-taipei-fuban-bank-ai-use
+Double-Entry Ledgers: The Missing Primitive in Modern Software
+https://www.pgrs.net/2025/06/17/double-entry-ledgers-missing-primitive-in-modern-software/
 
-暑假旅遊潮來臨！旅行保險怎麼選？金管會給建議
-https://www.businessyee.com/article/6393-summer-vacation-insurance-2025
+is it really FOSS?
+https://isitreallyfoss.com/
 
-收購12年啟動變現！Meta 宣布 WhatsApp 將首度導入廣告
-https://www.businessyee.com/article/6392-meta-whatsapp-ads
+What Google Translate Can Tell Us About Vibecoding
+https://ingrids.space/posts/what-google-translate-can-tell-us-about-vibecoding/
 
-英特爾內部信曝光：7月啟動史上最大工廠裁員潮，擬裁20%人力！
-https://www.businessyee.com/article/6390-intel-will-lay-off-factory-workers
+Your Brain on ChatGPT
+https://www.media.mit.edu/projects/your-brain-on-chatgpt/overview/
 
-廣越：訂單一路旺到9月 最大變數是匯率
-https://www.businessyee.com/article/6391-4438
+KDE Plasma 6.4 released
+https://kde.org/announcements/plasma/6/6.4.0/
 
-幫我把工作與生活產能開全滿的AirPods Pro (第 2 代)
-https://www.businessyee.com/article/6389-AirPods-Pro-2
+I wrote a compiler
+https://blog.singleton.io/posts/2021-01-31-i-wrote-a-compiler/
 
-2025年IMD世界競爭力排名：台灣進步至全球第6
-https://www.businessyee.com/article/6388-imd
+zb beta released
+https://www.zombiezen.com/blog/2025/06/zb-beta-release/
 
-OpenAI獲美國防部2億美元合約，將開發AI以應對國安挑戰
-https://www.businessyee.com/article/6387-OpenAI-US-military-contract
+Why Claude Code feels like magic?
+https://omarabid.com/claude-magic
 
-618買太多取件難？超商推「多包快取」、「包裹送你家」服務
-https://www.businessyee.com/article/6386-retailer-618
+Query Your Postgres Database Using Plain English
+https://medium.com/@benderv/query-your-postgres-database-using-plain-english-febd2c50a158
 
-phkmalloc
-https://phk.freebsd.dk/sagas/phkmalloc/
+IndexedDB is Weird
+https://qsantos.fr/2025/03/03/indexeddb-is-weird/
 
-Goodbye Dark Inc. - Hello Darklang Inc
-https://blog.darklang.com/goodbye-dark-inc-welcome-darklang-inc/
+Anime.js v4 is a lightweight JavaScript animation library with a simple, yet powerful API
+https://animejs.com
 
-Triaging security issues reported by third parties (#913) · Issues · GNOME / libxml2 ·
-https://gitlab.gnome.org/GNOME/libxml2/-/issues/913
+Monads are not like burritos
+https://byorgey.github.io/blog/posts/2025/06/16/monads-are-not-burritos.html
 
-Slint 1.12 Released with WGPU Support, iOS Port, and Figma Variables Integration
-https://slint.dev/blog/slint-1.12-released
+Locally hosting an internet-connected server
+https://mjg59.dreamwidth.org/72095.html
 
-retrobootstrapping rust for some reason
-https://graydon2.dreamwidth.org/317484.html
+Using Microsoft's New CLI Text Editor on Ubuntu
+https://www.omgubuntu.co.uk/2025/06/microsoft-edit-text-editor-ubuntu
 
-Working on databases from prison: How I got here, part 2
-https://turso.tech/blog/working-on-databases-from-prison
-
-Xmake v3.0 released, Improve c++ modules and jobgraph support
-https://github.com/xmake-io/xmake/releases/tag/v3.0.0
-
-Selfish reasons for building accessible UIs
-https://nolanlawson.com/2025/06/16/selfish-reasons-for-building-accessible-uis/
-
-matrix is cooked
-https://paper.wf/alexia/matrix-is-cooked
-
-TIL:AI. Thoughts on AI
-https://cocoaphony.micro.blog/2025/06/16/tilai-thoughts-on-ai.html
-
-Why Generative AI Coding Tools and Agents Do Not Work For Me
-https://blog.miguelgrinberg.com/post/why-generative-ai-coding-tools-and-agents-do-not-work-for-me
-
-End-to-End Encryption: Architecturally Necessary
-https://labs.ripe.net/author/flindeberg/end-to-end-encryption-architecturally-necessary/
-
-rgSQL: A test suite to help you build your own database engine
-https://technicaldeft.com/posts/rgsql-a-test-suite-for-database-engines
-
-The Promised LAN
-https://notes.pault.ag/tpl/
-
-The Nuanced Reality of Throttling: It's Not Just About Preventing Abuse
-https://blog.joemag.dev/2025/06/the-nuanced-reality-of-throttling-its.html
-
-Comment on The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity
-https://arxiv.org/pdf/2506.09250
-
-The lethal trifecta for AI agents: private data, untrusted content, and external communication
-https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/
-
-Mathematical Illustrations: A Manual of Geometry and PostScript
-https://personal.math.ubc.ca/~cass/graphics/text/www/
-
-Changes to Kubernetes Slack
-https://www.kubernetes.dev/blog/2025/06/16/changes-to-kubernetes-slack-2025/
-
-NexusMods Changes Hands
-https://www.nexusmods.com/news/15301
-
-Debugging tricks for IntelliJ
-https://andreabergia.com/blog/2025/06/debugging-tricks-for-intellij/
-
-What are you doing this week?
-https://lobste.rs/s/joykng/what_are_you_doing_this_week
+Is Documentation Like Pineapple on Pizza?
+https://l.idaszak.com/l-docs-like-pineapple-on-pizza
