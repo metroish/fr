@@ -1,37 +1,40 @@
-# 2025-06-18 09:19:53 Feeds Report 
+# 2025-06-19 09:19:27 Feeds Report 
 
-Daily Hacker News for 2025-06-17
-https://www.daemonology.net/hn-daily/2025-06-17.html
+Daily Hacker News for 2025-06-18
+https://www.daemonology.net/hn-daily/2025-06-18.html
 
-註冊已經過期的 torrent tracker domain 然後掛起來跑 OpenTracker？
-https://blog.gslin.org/archives/2025/06/18/12468/%e8%a8%bb%e5%86%8a%e5%b7%b2%e7%b6%93%e9%81%8e%e6%9c%9f%e7%9a%84-torrent-tracker-domain-%e7%84%b6%e5%be%8c%e6%8e%9b%e8%b5%b7%e4%be%86%e8%b7%91-opentracker%ef%bc%9f/
+HTML 規格修改了對 attribute 中 escape 的處理
+https://blog.gslin.org/archives/2025/06/19/12472/html-%e8%a6%8f%e6%a0%bc%e4%bf%ae%e6%94%b9%e4%ba%86%e5%b0%8d-attribute-%e4%b8%ad-escape-%e7%9a%84%e8%99%95%e7%90%86/
 
-AWS 也開始賣 Certificate 了
-https://blog.gslin.org/archives/2025/06/18/12467/aws-%e4%b9%9f%e9%96%8b%e5%a7%8b%e8%b3%a3-certificate-%e4%ba%86/
+FAIR Plugin 的更新，0.3.0 版
+https://blog.gslin.org/archives/2025/06/19/12471/fair-plugin-%e7%9a%84%e6%9b%b4%e6%96%b0%ef%bc%8c0-3-0-%e7%89%88/
 
-網站效能分析新手提示 - 正確解讀網站 Log 時間欄位
-https://blog.darkthread.net/blog/iislog-time-and-timetaken/
+Homomorphic encryption + CRDT 的想法
+https://blog.gslin.org/archives/2025/06/19/12469/homomorphic-encryption-crdt-%e7%9a%84%e6%83%b3%e6%b3%95/
 
-臺灣金融資安新里程碑：台新銀行成臺灣首家以銀行名義加入FIRST的業者 
-https://www.ithome.com.tw/news/169614
+以色列駭客Predatory Sparrow對伊朗加密貨幣交易所Nobitex下手，銷毀9千萬美元資金
+https://www.ithome.com.tw/news/169631
 
-伊朗大型國有銀行Bank Sepah傳出遭駭造成服務停擺，駭客聲稱摧毀所有資料
-https://www.ithome.com.tw/news/169610
+Google開始測試能夠連續對話的Search Live語音搜尋功能
+https://www.ithome.com.tw/news/169630
 
-中國AI新創MiniMax開源支援100萬個Token脈絡長度的M1推理模型
-https://www.ithome.com.tw/news/169609
+OpenAI也終止和Scale AI合作
+https://www.ithome.com.tw/news/169629
 
-AWS身分安全再進化！率先強制所有帳戶Root使用者啟用MFA，邁向更易實踐的資安設計
-https://www.ithome.com.tw/news/169608
+Midjourney推出首個影片生成AI模型V1
+https://www.ithome.com.tw/news/169628
 
-Tenable揭露與修補漏洞管理平臺代理程式漏洞，以免攻擊者趁機覆寫Windows系統檔案
-https://www.ithome.com.tw/news/169606
+3月公布的Chrome零時差漏洞被駭客用於部署後門
+https://www.ithome.com.tw/news/169627
 
-Google釋出Gemini 2.5 Flash與2.5 Pro穩定版，預覽入門級Gemini 2.5 Flash-Lite
-https://www.ithome.com.tw/news/169605
+殭屍網路Flodrix鎖定LLM開發工具Langflow而來，意圖發動DDoS攻擊
+https://www.ithome.com.tw/news/169626
 
-兩年前兆勤修補的防火牆已知漏洞再傳攻擊行動
-https://www.ithome.com.tw/news/169604
+臉書即將支援Passkey登入
+https://www.ithome.com.tw/news/169625
+
+衛星網路公司Viasat去年也遭Salt Typhoon駭客組織攻擊
+https://www.ithome.com.tw/news/169624
 
 Amazon正在開發上千個生成式AI服務，預期未來幾年將縮編
 https://www.ithome.com.tw/news/169603
@@ -45,119 +48,122 @@ https://www.ithome.com.tw/news/169601
 駭客假冒政府機關與商業夥伴，在臺灣散布惡意軟體HoldingHands RAT、Gh0stCringe
 https://www.ithome.com.tw/news/169600
 
-Android 16支援外接螢幕桌面模式，手機可雙螢幕獨立多工
-https://www.ithome.com.tw/news/169596
+多元影視文化興起，OTT 普及化驅動 CTV 收視成長
+https://www.inside.com.tw/article/38762-LiTV-CTV
 
-假借瀏覽器更新、提供軟體或服務的名義為幌子，駭客GrayAlpha意圖散布NetSupport RAT 
-https://www.ithome.com.tw/news/169582
+海外網購要注意！防冒名報關 6/20 上路，進口快遞認證 App EZ WAY 禁境外 IP
+https://www.inside.com.tw/article/38764-ezway-banning-fake-ip
 
-Meta正式於WhatsApp中導入廣告服務
-https://www.ithome.com.tw/news/169581
+掌握雲端，才能延續 AI 時代的競爭優勢！「2025 AWS 台灣雲端高峰會」開放免費報名中
+https://www.inside.com.tw/article/38755-aws
 
-微軟6月安全更新引發Windows Server DHCP運作問題
-https://www.ithome.com.tw/news/169580
+Altair技術論壇展示「AI賦能工程」全貌：探索CAE模擬結合AI與HPC，助攻產業客戶進化成智慧數位企業
+https://www.inside.com.tw/article/38753-altairtechconfernece
 
-臺灣儲存進軍中高階應用領域：兩大本土廠商拓展企業儲存市場祭出新策略
-https://www.ithome.com.tw/tech/169579
+AWS 獲得美國聯邦、國防 FedRAMP 高等授權，可為高機敏政府部門提供Anthropic、Meta 基礎模型
+https://www.inside.com.tw/article/38758-claude-llama-ai-models-amazon-government-cloud
 
-4.6萬套資料圖形視覺化Grafana系統尚未修補XSS漏洞而曝險
-https://www.ithome.com.tw/news/169578
+AWS 怎麼使用生成式 AI 在資安領域上？
+https://www.inside.com.tw/article/38757-how-aws-uses-generative-ai-in-cybersecurity-applications
 
-流量導向系統HelloTDS散布假圖靈驗證程式，感染數百萬裝置
-https://www.ithome.com.tw/news/169577
+酷澎臨時工時薪 720 元、本田汽車加入太空競賽、OpenAI 與 Microsoft 鬧僵【塞掐 Side Chat】E351
+https://www.inside.com.tw/feature/side-chat/38756-side-chat-e351
 
-AI Agent 席捲而來：AppWorks Demo Day #30、Wistron Demo Day #8
-https://www.inside.com.tw/article/38747-appworks-demo-day-30-and-wistron-demo-day-8-kick-off-in-full-swing
+菲律賓與歐盟建立安全與國防對話新機制之研析
+https://voicettank.org/20250618-2/
 
-日本將參與美國金穹飛彈防禦計畫之戰略意涵
-https://voicettank.org/20250617-2/
+防衛韌性作為一種價值觀的典範轉移
+https://voicettank.org/20250619-1/
 
-從青鳥到大罷免的守護力量也應被珍視守護
-https://voicettank.org/20250618-1/
+央行利率連五凍，強調匯率若出現失序波動將適時干預
+https://www.businessyee.com/article/6419-central-bank-meeting-2025-q2
 
-【宏遠證法說】Q1自營業務虧9,000萬元，稅後淨損0.94億元
-https://www.businessyee.com/article/6404-horizon-securites-2025-q1
+瑞銀報告：台灣人均財富全球第15，76萬人晉升百萬美元富翁
+https://www.businessyee.com/article/6418-ubs-Global-Wealth-Report-2025
 
-六成台灣企業家傾向家族接班，滙豐報告揭「意願高、準備低」現象
-https://www.businessyee.com/article/6403-hsbc-entrepreneurial-wealth-report
+國銀首家！凱基銀獲准試辦虛擬資產保管業務
+https://www.businessyee.com/article/6416-kgi-bk-virtual-asset-custody-business
 
-亞馬遜CEO向員工示警：AI取代人力勢在必行！
-https://www.businessyee.com/article/6402-amazon-expects-cut-corporate-jobs
+業務、通路具綜效！金管會准永豐金併京城銀
+https://www.businessyee.com/article/6415-2890-merge-2809-fcs-allow
 
-行政院：國發會規劃AI新十大建設將出爐， 部署矽光子量子計算
-https://www.businessyee.com/article/6401-invest-ai
+日鐵收購美鋼完成！強化全球地位、排名緊追中國鞍鋼
+https://www.businessyee.com/article/6414-nippon-steel-uss
 
-美參院通過穩定幣《天才法案》， 加密貨幣圈迎重要里程碑
-https://www.businessyee.com/article/6399-GENIUS-Act
+TNL Mediagene 關鍵評論網媒體集團 推出《Business Insider Taiwan》，搶攻全球逾十億華語讀者市場
+https://www.businessyee.com/article/6413-Business-Insider-Taiwan
 
-川普關稅效應退潮？美5月零售銷售創今年最大月減
-https://www.businessyee.com/article/6398-us-retailer
+鼎泰豐稱霸美國餐飲業！美媒：單店年均收8億元，是第二名的2倍
+https://www.businessyee.com/article/6412-DinTaiFung
 
-「債保契約」買3萬元保單可借100萬？國泰、新光、富邦產險齊發聲：假的
-https://www.businessyee.com/article/6397-Debt-Insurance-Contract-Scam
+川普：鮑爾笨，我可以任命自己去Fed嗎？
+https://www.businessyee.com/article/6411-trump-powell
 
-「川普金卡」已搶7萬人才！500萬美元換居留權申請爆量
-https://www.businessyee.com/article/6396-trump-gold-card
+【聽進理投】財務自由不是真自由！你有「拒絕不做」的選擇權嗎？
+https://www.businessyee.com/article/6410-ep130
 
-Implementing Unions in Hibernate
-https://feeds.feedblitz.com/~/920359853/0/baeldung~Implementing-Unions-in-Hibernate
+掌握雲端，才能延續 AI 時代的競爭優勢！「2025 AWS 台灣雲端高峰會」開放免費報名中
+https://www.businessyee.com/article/6400-aws
 
-KiCad and Wayland Support
-https://www.kicad.org/blog/2025/06/KiCad-and-Wayland-Support/
+The Server Doesn't Render Anything
+https://unplannedobsolescence.com/blog/the-server-doesnt-render/
 
-Resurrecting a dead torrent tracker and finding 3 million peers
-https://kianbradley.com/2025/06/15/resurrecting-a-dead-tracker.html
+The Zed Debugger is Here
+https://zed.dev/blog/debugger
 
-Why I Won't Use AI
-https://agentultra.com/blog/why-i-wont-use-ai/index.html
+Moving on from Nix
+https://carlosbecker.com/posts/bye-nix/
 
-Building JSON on the Command Line is Obnoxious
-https://blog.stulta.dev/posts/annoying_json/
+GCC, glibc, stack unwinding and relocations – A war story
+https://blog.sergiodj.net/posts/gcc-glibc-stack-unwinding-relocations-bug/
 
-bzip2 crate switches from C to 100% rust
-https://trifectatech.org/blog/bzip2-crate-switches-from-c-to-rust/
+Lisp: Icing or Cake?
+https://dthompson.us/posts/lisp-icing-or-cake.html
 
-Double-Entry Ledgers: The Missing Primitive in Modern Software
-https://www.pgrs.net/2025/06/17/double-entry-ledgers-missing-primitive-in-modern-software/
+Quick notes on a brief agentic coding experience
+https://olano.dev/blog/agentic-coding-experience/
 
-is it really FOSS?
-https://isitreallyfoss.com/
+It’s True, “We” Don’t Care About Accessibility on Linux
+https://tesk.page/2025/06/18/its-true-we-dont-care-about-accessibility-on-linux/
 
-What Google Translate Can Tell Us About Vibecoding
-https://ingrids.space/posts/what-google-translate-can-tell-us-about-vibecoding/
+s7 scheme
+https://ccrma.stanford.edu/software/snd/snd/s7.html
 
-Your Brain on ChatGPT
-https://www.media.mit.edu/projects/your-brain-on-chatgpt/overview/
+Cock.li email provider data leak from roundcube
+https://mail.cock.li/
 
-KDE Plasma 6.4 released
-https://kde.org/announcements/plasma/6/6.4.0/
+Analysing Rust crates for weekend (hobbyist) vs weekday (working-dev) downloads
+https://boydkane.com/projects/crates-download-ratio
 
-I wrote a compiler
-https://blog.singleton.io/posts/2021-01-31-i-wrote-a-compiler/
+charmbracelet/fang: The CLI starter kit
+https://github.com/charmbracelet/fang
 
-zb beta released
-https://www.zombiezen.com/blog/2025/06/zb-beta-release/
+Now might be the best time to learn software development
+https://substack.com/home/post/p-165655726
 
-Why Claude Code feels like magic?
-https://omarabid.com/claude-magic
+I feel open source has turned into two worlds
+https://utcc.utoronto.ca/~cks/space/blog/tech/OpenSourceTwoWorlds
 
-Query Your Postgres Database Using Plain English
-https://medium.com/@benderv/query-your-postgres-database-using-plain-english-febd2c50a158
+files: In-repository file generation flake-parts module
+https://github.com/mightyiam/files
 
-IndexedDB is Weird
-https://qsantos.fr/2025/03/03/indexeddb-is-weird/
+Accessibility Programming Doesn't Feel Accessible
+https://acidiclight.dev/blog/accessibility-does-not-feel-accessible/
 
-Anime.js v4 is a lightweight JavaScript animation library with a simple, yet powerful API
-https://animejs.com
+More Frontend Web Tricks
+https://kaiwenwang.com/writing/more-frontend-web-tricks
 
-Monads are not like burritos
-https://byorgey.github.io/blog/posts/2025/06/16/monads-are-not-burritos.html
+Should we design for iffy internet?
+https://bytes.zone/posts/should-we-design-for-iffy-internet/
 
-Locally hosting an internet-connected server
-https://mjg59.dreamwidth.org/72095.html
+The plight of the misunderstood memory ordering
+https://www.grayolson.me/blog/posts/misunderstood-memory-ordering/
 
-Using Microsoft's New CLI Text Editor on Ubuntu
-https://www.omgubuntu.co.uk/2025/06/microsoft-edit-text-editor-ubuntu
+Agentic Engineering in Action with Mitchell Hashimoto
+https://www.youtube.com/watch?v=XyQ4ZTS5dGw
 
-Is Documentation Like Pineapple on Pizza?
-https://l.idaszak.com/l-docs-like-pineapple-on-pizza
+New Linux Flaws Enable Full Root Access via PAM and Udisks Across Major Distributions
+https://thehackernews.com/2025/06/new-linux-flaws-enable-full-root-access.html
+
+A deep-dive explainer on Ink and Switch's BeeKEM protocol
+https://meri.garden/a-deep-dive-explainer-on-beekem-protocol/
