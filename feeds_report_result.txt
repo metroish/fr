@@ -1,25 +1,52 @@
-# 2025-06-19 09:19:27 Feeds Report 
+# 2025-06-20 09:18:50 Feeds Report 
 
-Daily Hacker News for 2025-06-18
-https://www.daemonology.net/hn-daily/2025-06-18.html
+Daily Hacker News for 2025-06-19
+https://www.daemonology.net/hn-daily/2025-06-19.html
 
-HTML 規格修改了對 attribute 中 escape 的處理
-https://blog.gslin.org/archives/2025/06/19/12472/html-%e8%a6%8f%e6%a0%bc%e4%bf%ae%e6%94%b9%e4%ba%86%e5%b0%8d-attribute-%e4%b8%ad-escape-%e7%9a%84%e8%99%95%e7%90%86/
+直接把本地端的 docker image storage 當作 registry 的 Unregistry
+https://blog.gslin.org/archives/2025/06/20/12478/%e7%9b%b4%e6%8e%a5%e6%8a%8a%e6%9c%ac%e5%9c%b0%e7%ab%af%e7%9a%84-docker-image-storage-%e7%95%b6%e4%bd%9c-registry-%e7%9a%84-unregistry/
 
-FAIR Plugin 的更新，0.3.0 版
-https://blog.gslin.org/archives/2025/06/19/12471/fair-plugin-%e7%9a%84%e6%9b%b4%e6%96%b0%ef%bc%8c0-3-0-%e7%89%88/
+MIT研究顯示，習慣用AI寫文章會讓腦袋變笨
+https://www.ithome.com.tw/news/169663
 
-Homomorphic encryption + CRDT 的想法
-https://blog.gslin.org/archives/2025/06/19/12469/homomorphic-encryption-crdt-%e7%9a%84%e6%83%b3%e6%b3%95/
+GenAI如何全面加速開發
+https://www.ithome.com.tw/article/169649
 
-以色列駭客Predatory Sparrow對伊朗加密貨幣交易所Nobitex下手，銷毀9千萬美元資金
-https://www.ithome.com.tw/news/169631
+從全端應用程式、安卓App到網頁應用，Google開發工具GenAI能力大進化
+https://www.ithome.com.tw/news/169662
 
-Google開始測試能夠連續對話的Search Live語音搜尋功能
-https://www.ithome.com.tw/news/169630
+Google用GenAI加速四大開發場景，強化AI代理工具鏈
+https://www.ithome.com.tw/news/169661
 
-OpenAI也終止和Scale AI合作
-https://www.ithome.com.tw/news/169629
+歐洲衛星通訊業者Eutelsat打算增資13.5億美元，法國政府將成最大股東
+https://www.ithome.com.tw/news/169660
+
+新版NFC規格出爐 感測距離擴大4倍
+https://www.ithome.com.tw/news/169659
+
+【資安日報】6月20日，北韓駭客BlueNoroff在Zoom視訊利用AI深偽技術對企業員工網釣
+https://www.ithome.com.tw/news/169658
+
+安卓惡意軟體GodFather濫用虛擬化機制挾持銀行、加密貨幣App的帳密
+https://www.ithome.com.tw/news/169657
+
+Citrix修補NetScaler 2項重大層級漏洞
+https://www.ithome.com.tw/news/169656
+
+俄羅斯駭客利用ASP機制存取受害者Gmail帳號
+https://www.ithome.com.tw/news/169655
+
+M365 7月預設封鎖使用舊版身分驗證機制存取檔案
+https://www.ithome.com.tw/news/169654
+
+北韓駭客在Zoom視訊用AI深偽技術對企業員工網釣，意圖散布macOS惡意軟體
+https://www.ithome.com.tw/news/169650
+
+企業與顧客互動模式的顛覆
+https://www.ithome.com.tw/voice/169648
+
+生成式AI開始顛覆搜尋行為，如何深化消費旅程是企業新課題
+https://www.ithome.com.tw/news/169647
 
 Midjourney推出首個影片生成AI模型V1
 https://www.ithome.com.tw/news/169628
@@ -33,137 +60,119 @@ https://www.ithome.com.tw/news/169626
 臉書即將支援Passkey登入
 https://www.ithome.com.tw/news/169625
 
-衛星網路公司Viasat去年也遭Salt Typhoon駭客組織攻擊
-https://www.ithome.com.tw/news/169624
+Google 要把最強 AI 影音生成工具 Veo 3 導入 YouTube Shorts
+https://www.inside.com.tw/article/38774-google-brings-ai-video-tool-veo-3-to-youtube-shorts
 
-Amazon正在開發上千個生成式AI服務，預期未來幾年將縮編
-https://www.ithome.com.tw/news/169603
+Google Search Console 在美已納入 AI 模式的曝光、點擊，當作搜尋成效報告
+https://www.inside.com.tw/article/38773-google-ai-mode-traffic-data-search-console
 
-美國警告TP-Link路由器已知漏洞遭到利用
-https://www.ithome.com.tw/news/169602
+幣安攜手 TRM Labs，跟執法機關一起共築區塊鏈金融犯罪防線
+https://www.inside.com.tw/article/38772-binance-and-trm-fighting-crimes
 
-OpenAI 7月將關閉GPT 4.5-Preview　並從API撤下
-https://www.ithome.com.tw/news/169601
+BOSCH 台灣：四大主軸持續在台發展
+https://www.inside.com.tw/article/38771-bosch-taiwan-continues-to-expand-around-four-key-pillars
 
-駭客假冒政府機關與商業夥伴，在臺灣散布惡意軟體HoldingHands RAT、Gh0stCringe
-https://www.ithome.com.tw/news/169600
+紐時：俄烏戰爭期間中國駭入俄羅斯，蒐集政治軍事情報學經驗
+https://www.inside.com.tw/article/38770-nyt-china-hacked-russia-during-ukraine-war-to-gather-political-and-military-intelligence
 
-多元影視文化興起，OTT 普及化驅動 CTV 收視成長
-https://www.inside.com.tw/article/38762-LiTV-CTV
+SpaceX 星艦原型機「Ship 36」地面測試驚傳爆炸意外
+https://www.inside.com.tw/article/38769-spacex-starship-explosion-static-fire-test
 
-海外網購要注意！防冒名報關 6/20 上路，進口快遞認證 App EZ WAY 禁境外 IP
-https://www.inside.com.tw/article/38764-ezway-banning-fake-ip
+TikTok 美國分拆三度延長！川普再給 90 天但法律爭議未解
+https://www.inside.com.tw/article/38768-tiktok-us-divestment-extended-third-time-trump-grants-90-days-but-legal-issues-remain
 
-掌握雲端，才能延續 AI 時代的競爭優勢！「2025 AWS 台灣雲端高峰會」開放免費報名中
-https://www.inside.com.tw/article/38755-aws
+韓媒爆 Google Pixel 10 晶片轉單台積電，讓三星代工「徹底檢討」
+https://www.inside.com.tw/article/38767-google-pixel-10-chip-switch-reportedly-caught-samsung-off-guard
 
-Altair技術論壇展示「AI賦能工程」全貌：探索CAE模擬結合AI與HPC，助攻產業客戶進化成智慧數位企業
-https://www.inside.com.tw/article/38753-altairtechconfernece
-
-AWS 獲得美國聯邦、國防 FedRAMP 高等授權，可為高機敏政府部門提供Anthropic、Meta 基礎模型
-https://www.inside.com.tw/article/38758-claude-llama-ai-models-amazon-government-cloud
-
-AWS 怎麼使用生成式 AI 在資安領域上？
-https://www.inside.com.tw/article/38757-how-aws-uses-generative-ai-in-cybersecurity-applications
-
-酷澎臨時工時薪 720 元、本田汽車加入太空競賽、OpenAI 與 Microsoft 鬧僵【塞掐 Side Chat】E351
-https://www.inside.com.tw/feature/side-chat/38756-side-chat-e351
-
-菲律賓與歐盟建立安全與國防對話新機制之研析
-https://voicettank.org/20250618-2/
-
-防衛韌性作為一種價值觀的典範轉移
-https://voicettank.org/20250619-1/
-
-央行利率連五凍，強調匯率若出現失序波動將適時干預
-https://www.businessyee.com/article/6419-central-bank-meeting-2025-q2
-
-瑞銀報告：台灣人均財富全球第15，76萬人晉升百萬美元富翁
-https://www.businessyee.com/article/6418-ubs-Global-Wealth-Report-2025
-
-國銀首家！凱基銀獲准試辦虛擬資產保管業務
-https://www.businessyee.com/article/6416-kgi-bk-virtual-asset-custody-business
-
-業務、通路具綜效！金管會准永豐金併京城銀
-https://www.businessyee.com/article/6415-2890-merge-2809-fcs-allow
-
-日鐵收購美鋼完成！強化全球地位、排名緊追中國鞍鋼
-https://www.businessyee.com/article/6414-nippon-steel-uss
+2 天製作、超低成本 6 萬元：Kalshi 體育博彩平台用 Google Veo 3 打造全 AI 生成廣告，攻下 NBA 總冠軍賽黃金時段
+https://www.inside.com.tw/article/38765-ai-ad-nba
 
 TNL Mediagene 關鍵評論網媒體集團 推出《Business Insider Taiwan》，搶攻全球逾十億華語讀者市場
-https://www.businessyee.com/article/6413-Business-Insider-Taiwan
+https://www.inside.com.tw/article/38760-
 
-鼎泰豐稱霸美國餐飲業！美媒：單店年均收8億元，是第二名的2倍
-https://www.businessyee.com/article/6412-DinTaiFung
+中國要打台灣了，你害怕嗎？
+https://voicettank.org/20250620-1/
 
-川普：鮑爾笨，我可以任命自己去Fed嗎？
-https://www.businessyee.com/article/6411-trump-powell
+8D與8D Report不一樣？台積電用解決問題方法，建立持續改善文化
+https://www.businessyee.com/article/6430-8D-Report
 
-【聽進理投】財務自由不是真自由！你有「拒絕不做」的選擇權嗎？
-https://www.businessyee.com/article/6410-ep130
+台壽再推分紅保單「吉享紅」，主打短繳期與穩定領回機制
+https://www.businessyee.com/article/6429-taiwan-life-jixianghon
 
-掌握雲端，才能延續 AI 時代的競爭優勢！「2025 AWS 台灣雲端高峰會」開放免費報名中
-https://www.businessyee.com/article/6400-aws
+【第一金股東會】獲利創高、配息未等比增加？受限D-SIB銀行資本要求
+https://www.businessyee.com/article/6428-first-stockholder-meeting-2025
 
-The Server Doesn't Render Anything
-https://unplannedobsolescence.com/blog/the-server-doesnt-render/
+稀土出口年減3成！中國商務部：依法加快審查
+https://www.businessyee.com/article/6427-china-rare-earth
 
-The Zed Debugger is Here
-https://zed.dev/blog/debugger
+【兆豐金股東會】董座董瑞斌：拚2030年遷入新總部，AI導入不會裁員
+https://www.businessyee.com/article/6426-mega-stockholder-meeting-2025
 
-Moving on from Nix
-https://carlosbecker.com/posts/bye-nix/
+關稅對決升溫？美鋼鋁稅翻倍，加拿大：30天內未達協議將再反制
+https://www.businessyee.com/article/6425-us-canada-tariff
 
-GCC, glibc, stack unwinding and relocations – A war story
-https://blog.sergiodj.net/posts/gcc-glibc-stack-unwinding-relocations-bug/
+為避川普高關稅，美製造業者積極導入「關稅設計工程」！
+https://www.businessyee.com/article/6421-businesses-tweak-products-to-qualify-for-lowter-tariff
 
-Lisp: Icing or Cake?
-https://dthompson.us/posts/lisp-icing-or-cake.html
+野村臺灣增強50主動式ETF（00985A ）7/1開募，第一大持股可達30%
+https://www.businessyee.com/article/6424-00985a-ipo
 
-Quick notes on a brief agentic coding experience
-https://olano.dev/blog/agentic-coding-experience/
+高雄資產管理專區7月啟動！13家銀行獲准進駐，保單、保費融資首度試辦
+https://www.businessyee.com/article/6423-asset-management-hub
 
-It’s True, “We” Don’t Care About Accessibility on Linux
-https://tesk.page/2025/06/18/its-true-we-dont-care-about-accessibility-on-linux/
+央行總裁楊金龍：三大力量決定匯市預期心理，降息條件尚未浮現
+https://www.businessyee.com/article/6422-central-bank-after-meeting-2025-q2
 
-s7 scheme
-https://ccrma.stanford.edu/software/snd/snd/s7.html
+I Want to Love Linux. It Doesn’t Love Me Back: Post 4 – Wayland Is Growing Up. And Now We Don’t Have a Choice
+https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-4-wayland-is-growing-up-and-now-we-dont-have-a-choice/
 
-Cock.li email provider data leak from roundcube
-https://mail.cock.li/
+What Would a Kubernetes 2.0 Look Like
+https://matduggan.com/what-would-a-kubernetes-2-0-look-like/
 
-Analysing Rust crates for weekend (hobbyist) vs weekday (working-dev) downloads
-https://boydkane.com/projects/crates-download-ratio
+2048 with only 64 bits of state
+https://github.com/izabera/bitwise-challenge-2048
 
-charmbracelet/fang: The CLI starter kit
-https://github.com/charmbracelet/fang
+Revisiting Knuth’s “Premature Optimization” Paper
+https://probablydance.com/2025/06/19/revisiting-knuths-premature-optimization-paper/
 
-Now might be the best time to learn software development
-https://substack.com/home/post/p-165655726
+Zig And Rust (2023)
+https://matklad.github.io/2023/03/26/zig-and-rust.html
 
-I feel open source has turned into two worlds
-https://utcc.utoronto.ca/~cks/space/blog/tech/OpenSourceTwoWorlds
+Homegrown closures for Uxn
+https://krzysckh.org/b/Homegrown-closures-for-uxn.html
 
-files: In-repository file generation flake-parts module
-https://github.com/mightyiam/files
+A Dynamic Graph Approach to Immediate Cycle Collection
+https://dl.acm.org/doi/10.1145/3735950.3735953
 
-Accessibility Programming Doesn't Feel Accessible
-https://acidiclight.dev/blog/accessibility-does-not-feel-accessible/
+pipelined state machine corruption
+https://flak.tedunangst.com/post/pipelined-state-machine-corruption
 
-More Frontend Web Tricks
-https://kaiwenwang.com/writing/more-frontend-web-tricks
+Metaobject Protocols: Why we want them and what else they can do (1993)
+https://cseweb.ucsd.edu/%7Evahdat/papers/mop.pdf
 
-Should we design for iffy internet?
-https://bytes.zone/posts/should-we-design-for-iffy-internet/
+Rewriting Kafka in Rust Async: Insights and Lessons Learned in Rust
+https://wangjunfei.com/2025/06/18/Rewriting-Kafka-in-Rust-Async-Insights-and-Lessons-Learned/
 
-The plight of the misunderstood memory ordering
-https://www.grayolson.me/blog/posts/misunderstood-memory-ordering/
+2025 Stack Overflow Developer Survey
+https://stackoverflow.az1.qualtrics.com/jfe/form/SV_1MNG2CYTY2AzkAm
 
-Agentic Engineering in Action with Mitchell Hashimoto
-https://www.youtube.com/watch?v=XyQ4ZTS5dGw
+JavaScript broke the web (and called it progress)
+https://www.jonoalderson.com/conjecture/javascript-broke-the-web-and-called-it-progress/
 
-New Linux Flaws Enable Full Root Access via PAM and Udisks Across Major Distributions
-https://thehackernews.com/2025/06/new-linux-flaws-enable-full-root-access.html
+Achieving Excellence in Open Source Software Design
+https://www.youtube.com/watch?v=12TJ-zTgiH0
 
-A deep-dive explainer on Ink and Switch's BeeKEM protocol
-https://meri.garden/a-deep-dive-explainer-on-beekem-protocol/
+Infinite Mac OS X
+https://blog.persistent.info/2025/03/infinite-mac-os-x.html
+
+Feeling Blue(Noroff): Inside a Sophisticated DPRK Web3 Intrusion
+https://www.huntress.com/blog/inside-bluenoroff-web3-intrusion-analysis
+
+The Less Humble Programmer (2023)
+https://digitalhumanities.org/dhq/vol/17/2/000698/000698.html
+
+Bibliography of Scheme-related Research (2012)
+https://web.archive.org/web/20180625085633/http://library.readscheme.org/
+
+The 16-billion-record data breach that no one’s ever heard of
+https://cybernews.com/security/billions-credentials-exposed-infostealers-data-leak/
