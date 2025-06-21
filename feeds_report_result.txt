@@ -1,28 +1,13 @@
-# 2025-06-20 09:18:50 Feeds Report 
+# 2025-06-21 09:17:08 Feeds Report 
 
-Daily Hacker News for 2025-06-19
-https://www.daemonology.net/hn-daily/2025-06-19.html
+Daily Hacker News for 2025-06-20
+https://www.daemonology.net/hn-daily/2025-06-20.html
 
-直接把本地端的 docker image storage 當作 registry 的 Unregistry
-https://blog.gslin.org/archives/2025/06/20/12478/%e7%9b%b4%e6%8e%a5%e6%8a%8a%e6%9c%ac%e5%9c%b0%e7%ab%af%e7%9a%84-docker-image-storage-%e7%95%b6%e4%bd%9c-registry-%e7%9a%84-unregistry/
+閒聊 - 系統異常已排除，網站卻繼續崩潰瘋狂 503？
+https://blog.darkthread.net/blog/http503-after-temp-fault/
 
-MIT研究顯示，習慣用AI寫文章會讓腦袋變笨
-https://www.ithome.com.tw/news/169663
-
-GenAI如何全面加速開發
-https://www.ithome.com.tw/article/169649
-
-從全端應用程式、安卓App到網頁應用，Google開發工具GenAI能力大進化
-https://www.ithome.com.tw/news/169662
-
-Google用GenAI加速四大開發場景，強化AI代理工具鏈
-https://www.ithome.com.tw/news/169661
-
-歐洲衛星通訊業者Eutelsat打算增資13.5億美元，法國政府將成最大股東
-https://www.ithome.com.tw/news/169660
-
-新版NFC規格出爐 感測距離擴大4倍
-https://www.ithome.com.tw/news/169659
+玉山銀行四階段導入Policy as Code，打造具彈性、共創的治理機制
+https://www.ithome.com.tw/news/169664
 
 【資安日報】6月20日，北韓駭客BlueNoroff在Zoom視訊利用AI深偽技術對企業員工網釣
 https://www.ithome.com.tw/news/169658
@@ -45,134 +30,89 @@ https://www.ithome.com.tw/news/169650
 企業與顧客互動模式的顛覆
 https://www.ithome.com.tw/voice/169648
 
-生成式AI開始顛覆搜尋行為，如何深化消費旅程是企業新課題
-https://www.ithome.com.tw/news/169647
+【書摘】《中國的亞洲主義：東亞的共識還是戰爭催化劑？》
+https://voicettank.org/20250620-2/
 
-Midjourney推出首個影片生成AI模型V1
-https://www.ithome.com.tw/news/169628
+聯準會理事：最快可能7月降息
+https://www.businessyee.com/article/6434-fed-july
 
-3月公布的Chrome零時差漏洞被駭客用於部署後門
-https://www.ithome.com.tw/news/169627
+傳鴻海休士頓廠擬部署人形機器人 生產輝達AI伺服器
+https://www.businessyee.com/article/6433-foxconn-humanoid-robots
 
-殭屍網路Flodrix鎖定LLM開發工具Langflow而來，意圖發動DDoS攻擊
-https://www.ithome.com.tw/news/169626
+不只生存，更守護妳的溫柔與韌性：女性防災用品進階指南
+https://www.businessyee.com/article/6432-disaster-preparedness-female
 
-臉書即將支援Passkey登入
-https://www.ithome.com.tw/news/169625
+【好險有聽】關於癌症險該知道的事（上）
+https://www.businessyee.com/article/6431-Cancer-insurance
 
-Google 要把最強 AI 影音生成工具 Veo 3 導入 YouTube Shorts
-https://www.inside.com.tw/article/38774-google-brings-ai-video-tool-veo-3-to-youtube-shorts
+【圖輯／走進現場】超過4000天的堅持，反沖繩美軍基地的邊野古靜坐抗爭持續進行中
+https://changyuchieh.com/2025/06/20/henoko-report/?utm_source=rss&utm_medium=rss&utm_campaign=henoko-report
 
-Google Search Console 在美已納入 AI 模式的曝光、點擊，當作搜尋成效報告
-https://www.inside.com.tw/article/38773-google-ai-mode-traffic-data-search-console
+HashMap Implementation to Count the Occurrences of Each Character in Java
+https://feeds.feedblitz.com/~/920511305/0/baeldung~HashMap-Implementation-to-Count-the-Occurrences-of-Each-Character-in-Java
 
-幣安攜手 TRM Labs，跟執法機關一起共築區塊鏈金融犯罪防線
-https://www.inside.com.tw/article/38772-binance-and-trm-fighting-crimes
+Text-to-SQL Implementation Using Spring AI
+https://feeds.feedblitz.com/~/920511308/0/baeldung~TexttoSQL-Implementation-Using-Spring-AI
 
-BOSCH 台灣：四大主軸持續在台發展
-https://www.inside.com.tw/article/38771-bosch-taiwan-continues-to-expand-around-four-key-pillars
+Java Weekly, Issue 599
+https://feeds.feedblitz.com/~/920492891/0/baeldung~Java-Weekly-Issue
 
-紐時：俄烏戰爭期間中國駭入俄羅斯，蒐集政治軍事情報學經驗
-https://www.inside.com.tw/article/38770-nyt-china-hacked-russia-during-ukraine-war-to-gather-political-and-military-intelligence
+More Undervalued Hardware Companions
+https://vermaden.wordpress.com/2025/06/21/more-undervalued-hardware-companions/
 
-SpaceX 星艦原型機「Ship 36」地面測試驚傳爆炸意外
-https://www.inside.com.tw/article/38769-spacex-starship-explosion-static-fire-test
+YouTube’s new anti-adblock measures
+https://iter.ca/post/yt-adblock/
 
-TikTok 美國分拆三度延長！川普再給 90 天但法律爭議未解
-https://www.inside.com.tw/article/38768-tiktok-us-divestment-extended-third-time-trump-grants-90-days-but-legal-issues-remain
+Mozilla is killing its Pocket and Fakespot services to focus on Firefox
+https://arstechnica.com/gadgets/2025/05/mozilla-is-killing-its-pocket-and-fakespot-services-to-focus-on-firefox/
 
-韓媒爆 Google Pixel 10 晶片轉單台積電，讓三星代工「徹底檢討」
-https://www.inside.com.tw/article/38767-google-pixel-10-chip-switch-reportedly-caught-samsung-off-guard
+So you want to serialize some DER?
+https://alexgaynor.net/2025/jun/20/serialize-some-der/
 
-2 天製作、超低成本 6 萬元：Kalshi 體育博彩平台用 Google Veo 3 打造全 AI 生成廣告，攻下 NBA 總冠軍賽黃金時段
-https://www.inside.com.tw/article/38765-ai-ad-nba
+Rolling the ladder up behind us
+https://xeiaso.net/blog/2025/rolling-ladder-behind-us/
 
-TNL Mediagene 關鍵評論網媒體集團 推出《Business Insider Taiwan》，搶攻全球逾十億華語讀者市場
-https://www.inside.com.tw/article/38760-
+Breaking WebAuthn, FIDO2, and Forging Passkeys
+https://www.nullpt.rs/forging-passkeys
 
-中國要打台灣了，你害怕嗎？
-https://voicettank.org/20250620-1/
+All roads lead to disaster
+https://blog.jsbarretto.com/post/all-roads-lead-to-disaster
 
-8D與8D Report不一樣？台積電用解決問題方法，建立持續改善文化
-https://www.businessyee.com/article/6430-8D-Report
+Ruby Schema, a collection of JSON schemas for YAML/JSON config files in the Ruby ecosystem
+https://github.com/joeldrapper/rubyschema
 
-台壽再推分紅保單「吉享紅」，主打短繳期與穩定領回機制
-https://www.businessyee.com/article/6429-taiwan-life-jixianghon
+In Praise of “Normal” Engineers
+https://charity.wtf/2025/06/19/in-praise-of-normal-engineers/
 
-【第一金股東會】獲利創高、配息未等比增加？受限D-SIB銀行資本要求
-https://www.businessyee.com/article/6428-first-stockholder-meeting-2025
+Improvements to the UDP Hole Punching
+https://github.com/kupson/udp-hole-punching/tree/main
 
-稀土出口年減3成！中國商務部：依法加快審查
-https://www.businessyee.com/article/6427-china-rare-earth
+Pragtical - The practical and pragmatic code editor
+https://pragtical.dev/
 
-【兆豐金股東會】董座董瑞斌：拚2030年遷入新總部，AI導入不會裁員
-https://www.businessyee.com/article/6426-mega-stockholder-meeting-2025
+Cosmoe: BeOS Class Library on top of Wayland
+https://cosmoe.org/index.html
 
-關稅對決升溫？美鋼鋁稅翻倍，加拿大：30天內未達協議將再反制
-https://www.businessyee.com/article/6425-us-canada-tariff
+Avoid workspaces (2014)
+https://blog.z3bra.org/2014/11/avoid-workspaces.html
 
-為避川普高關稅，美製造業者積極導入「關稅設計工程」！
-https://www.businessyee.com/article/6421-businesses-tweak-products-to-qualify-for-lowter-tariff
+What are you doing this weekend?
+https://lobste.rs/s/4iglq1/what_are_you_doing_this_weekend
 
-野村臺灣增強50主動式ETF（00985A ）7/1開募，第一大持股可達30%
-https://www.businessyee.com/article/6424-00985a-ipo
+My A11y Journey
+https://mjg59.dreamwidth.org/72379.html
 
-高雄資產管理專區7月啟動！13家銀行獲准進駐，保單、保費融資首度試辦
-https://www.businessyee.com/article/6423-asset-management-hub
+Learn you Galois Fields for Great Good
+https://xorvoid.com/galois_fields_for_great_good_00.html
 
-央行總裁楊金龍：三大力量決定匯市預期心理，降息條件尚未浮現
-https://www.businessyee.com/article/6422-central-bank-after-meeting-2025-q2
+Phoenix.new – The Remote AI Runtime for Phoenix
+https://fly.io/blog/phoenix-new-the-remote-ai-runtime/
 
-I Want to Love Linux. It Doesn’t Love Me Back: Post 4 – Wayland Is Growing Up. And Now We Don’t Have a Choice
-https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-4-wayland-is-growing-up-and-now-we-dont-have-a-choice/
+Gulaschprogrammiernacht 23
+https://media.ccc.de/c/gpn23
 
-What Would a Kubernetes 2.0 Look Like
-https://matduggan.com/what-would-a-kubernetes-2-0-look-like/
+Of Course ML Has Monads! (2011)
+https://existentialtype.wordpress.com/2011/05/01/of-course-ml-has-monads/
 
-2048 with only 64 bits of state
-https://github.com/izabera/bitwise-challenge-2048
-
-Revisiting Knuth’s “Premature Optimization” Paper
-https://probablydance.com/2025/06/19/revisiting-knuths-premature-optimization-paper/
-
-Zig And Rust (2023)
-https://matklad.github.io/2023/03/26/zig-and-rust.html
-
-Homegrown closures for Uxn
-https://krzysckh.org/b/Homegrown-closures-for-uxn.html
-
-A Dynamic Graph Approach to Immediate Cycle Collection
-https://dl.acm.org/doi/10.1145/3735950.3735953
-
-pipelined state machine corruption
-https://flak.tedunangst.com/post/pipelined-state-machine-corruption
-
-Metaobject Protocols: Why we want them and what else they can do (1993)
-https://cseweb.ucsd.edu/%7Evahdat/papers/mop.pdf
-
-Rewriting Kafka in Rust Async: Insights and Lessons Learned in Rust
-https://wangjunfei.com/2025/06/18/Rewriting-Kafka-in-Rust-Async-Insights-and-Lessons-Learned/
-
-2025 Stack Overflow Developer Survey
-https://stackoverflow.az1.qualtrics.com/jfe/form/SV_1MNG2CYTY2AzkAm
-
-JavaScript broke the web (and called it progress)
-https://www.jonoalderson.com/conjecture/javascript-broke-the-web-and-called-it-progress/
-
-Achieving Excellence in Open Source Software Design
-https://www.youtube.com/watch?v=12TJ-zTgiH0
-
-Infinite Mac OS X
-https://blog.persistent.info/2025/03/infinite-mac-os-x.html
-
-Feeling Blue(Noroff): Inside a Sophisticated DPRK Web3 Intrusion
-https://www.huntress.com/blog/inside-bluenoroff-web3-intrusion-analysis
-
-The Less Humble Programmer (2023)
-https://digitalhumanities.org/dhq/vol/17/2/000698/000698.html
-
-Bibliography of Scheme-related Research (2012)
-https://web.archive.org/web/20180625085633/http://library.readscheme.org/
-
-The 16-billion-record data breach that no one’s ever heard of
-https://cybernews.com/security/billions-credentials-exposed-infostealers-data-leak/
+Dispelling myths and misinformation
+https://matrix.org/blog/2025/06/dispelling-myths/
