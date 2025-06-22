@@ -1,118 +1,100 @@
-# 2025-06-21 09:17:08 Feeds Report 
+# 2025-06-22 09:17:34 Feeds Report 
 
-Daily Hacker News for 2025-06-20
-https://www.daemonology.net/hn-daily/2025-06-20.html
+Daily Hacker News for 2025-06-21
+https://www.daemonology.net/hn-daily/2025-06-21.html
 
-閒聊 - 系統異常已排除，網站卻繼續崩潰瘋狂 503？
-https://blog.darkthread.net/blog/http503-after-temp-fault/
+Weekly Ask Hacker News for 2025-06-15 -- 2025-06-21
+http://www.daemonology.net/hn-weekly-ask/2025-06-21.html
 
-玉山銀行四階段導入Policy as Code，打造具彈性、共創的治理機制
-https://www.ithome.com.tw/news/169664
+YouTube 最近 anti-adblock 的機制
+https://blog.gslin.org/archives/2025/06/22/12483/youtube-%e6%9c%80%e8%bf%91-anti-adblock-%e7%9a%84%e6%a9%9f%e5%88%b6/
 
-【資安日報】6月20日，北韓駭客BlueNoroff在Zoom視訊利用AI深偽技術對企業員工網釣
-https://www.ithome.com.tw/news/169658
+在 Mac 上換無線網路 MAC address 的方式
+https://blog.gslin.org/archives/2025/06/22/12482/%e5%9c%a8-mac-%e4%b8%8a%e6%8f%9b%e7%84%a1%e7%b7%9a%e7%b6%b2%e8%b7%af-mac-address-%e7%9a%84%e6%96%b9%e5%bc%8f/
 
-安卓惡意軟體GodFather濫用虛擬化機制挾持銀行、加密貨幣App的帳密
-https://www.ithome.com.tw/news/169657
+不使用前端 JavaScript 架構架設網頁的方式
+https://blog.gslin.org/archives/2025/06/22/12481/%e4%b8%8d%e4%bd%bf%e7%94%a8%e5%89%8d%e7%ab%af-javascript-%e6%9e%b6%e6%a7%8b%e6%9e%b6%e8%a8%ad%e7%b6%b2%e9%a0%81%e7%9a%84%e6%96%b9%e5%bc%8f/
 
-Citrix修補NetScaler 2項重大層級漏洞
-https://www.ithome.com.tw/news/169656
+uBlock Origin Lite for Safari iOS
+https://blog.gslin.org/archives/2025/06/22/12480/ublock-origin-lite-for-safari-ios/
 
-俄羅斯駭客利用ASP機制存取受害者Gmail帳號
-https://www.ithome.com.tw/news/169655
+神仙打鼓有時錯 - DevOps 模範生 Google Cloud 6/12 全球大當機事件
+https://blog.darkthread.net/blog/google-612-outage/
 
-M365 7月預設封鎖使用舊版身分驗證機制存取檔案
-https://www.ithome.com.tw/news/169654
+Meta 攜手 Oakley 推出運動導向智慧眼鏡 Oakley Meta HSTN，主打「Performance AI」應用
+https://www.inside.com.tw/article/38779-meta-and-oakley-jointly-launch-sports-oriented-smart-glasses-oakley-meta-hstn-featuring-performance-ai-application
 
-北韓駭客在Zoom視訊用AI深偽技術對企業員工網釣，意圖散布macOS惡意軟體
-https://www.ithome.com.tw/news/169650
+教宗良十四世警告：AI 恐影響年輕人智力發展
+https://www.inside.com.tw/article/38778-pope-leo-xiv-warns-ai-may-impact-young-peoples-intellectual-development
 
-企業與顧客互動模式的顛覆
-https://www.ithome.com.tw/voice/169648
+Adobe 推出運算照相 App「Project Indigo」
+https://www.inside.com.tw/article/38775-adobe-project-indigo-camera-app-marc-levoy
 
-【書摘】《中國的亞洲主義：東亞的共識還是戰爭催化劑？》
-https://voicettank.org/20250620-2/
+川普集團的「川普T1」手機聲稱美國製造，但手機本身可能是貼牌、更可能構成具誤導性宣稱行為
+https://www.inside.com.tw/article/38777-he-trump-organizations-trump-t1-phone-claims-to-be-made-in-the-united-states-but-the-phone-itself-may-be-a-private-label-which-may-constitute-a-misleading-claim
 
-聯準會理事：最快可能7月降息
-https://www.businessyee.com/article/6434-fed-july
+Startup Island Taiwan 策略合作資深經理 柯旂：台灣新創進軍日本攻略從沖繩到渋谷，解密日本科技生態圈【塞掐 Side Chat】E352
+https://www.inside.com.tw/feature/side-chat/38776-
 
-傳鴻海休士頓廠擬部署人形機器人 生產輝達AI伺服器
-https://www.businessyee.com/article/6433-foxconn-humanoid-robots
+Building Open API Documentation Using YML File in Resources Folder
+https://feeds.feedblitz.com/~/920537708/0/baeldung~Building-Open-API-Documentation-Using-YML-File-in-Resources-Folder
 
-不只生存，更守護妳的溫柔與韌性：女性防災用品進階指南
-https://www.businessyee.com/article/6432-disaster-preparedness-female
+Introduction to Ambassador Design Pattern
+https://feeds.feedblitz.com/~/920537711/0/baeldung~Introduction-to-Ambassador-Design-Pattern
 
-【好險有聽】關於癌症險該知道的事（上）
-https://www.businessyee.com/article/6431-Cancer-insurance
+Unexpected security footguns in Go's parsers
+https://blog.trailofbits.com/2025/06/17/unexpected-security-footguns-in-gos-parsers/
 
-【圖輯／走進現場】超過4000天的堅持，反沖繩美軍基地的邊野古靜坐抗爭持續進行中
-https://changyuchieh.com/2025/06/20/henoko-report/?utm_source=rss&utm_medium=rss&utm_campaign=henoko-report
+Announcing the Clippy feature freeze
+https://blog.rust-lang.org/inside-rust/2025/06/21/announcing-the-clippy-feature-freeze/
 
-HashMap Implementation to Count the Occurrences of Each Character in Java
-https://feeds.feedblitz.com/~/920511305/0/baeldung~HashMap-Implementation-to-Count-the-Occurrences-of-Each-Character-in-Java
+Remaking Celeste's Lighting
+https://noelberry.ca/posts/celeste_lighting/
 
-Text-to-SQL Implementation Using Spring AI
-https://feeds.feedblitz.com/~/920511308/0/baeldung~TexttoSQL-Implementation-Using-Spring-AI
+my website is one binary
+https://j3s.sh/thought/my-website-is-one-binary.html
 
-Java Weekly, Issue 599
-https://feeds.feedblitz.com/~/920492891/0/baeldung~Java-Weekly-Issue
+Announcing LogTape 1.0.0
+https://hackers.pub/@hongminhee/2025/announcing-logtape-1-0
 
-More Undervalued Hardware Companions
-https://vermaden.wordpress.com/2025/06/21/more-undervalued-hardware-companions/
+Adding linear-time lookbehinds to RE2
+https://systemf.epfl.ch/blog/re2-lookbehinds/
 
-YouTube’s new anti-adblock measures
-https://iter.ca/post/yt-adblock/
+Balatro for the Nintendo E-Reader
+https://mattgreer.dev/blog/balatro-for-the-nintendo-ereader/
 
-Mozilla is killing its Pocket and Fakespot services to focus on Firefox
-https://arstechnica.com/gadgets/2025/05/mozilla-is-killing-its-pocket-and-fakespot-services-to-focus-on-firefox/
+About Plasma’s X11 session
+https://pointieststick.com/2025/06/21/about-plasmas-x11-session/
 
-So you want to serialize some DER?
-https://alexgaynor.net/2025/jun/20/serialize-some-der/
+Why computational reproducibility matters
+https://blog.khinsen.net/posts/2025/06/20/computational-reproducibility.html
 
-Rolling the ladder up behind us
-https://xeiaso.net/blog/2025/rolling-ladder-behind-us/
+Trip report: June 2025 ISO C++ standards meeting
+https://herbsutter.com/2025/06/21/trip-report-june-2025-iso-c-standards-meeting-sofia-bulgaria/
 
-Breaking WebAuthn, FIDO2, and Forging Passkeys
-https://www.nullpt.rs/forging-passkeys
+See Jane 128 by Arktronics run (featuring Magic Desk, 3-Plus-1 and the Thomson MO5)
+http://oldvcr.blogspot.com/2025/06/see-jane-128-by-arktronics-run.html
 
-All roads lead to disaster
-https://blog.jsbarretto.com/post/all-roads-lead-to-disaster
+B compiler written in Crust
+https://github.com/tsoding/b
 
-Ruby Schema, a collection of JSON schemas for YAML/JSON config files in the Ruby ecosystem
-https://github.com/joeldrapper/rubyschema
+The Mental Model of Server Components
+https://saewitz.com/the-mental-model-of-server-components
 
-In Praise of “Normal” Engineers
-https://charity.wtf/2025/06/19/in-praise-of-normal-engineers/
+Application First - Media over QUIC
+https://quic.video/blog/application-first
 
-Improvements to the UDP Hole Punching
-https://github.com/kupson/udp-hole-punching/tree/main
+Good at the Job, Bad at the Interview: Time to Rethink Hiring
+https://www.linkedin.com/pulse/good-job-bad-interview-time-rethink-hiring-christopher-robertson-jdnie
 
-Pragtical - The practical and pragmatic code editor
-https://pragtical.dev/
+Writing a basic Linux device driver when you know nothing about Linux drivers or USB
+https://crescentro.se/posts/writing-drivers/
 
-Cosmoe: BeOS Class Library on top of Wayland
-https://cosmoe.org/index.html
+Open Dylan 2025.1 - Open Dylan Release
+https://opendylan.org/release-notes/2025.1.html
 
-Avoid workspaces (2014)
-https://blog.z3bra.org/2014/11/avoid-workspaces.html
+To Bind and Loose a Reference (2020)
+https://thephd.dev/to-bind-and-loose-a-reference-optional
 
-What are you doing this weekend?
-https://lobste.rs/s/4iglq1/what_are_you_doing_this_weekend
-
-My A11y Journey
-https://mjg59.dreamwidth.org/72379.html
-
-Learn you Galois Fields for Great Good
-https://xorvoid.com/galois_fields_for_great_good_00.html
-
-Phoenix.new – The Remote AI Runtime for Phoenix
-https://fly.io/blog/phoenix-new-the-remote-ai-runtime/
-
-Gulaschprogrammiernacht 23
-https://media.ccc.de/c/gpn23
-
-Of Course ML Has Monads! (2011)
-https://existentialtype.wordpress.com/2011/05/01/of-course-ml-has-monads/
-
-Dispelling myths and misinformation
-https://matrix.org/blog/2025/06/dispelling-myths/
+Basic facts about GPUs
+https://damek.github.io/random/basic-facts-about-gpus/
