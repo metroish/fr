@@ -1,100 +1,154 @@
-# 2025-06-22 09:17:34 Feeds Report 
+# 2025-06-23 09:21:22 Feeds Report 
 
-Daily Hacker News for 2025-06-21
-https://www.daemonology.net/hn-daily/2025-06-21.html
+Daily Hacker News for 2025-06-22
+https://www.daemonology.net/hn-daily/2025-06-22.html
 
-Weekly Ask Hacker News for 2025-06-15 -- 2025-06-21
-http://www.daemonology.net/hn-weekly-ask/2025-06-21.html
+APScheduler + requests 遇到 OSError: [Errno 24] Too many open files 的問題
+https://blog.gslin.org/archives/2025/06/23/12484/apscheduler-requests-%e9%81%87%e5%88%b0-oserror-errno-24-too-many-open-files-%e7%9a%84%e5%95%8f%e9%a1%8c/
 
-YouTube 最近 anti-adblock 的機制
-https://blog.gslin.org/archives/2025/06/22/12483/youtube-%e6%9c%80%e8%bf%91-anti-adblock-%e7%9a%84%e6%a9%9f%e5%88%b6/
+Meta發表新款AI眼鏡Oakley Meta Glasses
+https://www.ithome.com.tw/news/169677
 
-在 Mac 上換無線網路 MAC address 的方式
-https://blog.gslin.org/archives/2025/06/22/12482/%e5%9c%a8-mac-%e4%b8%8a%e6%8f%9b%e7%84%a1%e7%b7%9a%e7%b6%b2%e8%b7%af-mac-address-%e7%9a%84%e6%96%b9%e5%bc%8f/
+美國保險業者Aflac遭駭，疑Scattered Spider駭客組織所為
+https://www.ithome.com.tw/news/169675
 
-不使用前端 JavaScript 架構架設網頁的方式
-https://blog.gslin.org/archives/2025/06/22/12481/%e4%b8%8d%e4%bd%bf%e7%94%a8%e5%89%8d%e7%ab%af-javascript-%e6%9e%b6%e6%a7%8b%e6%9e%b6%e8%a8%ad%e7%b6%b2%e9%a0%81%e7%9a%84%e6%96%b9%e5%bc%8f/
+人類AI評估系統Yupp上線，可測試逾500個大型語言模型
+https://www.ithome.com.tw/news/169673
 
-uBlock Origin Lite for Safari iOS
-https://blog.gslin.org/archives/2025/06/22/12480/ublock-origin-lite-for-safari-ios/
+研究人員揭露160億筆帳密資料外洩，疑透過竊資軟體收集、拼湊而成
+https://www.ithome.com.tw/news/169666
 
-神仙打鼓有時錯 - DevOps 模範生 Google Cloud 6/12 全球大當機事件
-https://blog.darkthread.net/blog/google-612-outage/
+Minecraft遊戲玩家遭到鎖定，駭客假借提供修改工具竊取帳密資料
+https://www.ithome.com.tw/news/169665
 
-Meta 攜手 Oakley 推出運動導向智慧眼鏡 Oakley Meta HSTN，主打「Performance AI」應用
-https://www.inside.com.tw/article/38779-meta-and-oakley-jointly-launch-sports-oriented-smart-glasses-oakley-meta-hstn-featuring-performance-ai-application
+Cloudflare阻擋一波流量達7.3Tbps的史上最大DDoS攻擊
+https://www.ithome.com.tw/news/169668
 
-教宗良十四世警告：AI 恐影響年輕人智力發展
-https://www.inside.com.tw/article/38778-pope-leo-xiv-warns-ai-may-impact-young-peoples-intellectual-development
+蘋果傳洽談收購Perplexity AI
+https://www.ithome.com.tw/news/169667
 
-Adobe 推出運算照相 App「Project Indigo」
-https://www.inside.com.tw/article/38775-adobe-project-indigo-camera-app-marc-levoy
+讓自駕車學會「道德」駕駛？美團隊驗證新模型，盼推進機器判斷倫理
+https://www.inside.com.tw/article/38787-driverless-cars-to-make-better-decisions
 
-川普集團的「川普T1」手機聲稱美國製造，但手機本身可能是貼牌、更可能構成具誤導性宣稱行為
-https://www.inside.com.tw/article/38777-he-trump-organizations-trump-t1-phone-claims-to-be-made-in-the-united-states-but-the-phone-itself-may-be-a-private-label-which-may-constitute-a-misleading-claim
+Tesla 對決 Waymo：無人自動駕駛計程車的兩種路線，誰能領跑未來？
+https://www.inside.com.tw/article/38785-tesla-vs-waymo
 
-Startup Island Taiwan 策略合作資深經理 柯旂：台灣新創進軍日本攻略從沖繩到渋谷，解密日本科技生態圈【塞掐 Side Chat】E352
-https://www.inside.com.tw/feature/side-chat/38776-
+一文看懂「出租蝦皮帳戶」淪洗錢的犯罪模式
+https://www.inside.com.tw/article/38786-understanding-how-shopee-account-rental-becomes-money-laundering-crime-pattern
 
-Building Open API Documentation Using YML File in Resources Folder
-https://feeds.feedblitz.com/~/920537708/0/baeldung~Building-Open-API-Documentation-Using-YML-File-in-Resources-Folder
+比爾蓋茲和 Linux 之父 Linus Torvalds 世紀同框！兩人50 年來首次相遇
+https://www.inside.com.tw/article/38782-bill-gates-linus-torvalds-first-time-meeting
 
-Introduction to Ambassador Design Pattern
-https://feeds.feedblitz.com/~/920537711/0/baeldung~Introduction-to-Ambassador-Design-Pattern
+搶搜尋引擎大餅？傳蘋果有意併購 Perplexity AI
+https://www.inside.com.tw/article/38783-apple-to-acquire-perplexity
 
-Unexpected security footguns in Go's parsers
-https://blog.trailofbits.com/2025/06/17/unexpected-security-footguns-in-gos-parsers/
+因陷商標爭議，OpenAI 下架收購 Jony Ive 新創公告！
+https://www.inside.com.tw/article/38781-openai-pulls-jony-ive-partnership-announcement
 
-Announcing the Clippy feature freeze
-https://blog.rust-lang.org/inside-rust/2025/06/21/announcing-the-clippy-feature-freeze/
+特斯拉無人計程車正式上路！首批 Robotaxi 開放搶先體驗計畫
+https://www.inside.com.tw/article/38780-tesla-first-driverless-public-robotaxi
 
-Remaking Celeste's Lighting
-https://noelberry.ca/posts/celeste_lighting/
+烏魯木齊中路的陳之漢
+https://voicettank.org/20250623-1/
 
-my website is one binary
-https://j3s.sh/thought/my-website-is-one-binary.html
+守護國家汪汪隊，「執勤犬專屬保險」將上路！
+https://www.businessyee.com/article/6443-Pet-Insurance
 
-Announcing LogTape 1.0.0
-https://hackers.pub/@hongminhee/2025/announcing-logtape-1-0
+美攻擊伊朗，航空業繞道中東空域避風險
+https://www.businessyee.com/article/6442-Airlines-avoid-Middle-East-airspace
 
-Adding linear-time lookbehinds to RE2
-https://systemf.epfl.ch/blog/re2-lookbehinds/
+為何台積電股價漲不停？3個成功思維，提升企業與個人績效都受用
+https://www.businessyee.com/article/6441-2330
 
-Balatro for the Nintendo E-Reader
-https://mattgreer.dev/blog/balatro-for-the-nintendo-ereader/
+TISA首波7月啟動！彭金隆：採分階段推動，建構退休第三層保障
+https://www.businessyee.com/article/6440-fsc-chairman-tisa
 
-About Plasma’s X11 session
-https://pointieststick.com/2025/06/21/about-plasmas-x11-session/
+12強紀念銀幣每枚1,600元，即日預購至7/2日止
+https://www.businessyee.com/article/6438-Silver-Coin
 
-Why computational reproducibility matters
-https://blog.khinsen.net/posts/2025/06/20/computational-reproducibility.html
+【台新金股東會】股息預計8月發放，子公司合併拚明年上半年完成
+https://www.businessyee.com/article/6439-taishin-stockholder-meeting-2025
 
-Trip report: June 2025 ISO C++ standards meeting
-https://herbsutter.com/2025/06/21/trip-report-june-2025-iso-c-standards-meeting-sofia-bulgaria/
+伊朗將封鎖全球最重要油道？傳議會通過關閉荷莫茲海峽，油輪已掉頭
+https://www.businessyee.com/article/6437-iran-strait-of-hormuz
 
-See Jane 128 by Arktronics run (featuring Magic Desk, 3-Plus-1 and the Thomson MO5)
-http://oldvcr.blogspot.com/2025/06/see-jane-128-by-arktronics-run.html
+【新光金最後股東會】合併成本與匯損為虧損主因、無立即增資規劃
+https://www.businessyee.com/article/6436-shinkong-stockholder-meeting-2025
 
-B compiler written in Crust
-https://github.com/tsoding/b
+美出手攻伊朗再添利多，以色列股市22日創歷史新高
+https://www.businessyee.com/article/6435-israel-iran
 
-The Mental Model of Server Components
-https://saewitz.com/the-mental-model-of-server-components
+Where the Money Was
+https://dushuyizhi.net/where-the-money-was/
 
-Application First - Media over QUIC
-https://quic.video/blog/application-first
+Faking OAuth2 Single Sign-on in Spring
+https://feeds.feedblitz.com/~/920614367/0/baeldung
 
-Good at the Job, Bad at the Interview: Time to Rethink Hiring
-https://www.linkedin.com/pulse/good-job-bad-interview-time-rethink-hiring-christopher-robertson-jdnie
+My First Impressions of Gleam
+https://mtlynch.io/notes/gleam-first-impressions/
 
-Writing a basic Linux device driver when you know nothing about Linux drivers or USB
-https://crescentro.se/posts/writing-drivers/
+I wrote my PhD Thesis in Typst
+https://fransskarman.com/phd_thesis_in_typst.html
 
-Open Dylan 2025.1 - Open Dylan Release
-https://opendylan.org/release-notes/2025.1.html
+Asterinas: a new Linux-compatible kernel project
+https://lwn.net/SubscriberLink/1022920/ad60263cd13c8a13/
 
-To Bind and Loose a Reference (2020)
-https://thephd.dev/to-bind-and-loose-a-reference-optional
+Telescopes Are Tries: A Dependent Type Shellac on SQLite
+https://www.philipzucker.com/telescope_tries/
 
-Basic facts about GPUs
-https://damek.github.io/random/basic-facts-about-gpus/
+Compressing for the browser in Go
+https://blog.kowalczyk.info/a-5hum/compressing-for-the-browser-in-go.html
+
+Discover C++26’s compile-time reflection
+https://lemire.me/blog/2025/06/22/c26-will-include-compile-time-reflection-why-should-you-care/
+
+Building my own paper tape punch
+https://unimplementedtrap.com/paper-tape-punch
+
+tabiew: A TUI for viewing & querying CSV, TSV, JSON, SQLITE, and more
+https://github.com/shshemi/tabiew
+
+postmarketOS v25.06: the one with systemd
+https://postmarketos.org/blog/2025/06/22/v25.06-release/
+
+A Macro Story
+https://courses.cs.northwestern.edu/325/readings/macro-lesson.html
+
+Pallene Language
+https://github.com/pallene-lang/pallene
+
+Makefile formatter and linter
+https://github.com/EbodShojaei/bake
+
+Generating Musical Scales
+https://petecorey.com/blog/2025/06/22/generating-musical-scales/
+
+Finding a billion factorials in 60 ms with SIMD
+https://codeforces.com/blog/entry/143279
+
+Fixing Letrec (Reloaded)
+https://legacy.cs.indiana.edu/~dyb/pubs/letrec-reloaded.pdf
+
+CDP Retirement in Firefox
+https://fxdx.dev/cdp-retirement-in-firefox/
+
+How fast are Linux pipes anyway? (2022)
+https://mazzo.li/posts/fast-pipes.html
+
+Allocators are Monkeys With Typewriters
+https://tgmatos.github.io/allocators-are-for-monkeys-with-typewriters/
+
+Implicit is better than explicit
+https://sophiabits.com/blog/implicit-is-better-than-explicit
+
+FreeBSD Kernel Modules pkg(8) Repositories
+https://vermaden.wordpress.com/2025/06/22/freebsd-kernel-modules-pkg8-repositories/
+
+What are you doing this week?
+https://lobste.rs/s/lrtenu/what_are_you_doing_this_week
+
+you are what you launch: how software became a lifestyle brand
+https://omeru.bearblog.dev/lifestyle/
+
+Polystate: Composable Finite State Machines
+https://github.com/sdzx-1/polystate
