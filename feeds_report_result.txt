@@ -1,16 +1,40 @@
-# 2025-06-23 09:21:22 Feeds Report 
+# 2025-06-24 09:20:26 Feeds Report 
 
-Daily Hacker News for 2025-06-22
-https://www.daemonology.net/hn-daily/2025-06-22.html
+Daily Hacker News for 2025-06-23
+https://www.daemonology.net/hn-daily/2025-06-23.html
 
-APScheduler + requests 遇到 OSError: [Errno 24] Too many open files 的問題
-https://blog.gslin.org/archives/2025/06/23/12484/apscheduler-requests-%e9%81%87%e5%88%b0-oserror-errno-24-too-many-open-files-%e7%9a%84%e5%95%8f%e9%a1%8c/
+為 Managed ODP.NET 新增效能計數器
+https://blog.darkthread.net/blog/odpm-perfcounter/
 
-Meta發表新款AI眼鏡Oakley Meta Glasses
-https://www.ithome.com.tw/news/169677
+微軟揭露專為Copilot+ PC設計的Mu模型，可透過自然語言調整數百項電腦設定
+https://www.ithome.com.tw/news/169696
 
-美國保險業者Aflac遭駭，疑Scattered Spider駭客組織所為
-https://www.ithome.com.tw/news/169675
+北韓駭客組織Kimsuky濫用GitHub、Dropbox服務，對韓國發動APT攻擊
+https://www.ithome.com.tw/news/169695
+
+美國國會禁止公家裝置安裝WhatsApp
+https://www.ithome.com.tw/news/169694
+
+擴大衛星應用落地，數發部開放衛星行動通信頻譜申請
+https://www.ithome.com.tw/news/169693
+
+特斯拉無人駕駛計程車服務Robotaxi邁入公開測試
+https://www.ithome.com.tw/news/169692
+
+IBM修補SIEM平臺QRader重大層級漏洞，若不處理攻擊者可用來執行任意命令
+https://www.ithome.com.tw/news/169691
+
+【資安週報】0616~0620，伊朗國有銀行與加密貨幣交易所雙雙遇襲引發全球關注
+https://www.ithome.com.tw/news/169690
+
+Mistral開源模型Small升級為3.2版
+https://www.ithome.com.tw/news/169689
+
+Salt Typhoon也攻擊了加拿大電信業者
+https://www.ithome.com.tw/news/169688
+
+GitHub出現67個木馬專案，Banana Squad攻擊軟體供應鏈竊取開發者資料
+https://www.ithome.com.tw/news/169686
 
 人類AI評估系統Yupp上線，可測試逾500個大型語言模型
 https://www.ithome.com.tw/news/169673
@@ -21,134 +45,110 @@ https://www.ithome.com.tw/news/169666
 Minecraft遊戲玩家遭到鎖定，駭客假借提供修改工具竊取帳密資料
 https://www.ithome.com.tw/news/169665
 
-Cloudflare阻擋一波流量達7.3Tbps的史上最大DDoS攻擊
-https://www.ithome.com.tw/news/169668
+國家太空中心自製立方衛星山雀 T2，乘 SpaceX 火箭升空
+https://www.inside.com.tw/article/38794-taiwans-space-agency-launches-self-made-cubesat-t2-on-spacex-rocket
 
-蘋果傳洽談收購Perplexity AI
-https://www.ithome.com.tw/news/169667
+美國眾議院禁用 WhatsApp！認定為高風險性平台
+https://www.inside.com.tw/article/38793-us-house-representative-bans-whatsapp
 
-讓自駕車學會「道德」駕駛？美團隊驗證新模型，盼推進機器判斷倫理
-https://www.inside.com.tw/article/38787-driverless-cars-to-make-better-decisions
+iPhone 可獨立修復？iOS 26 推出「Recovery Assistant」功能
+https://www.inside.com.tw/article/38792-ios26-recovery-assistant
 
-Tesla 對決 Waymo：無人自動駕駛計程車的兩種路線，誰能領跑未來？
-https://www.inside.com.tw/article/38785-tesla-vs-waymo
+前 OpenAI 技術長 Mira Murati 新創估值達百億美元！成為矽谷最大種子輪之一
+https://www.inside.com.tw/article/38790-mira-murati-raises-2b
 
-一文看懂「出租蝦皮帳戶」淪洗錢的犯罪模式
-https://www.inside.com.tw/article/38786-understanding-how-shopee-account-rental-becomes-money-laundering-crime-pattern
+免註冊、尊重隱私、去中心化的即時通/語音電話軟體： SimpleX
+https://newtoypia.blogspot.com/2025/06/simplex.html
 
-比爾蓋茲和 Linux 之父 Linus Torvalds 世紀同框！兩人50 年來首次相遇
-https://www.inside.com.tw/article/38782-bill-gates-linus-torvalds-first-time-meeting
+特斯拉無人計程車Robotaxi首日上路就出包？傳美公路局介入調查中
+https://www.businessyee.com/article/6450-tesla-robotaxi-draw-nhtsa-probe
 
-搶搜尋引擎大餅？傳蘋果有意併購 Perplexity AI
-https://www.inside.com.tw/article/38783-apple-to-acquire-perplexity
+人生與職場遇到難題？用破框思維的技術來解決！
+https://www.businessyee.com/article/6451-Think-Bigger
 
-因陷商標爭議，OpenAI 下架收購 Jony Ive 新創公告！
-https://www.inside.com.tw/article/38781-openai-pulls-jony-ive-partnership-announcement
+華爾街金融巨頭擁抱 AI！高盛導入「GS AI 助理」摘要複雜文件
+https://www.businessyee.com/article/6449-goldman-sachs-launches-ai-assistant
 
-特斯拉無人計程車正式上路！首批 Robotaxi 開放搶先體驗計畫
-https://www.inside.com.tw/article/38780-tesla-first-driverless-public-robotaxi
+北約擬推國防支出GDP 5%新標準：日韓缺考、亞太防衛態勢難同步
+https://www.businessyee.com/article/6448-nato-us-asia
 
-烏魯木齊中路的陳之漢
-https://voicettank.org/20250623-1/
+高額新型醫療需求增！保發中心董座黃泓智：傳統保險制度已難應付
+https://www.businessyee.com/article/6447-medcare-insurance-%20insufficient
 
-守護國家汪汪隊，「執勤犬專屬保險」將上路！
-https://www.businessyee.com/article/6443-Pet-Insurance
+買在高點退休金虧20%你受得了嗎？退休規劃的股債配置策略
+https://www.businessyee.com/article/6446-Retirement-stock-bond-allocation-strategy
 
-美攻擊伊朗，航空業繞道中東空域避風險
-https://www.businessyee.com/article/6442-Airlines-avoid-Middle-East-airspace
+富邦產旅平險升級！法定傳染病納保，海外染疫最高給付100萬元
+https://www.businessyee.com/article/6445-fuban-travel-med-insurance
 
-為何台積電股價漲不停？3個成功思維，提升企業與個人績效都受用
-https://www.businessyee.com/article/6441-2330
+自駕計程車Robotaxi終於上路，特斯拉飆漲8%
+https://www.businessyee.com/article/6444-Robotaxi
 
-TISA首波7月啟動！彭金隆：採分階段推動，建構退休第三層保障
-https://www.businessyee.com/article/6440-fsc-chairman-tisa
+Cleaning Spring Properties Files
+https://feeds.feedblitz.com/~/920630711/0/baeldung
 
-12強紀念銀幣每枚1,600元，即日預購至7/2日止
-https://www.businessyee.com/article/6438-Silver-Coin
+Using the Model Context Protocol With Quarkus and Langchain4j
+https://feeds.feedblitz.com/~/920621477/0/baeldung
 
-【台新金股東會】股息預計8月發放，子公司合併拚明年上半年完成
-https://www.businessyee.com/article/6439-taishin-stockholder-meeting-2025
+Making TRAMP go Brrrr…
+https://coredumped.dev/2025/06/18/making-tramp-go-brrrr./
 
-伊朗將封鎖全球最重要油道？傳議會通過關閉荷莫茲海峽，油輪已掉頭
-https://www.businessyee.com/article/6437-iran-strait-of-hormuz
+how i use my terminal
+https://jyn.dev/how-i-use-my-terminal/
 
-【新光金最後股東會】合併成本與匯損為虧損主因、無立即增資規劃
-https://www.businessyee.com/article/6436-shinkong-stockholder-meeting-2025
+Firefox 140 Released With "Unload Tab", CSS Custom Highlighting API
+https://www.phoronix.com/news/Firefox-140
 
-美出手攻伊朗再添利多，以色列股市22日創歷史新高
-https://www.businessyee.com/article/6435-israel-iran
+Solving LinkedIn Queens with Haskell
+https://imiron.io/post/linkedin-queens/
 
-Where the Money Was
-https://dushuyizhi.net/where-the-money-was/
+A family of OpenSSL forks
+https://daniel.haxx.se/blog/2025/06/23/a-family-of-forks/
 
-Faking OAuth2 Single Sign-on in Spring
-https://feeds.feedblitz.com/~/920614367/0/baeldung
+Skip the Design Patterns Architecting with Nouns and Verbs
+https://www.youtube.com/watch?v=v-N6r8lcsNc
 
-My First Impressions of Gleam
-https://mtlynch.io/notes/gleam-first-impressions/
+Go should be more opinionated
+https://eltonminetto.dev/en/post/2025-06-19-go-more-opinated/
 
-I wrote my PhD Thesis in Typst
-https://fransskarman.com/phd_thesis_in_typst.html
+Solving LinkedIn Queens using MiniZinc
+https://zayenz.se/blog/post/linkedin-queens/
 
-Asterinas: a new Linux-compatible kernel project
-https://lwn.net/SubscriberLink/1022920/ad60263cd13c8a13/
+alden: detachable terminal sessions without breaking scrollback
+https://ansuz.sooke.bc.ca/entry/389
 
-Telescopes Are Tries: A Dependent Type Shellac on SQLite
-https://www.philipzucker.com/telescope_tries/
+Interesting Bits of Postgres Grammar
+https://steve.dignam.xyz/2025/06/20/interesting-bits-of-postgres-grammar/
 
-Compressing for the browser in Go
-https://blog.kowalczyk.info/a-5hum/compressing-for-the-browser-in-go.html
+Onion Services: Design, Protocol and Implementation
+https://media.ccc.de/v/gpn23-52-onion-services-design-protocol-and-implementation
 
-Discover C++26’s compile-time reflection
-https://lemire.me/blog/2025/06/22/c26-will-include-compile-time-reflection-why-should-you-care/
+Moonbase Alpha: That time NASA made a meme video game
+https://www.spacebar.news/moonbase-alpha-nasa-video-game/
 
-Building my own paper tape punch
-https://unimplementedtrap.com/paper-tape-punch
+How to store Go pointers from assembly
+https://mazzo.li/posts/go-asm-pointers.html
 
-tabiew: A TUI for viewing & querying CSV, TSV, JSON, SQLITE, and more
-https://github.com/shshemi/tabiew
+JSON evolution in Go: from v1 to v2
+https://antonz.org/go-json-v2/
 
-postmarketOS v25.06: the one with systemd
-https://postmarketos.org/blog/2025/06/22/v25.06-release/
+Whitesmiths C compiler: One of the earliest commercial C compilers available
+https://github.com/hansake/Whitesmiths-C-compiler
 
-A Macro Story
-https://courses.cs.northwestern.edu/325/readings/macro-lesson.html
+Monotone Functions and Cache Lines
+https://buttondown.com/jaffray/archive/monotone-functions-and-cache-lines/
 
-Pallene Language
-https://github.com/pallene-lang/pallene
+IWP9 talk recordings
+https://youtube.com/playlist?list=PLEZEb6vVXSE-CV_vti2I6tJQNBn6f9swB
 
-Makefile formatter and linter
-https://github.com/EbodShojaei/bake
+Lifetime Dispersion and Generational GC: An Intellectual Abstract
+https://dl.acm.org/doi/10.1145/3735950.3735958
 
-Generating Musical Scales
-https://petecorey.com/blog/2025/06/22/generating-musical-scales/
+Fair(er) DRM GPU scheduler
+https://blogs.igalia.com/tursulin/fair-er-drm-gpu-scheduler/
 
-Finding a billion factorials in 60 ms with SIMD
-https://codeforces.com/blog/entry/143279
+Why Do Some Language Models Fake Alignment While Others Don’t?
+https://arxiv.org/html/2506.18032v1
 
-Fixing Letrec (Reloaded)
-https://legacy.cs.indiana.edu/~dyb/pubs/letrec-reloaded.pdf
-
-CDP Retirement in Firefox
-https://fxdx.dev/cdp-retirement-in-firefox/
-
-How fast are Linux pipes anyway? (2022)
-https://mazzo.li/posts/fast-pipes.html
-
-Allocators are Monkeys With Typewriters
-https://tgmatos.github.io/allocators-are-for-monkeys-with-typewriters/
-
-Implicit is better than explicit
-https://sophiabits.com/blog/implicit-is-better-than-explicit
-
-FreeBSD Kernel Modules pkg(8) Repositories
-https://vermaden.wordpress.com/2025/06/22/freebsd-kernel-modules-pkg8-repositories/
-
-What are you doing this week?
-https://lobste.rs/s/lrtenu/what_are_you_doing_this_week
-
-you are what you launch: how software became a lifestyle brand
-https://omeru.bearblog.dev/lifestyle/
-
-Polystate: Composable Finite State Machines
-https://github.com/sdzx-1/polystate
+Call by Meaning (2014)
+https://tinlizzie.org/VPRIPapers/tr2014003_callbymeaning.pdf
