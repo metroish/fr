@@ -1,22 +1,46 @@
-# 2025-06-24 09:20:26 Feeds Report 
+# 2025-06-25 09:21:02 Feeds Report 
 
-Daily Hacker News for 2025-06-23
-https://www.daemonology.net/hn-daily/2025-06-23.html
+Daily Hacker News for 2025-06-24
+https://www.daemonology.net/hn-daily/2025-06-24.html
 
-為 Managed ODP.NET 新增效能計數器
-https://blog.darkthread.net/blog/odpm-perfcounter/
+uvx 與 PEP 723 的組合
+https://blog.gslin.org/archives/2025/06/25/12486/uvx-%e8%88%87-pep-723-%e7%9a%84%e7%b5%84%e5%90%88/
 
-微軟揭露專為Copilot+ PC設計的Mu模型，可透過自然語言調整數百項電腦設定
-https://www.ithome.com.tw/news/169696
+GUID 索引問題新解 - UUIDv7
+https://blog.darkthread.net/blog/uuidv7/
 
-北韓駭客組織Kimsuky濫用GitHub、Dropbox服務，對韓國發動APT攻擊
-https://www.ithome.com.tw/news/169695
+Mastercard攜手Chainlink，讓35億持卡人可直接購買加密貨幣
+https://www.ithome.com.tw/news/169719
 
-美國國會禁止公家裝置安裝WhatsApp
-https://www.ithome.com.tw/news/169694
+Waymo與Uber合作於亞特蘭大推出無人駕駛計程車服務
+https://www.ithome.com.tw/news/169717
 
-擴大衛星應用落地，數發部開放衛星行動通信頻譜申請
-https://www.ithome.com.tw/news/169693
+不只瞄準GAI流程和資料整合需求，SAP更大揭各產品線AI發展藍圖
+https://www.ithome.com.tw/news/169716
+
+【資安日報】6月25日，勒索軟體Qilin提供加盟主法律咨詢服務引發資安界關注
+https://www.ithome.com.tw/news/169715
+
+惡意軟體Umbrella Stand、Shoe Rack鎖定Fortinet防火牆而來
+https://www.ithome.com.tw/news/169714
+
+美國法官判決Anthropic以版權書籍來訓練AI模型屬於合理使用
+https://www.ithome.com.tw/news/169713
+
+國產橫向擴展NAS產品大進擊：本土儲存產品大躍進，挑戰NAS頂級規格領域
+https://www.ithome.com.tw/tech/169712
+
+Google公測圖片生成模型Imagen 4家族
+https://www.ithome.com.tw/news/169711
+
+勒索軟體Qilin提供加盟主法律咨詢服務，意圖向受害組織施加更多壓力
+https://www.ithome.com.tw/news/169710
+
+微軟新增Windows 10 PC用戶2種取得延伸安全更新的方案、啟售企業ESU訂閱
+https://www.ithome.com.tw/news/169709
+
+Agent2Agent專案轉移至Linux基金會，續推動開放協定促進AI代理安全溝通
+https://www.ithome.com.tw/news/169698
 
 特斯拉無人駕駛計程車服務Robotaxi邁入公開測試
 https://www.ithome.com.tw/news/169692
@@ -30,125 +54,128 @@ https://www.ithome.com.tw/news/169690
 Mistral開源模型Small升級為3.2版
 https://www.ithome.com.tw/news/169689
 
-Salt Typhoon也攻擊了加拿大電信業者
-https://www.ithome.com.tw/news/169688
+Xbox 加入 VR 行列！聯名 Meta 推 Quest 3S 價格更省錢，還要再合作 ROG
+https://www.inside.com.tw/article/38802-xbox-enters-vr-space-with-meta-partnership-on-budget-friendly-quest-3s-plans-further-collaboration-with-rog
 
-GitHub出現67個木馬專案，Banana Squad攻擊軟體供應鏈竊取開發者資料
-https://www.ithome.com.tw/news/169686
+臉書又傳災情！大量社團無預警遭停權 疑與 AI 審查有關
+https://www.inside.com.tw/article/38801-facebook-hit-by-another-outage-as-many-groups-suspended-without-warning-possibly-due-to-ai-moderation
 
-人類AI評估系統Yupp上線，可測試逾500個大型語言模型
-https://www.ithome.com.tw/news/169673
+GitHub 開發者嗨起來！微軟開源跨平台編輯器 Edit 睽違 33 年重出江湖
+https://www.inside.com.tw/article/38799-new-microsoft-edit
 
-研究人員揭露160億筆帳密資料外洩，疑透過竊資軟體收集、拼湊而成
-https://www.ithome.com.tw/news/169666
+研究指出小行星 2032 可能撞月球，威力宛如大型核爆波及衛星
+https://www.inside.com.tw/article/38800-study-shows-asteroid-2032-could-hit-moon-with-nuclear-blast-force-affecting-satellites
 
-Minecraft遊戲玩家遭到鎖定，駭客假借提供修改工具竊取帳密資料
-https://www.ithome.com.tw/news/169665
+可全離線操作！Google 發表新款機器人專用 Gemini 模型
+https://www.inside.com.tw/article/38798-google-rolls-out-new-gemini-model-that-can-run-on-robots-locally
 
-國家太空中心自製立方衛星山雀 T2，乘 SpaceX 火箭升空
-https://www.inside.com.tw/article/38794-taiwans-space-agency-launches-self-made-cubesat-t2-on-spacex-rocket
+Google 地球滿 20 年了！新增歷史街景回顧功能
+https://www.inside.com.tw/article/38797-google-earth-20-year-anniversary
 
-美國眾議院禁用 WhatsApp！認定為高風險性平台
-https://www.inside.com.tw/article/38793-us-house-representative-bans-whatsapp
+手機快能連衛星通信了，台灣新開放 7 組衛星行動通信頻段申請
+https://www.inside.com.tw/article/38796-satellite-communication
 
-iPhone 可獨立修復？iOS 26 推出「Recovery Assistant」功能
-https://www.inside.com.tw/article/38792-ios26-recovery-assistant
+美國重新審查AUKUS之研析
+https://voicettank.org/20250624-3/
 
-前 OpenAI 技術長 Mira Murati 新創估值達百億美元！成為矽谷最大種子輪之一
-https://www.inside.com.tw/article/38790-mira-murati-raises-2b
+2025香格里拉對話──各抒己見的平行喊話
+https://voicettank.org/20250624-2/
 
-免註冊、尊重隱私、去中心化的即時通/語音電話軟體： SimpleX
-https://newtoypia.blogspot.com/2025/06/simplex.html
+一觸即發的邊緣政策時代：台灣人的避難包要裝什麼
+https://voicettank.org/20250624-1/
 
-特斯拉無人計程車Robotaxi首日上路就出包？傳美公路局介入調查中
-https://www.businessyee.com/article/6450-tesla-robotaxi-draw-nhtsa-probe
+美國財經名嘴：DeepSeek威脅退燒、AI 類股重啟漲勢！
+https://www.businessyee.com/article/6463-jim-cramer-ai-stocks-beats-DeepSeek-worries
 
-人生與職場遇到難題？用破框思維的技術來解決！
-https://www.businessyee.com/article/6451-Think-Bigger
+川普為何不爽Fed不降息？數據：美國通膨疑慮低
+https://www.businessyee.com/article/6462-Fed-Rate-Analysis
 
-華爾街金融巨頭擁抱 AI！高盛導入「GS AI 助理」摘要複雜文件
-https://www.businessyee.com/article/6449-goldman-sachs-launches-ai-assistant
+美國無人機大廠AeroVironment執行長：我們握有打造「金穹系統」的關鍵能力
+https://www.businessyee.com/article/6460-aerovironment-ceo-says-Golden-Dome
 
-北約擬推國防支出GDP 5%新標準：日韓缺考、亞太防衛態勢難同步
-https://www.businessyee.com/article/6448-nato-us-asia
+跨境電商攻城掠地！詹宏志：台灣本土電商還有苦日子
+https://www.businessyee.com/article/6461-pchome-2025-shareholders-meeting
 
-高額新型醫療需求增！保發中心董座黃泓智：傳統保險制度已難應付
-https://www.businessyee.com/article/6447-medcare-insurance-%20insufficient
+00929換股導致華碩漲停？復華投信澄清非單一ETF所致
+https://www.businessyee.com/article/6459-00929-change-stock-effect
 
-買在高點退休金虧20%你受得了嗎？退休規劃的股債配置策略
-https://www.businessyee.com/article/6446-Retirement-stock-bond-allocation-strategy
+作者告Anthropic用版權書訓練AI模型，法官：合理使用
+https://www.businessyee.com/article/6458-anthropic-copyrights
 
-富邦產旅平險升級！法定傳染病納保，海外染疫最高給付100萬元
-https://www.businessyee.com/article/6445-fuban-travel-med-insurance
+【中鋼法說會】示警Q3變數多：留意美關稅、洗產地與台幣升值衝擊
+https://www.businessyee.com/article/6457-cssc-earnings-q2
 
-自駕計程車Robotaxi終於上路，特斯拉飆漲8%
-https://www.businessyee.com/article/6444-Robotaxi
+赴日投保台壽旅平險，加保海外醫療保障自動放大 1.5 倍
+https://www.businessyee.com/article/6456-taiwan-life-travel-insurance-2025
 
-Cleaning Spring Properties Files
-https://feeds.feedblitz.com/~/920630711/0/baeldung
+2024獲利王台積電20連霸，金融業搶下5席，CRIF：獲利高度集中成新常態
+https://www.businessyee.com/article/6455-crif-2025-top-500
 
-Using the Model Context Protocol With Quarkus and Langchain4j
-https://feeds.feedblitz.com/~/920621477/0/baeldung
+【日月光股東會】全年先進封測營收看增1成，下半年營運慎樂觀
+https://www.businessyee.com/article/6454-ase
 
-Making TRAMP go Brrrr…
-https://coredumped.dev/2025/06/18/making-tramp-go-brrrr./
+Introduction to DiceDB
+https://feeds.feedblitz.com/~/920673785/0/baeldung
 
-how i use my terminal
-https://jyn.dev/how-i-use-my-terminal/
+One Reader with Multiple Processors and Writers in Spring Batch
+https://feeds.feedblitz.com/~/920673788/0/baeldung
 
-Firefox 140 Released With "Unload Tab", CSS Custom Highlighting API
-https://www.phoronix.com/news/Firefox-140
+How to Implement Retry for JUnit Tests
+https://feeds.feedblitz.com/~/920673074/0/baeldung
 
-Solving LinkedIn Queens with Haskell
-https://imiron.io/post/linkedin-queens/
+forbidden secrets of ancient X11 scaling technology revealed
+https://flak.tedunangst.com/post/forbidden-secrets-of-ancient-X11-scaling-technology-revealed
 
-A family of OpenSSL forks
-https://daniel.haxx.se/blog/2025/06/23/a-family-of-forks/
+Everyone should copy Thunderbird's donation model
+https://blog.cyrneko.eu/everyone-should-copy-thunderbird
 
-Skip the Design Patterns Architecting with Nouns and Verbs
-https://www.youtube.com/watch?v=v-N6r8lcsNc
+Nix/NixOS is the new “dotfiles golf” - and that’s awesome
+https://whynot.fail/nixos/the-new-dotfile-golf/
 
-Go should be more opinionated
-https://eltonminetto.dev/en/post/2025-06-19-go-more-opinated/
+Bazel’s Original Sins
+https://fzakaria.com/2025/06/22/bazel-s-original-sins
 
-Solving LinkedIn Queens using MiniZinc
-https://zayenz.se/blog/post/linkedin-queens/
+Fun with uv and PEP 723
+https://www.cottongeeks.com/articles/2025-06-24-fun-with-uv-and-pep-723
 
-alden: detachable terminal sessions without breaking scrollback
-https://ansuz.sooke.bc.ca/entry/389
+Build your first iOS app on Linux / Windows
+https://xtool.sh/tutorials/xtool/first-app
 
-Interesting Bits of Postgres Grammar
-https://steve.dignam.xyz/2025/06/20/interesting-bits-of-postgres-grammar/
+Finding a 27-year-old easter egg in the Power Mac G3 ROM
+https://www.downtowndougbrown.com/2025/06/finding-a-27-year-old-easter-egg-in-the-power-mac-g3-rom/
 
-Onion Services: Design, Protocol and Implementation
-https://media.ccc.de/v/gpn23-52-onion-services-design-protocol-and-implementation
+Fixes for five Lix CVEs
+https://lix.systems/blog/2025-06-24-lix-cves/
 
-Moonbase Alpha: That time NASA made a meme video game
-https://www.spacebar.news/moonbase-alpha-nasa-video-game/
+Nix Development Setup for Factor
+https://toast.al/posts/softwarecraft/2025-06-24_factor-nix-dev-environment/
 
-How to store Go pointers from assembly
-https://mazzo.li/posts/go-asm-pointers.html
+A Lisp adventure on the calm waters of the dead C
+https://mihaiolteanu.me/language-abstractions
 
-JSON evolution in Go: from v1 to v2
-https://antonz.org/go-json-v2/
+The Bitter Lesson is coming for Tokenization
+https://lucalp.dev/bitter-lesson-tokenization-and-blt
 
-Whitesmiths C compiler: One of the earliest commercial C compilers available
-https://github.com/hansake/Whitesmiths-C-compiler
+The one-more-re-nightmare compiler (2021)
+https://applied-langua.ge/posts/omrn-compiler.html
 
-Monotone Functions and Cache Lines
-https://buttondown.com/jaffray/archive/monotone-functions-and-cache-lines/
+Chromium's build system is switching from Ninja to Siso for external developers
+https://groups.google.com/a/chromium.org/g/chromium-dev/c/v-WOvWUtOpg
 
-IWP9 talk recordings
-https://youtube.com/playlist?list=PLEZEb6vVXSE-CV_vti2I6tJQNBn6f9swB
+What The Heck Just Happened?
+https://code.thheller.com/blog/shadow-cljs/2025/06/24/what-the-heck-just-happened.html
 
-Lifetime Dispersion and Generational GC: An Intellectual Abstract
-https://dl.acm.org/doi/10.1145/3735950.3735958
+Porting GPU shaders to Rust GPU 30x faster with AI
+https://rust-gpu.github.io/blog/2025/06/24/vulkan-shader-port/
 
-Fair(er) DRM GPU scheduler
-https://blogs.igalia.com/tursulin/fair-er-drm-gpu-scheduler/
+Using LXCFS together with Podman
+https://www.die-welt.net/2025/06/using-lxcfs-together-with-podman/
 
-Why Do Some Language Models Fake Alignment While Others Don’t?
-https://arxiv.org/html/2506.18032v1
+Waiting for SQL:202y: Vectors
+http://peter.eisentraut.org/blog/2025/06/24/waiting-for-sql-202y-vectors
 
-Call by Meaning (2014)
-https://tinlizzie.org/VPRIPapers/tr2014003_callbymeaning.pdf
+LR(1) parse-tables generator
+https://github.com/wldfngrs/parser-generator
+
+Blockdiff: How we built our own file format for VM disk snapshots
+https://cognition.ai/blog/blockdiff
