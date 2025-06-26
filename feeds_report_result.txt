@@ -1,25 +1,37 @@
-# 2025-06-25 09:21:02 Feeds Report 
+# 2025-06-26 09:19:36 Feeds Report 
 
-Daily Hacker News for 2025-06-24
-https://www.daemonology.net/hn-daily/2025-06-24.html
+Daily Hacker News for 2025-06-25
+https://www.daemonology.net/hn-daily/2025-06-25.html
 
-uvx 與 PEP 723 的組合
-https://blog.gslin.org/archives/2025/06/25/12486/uvx-%e8%88%87-pep-723-%e7%9a%84%e7%b5%84%e5%90%88/
+Let's Encrypt 簽 IP address 的計畫
+https://blog.gslin.org/archives/2025/06/26/12488/lets-encrypt-%e7%b0%bd-ip-address-%e7%9a%84%e8%a8%88%e7%95%ab/
 
-GUID 索引問題新解 - UUIDv7
-https://blog.darkthread.net/blog/uuidv7/
+勒索軟體Dire Wolf鎖定科技業、製造業而來，攻擊範圍涵蓋臺灣等11個國家
+https://www.ithome.com.tw/news/169740
 
-Mastercard攜手Chainlink，讓35億持卡人可直接購買加密貨幣
-https://www.ithome.com.tw/news/169719
+Nvidia分散式訓練框架Megatron LM存在高風險漏洞，攻擊者可用於注入惡意程式碼
+https://www.ithome.com.tw/news/169739
 
-Waymo與Uber合作於亞特蘭大推出無人駕駛計程車服務
-https://www.ithome.com.tw/news/169717
+美國開始評估以加密貨幣作為借貸抵押資產
+https://www.ithome.com.tw/news/169738
 
-不只瞄準GAI流程和資料整合需求，SAP更大揭各產品線AI發展藍圖
-https://www.ithome.com.tw/news/169716
+Meta也贏得以版權內容訓練AI的官司，但法官澄清是控方論點太薄弱
+https://www.ithome.com.tw/news/169737
 
-【資安日報】6月25日，勒索軟體Qilin提供加盟主法律咨詢服務引發資安界關注
-https://www.ithome.com.tw/news/169715
+國網中心新AI超級電腦Nano 5助攻，加速半導體研發、AI產業發展
+https://www.ithome.com.tw/news/169720
+
+Google開源命令列AI工具Gemini CLI
+https://www.ithome.com.tw/news/169736
+
+研究人員針對Citrix重大漏洞CVE-2025-5777提出警告，指出嚴重程度堪比Citrix Bleed
+https://www.ithome.com.tw/news/169735
+
+研究人員揭露新型態網釣手法FileFix，攻擊者濫用檔案上傳視窗執行惡意指令
+https://www.ithome.com.tw/news/169733
+
+Google DeepMind公布可執行在機器人端的Gemini模型　不需網路也能執行
+https://www.ithome.com.tw/news/169728
 
 惡意軟體Umbrella Stand、Shoe Rack鎖定Fortinet防火牆而來
 https://www.ithome.com.tw/news/169714
@@ -39,143 +51,134 @@ https://www.ithome.com.tw/news/169710
 微軟新增Windows 10 PC用戶2種取得延伸安全更新的方案、啟售企業ESU訂閱
 https://www.ithome.com.tw/news/169709
 
-Agent2Agent專案轉移至Linux基金會，續推動開放協定促進AI代理安全溝通
-https://www.ithome.com.tw/news/169698
+簡立峰：大語言模型從 Answer 來到 Action，正改變所有 Agent 服務
+https://www.inside.com.tw/article/38814-jian-lifu-says-large-language-models-are-evolving-from-answer-to-action-transforming-all-agent-services
 
-特斯拉無人駕駛計程車服務Robotaxi邁入公開測試
-https://www.ithome.com.tw/news/169692
+Anthropic 新利器：免部署，在 Claude 內直接打造、分享 AI 應用程式
+https://www.inside.com.tw/article/38813-claude-ai-app-building-feature
 
-IBM修補SIEM平臺QRader重大層級漏洞，若不處理攻擊者可用來執行任意命令
-https://www.ithome.com.tw/news/169691
+Meta 用書籍訓練 AI 法官判不侵權：合理使用，但爭議待解
+https://www.inside.com.tw/article/38812-meta-ai-book-training-fair-use-dispute
 
-【資安週報】0616~0620，伊朗國有銀行與加密貨幣交易所雙雙遇襲引發全球關注
-https://www.ithome.com.tw/news/169690
+美國法院認證！AI 公司用版權書籍訓練模型屬「合理使用」
+https://www.inside.com.tw/article/38810-anthropic-ai-book-training
 
-Mistral開源模型Small升級為3.2版
-https://www.ithome.com.tw/news/169689
+面對 AI 時代，Creative Commons 要推新專案「CC signals」平衡開放網路與智財權
+https://www.inside.com.tw/article/38811-creative-commons-debuts-cc-signals-a-framework-for-an-open-ai-ecosystem
 
-Xbox 加入 VR 行列！聯名 Meta 推 Quest 3S 價格更省錢，還要再合作 ROG
-https://www.inside.com.tw/article/38802-xbox-enters-vr-space-with-meta-partnership-on-budget-friendly-quest-3s-plans-further-collaboration-with-rog
+川普 T1 手機不再宣稱「美國製造」
+https://www.inside.com.tw/article/38809-trump-mobile-t1-phone-made-usa
 
-臉書又傳災情！大量社團無預警遭停權 疑與 AI 審查有關
-https://www.inside.com.tw/article/38801-facebook-hit-by-another-outage-as-many-groups-suspended-without-warning-possibly-due-to-ai-moderation
+【馬力歐陪你喝一杯】台灣即將邁入超高齡社會，保險業怎麼變？國泰人壽的創新健康行動
+https://www.inside.com.tw/article/38791-fitback
 
-GitHub 開發者嗨起來！微軟開源跨平台編輯器 Edit 睽違 33 年重出江湖
-https://www.inside.com.tw/article/38799-new-microsoft-edit
+Google 推出完全開源 AI Agent 新利器：Gemini CLI
+https://www.inside.com.tw/article/38806-google-gemini-cli
 
-研究指出小行星 2032 可能撞月球，威力宛如大型核爆波及衛星
-https://www.inside.com.tw/article/38800-study-shows-asteroid-2032-could-hit-moon-with-nuclear-blast-force-affecting-satellites
+特斯拉無人計程車正式上路！Midjourney 推出 AI 影片生成、「幫你作弊的AI」Cluely 再獲投資【塞掐 Side Chat】E353
+https://www.inside.com.tw/feature/side-chat/38805-side-chat-e353
 
-可全離線操作！Google 發表新款機器人專用 Gemini 模型
-https://www.inside.com.tw/article/38798-google-rolls-out-new-gemini-model-that-can-run-on-robots-locally
+純純 MIT AI Agent！Taiwan AI Labs 推出「FedGPT AgentTeam」平台
+https://www.inside.com.tw/article/38807-taiwan-ai-labs-fedgpt-agentteam
 
-Google 地球滿 20 年了！新增歷史街景回顧功能
-https://www.inside.com.tw/article/38797-google-earth-20-year-anniversary
+加拿大增加國防預算之政治意涵
+https://voicettank.org/20250625-2/
 
-手機快能連衛星通信了，台灣新開放 7 組衛星行動通信頻段申請
-https://www.inside.com.tw/article/38796-satellite-communication
+面對人口轉型要有新的思維
+https://voicettank.org/20250626-1/
 
-美國重新審查AUKUS之研析
-https://voicettank.org/20250624-3/
+【書摘】《歷史的追尋：從廟堂到民間》
+https://voicettank.org/20250626-2/
 
-2025香格里拉對話──各抒己見的平行喊話
-https://voicettank.org/20250624-2/
+【愛爾達法說會】2026世足、亞運、WBC轉播總代理全拿
+https://www.businessyee.com/article/6469-elta-2026
 
-一觸即發的邊緣政策時代：台灣人的避難包要裝什麼
-https://voicettank.org/20250624-1/
+【聽進理投】別光準備防災包， 你的資產也要防災備戰！
+https://www.businessyee.com/article/6468-ep131
 
-美國財經名嘴：DeepSeek威脅退燒、AI 類股重啟漲勢！
-https://www.businessyee.com/article/6463-jim-cramer-ai-stocks-beats-DeepSeek-worries
+【NVIDIA股東會】黃仁勳：與台積電、鴻海、緯創、矽品合作，首次在美國打造完整Blackwell系統
+https://www.businessyee.com/article/6467-NVIDIA-Shareholder-Meeting
 
-川普為何不爽Fed不降息？數據：美國通膨疑慮低
-https://www.businessyee.com/article/6462-Fed-Rate-Analysis
+首檔納入比特幣ETF商品！富邦「雙核心戰略」多重資產基金8/4開募
+https://www.businessyee.com/article/6466-fuban-bitcoin-etf
 
-美國無人機大廠AeroVironment執行長：我們握有打造「金穹系統」的關鍵能力
-https://www.businessyee.com/article/6460-aerovironment-ceo-says-Golden-Dome
+台灣ETF赴日掛牌鋪路！國泰投信與大和資產管理簽訂合作意向書
+https://www.businessyee.com/article/6465-cathay-etf-daiwa-asset-management
 
-跨境電商攻城掠地！詹宏志：台灣本土電商還有苦日子
-https://www.businessyee.com/article/6461-pchome-2025-shareholders-meeting
+保溫杯？是冰敷罐！Amazon今夏超熱賣：Peacock「冰鎮魔法瓶」清涼續航16小時
+https://www.businessyee.com/article/6464-peacock-ice-pack-series
 
-00929換股導致華碩漲停？復華投信澄清非單一ETF所致
-https://www.businessyee.com/article/6459-00929-change-stock-effect
+Hibernate ORM With Panache
+https://feeds.feedblitz.com/~/920734664/0/baeldung~Hibernate-ORM-With-Panache
 
-作者告Anthropic用版權書訓練AI模型，法官：合理使用
-https://www.businessyee.com/article/6458-anthropic-copyrights
+Abusing copyright strings to trick software into thinking it's running on your competitor's PC
+https://devblogs.microsoft.com/oldnewthing/20250624-00/?p=111299
 
-【中鋼法說會】示警Q3變數多：留意美關稅、洗產地與台幣升值衝擊
-https://www.businessyee.com/article/6457-cssc-earnings-q2
+How to Write Compelling Release Announcements
+https://refactoringenglish.com/chapters/release-announcements/
 
-赴日投保台壽旅平險，加保海外醫療保障自動放大 1.5 倍
-https://www.businessyee.com/article/6456-taiwan-life-travel-insurance-2025
+QEMU: define policy forbidding use of AI code generators
+https://github.com/qemu/qemu/commit/3d40db0efc22520fa6c399cf73960dced423b048
 
-2024獲利王台積電20連霸，金融業搶下5席，CRIF：獲利高度集中成新常態
-https://www.businessyee.com/article/6455-crif-2025-top-500
+Gemini CLI: your open-source AI agent
+https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/
 
-【日月光股東會】全年先進封測營收看增1成，下半年營運慎樂觀
-https://www.businessyee.com/article/6454-ase
+Web Embeddable Common Lisp
+https://turtleware.eu/static/paste/wecl-test-gl/main.html
 
-Introduction to DiceDB
-https://feeds.feedblitz.com/~/920673785/0/baeldung
+Why Go Rocks for Building a Lua Interpreter
+https://www.zombiezen.com/blog/2025/06/why-go-rocks-for-building-lua-interpreter/
 
-One Reader with Multiple Processors and Writers in Spring Batch
-https://feeds.feedblitz.com/~/920673788/0/baeldung
+Printing the web: making webpages look good on paper
+https://piccalil.li/blog/printing-the-web-making-webpages-look-good-on-paper/
 
-How to Implement Retry for JUnit Tests
-https://feeds.feedblitz.com/~/920673074/0/baeldung
+PNG is back
+https://www.programmax.net/articles/png-is-back/
 
-forbidden secrets of ancient X11 scaling technology revealed
-https://flak.tedunangst.com/post/forbidden-secrets-of-ancient-X11-scaling-technology-revealed
+Deep down the rabbit hole: Bash, OverlayFS, and a 30-year-old surprise
+https://sigma-star.at/blog/2025/06/deep-down-the-rabbit-hole-bash-overlayfs-and-a-30-year-old-surprise/
 
-Everyone should copy Thunderbird's donation model
-https://blog.cyrneko.eu/everyone-should-copy-thunderbird
+JavaScript Chose Violence
+https://martinrue.com/javascript-chose-violence
 
-Nix/NixOS is the new “dotfiles golf” - and that’s awesome
-https://whynot.fail/nixos/the-new-dotfile-golf/
+Getting ready to issue IP address certificates
+https://community.letsencrypt.org/t/getting-ready-to-issue-ip-address-certificates/238777
 
-Bazel’s Original Sins
-https://fzakaria.com/2025/06/22/bazel-s-original-sins
+Notes on type inference and polymorphism
+https://blog.snork.dev/posts/notes-on-type-inference-and-polymorphism.html
 
-Fun with uv and PEP 723
-https://www.cottongeeks.com/articles/2025-06-24-fun-with-uv-and-pep-723
+The best interfaces we never built
+https://www.chrbutler.com/the-best-interfaces-we-never-built
 
-Build your first iOS app on Linux / Windows
-https://xtool.sh/tutorials/xtool/first-app
+Coding in a material world
+https://deadsimpletech.com/blog/material_girl
 
-Finding a 27-year-old easter egg in the Power Mac G3 ROM
-https://www.downtowndougbrown.com/2025/06/finding-a-27-year-old-easter-egg-in-the-power-mac-g3-rom/
+Box combinators
+https://mmapped.blog/posts/41-box-combinators
 
-Fixes for five Lix CVEs
-https://lix.systems/blog/2025-06-24-lix-cves/
+What's new in Gleam 1.11
+https://www.youtube.com/watch?v=AKIZG0Dq3Bc
 
-Nix Development Setup for Factor
-https://toast.al/posts/softwarecraft/2025-06-24_factor-nix-dev-environment/
+How much code does that proc macro generate?
+https://nnethercote.github.io/2025/06/26/how-much-code-does-that-proc-macro-generate.html
 
-A Lisp adventure on the calm waters of the dead C
-https://mihaiolteanu.me/language-abstractions
+OpenAI Charges by the Minute, So Make the Minutes Shorter
+https://george.mand.is/2025/06/openai-charges-by-the-minute-so-make-the-minutes-shorter/
 
-The Bitter Lesson is coming for Tokenization
-https://lucalp.dev/bitter-lesson-tokenization-and-blt
+Swift Android Workgroup
+https://www.swift.org/android-workgroup/
 
-The one-more-re-nightmare compiler (2021)
-https://applied-langua.ge/posts/omrn-compiler.html
+A CRDT-based Messenger in 12 Lines of Bash Using a Synced Folder
+https://holdtherobot.com/blog/crdt-messenger-in-12-lines-of-bash/
 
-Chromium's build system is switching from Ninja to Siso for external developers
-https://groups.google.com/a/chromium.org/g/chromium-dev/c/v-WOvWUtOpg
+Docs for AI agents
+https://technicalwriting.dev/ai/agents/
 
-What The Heck Just Happened?
-https://code.thheller.com/blog/shadow-cljs/2025/06/24/what-the-heck-just-happened.html
+Speculative Optimizations for WebAssembly using Deopts and Inlining
+https://v8.dev/blog/wasm-speculative-optimizations
 
-Porting GPU shaders to Rust GPU 30x faster with AI
-https://rust-gpu.github.io/blog/2025/06/24/vulkan-shader-port/
+Reading NFC Passport Chips in Linux
+https://shkspr.mobi/blog/2025/06/reading-nfc-passport-chips-in-linux/
 
-Using LXCFS together with Podman
-https://www.die-welt.net/2025/06/using-lxcfs-together-with-podman/
-
-Waiting for SQL:202y: Vectors
-http://peter.eisentraut.org/blog/2025/06/24/waiting-for-sql-202y-vectors
-
-LR(1) parse-tables generator
-https://github.com/wldfngrs/parser-generator
-
-Blockdiff: How we built our own file format for VM disk snapshots
-https://cognition.ai/blog/blockdiff
+Introducing Northguard and Xinfra: scalable log storage at LinkedIn
+https://www.linkedin.com/blog/engineering/infrastructure/introducing-northguard-and-xinfra
