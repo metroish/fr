@@ -1,34 +1,16 @@
-# 2025-06-27 09:19:06 Feeds Report 
+# 2025-06-28 09:17:47 Feeds Report 
 
-Daily Hacker News for 2025-06-26
-https://www.daemonology.net/hn-daily/2025-06-26.html
+Daily Hacker News for 2025-06-27
+https://www.daemonology.net/hn-daily/2025-06-27.html
 
-搭配8個輝達B200，AWS新款頂級GPU執行個體上線
-https://www.ithome.com.tw/review/169732
+XSLT
+https://blog.gslin.org/archives/2025/06/28/12491/xslt/
 
-外傳Meta挖角OpenAI人才，打算買下開發語音AI的PlayAI
-https://www.ithome.com.tw/news/169781
+使用 OpenAI 的語音轉文字 API 的省錢方法：加速語音
+https://blog.gslin.org/archives/2025/06/27/12490/%e4%bd%bf%e7%94%a8-openai-%e7%9a%84%e8%aa%9e%e9%9f%b3%e8%bd%89%e6%96%87%e5%ad%97-api-%e7%9a%84%e7%9c%81%e9%8c%a2%e6%96%b9%e6%b3%95%ef%bc%9a%e5%8a%a0%e9%80%9f%e8%aa%9e%e9%9f%b3/
 
-蘋果變更歐盟App Store規定以符合數位市場法令，將開放自App Store以外下載程式
-https://www.ithome.com.tw/news/169780
-
-商用軟體AI化的競賽開跑
-https://www.ithome.com.tw/voice/169778
-
-自然語言查詢網站的新技術NLWeb，真人與AI代理都能用
-https://www.ithome.com.tw/news/169776
-
-從生成式AI到代理式AI，微軟的開放式Agentic Web新戰略
-https://www.ithome.com.tw/news/169774
-
-微軟如何解放AI代理潛力
-https://www.ithome.com.tw/article/169777
-
-【資安日報】6月27日，思科修補ISE兩項滿分資安漏洞受到高度關注
-https://www.ithome.com.tw/news/169773
-
-65臺Exchange Server遭鎖定，駭客埋入鍵盤側錄工具，企圖挖掘用戶帳密資料
-https://www.ithome.com.tw/news/169772
+為何悠遊卡這麼容易被破解，連高中生也會？
+https://blog.darkthread.net/blog/easycard-hacking/
 
 Salesforce執行長Marc Benioff宣稱AI已完成該公司3成以上的工作
 https://www.ithome.com.tw/news/169770
@@ -54,134 +36,101 @@ https://www.ithome.com.tw/news/169763
 Citrix修補NetScaler重大層級的記憶體溢位漏洞，並指出已有遭到利用的情況
 https://www.ithome.com.tw/news/169755
 
-蔡祈岩：不只培訓AI人才，臺灣要善用開源創造國際影響力
-https://www.ithome.com.tw/news/169758
+蘋果重押《F1電影》搶攻大銀幕！分析師看好 Apple TV+ 與品牌曝光效應
+https://www.inside.com.tw/article/38838-f1-movie-apple-brad-pitt
 
-Google開源命令列AI工具Gemini CLI
-https://www.ithome.com.tw/news/169736
+英特爾陳立武裁員大刀砍向管理層！首席策略長 6 月底離職
+https://www.inside.com.tw/article/38837-intels-top-strategy-officer-depart-this-month
 
-研究人員針對Citrix重大漏洞CVE-2025-5777提出警告，指出嚴重程度堪比Citrix Bleed
-https://www.ithome.com.tw/news/169735
+AI 聊天機器人成心理支持新管道？研究：與 Claude 對話能改善情緒狀態
+https://www.inside.com.tw/article/38836-ai-chatbot-emotional-support-claude-conversation-improves-mood-study
 
-研究人員揭露新型態網釣手法FileFix，攻擊者濫用檔案上傳視窗執行惡意指令
-https://www.ithome.com.tw/news/169733
+【影片】Tesla 完成首次無人駕駛交車服務！馬斯克：全程無遠端操控介入
+https://www.inside.com.tw/article/38835-tesla-autonomous-delivery-milestone-no-human-intervention
 
-投資下一代，就是投資永續的未來：台灣世界展望會「籃海計畫」，以企業 ESG 啟動生命轉變的可能
-https://www.inside.com.tw/article/38759-worldvision
+微軟 AI 晶片開發受挫，新世代 Maia 量產延至 2026 年落後競爭對手
+https://www.inside.com.tw/article/38834-microsoft-ai-chip-development-setback-maia-production-delayed-2026-behind-competitors
 
-「別碰我的車！」為何車廠集體拒絕 Apple CarPlay Ultra？
-https://www.inside.com.tw/article/38827-dont-touch-my-car-why-automakers-are-rejecting-apple-carplay-ultra
+OpenAI 改採 Google AI 晶片降成本，兩大 AI 巨頭展開意外合作
+https://www.inside.com.tw/article/38833-openai-adopts-google-tpu-chips-nvidia-alternative
 
-美國宣稱：晶片管制已經有效抑制 DeepSeek 發展
-https://www.inside.com.tw/article/38826-deepseek-progress-stalled
+CNEX 共同創辦人暨董事長 蔣顯斌：台灣半導體護國神山如何崛起？造山者紀錄片背後的革命情感與拍攝過程中的全球產業變局【塞掐 Side Chat】E354
+https://www.inside.com.tw/feature/side-chat/38832-side-chat-e354
 
-平台經濟崛起：從 Uber Eats 與 foodpanda 併購案看台灣勞動市場趨勢
-https://www.inside.com.tw/article/38825-platform-economy-rise-taiwan-labor-market-trends-from-uber-eats-foodpanda-merger-case
+快速理解 SK 海力士、三星、美光三強的 HBM 記憶體大戰
+https://www.inside.com.tw/article/38818-hbm-market-leaders-sk-hynix-samsung-micron
 
-Windows 藍白當機畫面將走入歷史，未來改以「黑底白字」呈現
-https://www.inside.com.tw/article/38824-windows-bsod-replaced
+AI商業轉型在台灣與國際
+https://voicettank.org/20250627-1/
 
-得手數十萬元！高中生破解悠遊卡晶片，當提款卡刷
-https://www.inside.com.tw/article/38823-easy-card-hacking
+【書摘】《不動用武器的戰爭：資源、貿易、數據，交織全球經濟大戰略》
+https://voicettank.org/20250627-2/
 
-有 Gemini 加持！Google Photos 推出升級版 AI 搜尋功能
-https://www.inside.com.tw/article/38822-google-photos-upgraded-ai-search-improves-speed-user-experience
+【好險有聽】關於癌症險該知道的事（下）
+https://www.businessyee.com/article/6481-ep36
 
-DeepSeek 涉協助中共軍情，美國會推新法案阻絕中國 AI
-https://www.inside.com.tw/article/38819-deepseek-ban
+學歷不好等於發展不好？4招職場逆襲心法，突破學歷瓶頸掌握人生
+https://www.businessyee.com/article/6480-Overcome-adversity
 
-對標特斯拉 Model Y！小米 YU7 正式發售售價人民幣 25.39 萬起
-https://www.inside.com.tw/article/38821-xiaomi-yu7-launches-to-rival-tesla-model-y-starting-at-rmb-253900
+New Features in Java 25
+https://feeds.feedblitz.com/~/920832566/0/baeldung
 
-衝著 Meta 來！小米也跟進智慧眼鏡市場推出 AI 眼鏡
-https://www.inside.com.tw/article/38820-xiaomi-takes-on-meta-with-launch-of-its-own-ai-smart-glasses
+Go is an 80/20 language
+https://blog.kowalczyk.info/article/d-2025-06-26/go-is-8020-language.html
 
-群創宣布收購日廠Pioneer案：台日面板產業的版圖重組與轉型挑戰
-https://www.businessyee.com/article/6479-innolux-pioneer-carux
+Cross-compiling Common Lisp for Windows
+https://www.fosskers.ca/en/blog/cl-windows
 
-川普對等關稅暫緩期7/9屆滿 白宮：或許會延長
-https://www.businessyee.com/article/6478-tariff-trump
+Richard Feldman on new language adoption in the LLM age
+https://youtu.be/ZsBHc-J9f8o
 
-【Nike財報】有能力消化關稅，盤後飆10%
-https://www.businessyee.com/article/6477-nike-earnings
+A Newbie's First Contribution to (Rust for) Linux
+https://blog.buenzli.dev/rust-for-linux-first-contrib/
 
-壽險6月財報有轉機！金管會三大暫行措施拚本月適用
-https://www.businessyee.com/article/6476-fsc-help-life-insurance-financial-loss
+Android phones could soon warn you of “Stingrays” snooping on your communications
+https://arstechnica.com/gadgets/2025/06/future-android-phones-could-warn-you-about-data-stealing-fake-cell-towers/
 
-新台幣5月強升6.9％！壽險業單月虧損千億元，歷來最慘
-https://www.businessyee.com/article/6475-life-insurance-result-2025-may
+Parameterized types in C using the new tag compatibility rule
+https://nullprogram.com/blog/2025/06/26/
 
-Amazon JP熱銷｜暑假遊日神隊友！ecoco Wi-Fi 機：免月租、流量用一年，回台還能當防災備援
-https://www.businessyee.com/article/6474-ecoco-wi-fi-japan
+Conferences, Clarity, and Smokescreens
+https://infrequently.org/2025/06/conferences-clarity-and-smokescreens/
 
-金控法禁止非合意併購？金管會澄清公開收購仍可行
-https://www.businessyee.com/article/6473--financial-holding-merge-act-query
+What are you doing this weekend?
+https://lobste.rs/s/kwrdic/what_are_you_doing_this_weekend
 
-高齡族群交通事故傷亡增！金管會提醒：近一成機車未投保強制險
-https://www.businessyee.com/article/6472-Vehicle-Compulsory-insurance-2025
+Structuring Arrays with Algebraic Shapes
+https://dl.acm.org/doi/abs/10.1145/3736112.3736141
 
-英特爾啟動7月裁員潮：車用部門確定關閉！
-https://www.businessyee.com/article/6471-Intel-shut-down-automotive-business
+Bcachefs may be headed out of the kernel
+https://lwn.net/Articles/1027289/
 
-比亞迪趁勢崛起！特斯拉歐洲銷量連5月下滑，消費者改轉向中國電動車品牌
-https://www.businessyee.com/article/6470-teslas-european-car-sales-fall
+My Lights Run on Bash
+https://kramkow.ski/article/2025/06/27/my_lights_run_on_bash.html
 
-Java Weekly, Issue 600
-https://feeds.feedblitz.com/~/920803802/0/baeldung~Java-Weekly-Issue
+Python can run Mojo now
+https://koaning.io/posts/giving-mojo-a-spin/
 
-Announcing Rust 1.88.0
-https://blog.rust-lang.org/2025/06/26/Rust-1.88.0/
+LispmFPGA: the goal of this project is to create a small Lisp-Machine in an FPGA
+http://www.aviduratas.de/lisp/lispmfpga/index.html
 
-New zine: The Secret Rules of the Terminal
-https://jvns.ca/blog/2025/06/24/new-zine--the-secret-rules-of-the-terminal/
+Memory Safety is Merely Table Stakes: Safe Interactions with Foreign Languages through Omniglot
+https://www.usenix.org/publications/loginonline/memory-safety-merely-table-stakes
 
-RSS Server Side Reader
-https://matklad.github.io/2025/06/26/rssssr.html
+Transmitting data via ultrasound without any special equipment
+https://halcy.de/blog/2025/06/27/transmitting-data-via-ultrasound-without-any-special-equipment/
 
-Apple announces sweeping App Store changes in the EU
-https://9to5mac.com/2025/06/26/apple-announces-sweeping-app-store-changes-in-the-eu/
+Run coverage on tests
+https://hugovk.dev/blog/2025/run-coverage-on-tests/
 
-Ticket-Driven Development: The Fastest Way to Go Nowhere
-https://thecynical.dev/posts/ticket-driven-development/
+omarchy: Opinionated Arch/Hyprland Setup
+https://github.com/basecamp/omarchy
 
-Adding a trash can to Linux with trash-cli
-https://ittavern.com/adding-a-trash-can-to-linux-with-trash-cli/
+Guidelines for buildable and testable code examples
+https://pigweed.dev/docs/contributing/docs/examples.html
 
-You Don’t Own the Word “Freedom”: A Full-Burn Response to the GNU/Linux Comment That Tried to Gatekeep Me Off My Own Machine
-https://fireborn.mataroa.blog/blog/you-dont-own-the-word-freedom-a-full-burn-response-to-the-gnulinux-comment-that-tried-to-gatekeep-me-off-my-own-machine/
+Shell startup scripts (2020)
+https://blog.flowblok.id.au/2013-02/shell-startup-scripts.html
 
-"Why is the Rust compiler so slow?"
-https://sharnoff.io/blog/why-rust-compiler-slow
-
-Slightly better named character reference tokenization than Chrome, Safari, and Firefox
-https://www.ryanliptak.com/blog/better-named-character-reference-tokenization/
-
-Cross-Compiling 10,000+ Rust CLI Crates Statically
-https://blog.pkgforge.dev/cross-compiling-10000-rust-cli-crates-statically
-
-Simplifying Vulkan Synchronization
-https://www.khronos.org/blog/so-long-image-layouts-simplifying-vulkan-synchronisation
-
-Go 1.25 interactive tour
-https://antonz.org/go-1-25/
-
-No Time To Learn (Web) Framework X
-https://brainbaking.com/post/2025/06/no-time-to-learn-web-framework-x/
-
-GCC 15 Continuously Improving AArch64
-https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/gcc-15-continuously-improving
-
-Matrix v1.15 release
-https://matrix.org/blog/2025/06/26/matrix-v1.15-release/
-
-What UI first distinguished radio buttons from checkboxes with circles and squares?
-https://retrocomputing.stackexchange.com/questions/31806/what-ui-first-distinguished-radio-buttons-from-checkboxes-with-circles-and-squar
-
-Bitsets match regular expressions, compactly (2013)
-https://pvk.ca/Blog/2013/06/23/bitsets-match-regular-expressions/
-
-Adaptive, simplified design system colors
-https://www.gfor.rest/blog/advanced-design-utils-colors
-
-Weird expressions in rust
-https://www.wakunguma.com/blog/rust-weird-expr
+Wait… Who’s the New CEO of Commodore?! • Let's Buy Commodore Part 2
+https://www.youtube.com/watch?v=ke-Ao-CpI7E
