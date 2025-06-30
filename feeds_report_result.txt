@@ -1,52 +1,148 @@
-# 2025-06-29 09:17:44 Feeds Report 
+# 2025-06-30 09:21:12 Feeds Report 
 
-Daily Hacker News for 2025-06-28
-https://www.daemonology.net/hn-daily/2025-06-28.html
+Daily Hacker News for 2025-06-29
+https://www.daemonology.net/hn-daily/2025-06-29.html
 
-Weekly Ask Hacker News for 2025-06-22 -- 2025-06-28
-http://www.daemonology.net/hn-weekly-ask/2025-06-28.html
+在 Wayland 上跑整套 X11 環境的 Wayback
+https://blog.gslin.org/archives/2025/06/30/12493/%e5%9c%a8-wayland-%e4%b8%8a%e8%b7%91%e6%95%b4%e5%a5%97-x11-%e7%92%b0%e5%a2%83%e7%9a%84-wayback/
 
-Rust Compiler 的加速方法
-https://blog.gslin.org/archives/2025/06/28/12492/rust-compiler-%e7%9a%84%e5%8a%a0%e9%80%9f%e6%96%b9%e6%b3%95/
+資料平臺Data Commons釋出新版Python函式庫，跨組織整合公開資料更方便
+https://www.ithome.com.tw/news/169806
 
-知識補充包 - 將電腦校時到微秒等級之 PTP 協定
-https://blog.darkthread.net/blog/ptp/
+Scattered Spider鎖定北美航太、交通產業而來
+https://www.ithome.com.tw/news/169804
 
-I really like the Helix editor
-https://herecomesthemoon.net/2025/06/i-like-helix/
+駭客竄改DeepSeek安裝程式以散布惡意程式Sainbox RAT
+https://www.ithome.com.tw/news/169801
 
-Solving `UK Passport Application` with Haskell
-https://jameshaydon.github.io/passport/
+創用CC組織啟動CC Signals新計畫，目標完善AI時代資料共享規範
+https://www.ithome.com.tw/news/169796
 
-wayback: experimental X11 compatibility layer
-https://github.com/kaniini/wayback
+因應AI的到來，丹麥打算讓每個人都擁有自己特徵的著作權
+https://www.ithome.com.tw/news/169800
 
-Fil-C
-https://github.com/pizlonator/llvm-project-deluge
+Citrix NetScaler重大漏洞CitrixBleed 2疑似已出現攻擊行動
+https://www.ithome.com.tw/news/169799
 
-Computer and coding books from Usborne (1982-1985)
-https://usborne.com/us/books/computer-and-coding-books
+HPE推出4U尺寸GPU伺服器，機箱前段安裝8或10張雙寬GPU
+https://www.ithome.com.tw/review/169784
 
-EmacsConf 2025 Call for Participation
-https://emacsconf.org/2025/cfp/
+德國宣稱DeepSeek非法將個資傳送至中國，要求蘋果與Google將其下架
+https://www.ithome.com.tw/news/169798
 
-AI Manager - The Future of Management
-https://aimanagers.app
+流量被AI瓜分，Google推出變現工具Offerwall予出版商
+https://www.ithome.com.tw/news/169797
 
-Refurb weekend: Gremlin Blasto arcade board
-http://oldvcr.blogspot.com/2025/06/refurb-weekend-gremlin-blasto-arcade.html
+臺灣、日本遭遇APT攻擊活動Swan Vector鎖定，意圖透過履歷表與財務文件從事網釣
+https://www.ithome.com.tw/news/169788
 
-WebAssembly Troubles part 4: Microwasm (2019)
-http://troubles.md/microwasm/
+中國駭客Mustang Panda鎖定圖博而來，散布惡意軟體Pubload、Pubshell
+https://www.ithome.com.tw/news/169787
 
-The Medley Interlisp Project: Reviving a Historical Software System
-https://interlisp.org/documentation/young-ccece2025.pdf
+濫用組態不當的Docker API挖礦再度出現，這次駭客搭配洋蔥網路藏匿攻擊來源
+https://www.ithome.com.tw/news/169786
 
-Using the Internet without IPv4 connectivity
-https://jamesmcm.github.io/blog/no-ipv4/
+【資安週報】0623~0627，帳密資料外洩與DDoS攻擊的規模雙雙創下新高
+https://www.ithome.com.tw/news/169792
 
-Memory Safe Languages: Reducing Vulnerabilities in Modern Software Development
-https://media.defense.gov/2025/Jun/23/2003742198/-1/-1/0/CSI_MEMORY_SAFE_LANGUAGES_REDUCING_VULNERABILITIES_IN_MODERN_SOFTWARE_DEVELOPMENT.PDF
+Meta要求以用戶未發布的照片訓練AI
+https://www.ithome.com.tw/news/169791
 
-GPTuner: A Manual-Reading Database Tuning System via GPT-Guided Bayesian Optimization
-https://github.com/SolidLao/GPTuner
+Windows藍色死亡螢幕走入歷史 未來將改用黑色
+https://www.ithome.com.tw/news/169790
+
+鎖定MFT檔案傳輸系統MOVEit已知漏洞的攻擊行動升溫
+https://www.ithome.com.tw/news/169789
+
+Fintech周報第267期：花旗、摩根士丹利將和三大雲廠商合作制定專屬金融業的開源通用AI安控基準
+https://www.ithome.com.tw/news/169785
+
+蘋果傳將為 iOS 26 增加 2 未公開功能：AirPods 即時翻譯、Wi-Fi 登入同步！
+https://www.inside.com.tw/article/38847-apple-is-rumored-to-add-two-undisclosed-features-to-ios-26-airpods-instant-translation-and-wi-fi-login-synchronization
+
+Meta 一個月挖走 6 名員工！ OpenAI 高層怒嗆「像闖家門偷東西」
+https://www.inside.com.tw/article/38846-openai-meta-leadership-talent-rivalry
+
+核能是綠能嗎？在低碳與安全風險之間的論戰
+https://www.inside.com.tw/article/38839-is-nuclear-energy-green-the-ongoing-debate-between-low-carbon-and-safety-risks
+
+Apple 頭戴裝置大爆發！郭明錤：「7 款新品」明年起陸續登場
+https://www.inside.com.tw/article/38843-apple-working-on-7-head-mounted-products
+
+Anthropic 新實驗：Claude 究竟能否自主經營一間小商店？
+https://www.inside.com.tw/article/38845-anthropic-project-vend
+
+地球變火球！能量失衡 20 年翻倍，氣候變遷加速惡化恐成常態
+https://www.inside.com.tw/article/38844-earth-temperature-rising
+
+TikTok 在美不賣就禁！川普：已找到一群富豪買家，中國可能批准
+https://www.inside.com.tw/article/38842-tiktok-wealthy-buyer-group
+
+每年處理 25 萬輛電動車電池！Redwood 將廢棄電池重生為儲能金礦
+https://www.inside.com.tw/article/38841-redwood-materials-processes-250000-ev-batteries-annually-transforms-waste-into-energy-storage-goldmine
+
+美國大而美法案：是創新基礎的起手式，還是埋下監管失衡的風險種子？
+https://www.inside.com.tw/article/38831-bbba
+
+PChome 詹宏志看 2025 台灣電商的一苦一樂
+https://www.inside.com.tw/article/38840-pchome-chairman-views-on-taiwan-ecommerce-challenges-and-opportunities-in-2025
+
+是你嗎？國泰產險揭「三大用電NG行為」，恐釀住宅火災風險
+https://www.businessyee.com/article/6486-fire-use-ng-behavior
+
+TikTok在美「不賣就禁」 川普：已找到一群有錢買家
+https://www.businessyee.com/article/6484-TikTok
+
+7/9關稅大限將至！川普改口不展延，促各國儘速敲定協議
+https://www.businessyee.com/article/6483-triff-deadline
+
+暑假出國換匯熱！新台幣強升帶動日圓兌換量暴增300%
+https://www.businessyee.com/article/6482-jpy-to-twd-2025
+
+Tools I love: mise(-en-place)
+https://blog.vbang.dk/2025/06/29/tools-i-love-mise/
+
+Agile Was Never Your Problem
+https://thecynical.dev/posts/agile-was-never-your-problem/
+
+20 years of programming
+https://sidhion.com/blog/20_years/
+
+Generative AI’s crippling and widespread failure to induce robust models of the world
+https://garymarcus.substack.com/p/generative-ais-crippling-and-widespread
+
+Use keyword-only arguments in Python dataclasses
+https://chipx86.blog/2025/06/29/tip-use-keyword-only-arguments-in-python-dataclasses/
+
+I made my VM think it has a CPU fan
+https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html
+
+SQL Noir: Learn SQL by Solving Crimes
+https://www.sqlnoir.com/
+
+Using Podman hooks to mount persistent ZFS datasets into ephemeral Containers
+https://people.freebsd.org/~dch/posts/2025-06-27-oci-zfs/
+
+Bought myself an Ampere Altra system
+https://marcin.juszkiewicz.com.pl/2025/06/27/bought-myself-an-ampere-altra-system/
+
+RSS as my default web browser (for some stuff)
+https://neilzone.co.uk/2022/10/rss-as-my-default-web-browser-for-some-stuff/
+
+On Error Handling in Rust
+https://felix-knorr.net/posts/2025-06-29-rust-error-handling.html
+
+Python GIL Removal Reveals Second, Stronger GIL Behind It
+https://medium.com/@sebastiancarlos/pythons-gil-removal-reveals-second-stronger-gil-behind-it-cdb5b9b4e2b3
+
+A brief history of web browsers
+https://eclecticlight.co/2025/06/28/a-brief-history-of-web-browsers/
+
+Y Combinator (Math) Explained
+https://anish.ink/posts/ycombinator.html
+
+Zero Trust for Bring Your Own Cloud (BYOC)
+https://signoz.io/blog/zero-trust-bring-your-own-cloud
+
+Starlink, OpenWrt, and Eeros… Oh My
+https://btxx.org/posts/starlink-openwrt/
