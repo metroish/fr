@@ -1,28 +1,40 @@
-# 2025-07-01 09:20:59 Feeds Report 
+# 2025-07-02 09:20:55 Feeds Report 
 
-Daily Hacker News for 2025-06-30
-https://www.daemonology.net/hn-daily/2025-06-30.html
+Daily Hacker News for 2025-07-01
+https://www.daemonology.net/hn-daily/2025-07-01.html
 
-NTFS 資料夾之 130 萬魔咒
-https://blog.darkthread.net/blog/ntfs-130k-files-issue/
+CISA將Citrix NetScaler重大漏洞CVE-2025-6543列入KEV
+https://www.ithome.com.tw/news/169851
 
-竊資軟體Odyssey Stealer鎖定macOS使用者而來，透過ClickFix網釣散布
-https://www.ithome.com.tw/news/169828
+曾攻擊欣興電子的Sarcoma也攻擊非營利組織　取得瑞士政府資料
+https://www.ithome.com.tw/news/169850
 
-微軟Windows 11 25H2釋出預覽版 強調升級快速
-https://www.ithome.com.tw/news/169827
+Threads新增私訊及重點標記功能
+https://www.ithome.com.tw/news/169849
 
-微軟揭露北韓遠端IT工作者滲透全球企業的手法
-https://www.ithome.com.tw/news/169826
+Google修補允許駭客執行惡意程式碼的Chrome零時差漏洞
+https://www.ithome.com.tw/news/169848
 
-WinRAR修補目錄走訪漏洞，防止攻擊者濫用解壓縮植入惡意程式
-https://www.ithome.com.tw/news/169822
+Line Pay錢包停止iPASS MONEY倒數計時! 一卡通：明年起近700萬電支用戶全面移轉專用電支App
+https://www.ithome.com.tw/news/169846
 
-逾1,200臺Citrix NetScaler設備尚未修補CitrixBleed 2漏洞而曝險
-https://www.ithome.com.tw/news/169825
+Grammarly收購電子郵件新創Superhuman
+https://www.ithome.com.tw/news/169847
 
-祖克柏宣布成立超級智慧實驗室，主導Meta未來AI方向
-https://www.ithome.com.tw/news/169824
+防堵SIM卡交換攻擊，美國電信業者AT&amp;T祭出新措施Wireless Account Lock
+https://www.ithome.com.tw/news/169845
+
+Cloudflare將預設封鎖AI網頁爬蟲　除非付費給內容網站
+https://www.ithome.com.tw/news/169844
+
+竊資軟體GiftedCrook威脅加劇，從瀏覽器竊密成為情資收集工具
+https://www.ithome.com.tw/news/169843
+
+UI設計軟體業者Figma申請IPO
+https://www.ithome.com.tw/news/169842
+
+AI人才爭奪戰白熱化，年薪持續創新高
+https://www.ithome.com.tw/news/169841
 
 加拿大以國家安全為由，終止海康威視當地業務，政府機關與國有企業停用該廠牌設備
 https://www.ithome.com.tw/news/169823
@@ -36,158 +48,113 @@ https://www.ithome.com.tw/news/169819
 Google擴大整合Gemini AI套件與教育平臺Classroom
 https://www.ithome.com.tw/news/169818
 
-Freshworks提升IT與客戶服務體驗，強化AI、自動處理與協作
-https://www.ithome.com.tw/review/169421
+機器人數量即將追平人力？Amazon 倉儲已超過 100 萬台機器人
+https://www.inside.com.tw/article/38863-amazon-warehouse-robots-automation
 
-德國宣稱DeepSeek非法將個資傳送至中國，要求蘋果與Google將其下架
-https://www.ithome.com.tw/news/169798
+Cloudflare 推出新市集為 AI 爬蟲訂定費率，有望成為內容提供者新商模！
+https://www.inside.com.tw/article/38862-cloudflare-new-marketplace
 
-流量被AI瓜分，Google推出變現工具Offerwall予出版商
-https://www.ithome.com.tw/news/169797
+OpenAI 澄清：未計劃大規模採用 Google TPU！
+https://www.inside.com.tw/article/38861-openai-has-no-plan-to-use-tpu
 
-臺灣、日本遭遇APT攻擊活動Swan Vector鎖定，意圖透過履歷表與財務文件從事網釣
-https://www.ithome.com.tw/news/169788
+跟 Adobe 分手後，Figma 秘密申請 IPO
+https://www.inside.com.tw/article/38859-figma-files-for-ipo
 
-中國駭客Mustang Panda鎖定圖博而來，散布惡意軟體Pubload、Pubshell
-https://www.ithome.com.tw/news/169787
+矽谷正在流行拍「募資成功」影片
+https://www.inside.com.tw/article/38860-silicon-valley-trending-fundraising-success-videos
 
-濫用組態不當的Docker API挖礦再度出現，這次駭客搭配洋蔥網路藏匿攻擊來源
-https://www.ithome.com.tw/news/169786
+Sam Altman 抨擊 Meta AI 人才挖角狂潮：「傳教士會打敗傭兵！」
+https://www.inside.com.tw/article/38858-sam-altman-meta-ai-talent-poaching
 
-Fintech周報第267期：花旗、摩根士丹利將和三大雲廠商合作制定專屬金融業的開源通用AI安控基準
-https://www.ithome.com.tw/news/169785
+搶佔對話式 AI 搜尋流量！inline 推 AI 小助手訂位服務整合 LINE
+https://www.inside.com.tw/article/38857-iline-using-ai-to-help-with-restaurants-recommandation
 
-耐能智慧創辦人兼執行長劉峻誠：邊緣 AI Agent 是未來趨勢！
-https://www.inside.com.tw/feature/ai-agent-new-wave/38761-kneron-ai-agent-view
+2025年護衛軍刀多國聯合演習之研析
+https://voicettank.org/20250701-2/
 
-人工智慧新巨浪，台灣正身處 AI Agent 爆發臨界點
-https://www.inside.com.tw/feature/ai-agent-new-wave/38854-taiwan-ai-agent
+川普揚言重審馬斯克旗下企業政府補貼，特斯拉聞訊大跌 5%
+https://www.businessyee.com/article/6514-tesla-shares-tumble-trump-doge-elon-musks-subsidies
 
-如何用 AI 重塑企業工作流？專訪漸強實驗室 AI 發展顧問總監李昕頤
-https://www.inside.com.tw/feature/ai-agent-new-wave/38789-ai-agent-workflow
+業界首創！元大、台企銀存戶可透過中信 ATM 申辦網銀、無卡提款
+https://www.businessyee.com/article/6513-ctbc-atm-withdraw-nocard
 
-專為台灣用語、口音設計的 AI！聯發科推出語音辨識開源模型「MR Breeze ASR 25」
-https://www.inside.com.tw/article/38853-mediatek-research-mr-breeze-asr25
+強化保經代資安！金管會修法納入PIMS認證，未完成禁辦網路投保
+https://www.businessyee.com/article/6512-Insurance-broker-agent-pims
 
-外媒爆：蘋果考慮用 Anthropic 或 OpenAI 模型來驅動新版 AI Siri
-https://www.inside.com.tw/article/38850-apple-siri-anthropic-or-openai
+睽違四年重回OIU！國壽推指數型萬能壽「指享盈」，瞄準境外客戶
+https://www.businessyee.com/article/6511-cathay-oiu-Index-Linked-Universal-Life-Insurance
 
-祖克伯豪砸數千億美元成立「超級智慧部門」，大力挖角 AI 界明星
-https://www.inside.com.tw/article/38852-zuckerberg-announces-meta-superintelligence-effort-more-hires
+辦完威尼斯天價婚禮！貝佐斯再賣亞馬遜股票、套現7.3億美元
+https://www.businessyee.com/article/6510-jeff-bezos-sells-737-million
 
-Meta 廣告資訊揭露不全，數發部第 2 次開罰金額提高至 1500 萬元
-https://www.inside.com.tw/article/38851-meta-fined-again-by-taiwan-for-incomplete-ad-disclosure-penalty-raised-to-nt15-million
+Meta挖走OpenAI員工，CEO奧特曼：傳教士終將打敗傭兵！
+https://www.businessyee.com/article/6509-OpenAI-Meta-offer
 
-微軟 Windows 三年內默默流失 4 億台終端使用？
-https://www.inside.com.tw/article/38849-microsoft-windows-quietly-lost-400-million-endpoints-within-three-years
+聯博投等債入息主動ETF（00980D）7/14開募，採月配息、發行價20元
+https://www.businessyee.com/article/6508-00980D-ipo
 
-Uber 傳洽購小馬智行美國子公司，創辦人 Travis Kalanick 或將「曲線回歸」
-https://www.inside.com.tw/article/38848-uber-is-reportedly-in-talks-to-acquire-pony-ais-us-subsidiary-founder-travis-kalanick-may-make-a-curve-return
+國泰搶進高雄資產管理專區，21項創新試辦業務打造國際級一站式服務
+https://www.businessyee.com/article/6507-cathay-asia-asset-managment-hub
 
-礦坑中的金絲雀：伊朗女人1979年迄今未醒的一場惡夢
-https://voicettank.org/20250630-1/
+台達電69.5億買泰豐觀音廠 布局氫能等新事業
+https://www.businessyee.com/article/6506-delta
 
-國內不動產市場應謹慎管理中維持彈性
-https://voicettank.org/20250630-2/
+金管會鬆綁準備金運用，壽險下半年匯損壓力有望減輕
+https://www.businessyee.com/article/6505-insurance-exchange-loss-pressure
 
-重金聘各家AI頂尖人才！Meta重組AI業務建新部門「超級智慧實驗室」
-https://www.businessyee.com/article/6499-zuckerberg-creating-meta-superintelligence-labs
+using Sun Ray thin clients in 2025
+https://catstret.ch/202506/sun-ray-shenanigans/
 
-馬斯克怒批川普「大而美法案」徒增美國赤字，誓言建新政黨抵制！
-https://www.businessyee.com/article/6496-musk-trump-tax-bill-deficit
+You should delete tests
+https://andre.arko.net/2025/06/30/you-should-delete-tests/
 
-傳蘋果考慮使用Anthropic或OpenAI模型救Siri
-https://www.businessyee.com/article/6498-apple-siri-ai
+The Hell of FFIX Tetra Master
+https://xvw.lol/en/articles/tetra-master.html
 
-花大錢投資基建並凍結招募，亞馬遜押注AI重組勞動力
-https://www.businessyee.com/article/6497-Andy-Jassy-interview
+Introducing pay per crawl: enabling content owners to charge AI crawlers for access
+https://blog.cloudflare.com/introducing-pay-per-crawl/
 
-「我要存載具」！統一發票專屬獎500元再增開70萬組
-https://www.businessyee.com/article/6495-taiwan-receipt-lottery
+You MUST listen to RFC 2119
+https://ericwbailey.website/published/you-must-listen-to-rfc-2119/
 
-富邦投顧董座陳奕光：台股今年獲利下修至 4.3 兆元、年增 6.5%
-https://www.businessyee.com/article/6494-fuban-2025-q3-forecast-taiwan
+clamp / median / range
+https://dotat.at/@/2025-07-02-cmp.html
 
-急貶又急升！新台幣開盤升2.2分，早盤強漲逾6角
-https://www.businessyee.com/article/6492-ntdollar-appreciation
+OpenBao, the community fork of Vault, released v2.3.1 with namespaces
+https://github.com/openbao/openbao/releases/tag/v2.3.1
 
-富邦金首席經濟學家羅瑋示警：下半年美元資產恐面臨評價調整
-https://www.businessyee.com/article/6493-fuban-2025-q3-forecast
+Helix language
+https://github.com/helixlang/helix-lang
 
-搶攻先進製程？傳聯電擴大Intel美國合作，瞄準6奈米
-https://www.businessyee.com/article/6491-umc-intel-6nano
+Stream per agent session
+https://s2.dev/blog/agent-sessions
 
-終結失物焦慮！ELECOM卡片型追蹤器：五年免換電池，你的錢包專屬類AirTag！
-https://www.businessyee.com/article/6490-elecom-airtag
+From Python Programmer to Distributed Systems Researcher in 10 Years Without a PhD
+https://emptysqua.re/blog/from-python-programmer-to-distributed-systems-researcher-in-10-years/
 
-How to Fix Unknown Magic Byte Errors in Apache Kafka
-https://feeds.feedblitz.com/~/920970023/0/baeldung
+The web's broken deal with AI companies
+https://dri.es/the-webs-broken-deal-with-ai-companies
 
-Doing My Day Job on Chimera Linux
-https://www.wezm.net/v2/posts/2025/daily-driving-chimera-for-work/
+Emoji Kitchen - Browse Google's unique emoji combinations
+https://emojikitchen.dev/
 
-CVE-2025-32463 Vulnerability Advisory: Sudo chroot Elevation of Privilege
-https://www.stratascale.com/vulnerability-alert-CVE-2025-32463-sudo-chroot
+Parsing Layout, or: Haskell's Syntax is a Mess
+https://amelia.how/posts/parsing-layout.html
 
-That boolean should probably be something else
-https://ntietz.com/blog/that-boolean-should-probably-be-something-else/
+Software engineering with LLMs in 2025: reality check
+https://www.youtube.com/watch?v=EO3_qN_Ynsk
 
-How I Write Type Safe Generic Data Structures in C
-https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/
+Types of Types: Common to Exotic
+https://www.stephendiehl.com/posts/types_of_types/
 
-Google Developer Search Appliance – Proxmox Port
-https://archive.org/details/google-search-appliance-proxmox-40G-image-inside.tar
+c2rust: Migrate C code to Rust
+https://github.com/immunant/c2rust
 
-Reverse Engineering Vercel's BotID
-https://www.nullpt.rs/reversing-botid
+Alternative Blanket Implementations for a Single Rust Trait
+https://www.greyblake.com/blog/alternative-blanket-implementations-for-single-rust-trait/
 
-An update on improving passkey support in Linux
-https://www.iinuwa.xyz/blog/linux-passkeys-update/
+Animating Number Counters
+https://css-tricks.com/animating-number-counters/
 
-The role of the University is to resist AI
-https://www.danmcquillan.org/cpct_seminar.html
-
-Reflections on Haskell and Rust
-https://academy.fpblock.com/blog/rust-haskell-reflections/
-
-Tail Latency Might Matter More Than You Think
-https://brooker.co.za/blog/2021/04/19/latency.html
-
-Critical correctness bug in Lix
-https://lix.systems/blog/2025-06-27-lix-critical-bug/
-
-People Keep Inventing Prolly Trees
-https://www.dolthub.com/blog/2025-06-03-people-keep-inventing-prolly-trees/
-
-Orchestrating Edge AI workloads on a Jetson Orin Nano with Nomad
-https://atodorov.me/2025/06/27/orchestrating-edge-ai-workloads-on-a-jetson-orin-nano-with-nomad/
-
-History of UNIX Manpages
-https://manpages.bsd.lv/history.html
-
-Zig Community Mirrors
-https://ziglang.org/download/community-mirrors/
-
-Caching is an Abstraction, not an Optimization
-https://buttondown.com/jaffray/archive/caching-is-an-abstraction-not-an-optimization/
-
-The provenance memory model for C
-https://gustedt.wordpress.com/2025/06/30/the-provenance-memory-model-for-c/
-
-Making Rails delegated_type’s clearer
-https://kaspth.com/posts/making-rails-delegated_types-clearer
-
-What are you doing this week?
-https://lobste.rs/s/ksacpj/what_are_you_doing_this_week
-
-What is isomorphism?
-https://ugbasic.iwashere.eu/manual/isomorphism
-
-Maestro now supports GCC
-https://blog.lenot.re/a/compiler
-
-llvm: InstCombine: improve optimizations for ceiling division with no overflow—a PR by Alex Gaynor and Claude Code
-https://simonwillison.net/2025/Jun/30/llvm/
-
-Denmark begins drafting women + 10 more stories
-https://newsletter.newsminimalist.com/p/denmark-begins-drafting-women-10-more-stories
+Finding and understanding bugs in C compilers (2011)
+https://www.cse.unr.edu/~fredh/class/460/S2013/class/Papers/tanna.pdf
