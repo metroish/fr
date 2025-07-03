@@ -1,31 +1,40 @@
-# 2025-07-02 09:20:55 Feeds Report 
+# 2025-07-03 09:19:43 Feeds Report 
 
-Daily Hacker News for 2025-07-01
-https://www.daemonology.net/hn-daily/2025-07-01.html
+Daily Hacker News for 2025-07-02
+https://www.daemonology.net/hn-daily/2025-07-02.html
 
-CISA將Citrix NetScaler重大漏洞CVE-2025-6543列入KEV
-https://www.ithome.com.tw/news/169851
+各家飛機即時資訊網站用的 MLAT，定位飛機位置
+https://blog.gslin.org/archives/2025/07/03/12496/%e5%90%84%e5%ae%b6%e9%a3%9b%e6%a9%9f%e5%8d%b3%e6%99%82%e8%b3%87%e8%a8%8a%e7%b6%b2%e7%ab%99%e7%94%a8%e7%9a%84-mlat%ef%bc%8c%e5%ae%9a%e4%bd%8d%e9%a3%9b%e6%a9%9f%e4%bd%8d%e7%bd%ae/
 
-曾攻擊欣興電子的Sarcoma也攻擊非營利組織　取得瑞士政府資料
-https://www.ithome.com.tw/news/169850
+Figma 送出 Form S-1
+https://blog.gslin.org/archives/2025/07/03/12495/figma-%e9%80%81%e5%87%ba-form-s-1/
 
-Threads新增私訊及重點標記功能
-https://www.ithome.com.tw/news/169849
+前端小技 - 免 JavaScript 的刪除確認設計
+https://blog.darkthread.net/blog/no-js-del-confirm-chkbox/
 
-Google修補允許駭客執行惡意程式碼的Chrome零時差漏洞
-https://www.ithome.com.tw/news/169848
+法國企業組織遭中國駭客UNC5174鎖定，透過Ivanti CSA設備零時差漏洞入侵
+https://www.ithome.com.tw/news/169870
 
-Line Pay錢包停止iPASS MONEY倒數計時! 一卡通：明年起近700萬電支用戶全面移轉專用電支App
-https://www.ithome.com.tw/news/169846
+澳洲航空被駭，危及600萬客戶資料
+https://www.ithome.com.tw/news/169869
 
-Grammarly收購電子郵件新創Superhuman
-https://www.ithome.com.tw/news/169847
+研究宣稱Google刻意低估其碳排放量
+https://www.ithome.com.tw/news/169868
 
-防堵SIM卡交換攻擊，美國電信業者AT&amp;T祭出新措施Wireless Account Lock
-https://www.ithome.com.tw/news/169845
+駭客盯上Linux伺服器，惡意植入TinyProxy、Sing-Box工具作代理伺服器
+https://www.ithome.com.tw/news/169865
 
-Cloudflare將預設封鎖AI網頁爬蟲　除非付費給內容網站
-https://www.ithome.com.tw/news/169844
+防止CrowdStrike事件重演　微軟可能不再讓第三方防毒軟體存取Windows核心
+https://www.ithome.com.tw/news/169866
+
+奧義智慧攜手臺灣AI業者APMIC，打造新世代AI防火牆安全模組
+https://www.ithome.com.tw/news/169867
+
+微軟裁員約9,000人 全球受影響
+https://www.ithome.com.tw/news/169864
+
+已終止支援的D-Link DIR-816路由器含有遠端攻擊等多個重大漏洞
+https://www.ithome.com.tw/news/169854
 
 竊資軟體GiftedCrook威脅加劇，從瀏覽器竊密成為情資收集工具
 https://www.ithome.com.tw/news/169843
@@ -33,128 +42,125 @@ https://www.ithome.com.tw/news/169843
 UI設計軟體業者Figma申請IPO
 https://www.ithome.com.tw/news/169842
 
-AI人才爭奪戰白熱化，年薪持續創新高
-https://www.ithome.com.tw/news/169841
+SoftBank 以 65 億美元收購 Ampere Computing，恐面臨 FTC 長時間審查
+https://www.inside.com.tw/article/38874-softbank-ampere-acquisition-challenge
 
-加拿大以國家安全為由，終止海康威視當地業務，政府機關與國有企業停用該廠牌設備
-https://www.ithome.com.tw/news/169823
+Google、Xreal 合作智慧眼鏡「Project Aura」，將於 2026 年推出！
+https://www.inside.com.tw/article/38873-project-aura-will-launch-in-2026
 
-臉書廣告服務管理系統出包，又有23件廣告未即時揭露託播者訊息遭數發部開罰1,500萬元
-https://www.ithome.com.tw/news/169820
+ChatGPT 導流暴增 25 倍仍救不了新聞業，AI 讓 7 成使用者不再點擊新聞網站
+https://www.inside.com.tw/article/38870-news-industry-traffic-decline-organic-drops-2-3-billion-to-1-7-billion-chatgpt-referrals-grow-25x-insufficient
 
-微軟Authenticator從7月終止支援密碼
-https://www.ithome.com.tw/news/169819
+民間報告稱 Google 碳排爆增 15 倍，Google 嚴正駁斥
+https://www.inside.com.tw/article/38872-google-carbon-emissions-report
 
-Google擴大整合Gemini AI套件與教育平臺Classroom
-https://www.ithome.com.tw/news/169818
+微軟裁員 9000 人！為簡化管理層，遊戲部門大受影響
+https://www.inside.com.tw/article/38868-microsoft-new-layoff-round
 
-機器人數量即將追平人力？Amazon 倉儲已超過 100 萬台機器人
-https://www.inside.com.tw/article/38863-amazon-warehouse-robots-automation
+OpenAI 聲明：Robinhood 代幣化股票不等於公司股權
+https://www.inside.com.tw/article/38869-openai-and-tokenized-shares
 
-Cloudflare 推出新市集為 AI 爬蟲訂定費率，有望成為內容提供者新商模！
-https://www.inside.com.tw/article/38862-cloudflare-new-marketplace
+Google Veo 3 來了！台灣也能用 AI 影片生成功能
+https://www.inside.com.tw/article/38871-google-veo-3-taiwan
 
-OpenAI 澄清：未計劃大規模採用 Google TPU！
-https://www.inside.com.tw/article/38861-openai-has-no-plan-to-use-tpu
+Google 敗訴！加州陪審團裁定賠償 Android 使用者 3.146 億美元
+https://www.inside.com.tw/article/38867-google-loses-california-jury-orders-314-million-android-user-compensation
 
-跟 Adobe 分手後，Figma 秘密申請 IPO
-https://www.inside.com.tw/article/38859-figma-files-for-ipo
+TNL Mediagene 關鍵評論網媒體集團宣布推出 AI Audience 與 AI Creative，以 AI 提高生產力
+https://www.inside.com.tw/article/38865-
 
-矽谷正在流行拍「募資成功」影片
-https://www.inside.com.tw/article/38860-silicon-valley-trending-fundraising-success-videos
+一卡通用戶注意！LINE Pay 分手「iPASS MONEY」功能，明年轉換專屬 APP
+https://www.inside.com.tw/article/38866-line-pay-to-end-integration-with-ipass-money-users-must-switch-to-dedicated-app-next-year
 
-Sam Altman 抨擊 Meta AI 人才挖角狂潮：「傳教士會打敗傭兵！」
-https://www.inside.com.tw/article/38858-sam-altman-meta-ai-talent-poaching
+日韓舉行峰會之政治意涵
+https://voicettank.org/20250702-2/
 
-搶佔對話式 AI 搜尋流量！inline 推 AI 小助手訂位服務整合 LINE
-https://www.inside.com.tw/article/38857-iline-using-ai-to-help-with-restaurants-recommandation
+連兩季銷量下滑！特斯拉Q2銷量年減14%
+https://www.businessyee.com/article/6522-tesla-tsla-q2-2025-vehicle-delivery
 
-2025年護衛軍刀多國聯合演習之研析
-https://voicettank.org/20250701-2/
+自動化新里程碑！亞馬遜倉儲機器人正式突破 100 萬台
+https://www.businessyee.com/article/6519-Amazon-deploys-its-1-millionth-robot
 
-川普揚言重審馬斯克旗下企業政府補貼，特斯拉聞訊大跌 5%
-https://www.businessyee.com/article/6514-tesla-shares-tumble-trump-doge-elon-musks-subsidies
+繼裁掉6,000人後，微軟要再裁9,000人
+https://www.businessyee.com/article/6521-microsoft-layoff
 
-業界首創！元大、台企銀存戶可透過中信 ATM 申辦網銀、無卡提款
-https://www.businessyee.com/article/6513-ctbc-atm-withdraw-nocard
+OpenAI：Robinhood發行的股票代幣不代表擁有OpenAI股權
+https://www.businessyee.com/article/6520-Robinhood-OpenAI-tokens
 
-強化保經代資安！金管會修法納入PIMS認證，未完成禁辦網路投保
-https://www.businessyee.com/article/6512-Insurance-broker-agent-pims
+【聽進理投】台灣、美國的ETF選擇這麼多，該投資哪個才好？
+https://www.businessyee.com/article/6518-ep132
 
-睽違四年重回OIU！國壽推指數型萬能壽「指享盈」，瞄準境外客戶
-https://www.businessyee.com/article/6511-cathay-oiu-Index-Linked-Universal-Life-Insurance
+川普：越南銷美商品徵20%關稅，轉運稅率加倍防洗產地
+https://www.businessyee.com/article/6517-us-vietnam-trade-deal
 
-辦完威尼斯天價婚禮！貝佐斯再賣亞馬遜股票、套現7.3億美元
-https://www.businessyee.com/article/6510-jeff-bezos-sells-737-million
+TNL Mediagene 關鍵評論網媒體集團宣布推出 AI Audience 與 AI Creative，以 AI 提高生產力
+https://www.businessyee.com/article/6515-TNL-Mediagene-AI
 
-Meta挖走OpenAI員工，CEO奧特曼：傳教士終將打敗傭兵！
-https://www.businessyee.com/article/6509-OpenAI-Meta-offer
+誠品與凱基銀行推出「凱基誠品聯名卡」，最高享7%回饋
+https://www.businessyee.com/article/6516-kgi-eslite
 
-聯博投等債入息主動ETF（00980D）7/14開募，採月配息、發行價20元
-https://www.businessyee.com/article/6508-00980D-ipo
+Java Weekly, Issue 601
+https://feeds.feedblitz.com/~/921102938/0/baeldung
 
-國泰搶進高雄資產管理專區，21項創新試辦業務打造國際級一站式服務
-https://www.businessyee.com/article/6507-cathay-asia-asset-managment-hub
+A Higgs-bugson in the Linux Kernel
+https://blog.janestreet.com/a-higgs-bugson-in-the-linux-kernel/
 
-台達電69.5億買泰豐觀音廠 布局氫能等新事業
-https://www.businessyee.com/article/6506-delta
+This Overly Long Variable Name Could Have Been a Comment
+https://jonathan-frere.com/posts/names-vs-comments/
 
-金管會鬆綁準備金運用，壽險下半年匯損壓力有望減輕
-https://www.businessyee.com/article/6505-insurance-exchange-loss-pressure
+copyleft-next
+https://next.copyleft.org/
 
-using Sun Ray thin clients in 2025
-https://catstret.ch/202506/sun-ray-shenanigans/
+Yet another ZIP trick
+https://hackarcana.com/article/yet-another-zip-trick
 
-You should delete tests
-https://andre.arko.net/2025/06/30/you-should-delete-tests/
+500× faster: Four different ways to speed up your code
+https://pythonspeed.com/articles/different-ways-speed/
 
-The Hell of FFIX Tetra Master
-https://xvw.lol/en/articles/tetra-master.html
+Why I'm Dialing Back My LLM Usage
+https://zed.dev/blog/dialing-back-my-llm-usage-with-alberto-fortin
 
-Introducing pay per crawl: enabling content owners to charge AI crawlers for access
-https://blog.cloudflare.com/introducing-pay-per-crawl/
+jujutsu v0.31.0 released
+https://github.com/jj-vcs/jj/releases/tag/v0.31.0
 
-You MUST listen to RFC 2119
-https://ericwbailey.website/published/you-must-listen-to-rfc-2119/
+Three Years of Nix and NixOS: The Good, the Bad, and the Ugly
+https://pierrezemb.fr/posts/nixos-good-bad-ugly/
 
-clamp / median / range
-https://dotat.at/@/2025-07-02-cmp.html
+Inequality Union Finds: Baby Steps to Refinement E-graphs
+https://www.philipzucker.com/le_find/
 
-OpenBao, the community fork of Vault, released v2.3.1 with namespaces
-https://github.com/openbao/openbao/releases/tag/v2.3.1
+Exploiting the IKKO Activebuds "AI powered" earbuds, running DOOM, stealing their OpenAI API key and customer data
+https://blog.mgdproductions.com/ikko-activebuds/
 
-Helix language
-https://github.com/helixlang/helix-lang
+Programming as Theory Building
+https://pablo.rauzy.name/dev/naur1985programming.pdf
 
-Stream per agent session
-https://s2.dev/blog/agent-sessions
+Introducing the first alpha of Turso: The next evolution of SQLite
+https://turso.tech/blog/turso-the-next-evolution-of-sqlite?ref=console.dev
 
-From Python Programmer to Distributed Systems Researcher in 10 Years Without a PhD
-https://emptysqua.re/blog/from-python-programmer-to-distributed-systems-researcher-in-10-years/
+Recreating Laravel Cloud’s range input with native HTML
+https://phare.io/blog/recreating-laravel-clouds-range-input-with-native-html/
 
-The web's broken deal with AI companies
-https://dri.es/the-webs-broken-deal-with-ai-companies
+The Chapel Programming Language
+https://chapel-lang.org/
 
-Emoji Kitchen - Browse Google's unique emoji combinations
-https://emojikitchen.dev/
+I Still Use Vim. I Also Use AI. It Still Feels Like Me
+https://www.godaddy.com/resources/news/i-still-use-vim-i-also-use-ai-it-still-feels-like-me
 
-Parsing Layout, or: Haskell's Syntax is a Mess
-https://amelia.how/posts/parsing-layout.html
+How to manage configuration settings in Go web applications
+https://www.alexedwards.net/blog/how-to-manage-configuration-settings-in-go-web-applications
 
-Software engineering with LLMs in 2025: reality check
-https://www.youtube.com/watch?v=EO3_qN_Ynsk
+The Amiga 3000 UNIX and Sun Microsystems: Deal or no deal?
+https://www.datagubbe.se/amix/
 
-Types of Types: Common to Exotic
-https://www.stephendiehl.com/posts/types_of_types/
+sslcheck: Command-line tool to check and monitor SSL certificate expiration across multiple domains
+https://github.com/i04n/sslcheck
 
-c2rust: Migrate C code to Rust
-https://github.com/immunant/c2rust
+Uncloud -  tool for deploying and managing containerised applications
+https://github.com/psviderski/uncloud
 
-Alternative Blanket Implementations for a Single Rust Trait
-https://www.greyblake.com/blog/alternative-blanket-implementations-for-single-rust-trait/
+Can we test it? Yes, we can
+https://youtu.be/MqC3tudPH6w
 
-Animating Number Counters
-https://css-tricks.com/animating-number-counters/
-
-Finding and understanding bugs in C compilers (2011)
-https://www.cse.unr.edu/~fredh/class/460/S2013/class/Papers/tanna.pdf
+Microsoft's AI diagnoses complex cases 4 times better than doctors + 8 more stories
+https://newsletter.newsminimalist.com/p/microsoft-s-ai-diagnoses-complex-cases-4-times-better-than-doctors-8-more-stories
