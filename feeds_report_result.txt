@@ -1,166 +1,184 @@
-# 2025-07-03 09:19:43 Feeds Report 
+# 2025-07-04 09:19:46 Feeds Report 
 
-Daily Hacker News for 2025-07-02
-https://www.daemonology.net/hn-daily/2025-07-02.html
+Daily Hacker News for 2025-07-03
+https://www.daemonology.net/hn-daily/2025-07-03.html
 
-各家飛機即時資訊網站用的 MLAT，定位飛機位置
-https://blog.gslin.org/archives/2025/07/03/12496/%e5%90%84%e5%ae%b6%e9%a3%9b%e6%a9%9f%e5%8d%b3%e6%99%82%e8%b3%87%e8%a8%8a%e7%b6%b2%e7%ab%99%e7%94%a8%e7%9a%84-mlat%ef%bc%8c%e5%ae%9a%e4%bd%8d%e9%a3%9b%e6%a9%9f%e4%bd%8d%e7%bd%ae/
+Caddy 上用 DNSBL 擋 bot
+https://blog.gslin.org/archives/2025/07/04/12498/caddy-%e4%b8%8a%e7%94%a8-dnsbl-%e6%93%8b-bot/
 
-Figma 送出 Form S-1
-https://blog.gslin.org/archives/2025/07/03/12495/figma-%e9%80%81%e5%87%ba-form-s-1/
+50年經典款黃靴也能年銷售量增3成，Timberland如何用科技結合「體驗感經營」來進行OMO行銷
+https://www.ithome.com.tw/news/169897
 
-前端小技 - 免 JavaScript 的刪除確認設計
-https://blog.darkthread.net/blog/no-js-del-confirm-chkbox/
+中國駭客冒充知名品牌，企圖竊取消費者付款資訊
+https://www.ithome.com.tw/news/169896
 
-法國企業組織遭中國駭客UNC5174鎖定，透過Ivanti CSA設備零時差漏洞入侵
-https://www.ithome.com.tw/news/169870
+逾60家企業要求歐盟延後實施AI Act
+https://www.ithome.com.tw/news/169895
 
-澳洲航空被駭，危及600萬客戶資料
-https://www.ithome.com.tw/news/169869
+【資安日報】7月4日，多款IDE開發工具選用延伸套件要當心，此類元件的檢驗機制存在可乘之機
+https://www.ithome.com.tw/news/169894
 
-研究宣稱Google刻意低估其碳排放量
-https://www.ithome.com.tw/news/169868
+數發部警告詐騙新手法! 小心假買家、假冒第三方支付網站及客服向真賣家詐騙
+https://www.ithome.com.tw/news/169893
 
-駭客盯上Linux伺服器，惡意植入TinyProxy、Sing-Box工具作代理伺服器
-https://www.ithome.com.tw/news/169865
+多款IDE延伸套件檢驗機制存在瑕疵，攻擊者可讓惡意套件顯示「已通過驗證」徽章欺騙開發人員
+https://www.ithome.com.tw/news/169892
 
-防止CrowdStrike事件重演　微軟可能不再讓第三方防毒軟體存取Windows核心
-https://www.ithome.com.tw/news/169866
+外傳Safe Superintelligence執行長Daniel Gross將加入Meta
+https://www.ithome.com.tw/news/169891
 
-奧義智慧攜手臺灣AI業者APMIC，打造新世代AI防火牆安全模組
-https://www.ithome.com.tw/news/169867
+AI啟動下一波企業儲存系統革命
+https://www.ithome.com.tw/voice/169890
 
-微軟裁員約9,000人 全球受影響
-https://www.ithome.com.tw/news/169864
+KV快取產品崛起
+https://www.ithome.com.tw/article/169889
 
-已終止支援的D-Link DIR-816路由器含有遠端攻擊等多個重大漏洞
-https://www.ithome.com.tw/news/169854
+加速大語言模型推論效率，KV快取卸載解決方案總覽
+https://www.ithome.com.tw/tech/169886
 
-竊資軟體GiftedCrook威脅加劇，從瀏覽器竊密成為情資收集工具
-https://www.ithome.com.tw/news/169843
+滿足LLM推理永無止盡的記憶體需求，外部KV快取記憶體解決方案崛起
+https://www.ithome.com.tw/tech/169885
 
-UI設計軟體業者Figma申請IPO
-https://www.ithome.com.tw/news/169842
+駭客聲稱竊得俄羅斯國防外包商250GB海軍作戰系統等機密文件
+https://www.ithome.com.tw/news/169887
 
-SoftBank 以 65 億美元收購 Ampere Computing，恐面臨 FTC 長時間審查
-https://www.inside.com.tw/article/38874-softbank-ampere-acquisition-challenge
+Verizon、T-Mobile上億筆資料遭到兜售，兩電信業者否認發生資料外洩事故
+https://www.ithome.com.tw/news/169883
 
-Google、Xreal 合作智慧眼鏡「Project Aura」，將於 2026 年推出！
-https://www.inside.com.tw/article/38873-project-aura-will-launch-in-2026
+微軟調漲Exchange、SharePoint伺服器產品本地部署授權費10%
+https://www.ithome.com.tw/news/169882
 
-ChatGPT 導流暴增 25 倍仍救不了新聞業，AI 讓 7 成使用者不再點擊新聞網站
-https://www.inside.com.tw/article/38870-news-industry-traffic-decline-organic-drops-2-3-billion-to-1-7-billion-chatgpt-referrals-grow-25x-insufficient
+Cloudflare開放容器服務，預設全球部署並與Workers深度整合
+https://www.ithome.com.tw/news/169875
 
-民間報告稱 Google 碳排爆增 15 倍，Google 嚴正駁斥
-https://www.inside.com.tw/article/38872-google-carbon-emissions-report
+好的產品經理需要具備什麼特質
+https://www.ithome.com.tw/article/169803
 
-微軟裁員 9000 人！為簡化管理層，遊戲部門大受影響
-https://www.inside.com.tw/article/38868-microsoft-new-layoff-round
+宏佳騰釋出品牌新識別布局油電並進，同時向下延伸產品線，推出微型電動新車
+https://www.inside.com.tw/article/38883-aeon-motor-unveils-new-brand-identity-expands-hybrid-and-ev-lineup-with-compact-electric-vehicle
 
-OpenAI 聲明：Robinhood 代幣化股票不等於公司股權
-https://www.inside.com.tw/article/38869-openai-and-tokenized-shares
+連年入榜再創佳績 Lenovo 躍升 2025 年 Gartner 全球供應鏈 25 強第八名！
+https://www.inside.com.tw/article/38882-LenovoGartner
 
-Google Veo 3 來了！台灣也能用 AI 影片生成功能
-https://www.inside.com.tw/article/38871-google-veo-3-taiwan
+泰山 36 億投資街口判無效，但帳戶近乎歸零無法強制執行
+https://www.inside.com.tw/article/38881-taisun-jkos
 
-Google 敗訴！加州陪審團裁定賠償 Android 使用者 3.146 億美元
-https://www.inside.com.tw/article/38867-google-loses-california-jury-orders-314-million-android-user-compensation
+特斯拉 Optimus 人形機器人生產喊卡？為了重新設計，計畫推遲 2 個月
+https://www.inside.com.tw/article/38880-optimus-production-delay
 
-TNL Mediagene 關鍵評論網媒體集團宣布推出 AI Audience 與 AI Creative，以 AI 提高生產力
-https://www.inside.com.tw/article/38865-
+柯俊斌任光陽董事長後首談電動機車：很貴，但仍是未來
+https://www.inside.com.tw/article/38879-kymco-chairman-allen-ko-talks-ev-scooters-for-the-first-time-says-development-will-continue
 
-一卡通用戶注意！LINE Pay 分手「iPASS MONEY」功能，明年轉換專屬 APP
-https://www.inside.com.tw/article/38866-line-pay-to-end-integration-with-ipass-money-users-must-switch-to-dedicated-app-next-year
+德媒：中國電動車泡沫即將破裂！企業家開始將比亞迪、恆大相提並論
+https://www.inside.com.tw/article/38878-china-ev-boom-ending
 
-日韓舉行峰會之政治意涵
-https://voicettank.org/20250702-2/
+提升黏著度！傳 Meta 正在測試 AI 聊天機器人「主動出擊」新功能
+https://www.inside.com.tw/article/38877-meta-ai-messages-first
 
-連兩季銷量下滑！特斯拉Q2銷量年減14%
-https://www.businessyee.com/article/6522-tesla-tsla-q2-2025-vehicle-delivery
+小心！你可能免費授權給剪映、CapCut「無限用、無限播」的權利
+https://www.inside.com.tw/article/38876-warning-you-might-be-giving-capcut-and-jianying-unlimited-rights-to-use-and-distribute-your-content-for-free
 
-自動化新里程碑！亞馬遜倉儲機器人正式突破 100 萬台
-https://www.businessyee.com/article/6519-Amazon-deploys-its-1-millionth-robot
+從工具變夥伴，SUPER 8 Studio 怎把 AI Agent 視為「萬能鑰匙」
+https://www.inside.com.tw/feature/ai-agent-new-wave/38875-from-tool-to-partner-how-super-8-views-ai-agent-as-universal-key
 
-繼裁掉6,000人後，微軟要再裁9,000人
-https://www.businessyee.com/article/6521-microsoft-layoff
+終極通訊網路韌性： meshtastic
+https://newtoypia.blogspot.com/2025/07/meshtastic.html
 
-OpenAI：Robinhood發行的股票代幣不代表擁有OpenAI股權
-https://www.businessyee.com/article/6520-Robinhood-OpenAI-tokens
+面對AI變局，加大人文社科投資
+https://voicettank.org/20250703-1/
 
-【聽進理投】台灣、美國的ETF選擇這麼多，該投資哪個才好？
-https://www.businessyee.com/article/6518-ep132
+【書摘】《仇外：義和團、種族屠殺、英國脫歐、川普當選，仇外情結的歷史》
+https://voicettank.org/20250703-2/
 
-川普：越南銷美商品徵20%關稅，轉運稅率加倍防洗產地
-https://www.businessyee.com/article/6517-us-vietnam-trade-deal
+輸出通縮「死亡螺旋」的中國經濟困境
+https://voicettank.org/輸出通縮死亡螺旋的中國經濟困境/
 
-TNL Mediagene 關鍵評論網媒體集團宣布推出 AI Audience 與 AI Creative，以 AI 提高生產力
-https://www.businessyee.com/article/6515-TNL-Mediagene-AI
+你買的醫療險會賠嗎？評議中心主委羅俊瑋揭如何判斷「必要性醫療」
+https://www.businessyee.com/article/6529-Necessary-medical-treatment-1
 
-誠品與凱基銀行推出「凱基誠品聯名卡」，最高享7%回饋
-https://www.businessyee.com/article/6516-kgi-eslite
+川普關稅通知函準備寄出！新關稅稅率最高70%，8月起徵收
+https://www.businessyee.com/article/6530-trump-tariff-notice
 
-Java Weekly, Issue 601
-https://feeds.feedblitz.com/~/921102938/0/baeldung
+同時充手機、Apple Watch、耳機，UKKO3合1充電器限時只要$999！
+https://www.businessyee.com/article/6528-UKKO-charger
 
-A Higgs-bugson in the Linux Kernel
-https://blog.janestreet.com/a-higgs-bugson-in-the-linux-kernel/
+專家憂《大而美法案》短多長空：30年後經濟恐萎縮4.6%
+https://www.businessyee.com/article/6527-One-Big-Beautiful-Bill-Act
 
-This Overly Long Variable Name Could Have Been a Comment
-https://jonathan-frere.com/posts/names-vs-comments/
+微軟新一波裁員名單：遊戲設計、業務部、雲端服務
+https://www.businessyee.com/article/6526-microsoft-layoffs
 
-copyleft-next
-https://next.copyleft.org/
+與一卡通合作到年底！LINE Pay電支執照仍在審查
+https://www.businessyee.com/article/6525-line-pay-ipass
 
-Yet another ZIP trick
-https://hackarcana.com/article/yet-another-zip-trick
+那指、標普500連二日創新高！輝達市值逼近蘋果歷史紀錄
+https://www.businessyee.com/article/6524-us-stock-20250703
 
-500× faster: Four different ways to speed up your code
-https://pythonspeed.com/articles/different-ways-speed/
+先稱讚再補刀！川普「朝令夕改」在混亂中建立的「相對和平」
+https://www.businessyee.com/article/6523-trump-flexibility-strategy
 
-Why I'm Dialing Back My LLM Usage
-https://zed.dev/blog/dialing-back-my-llm-usage-with-alberto-fortin
+Using Sequences in the H2 Database
+https://feeds.feedblitz.com/~/921146849/0/baeldung~Using-Sequences-in-the-H-Database
 
-jujutsu v0.31.0 released
-https://github.com/jj-vcs/jj/releases/tag/v0.31.0
+How to Use Apache Camel ProducerTemplate With Spring Boot
+https://feeds.feedblitz.com/~/921146852/0/baeldung~How-to-Use-Apache-Camel-ProducerTemplate-With-Spring-Boot
 
-Three Years of Nix and NixOS: The Good, the Bad, and the Ugly
-https://pierrezemb.fr/posts/nixos-good-bad-ugly/
+A Guide to Spring gRPC Project
+https://feeds.feedblitz.com/~/921146300/0/baeldung~A-Guide-to-Spring-gRPC-Project
 
-Inequality Union Finds: Baby Steps to Refinement E-graphs
-https://www.philipzucker.com/le_find/
+Lucky 13 Lobsters
+https://lobste.rs/s/8we4dn/lucky_13_lobsters
 
-Exploiting the IKKO Activebuds "AI powered" earbuds, running DOOM, stealing their OpenAI API key and customer data
-https://blog.mgdproductions.com/ikko-activebuds/
+10 features of D that I love
+https://bradley.chatha.dev/blog/dlang-propaganda/features-of-d-that-i-love/
 
-Programming as Theory Building
-https://pablo.rauzy.name/dev/naur1985programming.pdf
+When AI Codes, What’s Left for me?
+https://corecursive.com/coding-agents/
 
-Introducing the first alpha of Turso: The next evolution of SQLite
-https://turso.tech/blog/turso-the-next-evolution-of-sqlite?ref=console.dev
+Introducing tmux-rs
+https://richardscollin.github.io/tmux-rs/
 
-Recreating Laravel Cloud’s range input with native HTML
-https://phare.io/blog/recreating-laravel-clouds-range-input-with-native-html/
+Project Vend: Can Claude run a small shop? (And why does that matter?)
+https://www.anthropic.com/research/project-vend-1
 
-The Chapel Programming Language
-https://chapel-lang.org/
+writing a little gosh
+https://flak.tedunangst.com/post/writing-a-gosh
 
-I Still Use Vim. I Also Use AI. It Still Feels Like Me
-https://www.godaddy.com/resources/news/i-still-use-vim-i-also-use-ai-it-still-feels-like-me
+Zig Roadmap 2026
+https://www.youtube.com/watch?v=x3hOiOcbgeA
 
-How to manage configuration settings in Go web applications
-https://www.alexedwards.net/blog/how-to-manage-configuration-settings-in-go-web-applications
+A catamorphic lambda-calculus interpreter
+https://www.michaelpj.com/blog/2018/04/08/catamorphic-lc-interpreter.html
 
-The Amiga 3000 UNIX and Sun Microsystems: Deal or no deal?
-https://www.datagubbe.se/amix/
+Our Fullstack Architecture: Eta, HTMX, and Lit
+https://www.lorenstew.art/blog/eta-htmx-lit-stack
 
-sslcheck: Command-line tool to check and monitor SSL certificate expiration across multiple domains
-https://github.com/i04n/sslcheck
+goHardDrive Leaked Personal Data for Thousands of Customers
+https://mtlynch.io/goharddrive-leak/
 
-Uncloud -  tool for deploying and managing containerised applications
-https://github.com/psviderski/uncloud
+The most mysterious bug I solved at work
+https://cadence.moe/blog/2025-07-02-the-most-mysterious-bug-i-solved-at-work
 
-Can we test it? Yes, we can
-https://youtu.be/MqC3tudPH6w
+Steam has been flooded with games stolen from itch.io
+https://www.gamepressure.com/newsroom/steam-is-dealing-with-spam-valves-platform-has-been-flooded-with/zb811a
 
-Microsoft's AI diagnoses complex cases 4 times better than doctors + 8 more stories
-https://newsletter.newsminimalist.com/p/microsoft-s-ai-diagnoses-complex-cases-4-times-better-than-doctors-8-more-stories
+Tiny Great Languages: MOUSE
+https://zserge.com/posts/langs-mouse/
+
+Taming agentic engineering - Prompts are code, .json/.md files are state
+https://mariozechner.at/posts/2025-06-02-prompts-are-code/
+
+Taking over 60k spyware user accounts with SQL injection
+https://ericdaigle.ca/posts/taking-over-60k-spyware-user-accounts/
+
+Nonce CSP bypass using Disk Cache
+https://jorianwoltjer.com/blog/p/research/nonce-csp-bypass-using-disk-cache
+
+37 Things I Learned About Information Retrieval in Two Years at a Vector Database Company
+https://www.leoniemonigatti.com/blog/what_i_learned.html
+
+The scary and surprisingly deep rabbit hole of Rust's temporaries
+https://taping-memory.dev/temporaries-rabbit-hole/
+
+Tools: Code Is All You Need
+https://lucumr.pocoo.org/2025/7/3/tools/
