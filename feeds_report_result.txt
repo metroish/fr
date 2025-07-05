@@ -1,25 +1,16 @@
-# 2025-07-04 09:19:46 Feeds Report 
+# 2025-07-05 09:17:31 Feeds Report 
 
-Daily Hacker News for 2025-07-03
-https://www.daemonology.net/hn-daily/2025-07-03.html
+Daily Hacker News for 2025-07-04
+https://www.daemonology.net/hn-daily/2025-07-04.html
 
-Caddy 上用 DNSBL 擋 bot
-https://blog.gslin.org/archives/2025/07/04/12498/caddy-%e4%b8%8a%e7%94%a8-dnsbl-%e6%93%8b-bot/
+Postmark 的問題？
+https://blog.gslin.org/archives/2025/07/05/12500/postmark-%e7%9a%84%e5%95%8f%e9%a1%8c%ef%bc%9f/
 
-50年經典款黃靴也能年銷售量增3成，Timberland如何用科技結合「體驗感經營」來進行OMO行銷
-https://www.ithome.com.tw/news/169897
+隱藏私人網站 DNS 名稱有多難？
+https://blog.darkthread.net/blog/you-cant-hide-dns-names/
 
-中國駭客冒充知名品牌，企圖竊取消費者付款資訊
-https://www.ithome.com.tw/news/169896
-
-逾60家企業要求歐盟延後實施AI Act
-https://www.ithome.com.tw/news/169895
-
-【資安日報】7月4日，多款IDE開發工具選用延伸套件要當心，此類元件的檢驗機制存在可乘之機
-https://www.ithome.com.tw/news/169894
-
-數發部警告詐騙新手法! 小心假買家、假冒第三方支付網站及客服向真賣家詐騙
-https://www.ithome.com.tw/news/169893
+Nginx 筆記 - 封鎖 IP 存取，防止私人網站 DNS 名稱外流
+https://blog.darkthread.net/blog/ngnix-reject-ip-url/
 
 多款IDE延伸套件檢驗機制存在瑕疵，攻擊者可讓惡意套件顯示「已通過驗證」徽章欺騙開發人員
 https://www.ithome.com.tw/news/169892
@@ -42,143 +33,83 @@ https://www.ithome.com.tw/tech/169885
 駭客聲稱竊得俄羅斯國防外包商250GB海軍作戰系統等機密文件
 https://www.ithome.com.tw/news/169887
 
-Verizon、T-Mobile上億筆資料遭到兜售，兩電信業者否認發生資料外洩事故
-https://www.ithome.com.tw/news/169883
+宇樹科技傳計畫於上海科創板上市，估值據報已逾百億人民幣
+https://www.inside.com.tw/article/38886-unitree-prepare-ipo
 
-微軟調漲Exchange、SharePoint伺服器產品本地部署授權費10%
-https://www.ithome.com.tw/news/169882
+日經：三星德州泰勒廠「找不到客戶」，將延遲完工
+https://www.inside.com.tw/article/38885-samsung-taylor-facility-opening-in-the-us-reportedly-delayed-to-2026
 
-Cloudflare開放容器服務，預設全球部署並與Workers深度整合
-https://www.ithome.com.tw/news/169875
+APMIC 創辦人 Jerry 吳柏翰：連兩年獲黃仁勳點名合作夥伴，看生成式 AI 是泡沫還是未來？繁中模型、多模態與數位孿生商業化難題解密【塞掐 Side Chat】E356
+https://www.inside.com.tw/feature/side-chat/38884-side-chat-e356
 
-好的產品經理需要具備什麼特質
-https://www.ithome.com.tw/article/169803
+防堵炒匯！央行下週找保管銀行「喝咖啡」，不排除祭T+1限制
+https://www.businessyee.com/article/6533-central-bk-control-fx-market
 
-宏佳騰釋出品牌新識別布局油電並進，同時向下延伸產品線，推出微型電動新車
-https://www.inside.com.tw/article/38883-aeon-motor-unveils-new-brand-identity-expands-hybrid-and-ev-lineup-with-compact-electric-vehicle
+一年就能建立持續改善文化？4個階段，打造解決問題的成長型團隊
+https://www.businessyee.com/article/6532-group-growth-mindset
 
-連年入榜再創佳績 Lenovo 躍升 2025 年 Gartner 全球供應鏈 25 強第八名！
-https://www.inside.com.tw/article/38882-LenovoGartner
+【好險有聽】《揭密保險》導讀：從歷史認識保險市場的怪現狀（上）
+https://www.businessyee.com/article/6531-ep37
 
-泰山 36 億投資街口判無效，但帳戶近乎歸零無法強制執行
-https://www.inside.com.tw/article/38881-taisun-jkos
+Implementing the Core Services of Spring Authorization Server with Redis
+https://feeds.feedblitz.com/~/921158615/0/baeldung~Implementing-the-Core-Services-of-Spring-Authorization-Server-with-Redis
 
-特斯拉 Optimus 人形機器人生產喊卡？為了重新設計，計畫推遲 2 個月
-https://www.inside.com.tw/article/38880-optimus-production-delay
+Git experts should try Jujutsu
+https://pksunkara.com/thoughts/git-experts-should-try-jujutsu/
 
-柯俊斌任光陽董事長後首談電動機車：很貴，但仍是未來
-https://www.inside.com.tw/article/38879-kymco-chairman-allen-ko-talks-ev-scooters-for-the-first-time-says-development-will-continue
+I want to leave tech: what do I do?
+https://write.as/conjure-utopia/lets-say-youre-working-in-tech-and-you-have-a-technical-role-youre-a
 
-德媒：中國電動車泡沫即將破裂！企業家開始將比亞迪、恆大相提並論
-https://www.inside.com.tw/article/38878-china-ev-boom-ending
+A supposedly worthwhile contract I'll never do again
+https://ahelwer.ca/post/2025-07-04-tla-contracts/
 
-提升黏著度！傳 Meta 正在測試 AI 聊天機器人「主動出擊」新功能
-https://www.inside.com.tw/article/38877-meta-ai-messages-first
+mawkdown, a lightweight, line-oriented(ish) text markup tool implemented in awk
+https://codeberg.org/owl/mawkdown
 
-小心！你可能免費授權給剪映、CapCut「無限用、無限播」的權利
-https://www.inside.com.tw/article/38876-warning-you-might-be-giving-capcut-and-jianying-unlimited-rights-to-use-and-distribute-your-content-for-free
+A compact bitset implementation used in Ocarina of Time save files
+https://github.com/jb55/oot_bitset
 
-從工具變夥伴，SUPER 8 Studio 怎把 AI Agent 視為「萬能鑰匙」
-https://www.inside.com.tw/feature/ai-agent-new-wave/38875-from-tool-to-partner-how-super-8-views-ai-agent-as-universal-key
+Compression Dictionary Transport
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Compression_dictionary_transport
 
-終極通訊網路韌性： meshtastic
-https://newtoypia.blogspot.com/2025/07/meshtastic.html
+AI’s great brain robbery — and how universities can fight back
+https://www.thetimes.com/comment/columnists/article/ai-brain-robbery-universities-chatgpt-c6lr03dlz
 
-面對AI變局，加大人文社科投資
-https://voicettank.org/20250703-1/
+apl87
+https://www.jsoftware.com/papers/APL87.htm
 
-【書摘】《仇外：義和團、種族屠殺、英國脫歐、川普當選，仇外情結的歷史》
-https://voicettank.org/20250703-2/
+NVIDIA is full of shit
+https://blog.sebin-nyshkim.net/posts/nvidia-is-full-of-shit/
 
-輸出通縮「死亡螺旋」的中國經濟困境
-https://voicettank.org/輸出通縮死亡螺旋的中國經濟困境/
+The ITTAGE indirect branch predictor
+https://blog.nelhage.com/post/ittage-branch-predictor/
 
-你買的醫療險會賠嗎？評議中心主委羅俊瑋揭如何判斷「必要性醫療」
-https://www.businessyee.com/article/6529-Necessary-medical-treatment-1
+actix-passport: A comprehensive, flexible authentication framework for actix-web
+https://github.com/densumesh/actix-passport
 
-川普關稅通知函準備寄出！新關稅稅率最高70%，8月起徵收
-https://www.businessyee.com/article/6530-trump-tariff-notice
+What are you doing this weekend?
+https://lobste.rs/s/zixaut/what_are_you_doing_this_weekend
 
-同時充手機、Apple Watch、耳機，UKKO3合1充電器限時只要$999！
-https://www.businessyee.com/article/6528-UKKO-charger
+The Eternal Mainframe
+https://www.winestockwebdesign.com/Essays/Eternal_Mainframe.html
 
-專家憂《大而美法案》短多長空：30年後經濟恐萎縮4.6%
-https://www.businessyee.com/article/6527-One-Big-Beautiful-Bill-Act
+awesome-standards: A curated list of technical standards
+https://github.com/donBarbos/awesome-standards
 
-微軟新一波裁員名單：遊戲設計、業務部、雲端服務
-https://www.businessyee.com/article/6526-microsoft-layoffs
+iris: A neurosymbolic framework for vulnerability detection in code
+https://github.com/iris-sast/iris
 
-與一卡通合作到年底！LINE Pay電支執照仍在審查
-https://www.businessyee.com/article/6525-line-pay-ipass
+gremllm: A slight upgrade to the Gremlins in your code
+https://github.com/awwaiid/gremllm
 
-那指、標普500連二日創新高！輝達市值逼近蘋果歷史紀錄
-https://www.businessyee.com/article/6524-us-stock-20250703
+Getting extensions to work with free-threaded Python
+https://lwn.net/Articles/1025893/
 
-先稱讚再補刀！川普「朝令夕改」在混亂中建立的「相對和平」
-https://www.businessyee.com/article/6523-trump-flexibility-strategy
+Riff: LLMs are Software Diamonds
+https://www.evalapply.org/posts/llms-are-diamonds/index.html
 
-Using Sequences in the H2 Database
-https://feeds.feedblitz.com/~/921146849/0/baeldung~Using-Sequences-in-the-H-Database
+Gödel's beavers, or the limits of knowledge
+https://lcamtuf.substack.com/p/monkeys-typewriters-and-busy-beavers
 
-How to Use Apache Camel ProducerTemplate With Spring Boot
-https://feeds.feedblitz.com/~/921146852/0/baeldung~How-to-Use-Apache-Camel-ProducerTemplate-With-Spring-Boot
-
-A Guide to Spring gRPC Project
-https://feeds.feedblitz.com/~/921146300/0/baeldung~A-Guide-to-Spring-gRPC-Project
-
-Lucky 13 Lobsters
-https://lobste.rs/s/8we4dn/lucky_13_lobsters
-
-10 features of D that I love
-https://bradley.chatha.dev/blog/dlang-propaganda/features-of-d-that-i-love/
-
-When AI Codes, What’s Left for me?
-https://corecursive.com/coding-agents/
-
-Introducing tmux-rs
-https://richardscollin.github.io/tmux-rs/
-
-Project Vend: Can Claude run a small shop? (And why does that matter?)
-https://www.anthropic.com/research/project-vend-1
-
-writing a little gosh
-https://flak.tedunangst.com/post/writing-a-gosh
-
-Zig Roadmap 2026
-https://www.youtube.com/watch?v=x3hOiOcbgeA
-
-A catamorphic lambda-calculus interpreter
-https://www.michaelpj.com/blog/2018/04/08/catamorphic-lc-interpreter.html
-
-Our Fullstack Architecture: Eta, HTMX, and Lit
-https://www.lorenstew.art/blog/eta-htmx-lit-stack
-
-goHardDrive Leaked Personal Data for Thousands of Customers
-https://mtlynch.io/goharddrive-leak/
-
-The most mysterious bug I solved at work
-https://cadence.moe/blog/2025-07-02-the-most-mysterious-bug-i-solved-at-work
-
-Steam has been flooded with games stolen from itch.io
-https://www.gamepressure.com/newsroom/steam-is-dealing-with-spam-valves-platform-has-been-flooded-with/zb811a
-
-Tiny Great Languages: MOUSE
-https://zserge.com/posts/langs-mouse/
-
-Taming agentic engineering - Prompts are code, .json/.md files are state
-https://mariozechner.at/posts/2025-06-02-prompts-are-code/
-
-Taking over 60k spyware user accounts with SQL injection
-https://ericdaigle.ca/posts/taking-over-60k-spyware-user-accounts/
-
-Nonce CSP bypass using Disk Cache
-https://jorianwoltjer.com/blog/p/research/nonce-csp-bypass-using-disk-cache
-
-37 Things I Learned About Information Retrieval in Two Years at a Vector Database Company
-https://www.leoniemonigatti.com/blog/what_i_learned.html
-
-The scary and surprisingly deep rabbit hole of Rust's temporaries
-https://taping-memory.dev/temporaries-rabbit-hole/
-
-Tools: Code Is All You Need
-https://lucumr.pocoo.org/2025/7/3/tools/
+Japan to begin world-first deep-sea mining trial + 9 more stories
+https://newsletter.newsminimalist.com/p/japan-to-begin-world-first-deep-sea-mining-trial-9-more-stories
