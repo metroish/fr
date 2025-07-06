@@ -1,115 +1,73 @@
-# 2025-07-05 09:17:31 Feeds Report 
+# 2025-07-06 09:17:18 Feeds Report 
 
-Daily Hacker News for 2025-07-04
-https://www.daemonology.net/hn-daily/2025-07-04.html
+Daily Hacker News for 2025-07-05
+https://www.daemonology.net/hn-daily/2025-07-05.html
 
-Postmark 的問題？
-https://blog.gslin.org/archives/2025/07/05/12500/postmark-%e7%9a%84%e5%95%8f%e9%a1%8c%ef%bc%9f/
+Weekly Ask Hacker News for 2025-06-29 -- 2025-07-05
+http://www.daemonology.net/hn-weekly-ask/2025-07-05.html
 
-隱藏私人網站 DNS 名稱有多難？
-https://blog.darkthread.net/blog/you-cant-hide-dns-names/
+前端小技 - 更多確認刪除玩法：長按 3 秒、加按 Shift
+https://blog.darkthread.net/blog/del-confirm-w-long-press/
 
-Nginx 筆記 - 封鎖 IP 存取，防止私人網站 DNS 名稱外流
-https://blog.darkthread.net/blog/ngnix-reject-ip-url/
+馬斯克宣布成立「美國黨」與川普決裂
+https://www.businessyee.com/article/6534-America-Party
 
-多款IDE延伸套件檢驗機制存在瑕疵，攻擊者可讓惡意套件顯示「已通過驗證」徽章欺騙開發人員
-https://www.ithome.com.tw/news/169892
+Why I got rid of all my neovim plugins
+https://yobibyte.github.io/vim.html
 
-外傳Safe Superintelligence執行長Daniel Gross將加入Meta
-https://www.ithome.com.tw/news/169891
+Serving 200 million requests per day with a cgi-bin
+https://jacob.gold/posts/serving-200-million-requests-with-cgi-bin/
 
-AI啟動下一波企業儲存系統革命
-https://www.ithome.com.tw/voice/169890
+Anubis Pilot Project Report - June 2025
+https://dukespace.lib.duke.edu/server/api/core/bitstreams/816ef134-55cf-49f6-9a8b-1e8a2324b1ff/content
 
-KV快取產品崛起
-https://www.ithome.com.tw/article/169889
+Reflections on 2 years of CPython’s JIT Compiler: The good, the bad, the ugly
+https://fidget-spinner.github.io/posts/jit-reflections.html
 
-加速大語言模型推論效率，KV快取卸載解決方案總覽
-https://www.ithome.com.tw/tech/169886
+KDE Plasma 6.4 has landed in OpenBSD
+https://undeadly.org/cgi?action=article;sid=20250705081711
 
-滿足LLM推理永無止盡的記憶體需求，外部KV快取記憶體解決方案崛起
-https://www.ithome.com.tw/tech/169885
+Decker Fantasy Camp
+https://www.arraycast.com/episodes/episode109-deckerfantasycamp
 
-駭客聲稱竊得俄羅斯國防外包商250GB海軍作戰系統等機密文件
-https://www.ithome.com.tw/news/169887
+Recent Archive of Our Own outage was caused by integer exhaustion
+https://otwarchive.atlassian.net/jira/software/c/projects/AO3/issues/AO3-7031?jql=project%20%3D%20%22AO3%22%20ORDER%20BY%20created%20DESC
 
-宇樹科技傳計畫於上海科創板上市，估值據報已逾百億人民幣
-https://www.inside.com.tw/article/38886-unitree-prepare-ipo
+Open WebUI changed its license to Open WebUI License with a CLA
+https://github.com/open-webui/docs/blob/main/docs/license.mdx
 
-日經：三星德州泰勒廠「找不到客戶」，將延遲完工
-https://www.inside.com.tw/article/38885-samsung-taylor-facility-opening-in-the-us-reportedly-delayed-to-2026
+I built Gadzetto.com in a single day using ChatGPT
+https://gadzetto.com
 
-APMIC 創辦人 Jerry 吳柏翰：連兩年獲黃仁勳點名合作夥伴，看生成式 AI 是泡沫還是未來？繁中模型、多模態與數位孿生商業化難題解密【塞掐 Side Chat】E356
-https://www.inside.com.tw/feature/side-chat/38884-side-chat-e356
+What clever tools/workflows do you use to manage development environments?
+https://lobste.rs/s/zupgan/what_clever_tools_workflows_do_you_use
 
-防堵炒匯！央行下週找保管銀行「喝咖啡」，不排除祭T+1限制
-https://www.businessyee.com/article/6533-central-bk-control-fx-market
+OpenMW 0.49.0 Released
+https://openmw.org/2025/openmw-0-49-0-released/
 
-一年就能建立持續改善文化？4個階段，打造解決問題的成長型團隊
-https://www.businessyee.com/article/6532-group-growth-mindset
+160 Core RISC-V supercluster on a single M.2
+https://www.youtube.com/watch?v=HRfbQJ6FdF0
 
-【好險有聽】《揭密保險》導讀：從歷史認識保險市場的怪現狀（上）
-https://www.businessyee.com/article/6531-ep37
+operators, not users and programmers
+https://jyn.dev/operators-not-users-and-programmers/
 
-Implementing the Core Services of Spring Authorization Server with Redis
-https://feeds.feedblitz.com/~/921158615/0/baeldung~Implementing-the-Core-Services-of-Spring-Authorization-Server-with-Redis
+Are we the baddies?
+https://geohot.github.io//blog/jekyll/update/2025/07/05/are-we-the-baddies.html
 
-Git experts should try Jujutsu
-https://pksunkara.com/thoughts/git-experts-should-try-jujutsu/
+Broken AI Discourse with Steve Klabnik
+https://www.youtube.com/watch?v=MrfiUMm2Qxk
 
-I want to leave tech: what do I do?
-https://write.as/conjure-utopia/lets-say-youre-working-in-tech-and-you-have-a-technical-role-youre-a
+The messy reality of SIMD (vector) functions
+https://johnnysswlab.com/the-messy-reality-of-simd-vector-functions
 
-A supposedly worthwhile contract I'll never do again
-https://ahelwer.ca/post/2025-07-04-tla-contracts/
+Unsoundness and accidental features in the #[target_feature] attribute
+https://predr.ag/blog/unsoundness-and-accidental-features-in-target-feature/
 
-mawkdown, a lightweight, line-oriented(ish) text markup tool implemented in awk
-https://codeberg.org/owl/mawkdown
+Overthinking GIS
+https://scottsexton.co/post/overthinking_gis/
 
-A compact bitset implementation used in Ocarina of Time save files
-https://github.com/jb55/oot_bitset
+bgcmd: let AI interact with any REPL
+https://github.com/izabera/bgcmd
 
-Compression Dictionary Transport
-https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Compression_dictionary_transport
-
-AI’s great brain robbery — and how universities can fight back
-https://www.thetimes.com/comment/columnists/article/ai-brain-robbery-universities-chatgpt-c6lr03dlz
-
-apl87
-https://www.jsoftware.com/papers/APL87.htm
-
-NVIDIA is full of shit
-https://blog.sebin-nyshkim.net/posts/nvidia-is-full-of-shit/
-
-The ITTAGE indirect branch predictor
-https://blog.nelhage.com/post/ittage-branch-predictor/
-
-actix-passport: A comprehensive, flexible authentication framework for actix-web
-https://github.com/densumesh/actix-passport
-
-What are you doing this weekend?
-https://lobste.rs/s/zixaut/what_are_you_doing_this_weekend
-
-The Eternal Mainframe
-https://www.winestockwebdesign.com/Essays/Eternal_Mainframe.html
-
-awesome-standards: A curated list of technical standards
-https://github.com/donBarbos/awesome-standards
-
-iris: A neurosymbolic framework for vulnerability detection in code
-https://github.com/iris-sast/iris
-
-gremllm: A slight upgrade to the Gremlins in your code
-https://github.com/awwaiid/gremllm
-
-Getting extensions to work with free-threaded Python
-https://lwn.net/Articles/1025893/
-
-Riff: LLMs are Software Diamonds
-https://www.evalapply.org/posts/llms-are-diamonds/index.html
-
-Gödel's beavers, or the limits of knowledge
-https://lcamtuf.substack.com/p/monkeys-typewriters-and-busy-beavers
-
-Japan to begin world-first deep-sea mining trial + 9 more stories
-https://newsletter.newsminimalist.com/p/japan-to-begin-world-first-deep-sea-mining-trial-9-more-stories
+4096 colours and the blink attribute
+https://research.exoticsilicon.com/articles/console_4096
