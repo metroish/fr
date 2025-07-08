@@ -1,10 +1,40 @@
-# 2025-07-07 09:21:46 Feeds Report 
+# 2025-07-08 09:20:38 Feeds Report 
 
-Daily Hacker News for 2025-07-06
-https://www.daemonology.net/hn-daily/2025-07-06.html
+Daily Hacker News for 2025-07-07
+https://www.daemonology.net/hn-daily/2025-07-07.html
 
-西班牙電信業者Telefonica傳資料外洩，駭客揚言公開106 GB檔案
-https://www.ithome.com.tw/news/169923
+傳統的 cgi-bin 遇到現代的硬體
+https://blog.gslin.org/archives/2025/07/08/12502/%e5%82%b3%e7%b5%b1%e7%9a%84-cgi-bin-%e9%81%87%e5%88%b0%e7%8f%be%e4%bb%a3%e7%9a%84%e7%a1%ac%e9%ab%94/
+
+Coding4Fun - 也來寫個「刪除五秒內可反悔」功能
+https://blog.darkthread.net/blog/undo-del-in-5s/
+
+macOS竊資軟體Atomic內建後門功能，讓攻擊者持續存取受害電腦
+https://www.ithome.com.tw/news/169947
+
+量子運算業者IonQ獲得10億美元私募投資
+https://www.ithome.com.tw/news/169946
+
+ChatGPT Deep Research可能正測試串接Slack
+https://www.ithome.com.tw/news/169937
+
+Twitter創辦人Jack Dorsey開源其實驗性藍牙傳訊程式Bitchat
+https://www.ithome.com.tw/news/169935
+
+勒索軟體Hunters International宣布關閉業務，釋出解密金鑰
+https://www.ithome.com.tw/news/169934
+
+Azure存在曝露VPN金鑰及過高授權的漏洞　可致敏感資訊外流
+https://www.ithome.com.tw/news/169933
+
+CoreWeave準備買下比特幣挖礦公司Core Scientific
+https://www.ithome.com.tw/news/169932
+
+日本Yahoo如何實驗網站前端效能優化方法，用有限成本同時提升使用者體驗與廣告收入
+https://www.ithome.com.tw/news/169930
+
+溫布頓網球賽AI線審頻出包備受批評
+https://www.ithome.com.tw/news/169931
 
 Apache Tomcat、Camel遭到鎖定，駭客利用已知漏洞從事攻擊
 https://www.ithome.com.tw/news/169918
@@ -15,128 +45,128 @@ https://www.ithome.com.tw/news/169917
 聯想電腦預載可寫入資料的檔案，可能被用於突破Windows AppLocker安全防護
 https://www.ithome.com.tw/news/169916
 
-【資安週報】0630~0704，調查局破獲消防局行動派遣系統資訊遭竊，殯葬業者委託駭客攻擊，目的是搶生意
-https://www.ithome.com.tw/news/169914
+CPO 技術是什麼？帶你從頭認識光電整合的未來趨勢
+https://www.inside.com.tw/article/38911-cpo-technology-guide-2025-market-trends-taiwan
 
-川普簽署《大而美法案》
-https://www.ithome.com.tw/news/169913
+德國打造新一代電流收集器，電動車電池更輕、更安全
+https://www.inside.com.tw/article/38907-german-made-battery-film-for-evs
 
-Graylog持續強化事件管理，增設資料湖預覽與掌握敵情的防禦
-https://www.ithome.com.tw/review/169622
+川普批馬斯克成立美國黨「太荒謬」！威脅撤特斯拉、 SpaceX 合約，稱「第三黨只會讓局勢更混亂」
+https://www.inside.com.tw/article/38906-trump-against-musk
 
-Google AI 摘要被控「掏空」內容，新聞網站流量雪崩！歐盟出手調查反壟斷
-https://www.inside.com.tw/article/38899-google-ai-overviews-dispute
+蘋果收斂 Liquid Glass 玻璃外觀，增加功能的易讀性！
+https://www.inside.com.tw/article/38905-ios-26-beta-3
 
-NVIDIA 認證進度大延遲！三星電子 Q2 營收創六季新低
-https://www.inside.com.tw/article/38898-samsung-elec-q2-profit-likely-drop-39-weak-ai-chip-sales-2025
+Meta 挖角成功！Apple 人工智慧核心主管跳槽，人才流失危機浮現
+https://www.inside.com.tw/article/38904-meta-reportedly-recruits-apples-head-of-ai-models
 
-蘋果有史以來最賣座電影？《F1 電影》全球票房即將突破 3 億美元
-https://www.inside.com.tw/article/38897-f1-the-movie-highest-grossing-movie
+Twitter 共同創辦人 Jack Dorsey 為什麼要開發藍牙通訊 App「Bitchat」？
+https://www.inside.com.tw/article/38903-jack-dorsey-working-on-bluetooth-messaging-app-bitchat
 
-開源專案 Zluda 團隊擴編一倍，挑戰  NVIDIA CUDA 技術壟斷
-https://www.inside.com.tw/article/38896-zluda-update-q2-2025
+【Editors’ Picks】把回憶掃進未來！Kodak Slide N Scan 底片掃描器幫你數位化珍藏影像
+https://www.inside.com.tw/article/38901-kodak-has-a-new-way-for-you-to-preserve-your-old-photos-and-slides
 
-AI 爬蟲機器人也得行動支付
-https://www.inside.com.tw/article/38895-ai-web-crawlers-now-required-to-make-mobile-payments
+強大的「預設值」
+https://ckhung0.blogspot.com/2025/07/default.html
 
-馬斯克創立「美國黨」川普嗆「荒謬」！雙方分歧內幕曝
-https://www.inside.com.tw/article/38894-elon-musk-launches-american-party-trump-calls-it-ridiculous-as-rift-deepens
+歡迎投稿
+https://voicettank.org/歡迎投稿/
 
-OpenAI 確認 GPT-5 今夏問世，整合推理與多模態技術解決使用混淆
-https://www.inside.com.tw/article/38893-openai-says-gpt-5-will-unify-breakthroughs-from-different-models
+美國國慶日，聖誕老公公變臉一去不復返
+https://voicettank.org/20250708-1/
 
-研究人員論文暗藏「好評專屬」AI 指令
-https://www.inside.com.tw/article/38892-researchers-hide-positive-review-only-ai-instructions-in-academic-papers
+祖克柏捧數千萬美元挖走蘋果大將，蘋果 AI團隊大失血
+https://www.businessyee.com/article/6549-meta-apple
 
-科學家警告：AI 恐增 5 倍「人為疫情」流行病風險
-https://www.inside.com.tw/article/38890-scientists-warn-ai-could-increase-engineered-pandemic-risk-fivefold
+拿下核電級AI資料中心算力！CoreWeave砸90億美元併購Core Scientific
+https://www.businessyee.com/article/6548-coreweave-to-acquire-core-scientific
 
-Cosplay在運作這個國家
-https://voicettank.org/20250707-1/
+川普關稅陰影未散、美國年底前僅降息一次！野村解析 Q3 投資市場四大重點
+https://www.businessyee.com/article/6547-noaura-2025-q3
 
-傳輸速度快本體又輕的三星SSD外接硬碟T7降價啦！
-https://www.businessyee.com/article/6537-Samsung-T7-SSD
+輝達HBM晶片驗證卡關！三星預告Q2獲利年減56%
+https://www.businessyee.com/article/6546-samsung-projects-second-quarter-profits
 
-川普：今天寄出關稅協議函件，課稅幅度10%～70%
-https://www.businessyee.com/article/6536-Tariffs-letters
+蘋果面臨的「美國製造」挑戰：從Google Moto X的教訓看iPhone未來
+https://www.businessyee.com/article/6541-what-apple-can-learn-google-motorola-moto-x
 
-川普：關稅對某些國家來說金額很高，但我們算他們優惠價了
-https://www.businessyee.com/article/6535-Tariffs
+K-Pop Masterz首度登台，永豐卡友優先搶購
+https://www.businessyee.com/article/6545-K-Pop-Masterz
 
-Waste Wars
-https://dushuyizhi.net/waste-wars/
+馬斯克組「美國黨」引發投資人不安，特斯拉單日蒸發680億美元
+https://www.businessyee.com/article/6544-tsla-stock-dump-American-Party
 
-Spring AI With Docker Model Runner
-https://feeds.feedblitz.com/~/921274106/0/baeldung~Spring-AI-With-Docker-Model-Runner
+川普對等關稅｜歐盟內部分歧擴大！德國喊快簽、法西盼謹慎詳談
+https://www.businessyee.com/article/6543-trump-tariff-eu
 
-Copying Text to the Clipboard in Java
-https://feeds.feedblitz.com/~/921273617/0/baeldung~Copying-Text-to-the-Clipboard-in-Java
+川普新對等關稅日、韓、大馬25%，「來美國設廠可免關稅」
+https://www.businessyee.com/article/6542-new-Reciprocal-Tariffs
 
-Pagination Support in Spring Boot GraphQL
-https://feeds.feedblitz.com/~/921273620/0/baeldung~Pagination-Support-in-Spring-Boot-GraphQL
+矽谷斜槓文化、彈性工時失控了？印度工程師身兼數職惹議
+https://www.businessyee.com/article/6539-soham-parekh-working-many-tech-jobs
 
-Belgium is unsafe for CVD
-https://floort.net/posts/belgium-unsafe-for-cvd/
+Adding a feature because ChatGPT incorrectly thinks it exists
+https://www.holovaty.com/writing/chatgpt-fake-feature/
 
-In Praise of the Contrarian Stack
-https://hackers.pub/@hongminhee/2025/contrarian-stack/en
+Stop putting nix setup in your checked-in .envrc files
+https://offby1.website/posts/stop-putting-nix-setup-in-your-checked-in-envrc-files.html
 
-The Real GenAI Issue
-https://www.tbray.org/ongoing/When/202x/2025/07/06/AI-Manifesto
+The Future of Forums is Lies, I Guess
+https://aphyr.com/posts/389-the-future-of-forums-is-lies-i-guess
 
-Conventional Commits makes me sad
-https://srazkvt.codeberg.page/posts/2025-07-06-conventional-commits-makes-me-sad.html
+You Should Run a Certificate Transparency Log
+https://words.filippo.io/run-sunlight/
 
-Plasma 6.4 Wayland vs X11, processor and power benchmarks
-https://www.dedoimedo.com/computers/plasma-6-4-performance-wayland-x11-power-cpu-kernel.html
+How Janet's PEG module works
+https://bakpakin.com/writing/how-janets-peg-works.html
 
-Russ Cox solves AoC 2021 Day 24 using Go in Acme [Compiler Analysis]
-https://www.youtube.com/watch?v=hmq6veCFo0Y
+You don't have to use Nix to manage your dotfiles
+https://jade.fyi/blog/use-nix-less/
 
-What is OpenTelemetry? [a basic guide]
-https://signoz.io/blog/what-is-opentelemetry/
+Am I online?
+https://antonz.org/is-online/
 
-C mistakes among the vulnerabilities present in curl code
-https://mastodon.social/@bagder/114806766613678922
+CODE AND TRUST: vibrators to pacemakers
+https://punkx.org/jackdoe/code-and-trust.html
 
-Micro Common Lisp
-https://t3x.org/mcl/index.html
+Generic interfaces
+https://go.dev/blog/generic-interfaces
 
-Ziglings: Learn Zig by fixing broken programs
-https://codeberg.org/ziglings/exercises
+Programming Extensible Data Types in Rust with CGP - Part 1: Modular App Construction and Extensible Builders
+https://contextgeneric.dev/blog/extensible-datatypes-part-1/
 
-Building the Rust compiler with GCC
-https://fractalfir.github.io/generated_html/cg_gcc_bootstrap.html
+Applied Cryptography: comprehensive, novel course materials released under Creative Commons
+https://appliedcryptography.page
 
-Coalton: Toward safe, flexible, and efficient software in Common Lisp
-https://www.youtube.com/watch?v=of92m4XNgrM
+Jepsen & TigerBeetle
+https://open.substack.com/pub/dtornow/p/jepsen-and-tigerbeetle?showWelcomeOnShare=false
 
-Linux: a Portable Operating System (1997)
-https://www.cs.helsinki.fi/u/kutvonen/index_files/linus.pdf
+Automatically Packaging a Haskell Library as a Swift Binary XCFramework
+https://alt-romes.github.io/posts/2025-07-05-packaging-a-haskell-library-as-a-swift-binary-xcframework.html
 
-Building personalized micro agents
-https://blog.meain.io/2025/building-personalized-micro-agents/
+Prompt Coding: No code edits, only complete rewrites
+https://www.gibney.org/prompt_coding
 
-quickly converting djot to html+mathml
-https://www.unix.dog/~yosh/blog/djot-to-html-with-mathml.html
+Inverse Triangle Inequality
+https://matklad.github.io/2025/07/07/inverse-triangle-inequality.html
 
-A Taste of Matzo: A Language for Random Text
-https://journal.infinitenegativeutility.com/a-taste-of-matzo-a-language-for-random-text
+All Programming Languages are Fast
+https://orgpad.info/blog/all-programming-langs-are-fast
 
-Progress report on rustc_codegen_cranelift (June 2025)
-https://bjorn3.github.io/2025/06/30/progress-report-june-2025.html
+Stop using nix-env
+https://stop-using-nix-env.privatevoid.net/
 
-theory building without a mentor
-https://jyn.dev/theory-building-without-a-mentor/
+My first verified (imperative) program
+https://markushimmel.de/blog/my-first-verified-imperative-program/
 
-Decrypted Generative Model safety files for Apple Intelligence containing filters
-https://github.com/BlueFalconHD/apple_generative_model_safety_decrypted
+Cocoa Basics Part Zero: Introduction
+https://blog.xoria.org/cocoa-basics-0/
 
-A non-anthropomorphized view of LLMs
-http://addxorrol.blogspot.com/2025/07/a-non-anthropomorphized-view-of-llms.html
+WebAssembly: Yes, but for What?
+https://queue.acm.org/detail.cfm?id=3746171
 
-Apple Pay vs. Alternative Payment Services
-https://www.taler.net/en/news/2025-05.html
+In defence of swap: common misconceptions (2018)
+https://chrisdown.name/2018/01/02/in-defence-of-swap.html
 
-AfriNIC: Hope, Hijack, and the Harsh Lessons of African Multistakeholderism
-https://medium.com/@emmanuelvitus/afrinic-hope-hijack-and-the-harsh-lessons-of-african-multistakeholderism-8e8378797101
+US will airdrop sterile flies over Mexico, Texas + 4 more stories
+https://newsletter.newsminimalist.com/p/us-will-airdrop-sterile-flies-over-mexico-texas-4-more-stories
