@@ -1,25 +1,28 @@
-# 2025-07-08 09:20:38 Feeds Report 
+# 2025-07-09 09:21:11 Feeds Report 
 
-Daily Hacker News for 2025-07-07
-https://www.daemonology.net/hn-daily/2025-07-07.html
+Daily Hacker News for 2025-07-08
+https://www.daemonology.net/hn-daily/2025-07-08.html
 
-傳統的 cgi-bin 遇到現代的硬體
-https://blog.gslin.org/archives/2025/07/08/12502/%e5%82%b3%e7%b5%b1%e7%9a%84-cgi-bin-%e9%81%87%e5%88%b0%e7%8f%be%e4%bb%a3%e7%9a%84%e7%a1%ac%e9%ab%94/
+瀏覽器App市集存在18款惡意軟體，已被下載逾230萬次
+https://www.ithome.com.tw/news/169961
 
-Coding4Fun - 也來寫個「刪除五秒內可反悔」功能
-https://blog.darkthread.net/blog/undo-del-in-5s/
+Xpanceo打算開發可偵測健康的AI隱形眼鏡，成功融資2.5億美元
+https://www.ithome.com.tw/news/169960
 
-macOS竊資軟體Atomic內建後門功能，讓攻擊者持續存取受害電腦
-https://www.ithome.com.tw/news/169947
+IBM宣稱新一代Power11伺服器可在1分鐘內偵測勒索軟體
+https://www.ithome.com.tw/news/169959
 
-量子運算業者IonQ獲得10億美元私募投資
-https://www.ithome.com.tw/news/169946
+美國務卿遭以AI冒充聯繫官員
+https://www.ithome.com.tw/news/169958
 
-ChatGPT Deep Research可能正測試串接Slack
-https://www.ithome.com.tw/news/169937
+蘋果營運長Jeff Williams將在今年退休
+https://www.ithome.com.tw/news/169957
 
-Twitter創辦人Jack Dorsey開源其實驗性藍牙傳訊程式Bitchat
-https://www.ithome.com.tw/news/169935
+微軟發布7月例行更新，修補130項資安漏洞
+https://www.ithome.com.tw/news/169956
+
+線上程式開發平臺商Replit轉向微軟Azure
+https://www.ithome.com.tw/news/169955
 
 勒索軟體Hunters International宣布關閉業務，釋出解密金鑰
 https://www.ithome.com.tw/news/169934
@@ -33,140 +36,128 @@ https://www.ithome.com.tw/news/169932
 日本Yahoo如何實驗網站前端效能優化方法，用有限成本同時提升使用者體驗與廣告收入
 https://www.ithome.com.tw/news/169930
 
-溫布頓網球賽AI線審頻出包備受批評
-https://www.ithome.com.tw/news/169931
+台大生因語料訓練資料遭中央社起訴！馬斯克提「美國黨」戰略、Gogoro 新資費被罵翻天【塞掐 Side Chat】E357
+https://www.inside.com.tw/feature/side-chat/38920-side-chat-e357
 
-Apache Tomcat、Camel遭到鎖定，駭客利用已知漏洞從事攻擊
-https://www.ithome.com.tw/news/169918
+World Liberty Financial 創辦人 Zach Witkoff 親揭「川普家族穩定幣」進軍亞洲的策略
+https://www.inside.com.tw/article/38919-world-liberty-financial-founder-zach-witkoff-reveals-trump-family-stablecoin-asia-strategy
 
-傳出版商向歐盟控訴Google推AI Overviews影響生機
-https://www.ithome.com.tw/news/169917
+幣安執行長鄧偉政來台：「要跟台灣溝通加密貨幣監管措施」
+https://www.inside.com.tw/article/38918-binance-ceo-richard-teng-visits-taiwan
 
-聯想電腦預載可寫入資料的檔案，可能被用於突破Windows AppLocker安全防護
-https://www.ithome.com.tw/news/169916
+Meta 入股最大眼鏡製造商 EssilorLuxottica！以 35 億美元收購近 3% 股份
+https://www.inside.com.tw/article/38917-meta-acquires-essilorluxottica-shares
 
-CPO 技術是什麼？帶你從頭認識光電整合的未來趨勢
-https://www.inside.com.tw/article/38911-cpo-technology-guide-2025-market-trends-taiwan
+Apple 營運長 Jeff Williams 宣布退休，Sabih Khan 七月接任
+https://www.inside.com.tw/article/38915-apple-coo-jeff-williams-retiring-later-in-2025
 
-德國打造新一代電流收集器，電動車電池更輕、更安全
-https://www.inside.com.tw/article/38907-german-made-battery-film-for-evs
+反挖回去！OpenAI 大舉挖角 Meta、Tesla、X 及 xAI 四名 AI 頂尖工程師
+https://www.inside.com.tw/article/38916-tesla-xai-executives-poached-openai
 
-川普批馬斯克成立美國黨「太荒謬」！威脅撤特斯拉、 SpaceX 合約，稱「第三黨只會讓局勢更混亂」
-https://www.inside.com.tw/article/38906-trump-against-musk
+Gogoro 推出 0 月租資費，正式邁入「騎多少、付多少」時代！
+https://www.inside.com.tw/article/38908-gogoro-launches-zero-monthly-fee-plan-ushering-in-pay-as-you-ride-era
 
-蘋果收斂 Liquid Glass 玻璃外觀，增加功能的易讀性！
-https://www.inside.com.tw/article/38905-ios-26-beta-3
+一文快速看台灣《媒體議價法》的始末
+https://www.inside.com.tw/article/38912-quick-overview-of-taiwan-media-bargaining-law-history-and-development
 
-Meta 挖角成功！Apple 人工智慧核心主管跳槽，人才流失危機浮現
-https://www.inside.com.tw/article/38904-meta-reportedly-recruits-apples-head-of-ai-models
+中國洲際彈道飛彈及核彈頭發展之研析
+https://voicettank.org/20250708-2/
 
-Twitter 共同創辦人 Jack Dorsey 為什麼要開發藍牙通訊 App「Bitchat」？
-https://www.inside.com.tw/article/38903-jack-dorsey-working-on-bluetooth-messaging-app-bitchat
+丹娜絲颱風重創嘉南！國泰產：太陽能案場影響大，離岸風電無重大災損
+https://www.businessyee.com/article/6561-typhoon-Solar-power-damage
 
-【Editors’ Picks】把回憶掃進未來！Kodak Slide N Scan 底片掃描器幫你數位化珍藏影像
-https://www.inside.com.tw/article/38901-kodak-has-a-new-way-for-you-to-preserve-your-old-photos-and-slides
+川普關稅擠牙膏！國壽總座劉上旗：投資最大風險是「不確定性」
+https://www.businessyee.com/article/6560-cathay-life-talk-tariff
 
-強大的「預設值」
-https://ckhung0.blogspot.com/2025/07/default.html
+深化AI智慧眼鏡開發！Meta投35億美元入股雷朋眼鏡母公司
+https://www.businessyee.com/article/6558-meta-invests-3-5-billion
 
-歡迎投稿
-https://voicettank.org/歡迎投稿/
+川普想對藥物徵200%關稅，業者：會危及患者生命
+https://www.businessyee.com/article/6559-tariff-on-pharmaceuticals
 
-美國國慶日，聖誕老公公變臉一去不復返
-https://voicettank.org/20250708-1/
+國泰金總座李長庚：台灣企業具適應力，有信心挺過關稅、匯率挑戰
+https://www.businessyee.com/article/6557-corp-Tariff-exchange
 
-祖克柏捧數千萬美元挖走蘋果大將，蘋果 AI團隊大失血
-https://www.businessyee.com/article/6549-meta-apple
+NASA不能沒有它！SpaceX估值上看4,000億美元
+https://www.businessyee.com/article/6556-SpaceX-Valuation
 
-拿下核電級AI資料中心算力！CoreWeave砸90億美元併購Core Scientific
-https://www.businessyee.com/article/6548-coreweave-to-acquire-core-scientific
+川普將對進口銅課徵50%關稅，銅價飆漲13%
+https://www.businessyee.com/article/6555-Tariffs-Copper
 
-川普關稅陰影未散、美國年底前僅降息一次！野村解析 Q3 投資市場四大重點
-https://www.businessyee.com/article/6547-noaura-2025-q3
+亞洲氣候投資不減反增！國泰金李長庚：台灣有機會掌握低碳話語權
+https://www.businessyee.com/article/6554-cathay-esg
 
-輝達HBM晶片驗證卡關！三星預告Q2獲利年減56%
-https://www.businessyee.com/article/6546-samsung-projects-second-quarter-profits
+銀行對員工無擔保放款，上限放寬至200萬
+https://www.businessyee.com/article/6553-bk-Stakeholders-creditdebt
 
-蘋果面臨的「美國製造」挑戰：從Google Moto X的教訓看iPhone未來
-https://www.businessyee.com/article/6541-what-apple-can-learn-google-motorola-moto-x
+Amazon Prime Day今暖身開跑！寶寶推車涼風墊73折、山下智久代言直髮洗髮乳搶先解禁、龜梨和也爆買的營養品代餐可放防災包？
+https://www.businessyee.com/article/6552-amazon-prime-day-sh%C5%ABji-to-akira
 
-K-Pop Masterz首度登台，永豐卡友優先搶購
-https://www.businessyee.com/article/6545-K-Pop-Masterz
+systemd has been a complete, utter, unmitigated success
+https://blog.tjll.net/the-systemd-revolution-has-been-a-success/
 
-馬斯克組「美國黨」引發投資人不安，特斯拉單日蒸發680億美元
-https://www.businessyee.com/article/6544-tsla-stock-dump-American-Party
+How I build software quickly
+https://evanhahn.com/how-i-build-software-quickly/
 
-川普對等關稅｜歐盟內部分歧擴大！德國喊快簽、法西盼謹慎詳談
-https://www.businessyee.com/article/6543-trump-tariff-eu
+Announcing FOKS, the Federated Open Key Service
+https://blog.foks.pub/posts/introducing/
 
-川普新對等關稅日、韓、大馬25%，「來美國設廠可免關稅」
-https://www.businessyee.com/article/6542-new-Reciprocal-Tariffs
+Two weeks of wayback
+https://ariadne.space/2025/07/07/two-weeks-of-wayback.html
 
-矽谷斜槓文化、彈性工時失控了？印度工程師身兼數職惹議
-https://www.businessyee.com/article/6539-soham-parekh-working-many-tech-jobs
+Phrase origin: Why do we “call” functions?
+https://quuxplusone.github.io/blog/2025/04/04/etymology-of-call/
 
-Adding a feature because ChatGPT incorrectly thinks it exists
-https://www.holovaty.com/writing/chatgpt-fake-feature/
+IBM Power11 hits the market this month
+https://www.talospace.com/2025/07/power11-hits-market-this-month.html
 
-Stop putting nix setup in your checked-in .envrc files
-https://offby1.website/posts/stop-putting-nix-setup-in-your-checked-in-envrc-files.html
+CVE-2025-48384: Breaking git with a carriage return and cloning RCE
+https://dgl.cx/2025/07/git-clone-submodule-cve-2025-48384
 
-The Future of Forums is Lies, I Guess
-https://aphyr.com/posts/389-the-future-of-forums-is-lies-i-guess
+Hippocratic License
+https://firstdonoharm.dev/version/3/0/cl-eco-media-my-tal-xuar.txt
 
-You Should Run a Certificate Transparency Log
-https://words.filippo.io/run-sunlight/
+toml v0.9
+https://epage.github.io/blog/2025/07/toml-09/
 
-How Janet's PEG module works
-https://bakpakin.com/writing/how-janets-peg-works.html
+#[derive(Clone)] is broken
+https://rgbcu.be/blog/derive-broken/
 
-You don't have to use Nix to manage your dotfiles
-https://jade.fyi/blog/use-nix-less/
+Multiple vulnerabilities fixed in Git
+https://www.openwall.com/lists/oss-security/2025/07/08/4
 
-Am I online?
-https://antonz.org/is-online/
+Agents don't have agency
+https://kconner.com/2025/07/08/agents-dont-have-agency.html
 
-CODE AND TRUST: vibrators to pacemakers
-https://punkx.org/jackdoe/code-and-trust.html
+bitchat is a decentralized, peer-to-peer messaging application that operates over Bluetooth Low Energy (BLE) mesh networks
+https://github.com/jackjackbits/bitchat/blob/main/WHITEPAPER.md
 
-Generic interfaces
-https://go.dev/blog/generic-interfaces
+Supabase MCP can leak your entire SQL database
+https://www.generalanalysis.com/blog/supabase-mcp-blog
 
-Programming Extensible Data Types in Rust with CGP - Part 1: Modular App Construction and Extensible Builders
-https://contextgeneric.dev/blog/extensible-datatypes-part-1/
+AoC 2021 Day 1 using Ivy (5m00)
+https://www.youtube.com/watch?v=ek1yjc9sSag
 
-Applied Cryptography: comprehensive, novel course materials released under Creative Commons
-https://appliedcryptography.page
+C3 0.7.3 - Small improvements
+https://c3-lang.org/blog/c3-0-7-3-small-improvements/
 
-Jepsen & TigerBeetle
-https://open.substack.com/pub/dtornow/p/jepsen-and-tigerbeetle?showWelcomeOnShare=false
+The case against which-key: a polemic
+https://www.matem.unam.mx/~omar/apropos-emacs.html#the-case-against-which-key-a-polemic
 
-Automatically Packaging a Haskell Library as a Swift Binary XCFramework
-https://alt-romes.github.io/posts/2025-07-05-packaging-a-haskell-library-as-a-swift-binary-xcframework.html
+Infinite Mac Construction Set
+https://blog.persistent.info/2025/07/infinite-mac-embedding.html
 
-Prompt Coding: No code edits, only complete rewrites
-https://www.gibney.org/prompt_coding
+Which Kubernetes is the Smallest? Examining Talos Linux, K3s, K0s, and More
+https://www.siderolabs.com/blog/which-kubernetes-is-the-smallest/
 
-Inverse Triangle Inequality
-https://matklad.github.io/2025/07/07/inverse-triangle-inequality.html
+eSIM security
+https://security-explorations.com/esim-security.html
 
-All Programming Languages are Fast
-https://orgpad.info/blog/all-programming-langs-are-fast
+Making Unsafe Rust a Little Safer: Find Memory Errors in Production with GWP-ASan
+https://blog.colinbreck.com/making-unsafe-rust-a-little-safer-find-memory-errors-in-production-with-gwp-asan/
 
-Stop using nix-env
-https://stop-using-nix-env.privatevoid.net/
+Customize your keyboard shortcuts in Chrome with a Chrome extension
+https://taupiqueur.github.io/chrome-shortcuts
 
-My first verified (imperative) program
-https://markushimmel.de/blog/my-first-verified-imperative-program/
-
-Cocoa Basics Part Zero: Introduction
-https://blog.xoria.org/cocoa-basics-0/
-
-WebAssembly: Yes, but for What?
-https://queue.acm.org/detail.cfm?id=3746171
-
-In defence of swap: common misconceptions (2018)
-https://chrisdown.name/2018/01/02/in-defence-of-swap.html
-
-US will airdrop sterile flies over Mexico, Texas + 4 more stories
-https://newsletter.newsminimalist.com/p/us-will-airdrop-sterile-flies-over-mexico-texas-4-more-stories
+ä¸æ¬¡å°ä½
+https://wiwi.blog/blog/one-shot
