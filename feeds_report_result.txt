@@ -1,19 +1,37 @@
-# 2025-07-09 09:21:11 Feeds Report 
+# 2025-07-10 09:21:18 Feeds Report 
 
-Daily Hacker News for 2025-07-08
-https://www.daemonology.net/hn-daily/2025-07-08.html
+Daily Hacker News for 2025-07-09
+https://www.daemonology.net/hn-daily/2025-07-09.html
 
-瀏覽器App市集存在18款惡意軟體，已被下載逾230萬次
-https://www.ithome.com.tw/news/169961
+Hugging Face開放開發人員訂購機器人套件
+https://www.ithome.com.tw/news/169983
 
-Xpanceo打算開發可偵測健康的AI隱形眼鏡，成功融資2.5億美元
-https://www.ithome.com.tw/news/169960
+三星發表要價2,000美元的超薄摺疊手機Galaxy Z Fold7
+https://www.ithome.com.tw/news/169976
 
-IBM宣稱新一代Power11伺服器可在1分鐘內偵測勒索軟體
-https://www.ithome.com.tw/news/169959
+X執行長Linda Yaccarino辭職
+https://www.ithome.com.tw/news/169974
 
-美國務卿遭以AI冒充聯繫官員
-https://www.ithome.com.tw/news/169958
+大規模詐騙新聞網站攻擊活動BaitTrap鎖定50個國家而來，目的是進行網路投資詐欺
+https://www.ithome.com.tw/news/169973
+
+Citrix修補VDI平臺本機權限提升資安漏洞
+https://www.ithome.com.tw/news/169972
+
+Fortinet修補網頁應用程式防火牆重大SQL注入漏洞
+https://www.ithome.com.tw/news/169971
+
+Adobe發布7月例行更新，呼籲IT人員優先修補AEM Forms、ColdFusion
+https://www.ithome.com.tw/news/169970
+
+Perplexity釋出AI瀏覽器Comet、OpenAI傳聞也即將推出
+https://www.ithome.com.tw/news/169969
+
+AWS揭露用生成式AI幫助資安的5種場景，不只程式碼修補、API安全測試，還有日誌分析速度快50倍
+https://www.ithome.com.tw/news/169968
+
+Kia車載系統漏洞，讓攻擊者利用PNG圖檔注入程式
+https://www.ithome.com.tw/news/169967
 
 蘋果營運長Jeff Williams將在今年退休
 https://www.ithome.com.tw/news/169957
@@ -24,140 +42,137 @@ https://www.ithome.com.tw/news/169956
 線上程式開發平臺商Replit轉向微軟Azure
 https://www.ithome.com.tw/news/169955
 
-勒索軟體Hunters International宣布關閉業務，釋出解密金鑰
-https://www.ithome.com.tw/news/169934
+Grok 4 發表！馬斯克：我們正處於「智慧大爆炸」開端
+https://www.inside.com.tw/article/38933-xai-grok-4-elon-musk-kardashev-scale
 
-Azure存在曝露VPN金鑰及過高授權的漏洞　可致敏感資訊外流
-https://www.ithome.com.tw/news/169933
+Perplexity 推出 AI 瀏覽器 Comet，內建智慧助理 Comet Assistant
+https://www.inside.com.tw/article/38932-perplexity-launches-comet-an-ai-powered-web-browser
 
-CoreWeave準備買下比特幣挖礦公司Core Scientific
-https://www.ithome.com.tw/news/169932
+xAI 正式發表 Grok 4！發表會重點一次看
+https://www.inside.com.tw/article/38931-xai-grok-4
 
-日本Yahoo如何實驗網站前端效能優化方法，用有限成本同時提升使用者體驗與廣告收入
-https://www.ithome.com.tw/news/169930
+WeMo 宣布：投車總量已經突破萬台！
+https://www.inside.com.tw/article/38930-wemo-10000
 
-台大生因語料訓練資料遭中央社起訴！馬斯克提「美國黨」戰略、Gogoro 新資費被罵翻天【塞掐 Side Chat】E357
-https://www.inside.com.tw/feature/side-chat/38920-side-chat-e357
+中華電信董事長：99.9% 政府網站憑證已經更新了！扯到國安議題太遠
+https://www.inside.com.tw/article/38928-chunghwa-telecom-chair-says-99-percent-of-government-site-certificate-updates-unrelated-to-national-security
 
-World Liberty Financial 創辦人 Zach Witkoff 親揭「川普家族穩定幣」進軍亞洲的策略
-https://www.inside.com.tw/article/38919-world-liberty-financial-founder-zach-witkoff-reveals-trump-family-stablecoin-asia-strategy
+來了！Google Gemini 正式登陸 Wear OS 智慧手錶
+https://www.inside.com.tw/article/38929-google-gemini-wear-os
 
-幣安執行長鄧偉政來台：「要跟台灣溝通加密貨幣監管措施」
-https://www.inside.com.tw/article/38918-binance-ceo-richard-teng-visits-taiwan
+Google Gemini CLI 深度解析：瞄準開發者終端 (terminal) 的 AI Agent 生態戰爭
+https://www.inside.com.tw/article/38924-google-gemini-cli
 
-Meta 入股最大眼鏡製造商 EssilorLuxottica！以 35 億美元收購近 3% 股份
-https://www.inside.com.tw/article/38917-meta-acquires-essilorluxottica-shares
+【台灣今日開賣！】任天堂 Switch 2 上市首周就賣破紀錄、近前代 3 倍水準
+https://www.inside.com.tw/article/38927-
 
-Apple 營運長 Jeff Williams 宣布退休，Sabih Khan 七月接任
-https://www.inside.com.tw/article/38915-apple-coo-jeff-williams-retiring-later-in-2025
+Apple 計劃今年推出 Vision Pro 升級版！彭博：將提升配戴體驗
+https://www.inside.com.tw/article/38926-apple-readies-first-upgrade-to-its-struggling-vision-pro-headset
 
-反挖回去！OpenAI 大舉挖角 Meta、Tesla、X 及 xAI 四名 AI 頂尖工程師
-https://www.inside.com.tw/article/38916-tesla-xai-executives-poached-openai
+NVIDIA 市值首度突破 4 兆美元！成全球最有價值企業
+https://www.inside.com.tw/article/38925-nvidia-4-trillion
 
-Gogoro 推出 0 月租資費，正式邁入「騎多少、付多少」時代！
-https://www.inside.com.tw/article/38908-gogoro-launches-zero-monthly-fee-plan-ushering-in-pay-as-you-ride-era
+美國將格陵蘭劃歸北方司令部責任區之戰略意涵
+https://voicettank.org/20250709-2/
 
-一文快速看台灣《媒體議價法》的始末
-https://www.inside.com.tw/article/38912-quick-overview-of-taiwan-media-bargaining-law-history-and-development
+暗殺或襲擊外國國家元首之國際法問題—從蕭美琴副總統的捷克驚遇談起
+https://voicettank.org/20250710-1/
 
-中國洲際彈道飛彈及核彈頭發展之研析
-https://voicettank.org/20250708-2/
+【書摘】《論女性》
+https://voicettank.org/20250710-2/
 
-丹娜絲颱風重創嘉南！國泰產：太陽能案場影響大，離岸風電無重大災損
-https://www.businessyee.com/article/6561-typhoon-Solar-power-damage
+接軌IFRS 17！保險業監理年費新規2027年起適用
+https://www.businessyee.com/article/6572-Insurance-supervision-annual-fee
 
-川普關稅擠牙膏！國壽總座劉上旗：投資最大風險是「不確定性」
-https://www.businessyee.com/article/6560-cathay-life-talk-tariff
+Perplexity推AI搜尋瀏覽器 挑戰Google霸主地位
+https://www.businessyee.com/article/6571-Perplexity-ai-Comet
 
-深化AI智慧眼鏡開發！Meta投35億美元入股雷朋眼鏡母公司
-https://www.businessyee.com/article/6558-meta-invests-3-5-billion
+月營收｜台積電6月營收2,637億元，匯率衝擊降臨，月減17.7%、年增26.9%！
+https://www.businessyee.com/article/6570-tsmc-revenue-june-2025
 
-川普想對藥物徵200%關稅，業者：會危及患者生命
-https://www.businessyee.com/article/6559-tariff-on-pharmaceuticals
+政院：談判團隊還在華府，正面樂觀看待台美關稅
+https://www.businessyee.com/article/6569-Taiwan-US-Tariffs
 
-國泰金總座李長庚：台灣企業具適應力，有信心挺過關稅、匯率挑戰
-https://www.businessyee.com/article/6557-corp-Tariff-exchange
+巴西關稅高達50%！記者問怎麼算？川普：基於常識
+https://www.businessyee.com/article/6568-Tariffs
 
-NASA不能沒有它！SpaceX估值上看4,000億美元
-https://www.businessyee.com/article/6556-SpaceX-Valuation
+全球首家！輝達盤中市值首度觸及4兆美元
+https://www.businessyee.com/article/6567-nvda-reach-4trillon
 
-川普將對進口銅課徵50%關稅，銅價飆漲13%
-https://www.businessyee.com/article/6555-Tariffs-Copper
+跟Amazon Prime Day一起跑！2025年度跑鞋下殺，你是幸運灰姑娘嗎？
+https://www.businessyee.com/article/6566-2025-running-shoes-amazon-prime-day
 
-亞洲氣候投資不減反增！國泰金李長庚：台灣有機會掌握低碳話語權
-https://www.businessyee.com/article/6554-cathay-esg
+外商最愛！國壽hub商辦拚綠電、ESG數據、還拚健康蔬菜自己摘
+https://www.businessyee.com/article/6565-cathay-life-green-buiiding
 
-銀行對員工無擔保放款，上限放寬至200萬
-https://www.businessyee.com/article/6553-bk-Stakeholders-creditdebt
+分析師：特斯拉股價慘跌不光是馬斯克惹議所致，背後另有深層原因！
+https://www.businessyee.com/article/6563-why-tesla-is-in-trouble
 
-Amazon Prime Day今暖身開跑！寶寶推車涼風墊73折、山下智久代言直髮洗髮乳搶先解禁、龜梨和也爆買的營養品代餐可放防災包？
-https://www.businessyee.com/article/6552-amazon-prime-day-sh%C5%ABji-to-akira
+認真努力工作一樣績效不好？運用3種破框思維，幫你有效解決問題
+https://www.businessyee.com/article/6564-Think-Bigger
 
-systemd has been a complete, utter, unmitigated success
-https://blog.tjll.net/the-systemd-revolution-has-been-a-success/
+Hare by Example
+https://harebyexample.org
 
-How I build software quickly
-https://evanhahn.com/how-i-build-software-quickly/
+Kubernetes is not just for Black Friday
+https://ergaster.org/posts/2025/07/09-kubernetes-black-friday/
 
-Announcing FOKS, the Federated Open Key Service
-https://blog.foks.pub/posts/introducing/
+Using fs_usage to see what files a process is using
+https://til.simonwillison.net/macos/fs-usage
 
-Two weeks of wayback
-https://ariadne.space/2025/07/07/two-weeks-of-wayback.html
+Variadic Generics ideas that won’t work for Rust
+https://poignardazur.github.io//2025/07/09/variadic-generics-dead-ends/
 
-Phrase origin: Why do we “call” functions?
-https://quuxplusone.github.io/blog/2025/04/04/etymology-of-call/
+MicroHs, a tiny Haskell Compiler
+https://www.youtube.com/watch?v=SJwvPEq4Mok
 
-IBM Power11 hits the market this month
-https://www.talospace.com/2025/07/power11-hits-market-this-month.html
+Get the location of the ISS using DNS
+https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/
 
-CVE-2025-48384: Breaking git with a carriage return and cloning RCE
-https://dgl.cx/2025/07/git-clone-submodule-cve-2025-48384
+Closures for Hare
+https://lists.sr.ht/~sircmpwn/hare-rfc/%3CDB54BK1QFAMO.VURD1415NHT3@ddevault.org%3E
 
-Hippocratic License
-https://firstdonoharm.dev/version/3/0/cl-eco-media-my-tal-xuar.txt
+(Quite) A Few Words About Async
+https://yoric.github.io/post/quite-a-few-words-about-async/
 
-toml v0.9
-https://epage.github.io/blog/2025/07/toml-09/
+Brut: A New Web Framework for Ruby
+https://naildrivin5.com/blog/2025/07/08/brut-a-new-web-framework-for-ruby.html
 
-#[derive(Clone)] is broken
-https://rgbcu.be/blog/derive-broken/
+Unveiling the Open Source heroes that power our digital infrastructure
+https://maintaine.rs/
 
-Multiple vulnerabilities fixed in Git
-https://www.openwall.com/lists/oss-security/2025/07/08/4
+HyAB k-means for color quantization
+https://30fps.net/pages/hyab-kmeans/
 
-Agents don't have agency
-https://kconner.com/2025/07/08/agents-dont-have-agency.html
+Is the doc bot docs, or not?
+https://www.robinsloan.com/lab/what-are-we-even-doing-here/
 
-bitchat is a decentralized, peer-to-peer messaging application that operates over Bluetooth Low Energy (BLE) mesh networks
-https://github.com/jackjackbits/bitchat/blob/main/WHITEPAPER.md
+A Whirlwind Tutorial on Creating Really Teensy ELF Executables for Linux
+https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html
 
-Supabase MCP can leak your entire SQL database
-https://www.generalanalysis.com/blog/supabase-mcp-blog
+Writing a very simple JIT Compiler in about 1000 lines of C
+https://kuterdinel.com/writing-a-very-simple-jit-compiler-in-about-1000-lines-of-c.html
 
-AoC 2021 Day 1 using Ivy (5m00)
-https://www.youtube.com/watch?v=ek1yjc9sSag
+Vim Fugitive in action (2021)
+https://dzx.fr/blog/introduction-to-vim-fugitive/
 
-C3 0.7.3 - Small improvements
-https://c3-lang.org/blog/c3-0-7-3-small-improvements/
+Functional Functions - A Comprehensive Proposal Overviewing Blocks, Nested Functions, and Lambdas for C
+https://thephd.dev/_vendor/future_cxx/papers/C%20-%20Functional%20Functions.html
 
-The case against which-key: a polemic
-https://www.matem.unam.mx/~omar/apropos-emacs.html#the-case-against-which-key-a-polemic
+Roll your own in-game UI with Clay and NanoVG
+https://dev.to/linkdd/roll-your-own-in-game-ui-with-clay-and-nanovg-part-2-25pf
 
-Infinite Mac Construction Set
-https://blog.persistent.info/2025/07/infinite-mac-embedding.html
+Summary of the May 2025 TC39 plenary
+https://blogs.igalia.com/compilers/2025/07/03/summary-of-the-may-2025-tc39-plenary/
 
-Which Kubernetes is the Smallest? Examining Talos Linux, K3s, K0s, and More
-https://www.siderolabs.com/blog/which-kubernetes-is-the-smallest/
+Client-side epub generation
+https://little.webby.press/
 
-eSIM security
-https://security-explorations.com/esim-security.html
+Oregon Programming Languages Summer School (OPLSS) 2025: Types, Logic, and Formal Methods
+https://www.cs.uoregon.edu/research/summerschool/summer25/topics.php
 
-Making Unsafe Rust a Little Safer: Find Memory Errors in Production with GWP-ASan
-https://blog.colinbreck.com/making-unsafe-rust-a-little-safer-find-memory-errors-in-production-with-gwp-asan/
+First malaria vaccine for babies approved + 7 more stories
+https://newsletter.newsminimalist.com/p/first-malaria-vaccine-for-babies-approved-7-more-stories
 
-Customize your keyboard shortcuts in Chrome with a Chrome extension
-https://taupiqueur.github.io/chrome-shortcuts
-
-ä¸æ¬¡å°ä½
-https://wiwi.blog/blog/one-shot
+éå¨ Linux ä¸è½ç¨
+https://wiwi.blog/blog/stop-blaming-linux
