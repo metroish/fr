@@ -1,19 +1,55 @@
-# 2025-07-10 09:21:18 Feeds Report 
+# 2025-07-11 09:20:13 Feeds Report 
 
-Daily Hacker News for 2025-07-09
-https://www.daemonology.net/hn-daily/2025-07-09.html
+Daily Hacker News for 2025-07-10
+https://www.daemonology.net/hn-daily/2025-07-10.html
 
-Hugging Face開放開發人員訂購機器人套件
-https://www.ithome.com.tw/news/169983
+歐盟發布通用AI實踐準則
+https://www.ithome.com.tw/news/170018
 
-三星發表要價2,000美元的超薄摺疊手機Galaxy Z Fold7
-https://www.ithome.com.tw/news/169976
+【資安日報】7月11日，迴避偵測框架Shellter被用於散布竊資軟體
+https://www.ithome.com.tw/news/170017
 
-X執行長Linda Yaccarino辭職
-https://www.ithome.com.tw/news/169974
+駭客濫用迴避偵測框架Shellter散布竊資軟體，企圖迴避防毒軟體與EDR偵測
+https://www.ithome.com.tw/news/169984
 
-大規模詐騙新聞網站攻擊活動BaitTrap鎖定50個國家而來，目的是進行網路投資詐欺
-https://www.ithome.com.tw/news/169973
+xAI釋出Grok 4，首度於基準測試中稱冠
+https://www.ithome.com.tw/news/170016
+
+今年4月挪威水壩閘門遭到網路攻擊，被迫開啟放水數小時險釀禍
+https://www.ithome.com.tw/news/169992
+
+三星收購美國數位健康平臺Xealth
+https://www.ithome.com.tw/news/170014
+
+美國在義大利逮捕涉嫌竊取COVID-19疫苗資訊的中國駭客
+https://www.ithome.com.tw/news/170013
+
+Google Veo 3推向臺灣、可接受圖片上傳及生成人聲
+https://www.ithome.com.tw/news/170010
+
+語音網釣已成企業重大威脅
+https://www.ithome.com.tw/article/169996
+
+企業須正視語音詐騙的資安危機
+https://www.ithome.com.tw/voice/169997
+
+網路社交工程攻擊升級，企業資安意識強化需擴及所有通訊管道
+https://www.ithome.com.tw/news/169995
+
+【Deepfake偽冒實例】美國白宮幕僚長遭語音偽冒，意圖以此欺騙其他官員進行索資
+https://www.ithome.com.tw/news/169994
+
+【Deepfake偽冒實例】義大利石油富商遭「AI深偽」電話詐騙百萬歐元，國防部長成偽冒對象
+https://www.ithome.com.tw/news/169993
+
+【Deepfake偽冒實例】新加坡警方揭露跨國公司財務主管遭AI深偽詐騙，Deepfake視訊會議詐騙案增加
+https://www.ithome.com.tw/news/169982
+
+【語音網釣實例】山形鐵道公司遭自動語音網釣詐騙近億日元，企業網路銀行帳密是攻擊者下手目標
+https://www.ithome.com.tw/news/169980
+
+2025社交工程攻擊新趨勢！語音網釣、AI偽冒真實攻擊大增
+https://www.ithome.com.tw/news/169977
 
 Citrix修補VDI平臺本機權限提升資安漏洞
 https://www.ithome.com.tw/news/169972
@@ -27,152 +63,143 @@ https://www.ithome.com.tw/news/169970
 Perplexity釋出AI瀏覽器Comet、OpenAI傳聞也即將推出
 https://www.ithome.com.tw/news/169969
 
-AWS揭露用生成式AI幫助資安的5種場景，不只程式碼修補、API安全測試，還有日誌分析速度快50倍
-https://www.ithome.com.tw/news/169968
+街口支付爆停用潮，momo、全國電子、蝦皮等已關閉
+https://www.inside.com.tw/article/38944-jkopay-faces-widespread-suspension-as-momo-e-life-and-shopee-disable-service
 
-Kia車載系統漏洞，讓攻擊者利用PNG圖檔注入程式
-https://www.ithome.com.tw/news/169967
+泰山訴請街口金科返還 36 億引關注，街口支付：用戶資金全額信託
+https://www.inside.com.tw/article/38943-taishan-demands-jkopay-return-nt3-6-billion-company-says-user-funds-fully-protected-in-trust
 
-蘋果營運長Jeff Williams將在今年退休
-https://www.ithome.com.tw/news/169957
+馬斯克：Gork 聊天機器人將在下週登上特斯拉
+https://www.inside.com.tw/article/38942-musk-says-gork-chatbot-will-arrive-in-tesla-vehicles-next-week
 
-微軟發布7月例行更新，修補130項資安漏洞
-https://www.ithome.com.tw/news/169956
+AWS 傳將攜手 Anthropic 推出 AI 代理程式市集，下週紐約峰會正式發表
+https://www.inside.com.tw/article/38940-aws-is-launching-an-ai-agent-marketplace
 
-線上程式開發平臺商Replit轉向微軟Azure
-https://www.ithome.com.tw/news/169955
+馬斯克：Robotaxi 服務將延伸至舊金山灣區
+https://www.inside.com.tw/article/38941-musk-says-robotaxi-service-will-expand-to-the-san-francisco-bay-area
 
-Grok 4 發表！馬斯克：我們正處於「智慧大爆炸」開端
-https://www.inside.com.tw/article/38933-xai-grok-4-elon-musk-kardashev-scale
+美研究團隊透過 AI 機器學習與材料工程協作，打造「金屬肌肉」
+https://www.inside.com.tw/article/38938-us-fighter-jets-shape-memory-alloys
 
-Perplexity 推出 AI 瀏覽器 Comet，內建智慧助理 Comet Assistant
-https://www.inside.com.tw/article/38932-perplexity-launches-comet-an-ai-powered-web-browser
+密碼竟是123456！麥當勞求職網站爆資安漏洞 6400 萬筆求職者個資恐外洩
+https://www.inside.com.tw/article/38939-weak-mcpassword
 
-xAI 正式發表 Grok 4！發表會重點一次看
-https://www.inside.com.tw/article/38931-xai-grok-4
+深入分析 Gogoro 「0 月租」：一場錯誤文字遊戲的背後邏輯
+https://www.inside.com.tw/article/38909-can-gogoros-zero-monthly-fee-plan-unlock-a-new-door-for-the-electric-scooter-market
 
-WeMo 宣布：投車總量已經突破萬台！
-https://www.inside.com.tw/article/38930-wemo-10000
+人去樓空！時間軸詳解街口金科 36 億股權交易案
+https://www.inside.com.tw/article/38935-empty-offices-timeline-analysis-of-jkos-3-6-billion-dollar-equity-transaction
 
-中華電信董事長：99.9% 政府網站憑證已經更新了！扯到國安議題太遠
-https://www.inside.com.tw/article/38928-chunghwa-telecom-chair-says-99-percent-of-government-site-certificate-updates-unrelated-to-national-security
+反擊 AI 垃圾內容 YouTube 七月中旬實施新營利規範
+https://www.inside.com.tw/article/38934-youtube-against-trashy-ai-generated-contents
 
-來了！Google Gemini 正式登陸 Wear OS 智慧手錶
-https://www.inside.com.tw/article/38929-google-gemini-wear-os
+淺談印巴四日戰爭的軍事與外交意涵
+https://voicettank.org/20250711-1/
 
-Google Gemini CLI 深度解析：瞄準開發者終端 (terminal) 的 AI Agent 生態戰爭
-https://www.inside.com.tw/article/38924-google-gemini-cli
+大型電商暫停合作！街口支付董總信心喊話：營運與母公司完全分離
+https://www.businessyee.com/article/6581-Street-payment
 
-【台灣今日開賣！】任天堂 Switch 2 上市首周就賣破紀錄、近前代 3 倍水準
-https://www.inside.com.tw/article/38927-
+黃仁勳身價快要超車巴菲特、波克夏兩個月摔11%
+https://www.businessyee.com/article/6580-Jensen-Huang
 
-Apple 計劃今年推出 Vision Pro 升級版！彭博：將提升配戴體驗
-https://www.inside.com.tw/article/38926-apple-readies-first-upgrade-to-its-struggling-vision-pro-headset
+對等關稅｜川普：剩下統統15%或20%！行政院：台美還在談
+https://www.businessyee.com/article/6579-us-trump-tariff-taiwan
 
-NVIDIA 市值首度突破 4 兆美元！成全球最有價值企業
-https://www.inside.com.tw/article/38925-nvidia-4-trillion
+14家金控上半年賺2192億元、年減35%，玉山金成長逾三成
+https://www.businessyee.com/article/6578-fc-rev-2025-h1
 
-美國將格陵蘭劃歸北方司令部責任區之戰略意涵
-https://voicettank.org/20250709-2/
+富邦金上半年賺513.4億，責準金逾560億全轉外價金
+https://www.businessyee.com/article/6577-fuban-2025-q2-result
 
-暗殺或襲擊外國國家元首之國際法問題—從蕭美琴副總統的捷克驚遇談起
-https://voicettank.org/20250710-1/
+國泰金上半年賺458億元，採責準金新制增提外價金508億
+https://www.businessyee.com/article/6576-cathay-2025-q2-result
 
-【書摘】《論女性》
-https://voicettank.org/20250710-2/
+【月營收評比】晶圓廠6月營收：台積電力抗匯率重壓！成熟製程廠營收成長一舉回正
+https://www.businessyee.com/article/6575-foundry-revenue-june-2025
 
-接軌IFRS 17！保險業監理年費新規2027年起適用
-https://www.businessyee.com/article/6572-Insurance-supervision-annual-fee
+10壽險申請釋出責任準備金，7月後入帳可延至年報揭露
+https://www.businessyee.com/article/6574-insurance-2025-semi-annual-report
 
-Perplexity推AI搜尋瀏覽器 挑戰Google霸主地位
-https://www.businessyee.com/article/6571-Perplexity-ai-Comet
+電子五哥月營收：緯創、廣達創歷史紀錄，仁寶年減26.8%
+https://www.businessyee.com/article/6573-june-revenue
 
-月營收｜台積電6月營收2,637億元，匯率衝擊降臨，月減17.7%、年增26.9%！
-https://www.businessyee.com/article/6570-tsmc-revenue-june-2025
+Securing Spring AI MCP Servers With OAuth2
+https://feeds.feedblitz.com/~/921497813/0/baeldung~Securing-Spring-AI-MCP-Servers-With-OAuth
 
-政院：談判團隊還在華府，正面樂觀看待台美關稅
-https://www.businessyee.com/article/6569-Taiwan-US-Tariffs
+Writing Stored Procedures for H2 in Java
+https://feeds.feedblitz.com/~/921497816/0/baeldung~Writing-Stored-Procedures-for-H-in-Java
 
-巴西關稅高達50%！記者問怎麼算？川普：基於常識
-https://www.businessyee.com/article/6568-Tariffs
+Fixing Hibernate AnnotationException: Field Is a @ManyToOne Association and May Not Use @Column
+https://feeds.feedblitz.com/~/921497378/0/baeldung~Fixing-Hibernate-AnnotationException-Field-Is-a-ManyToOne-Association-and-May-Not-Use-Column
 
-全球首家！輝達盤中市值首度觸及4兆美元
-https://www.businessyee.com/article/6567-nvda-reach-4trillon
+Count the Number of Sign Changes in an Array
+https://feeds.feedblitz.com/~/921497381/0/baeldung~Count-the-Number-of-Sign-Changes-in-an-Array
 
-跟Amazon Prime Day一起跑！2025年度跑鞋下殺，你是幸運灰姑娘嗎？
-https://www.businessyee.com/article/6566-2025-running-shoes-amazon-prime-day
+Chat Memory in Spring AI
+https://feeds.feedblitz.com/~/921497384/0/baeldung~Chat-Memory-in-Spring-AI
 
-外商最愛！國壽hub商辦拚綠電、ESG數據、還拚健康蔬菜自己摘
-https://www.businessyee.com/article/6565-cathay-life-green-buiiding
+How to Unit Test MapStruct Generated Mappers
+https://feeds.feedblitz.com/~/921461663/0/baeldung~How-to-Unit-Test-MapStruct-Generated-Mappers
 
-分析師：特斯拉股價慘跌不光是馬斯克惹議所致，背後另有深層原因！
-https://www.businessyee.com/article/6563-why-tesla-is-in-trouble
+Anubis now supports non-JS challenges
+https://anubis.techaro.lol/blog/release/v1.20.0/#no-js-challenge
 
-認真努力工作一樣績效不好？運用3種破框思維，幫你有效解決問題
-https://www.businessyee.com/article/6564-Think-Bigger
+An (almost) catastrophic OpenZFS bug and the humans that made it (and Rust is here too)
+https://despairlabs.com/blog/posts/2025-07-10-an-openzfs-bug-and-the-humans-that-made-it/
 
-Hare by Example
-https://harebyexample.org
+Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity
+https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/
 
-Kubernetes is not just for Black Friday
-https://ergaster.org/posts/2025/07/09-kubernetes-black-friday/
+Monitoring my Homelab, Simply
+https://b.tuxes.uk/simple-homelab-monitoring.html
 
-Using fs_usage to see what files a process is using
-https://til.simonwillison.net/macos/fs-usage
+A remembrance of Matthew S. Trout (mst)
+https://curtispoe.org/blog/rip-mst.html
 
-Variadic Generics ideas that won’t work for Rust
-https://poignardazur.github.io//2025/07/09/variadic-generics-dead-ends/
+Jai Demo and Design Explanation
+https://www.youtube.com/watch?v=IdpD5QIVOKQ
 
-MicroHs, a tiny Haskell Compiler
-https://www.youtube.com/watch?v=SJwvPEq4Mok
+Lessons From Creating My First Text Adventure
+https://entropicthoughts.com/lessons-from-creating-first-text-adventure
 
-Get the location of the ISS using DNS
-https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/
+What's //go:nosplit for?
+https://mcyoung.xyz/2025/07/07/nosplit/
 
-Closures for Hare
-https://lists.sr.ht/~sircmpwn/hare-rfc/%3CDB54BK1QFAMO.VURD1415NHT3@ddevault.org%3E
+About Clew
+https://clew.se/about/
 
-(Quite) A Few Words About Async
-https://yoric.github.io/post/quite-a-few-words-about-async/
+Vibe Coding Casino: Rise of programming by slot machine
+https://evrim.zone/blog/opinion/vibes_casino
 
-Brut: A New Web Framework for Ruby
-https://naildrivin5.com/blog/2025/07/08/brut-a-new-web-framework-for-ruby.html
+Multi-player Durable Stream Playground
+https://s2.dev/playground
 
-Unveiling the Open Source heroes that power our digital infrastructure
-https://maintaine.rs/
+Postgres LISTEN/NOTIFY does not scale
+https://www.recall.ai/blog/postgres-listen-notify-does-not-scale
 
-HyAB k-means for color quantization
-https://30fps.net/pages/hyab-kmeans/
+Lossless float image compression
+https://aras-p.info/blog/2025/07/08/Lossless-Float-Image-Compression/
 
-Is the doc bot docs, or not?
-https://www.robinsloan.com/lab/what-are-we-even-doing-here/
+Writing an IR from Scratch and survive to write a post
+https://farena.in/compilers/programming/writing-an-ir-from-scratch/
 
-A Whirlwind Tutorial on Creating Really Teensy ELF Executables for Linux
-https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html
+Concurrent Programming with Harmony
+https://harmony.cs.cornell.edu/book/
 
-Writing a very simple JIT Compiler in about 1000 lines of C
-https://kuterdinel.com/writing-a-very-simple-jit-compiler-in-about-1000-lines-of-c.html
+sipgate discovers null-pointer-dereference  in Mediatek VoLTE stack firmware
+https://www.sipgate.de/blog/sipgate-discovers-null-pointer-dereference-in-mediatek-volte-stack-firmware
 
-Vim Fugitive in action (2021)
-https://dzx.fr/blog/introduction-to-vim-fugitive/
+Computer Scientists Figure Out How To Prove Lies
+https://www.quantamagazine.org/computer-scientists-figure-out-how-to-prove-lies-20250709/
 
-Functional Functions - A Comprehensive Proposal Overviewing Blocks, Nested Functions, and Lambdas for C
-https://thephd.dev/_vendor/future_cxx/papers/C%20-%20Functional%20Functions.html
+Not So Fast: AI Coding Tools Can Actually Reduce Productivity
+https://secondthoughts.ai/p/ai-coding-slowdown
 
-Roll your own in-game UI with Clay and NanoVG
-https://dev.to/linkdd/roll-your-own-in-game-ui-with-clay-and-nanovg-part-2-25pf
+CoverDrop: Blowing the Whistle Through A News App
+https://www.coverdrop.org/
 
-Summary of the May 2025 TC39 plenary
-https://blogs.igalia.com/compilers/2025/07/03/summary-of-the-may-2025-tc39-plenary/
+Diffusion Elites: surprisingly good, simple and embarrassingly parallel
+https://blog.christianperone.com/2025/07/diffusion-elites/
 
-Client-side epub generation
-https://little.webby.press/
-
-Oregon Programming Languages Summer School (OPLSS) 2025: Types, Logic, and Formal Methods
-https://www.cs.uoregon.edu/research/summerschool/summer25/topics.php
-
-First malaria vaccine for babies approved + 7 more stories
-https://newsletter.newsminimalist.com/p/first-malaria-vaccine-for-babies-approved-7-more-stories
-
-éå¨ Linux ä¸è½ç¨
-https://wiwi.blog/blog/stop-blaming-linux
+æ°è³æå¤¾
+https://wiwi.blog/blog/new-folder
