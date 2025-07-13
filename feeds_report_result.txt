@@ -1,130 +1,82 @@
-# 2025-07-12 09:18:04 Feeds Report 
+# 2025-07-13 09:19:22 Feeds Report 
 
-Daily Hacker News for 2025-07-11
-https://www.daemonology.net/hn-daily/2025-07-11.html
+Daily Hacker News for 2025-07-12
+https://www.daemonology.net/hn-daily/2025-07-12.html
 
-Google Chrome 138 關掉 Manifest V2 了
-https://blog.gslin.org/archives/2025/07/12/12505/google-chrome-138-%e9%97%9c%e6%8e%89-manifest-v2-%e4%ba%86/
+Weekly Ask Hacker News for 2025-07-06 -- 2025-07-12
+http://www.daemonology.net/hn-weekly-ask/2025-07-12.html
 
-Quad9 把最常被 DNS query 的網域公開 (Top 500)
-https://blog.gslin.org/archives/2025/07/12/12504/quad9-%e6%8a%8a%e6%9c%80%e5%b8%b8%e8%a2%ab-dns-query-%e7%9a%84%e7%b6%b2%e5%9f%9f%e5%85%ac%e9%96%8b-top-500/
+CloudFront 的 HTTPS record 支援
+https://blog.gslin.org/archives/2025/07/13/12506/cloudfront-%e7%9a%84-https-record-%e6%94%af%e6%8f%b4/
 
 Google推Blackwell GPU運算服務，導入輝達HGX B200平臺
 https://www.ithome.com.tw/review/169912
 
-今年4月挪威水壩閘門遭到網路攻擊，被迫開啟放水數小時險釀禍
-https://www.ithome.com.tw/news/169992
+誰才是第二隻禿鷹?
+https://ckhung0.blogspot.com/2025/07/vulture.html
 
-三星收購美國數位健康平臺Xealth
-https://www.ithome.com.tw/news/170014
+Amazon Prime Day｜台灣買不到！特福法國製頂級6層不沾鍋10件套組：下殺85折3988元（含運）
+https://www.businessyee.com/article/6591-amazon-prime-day-t-fal
 
-美國在義大利逮捕涉嫌竊取COVID-19疫苗資訊的中國駭客
-https://www.ithome.com.tw/news/170013
+Amazon Prime Day｜虎牌6人份壓力 IH 電子鍋下殺79折6170（含運）
+https://www.businessyee.com/article/6590-amazon-prime-day-tiger-rive
 
-Google Veo 3推向臺灣、可接受圖片上傳及生成人聲
-https://www.ithome.com.tw/news/170010
+Amazon Prime Day｜Dyson吹風機HD16，春季限定色山櫻粉下殺68折7015元（含運）！
+https://www.businessyee.com/article/6589-amazon-prime-day-dyson-dryer
 
-拓曜知識宇宙創辦人 秦亭亭：2 人兩個月做出 200 萬業績！創業者的 Vibe Coding 槓桿【塞掐 Side Chat】E358
-https://www.inside.com.tw/feature/side-chat/38946-side-chat-e358
+Zig's New Async I/O
+https://kristoff.it/blog/zig-new-async-io/
 
-研究：純電車減碳完勝油電車，緩解暖化唯一利器
-https://www.inside.com.tw/article/38950-study-finds-evs-significantly-outperform-hybrids-in-cutting-carbon-emissions
+Migrating my NAS from CoreOS/Flatcar Linux to NixOS
+https://michael.stapelberg.ch/posts/2025-07-13-nixos-nas-network-storage-config/
 
-鴻海研究院公布多模態軌跡模型，AI 預測自動駕駛
-https://www.inside.com.tw/article/38949-foxconn-research-institute-unveils-multimodal-trajectory-model-for-ai-driven-autonomous-driving
+Simple live reload for developing static sites
+https://leanrada.com/notes/simple-live-reload/
 
-Jeep 與廣汽在中國合資公司 GAC-FCA 正式宣告破產
-https://www.inside.com.tw/article/38945-gac-fiat-chrysler-automobiles-joint-venture-declared-bankrupt
+How I found a bypass in Google's big anti-adblock update
+https://0x44.xyz/blog/web-request-blocking/
 
-街口支付通路停用潮止血？momo、PChome 恢復支付功能
-https://www.inside.com.tw/article/38948-jkopay-recovery-begins-as-momo-and-pchome-resume-payment-services
+Working through ‘Writing A C Compiler’
+https://jollygoodsw.wordpress.com/2025/03/13/working-through-writing-a-c-compiler/
 
-TutorABC攜英國牛津、劍橋推職場實戰英文，助商務人士前進國際
-https://www.inside.com.tw/article/38947-TutorABC
+Don't animate height
+https://www.granola.ai/blog/dont-animate-height
 
-Amazon Prime Day｜Adobe Creative Cloud全家餐新手限定：每月712元擁有Firefly，全年現省4000元！
-https://www.businessyee.com/article/6588-amazon-prime-day-adobe-creative-cloud
+Easy dynamic dispatch using GLIBC Hardware Capabilities
+https://www.kvr.at/posts/easy-dynamic-dispatch-using-GLIBC-hardware-capabilities/
 
-Amazon Prime Day｜日亞限定鈦金色！百靈 Series 7 360度零死角電鬍刀下殺57折3390元（含運）
-https://www.businessyee.com/article/6587-amazon-prime-day-braun-series-7
+constrained languages are easier to optimize
+https://jyn.dev/constrained-languages-are-easier-to-optimize/
 
-Amazon Prime Day｜吸力永不變！Dyson手持吸塵器V8下殺7折5780元（含運）
-https://www.businessyee.com/article/6586-amazon-prime-day-dyson
+Dyson Sphere Program's new multithreading framework
+https://store.steampowered.com/news/app/1366540/view/543361383085900510
 
-【好險有聽】《揭密保險》導讀：從歷史認識保險市場的怪現狀（下）
-https://www.businessyee.com/article/6584-ep38
+The Design and Implementation of Extensible Records for Rust in CGP
+https://contextgeneric.dev/blog/extensible-datatypes-part-3/
 
-立院通過5450億元特別條例！10月底前普發現金每人1萬元
-https://www.businessyee.com/article/6585-Universal-cash-10k
+Hacking coroutines into C
+https://wiomoc.de/misc/posts/hacking_coroutines_into_c.html
 
-【月營收評比】六大通路6月營收：電商618防災包賣爆30倍！全家年成長反超統一
-https://www.businessyee.com/article/6583-retailer-revenue-june-2025
+angr (open-source binary analysis platform for Python)
+https://angr.io/
 
-【聽進理投】自己的退休金自己存！什麼是個人投資儲蓄帳戶TISA？
-https://www.businessyee.com/article/6562-ep133
+dict-unpacking-at-home: can we have dict unpacking in python?
+https://github.com/asottile/dict-unpacking-at-home
 
-【退出街口】如何提領拿回錢？如何解除銀行帳戶信用卡綁定？
-https://www.businessyee.com/article/6582-jkos
+Haunted by Legacy: Discovering and Exploiting Vulnerable Tunnelling Hosts
+https://github.com/vanhoefm/tunneltester
 
-Apple in China
-https://dushuyizhi.net/apple-in-china/
+aeron: Efficient reliable UDP unicast, UDP multicast, and IPC message transport
+https://github.com/aeron-io/aeron
 
-Java Weekly, Issue 602
-https://feeds.feedblitz.com/~/921508874/0/baeldung~Java-Weekly-Issue
+sca-fuzzer: Revizor - a fuzzer to search for microarchitectural leaks in CPUs
+https://github.com/microsoft/sca-fuzzer
 
-new Date("wtf")
-https://jsdate.wtf/
+å¾ªç°è²¸
+https://wiwi.blog/blog/revolving-loan
 
-jank is C++
-https://jank-lang.org/blog/2025-07-11-jank-is-cpp/
-
-Building a Simple Router with OpenBSD
-https://btxx.org/posts/openbsd-router/
-
-Faking a JPEG
-https://www.ty-penguin.org.uk/~auj/blog/2025/03/25/fake-jpeg/
-
-Forget Borrow Checkers: C3 Solved Memory Lifetimes With Scopes
-https://c3-lang.org/blog/forget-borrow-checkers-c3-solved-memory-lifetimes-with-scopes/
-
-Clustered PostgreSQL
-https://arch.dog/bark/clustered-postgresql
-
-Damn Small Link Forwarder (DSLF): a bit.ly replacement written in rust
-https://github.com/vpetersson/dslf
-
-Hanami and the elephant in the room
-https://hanamirb.org/blog/2025/07/11/hanami-and-the-elephant-in-the-room/
-
-Measuring power network frequency using junk you have in your closet
-https://halcy.de/blog/2025/02/09/measuring-power-network-frequency-using-junk-you-have-in-your-closet/
-
-Wasm the Hard Way: Porting the Chicory Compiler to Android
-https://blog.evacchi.dev/posts/2025/07/11/wasm-the-hard-way-porting-the-chicory-compiler-to-android/
-
-Rethinking our Adoption Strategy
-https://www.youtube.com/watch?v=YPAaUFGrlEE
-
-Cybersecurity Risk Assessment Request
-https://daniel.haxx.se/blog/2025/07/11/cybersecurity-risk-assessment-request/
-
-What are you doing this weekend?
-https://lobste.rs/s/dtj5hr/what_are_you_doing_this_weekend
-
-Placing functions
-https://blog.yoshuawuyts.com/placing-functions/
-
-Efficiency of a sparse hash table
-https://ashutoshpg.blogspot.com/2025/07/efficiency-of-sparse-hash-table.html
-
-EVTX Viewer - Windows Event Log Explorer
-https://omerbenamram.github.io/evtx/
-
-AI robots perform surgery without human assistance + 10 more stories
-https://newsletter.newsminimalist.com/p/ai-robots-perform-surgery-without-human-assistance-10-more-stories
+S å¤§çé³æ¨æï¼2025ï¼
+https://wiwi.blog/blog/slsmusic-2025-concert
 
 41 åçéè¿ä¾¿ç¶
 https://wiwi.blog/blog/41-twd-bento
-
-çµ¦ Uber Eats çåæä¿¡
-https://wiwi.blog/blog/bye-uber-eats
