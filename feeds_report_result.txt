@@ -1,82 +1,142 @@
-# 2025-07-13 09:19:22 Feeds Report 
+# 2025-07-14 09:25:59 Feeds Report 
 
-Daily Hacker News for 2025-07-12
-https://www.daemonology.net/hn-daily/2025-07-12.html
+Daily Hacker News for 2025-07-13
+https://www.daemonology.net/hn-daily/2025-07-13.html
 
-Weekly Ask Hacker News for 2025-07-06 -- 2025-07-12
-http://www.daemonology.net/hn-weekly-ask/2025-07-12.html
+美國大型律師事務所疑遭中國駭客入侵，目標可能是蒐集臺灣、貿易、美國關稅等機密資訊
+https://www.ithome.com.tw/news/170048
 
-CloudFront 的 HTTPS record 支援
-https://blog.gslin.org/archives/2025/07/13/12506/cloudfront-%e7%9a%84-https-record-%e6%94%af%e6%8f%b4/
+AI程式工具降低了資深開發者的生產力
+https://www.ithome.com.tw/news/170047
 
-Google推Blackwell GPU運算服務，導入輝達HGX B200平臺
-https://www.ithome.com.tw/review/169912
+RealSense脫離英特爾，完成5,000萬美元的A輪融資
+https://www.ithome.com.tw/news/170042
 
-誰才是第二隻禿鷹?
-https://ckhung0.blogspot.com/2025/07/vulture.html
+外傳xAI的50億美元股權投資中，有20億美元來自SpaceX
+https://www.ithome.com.tw/news/170041
 
-Amazon Prime Day｜台灣買不到！特福法國製頂級6層不沾鍋10件套組：下殺85折3988元（含運）
-https://www.businessyee.com/article/6591-amazon-prime-day-t-fal
+Ruckus網路設備軟體、管理平臺存在一系列資安漏洞　還沒有修補程式
+https://www.ithome.com.tw/news/170036
 
-Amazon Prime Day｜虎牌6人份壓力 IH 電子鍋下殺79折6170（含運）
-https://www.businessyee.com/article/6590-amazon-prime-day-tiger-rive
+WindSurf執行長、創辦人跳槽Google　OpenAI收購計畫受挫
+https://www.ithome.com.tw/news/170034
 
-Amazon Prime Day｜Dyson吹風機HD16，春季限定色山櫻粉下殺68折7015元（含運）！
-https://www.businessyee.com/article/6589-amazon-prime-day-dyson-dryer
+中國AI新創Moonshot AI開源Kimi K2
+https://www.ithome.com.tw/news/170033
 
-Zig's New Async I/O
-https://kristoff.it/blog/zig-new-async-io/
+跨入中小企業網路防護領域，HPE推出透過雲端管理的防火牆
+https://www.ithome.com.tw/review/169420
 
-Migrating my NAS from CoreOS/Flatcar Linux to NixOS
-https://michael.stapelberg.ch/posts/2025-07-13-nixos-nas-network-storage-config/
+【資安週報】0707~0711，駭客打造上萬個投資詐騙網站，Deepfake偽冒政府官員
+https://www.ithome.com.tw/news/170030
 
-Simple live reload for developing static sites
-https://leanrada.com/notes/simple-live-reload/
+殭屍網路RondoDox鎖定TBK、四信連網設備而來，利用已知漏洞綁架DVR裝置
+https://www.ithome.com.tw/news/170028
 
-How I found a bypass in Google's big anti-adblock update
-https://0x44.xyz/blog/web-request-blocking/
+Inno Setup軟體安裝工具被濫用，駭客濫用內建指令碼功能引入惡意軟體
+https://www.ithome.com.tw/news/170029
 
-Working through ‘Writing A C Compiler’
-https://jollygoodsw.wordpress.com/2025/03/13/working-through-writing-a-c-compiler/
+比特幣突破 12 萬美元創歷史新高 貝萊德 ETF 成主要推手
+https://www.inside.com.tw/article/38957-bitcoin-pass-120k
 
-Don't animate height
-https://www.granola.ai/blog/dont-animate-height
+高雄小港三元能源鋰電池廠火災 15 傷，陳其邁令停工從嚴究責
+https://www.inside.com.tw/article/38956-kaohsiung-lithium-battery-factory-fire-injures-15-mayor-orders-shutdown-and-investigation
 
-Easy dynamic dispatch using GLIBC Hardware Capabilities
-https://www.kvr.at/posts/easy-dynamic-dispatch-using-GLIBC-hardware-capabilities/
+南方產業新勢力：智慧轉型、節能創新、人才升級，南臺灣如何寫下產業新局
+https://www.inside.com.tw/article/38955-seats
 
-constrained languages are easier to optimize
-https://jyn.dev/constrained-languages-are-easier-to-optimize/
+彭博：庫克短期內不會離職，但 Apple 高層大洗牌即將來臨
+https://www.inside.com.tw/article/38954-is-apple-going-to-replace-ceo-tim-cook-who-is-the-next-ceo-of-apple
 
-Dyson Sphere Program's new multithreading framework
-https://store.steampowered.com/news/app/1366540/view/543361383085900510
+Adobe 預測 Amazon Prime Day 的生成式 AI 流量年增 32 倍
+https://www.inside.com.tw/article/38953-genai-as-a-shopping-assistant-set-to-explode-during-prime-day-sales
 
-The Design and Implementation of Extensible Records for Rust in CGP
-https://contextgeneric.dev/blog/extensible-datatypes-part-3/
+SpaceX 將投資 xAI 20 億美元！進一步加深馬斯克旗下事業合作
+https://www.inside.com.tw/article/38952-spacex-to-invest-2b-into-xai
 
-Hacking coroutines into C
-https://wiomoc.de/misc/posts/hacking_coroutines_into_c.html
+NVIDIA CEO 黃仁勳：中國軍方不太可能使用美國 AI 晶片
+https://www.inside.com.tw/article/38951-nvidia-s-huang-says-china-s-military-unlikely-to-use-us-ai-chips
 
-angr (open-source binary analysis platform for Python)
-https://angr.io/
+Amazon Prime Day｜Staub和食鍋18cm粉紅雪酪：下殺85折4450元（含運）
+https://www.businessyee.com/article/6596-amazon-prime-day-staub
 
-dict-unpacking-at-home: can we have dict unpacking in python?
-https://github.com/asottile/dict-unpacking-at-home
+積極強化AI人聲，Meta併購AI語音新創Play AI
+https://www.businessyee.com/article/6595-meta-acquires-voice-startup-play-ai
 
-Haunted by Legacy: Discovering and Exploiting Vulnerable Tunnelling Hosts
-https://github.com/vanhoefm/tunneltester
+中信銀數存戶注意！7/28起ATM單日提款上限12萬降至1萬
+https://www.businessyee.com/article/6594-ctbc-atm-limit
 
-aeron: Efficient reliable UDP unicast, UDP multicast, and IPC message transport
-https://github.com/aeron-io/aeron
+黃仁勳：美國再工業化有助台灣緩解壓力
+https://www.businessyee.com/article/6593-manufacturing-back-to-the-US
 
-sca-fuzzer: Revizor - a fuzzer to search for microarchitectural leaks in CPUs
-https://github.com/microsoft/sca-fuzzer
+川普政府節流大砍雲端預算，Google遭施壓「比照甲骨文」給超低價
+https://www.businessyee.com/article/6592-Trump-pressures-Google-offer-low-prices
 
-å¾ªç°è²¸
-https://wiwi.blog/blog/revolving-loan
+Using Groq Chat with Spring AI
+https://feeds.feedblitz.com/~/921621275/0/baeldung~Using-Groq-Chat-with-Spring-AI
 
-S å¤§çé³æ¨æï¼2025ï¼
-https://wiwi.blog/blog/slsmusic-2025-concert
+A Practical Guide to RecordBuilder in Java
+https://feeds.feedblitz.com/~/921621278/0/baeldung~A-Practical-Guide-to-RecordBuilder-in-Java
 
-41 åçéè¿ä¾¿ç¶
-https://wiwi.blog/blog/41-twd-bento
+Create Array of Linked Lists in Java
+https://feeds.feedblitz.com/~/921621281/0/baeldung~Create-Array-of-Linked-Lists-in-Java
+
+Store tags after payloads
+https://www.scattered-thoughts.net/writing/store-tags-after-payloads/
+
+Programming Language Theory has a public relations problem
+https://happyfellow.bearblog.dev/programming-language-theory-has-a-public-relations-problem/
+
+Algorithms for making interesting organic simulations
+https://bleuje.com/physarum-explanation/
+
+Improving AVIF in Open Source
+https://halide.cx/blog/improving-avif-in-open-source/index.html
+
+detour: A detour through the Linux dynamic linker
+https://github.com/graphitemaster/detour
+
+Let's Learn x86-64 Assembly! Part 0 - Setup and First Steps
+https://gpfault.net/posts/asm-tut-0.txt.html
+
+Using a USB Foot Pedal for Vibe Coding
+https://coding.napolux.com/using-a-usb-foot-pedal-for-vibe-coding/
+
+Task Runner Census 2025
+https://aleyan.com/blog/2025-task-runners-census/
+
+Bash patch - Add shopt for implicit && in place of ; for functions end of lines
+https://savannah.gnu.org/patch/?10534
+
+Exploiting All Google kernelCTF Instances And Debian 12 With A 0-Day For $82k: A RBTree Family Drama (Part One)
+https://syst3mfailure.io/rbtree-family-drama/
+
+Stepanov’s biggest blunder
+https://mmapped.blog/posts/43-stepanovs-biggest-blunder
+
+Notes on Graham's ANSI Common Lisp
+https://courses.cs.northwestern.edu/325/readings/graham/graham-notes.html
+
+How does a screen work?
+https://www.makingsoftware.com/chapters/how-a-screen-works
+
+perldelta - what is new for perl v5.42.0
+https://perldoc.perl.org/5.42.0/perldelta
+
+How to bring data centre-like connectivity to your home with IPTTTH
+https://www.daryllswer.com/how-to-bring-data-centre-like-connectivity-to-your-home-with-ipttth/
+
+C-: A Portable Assembly Language (1997)
+https://www.microsoft.com/en-us/research/publication/c-a-portable-assembly-language/
+
+FairLight TV #127, $D011 Mayhem
+https://www.youtube.com/watch?v=0KhH4YrUsXo
+
+Apple Trace Cache
+https://www.realworldtech.com/forum/?threadid=223220
+
+Haiku Activity & Contract Report, June 2025
+https://www.haiku-os.org/blog/waddlesplash/2025-07-12-haiku_activity_contract_report_june_2025/
+
+æè¨ç¼æéäº
+https://wiwi.blog/blog/please-invent-these
