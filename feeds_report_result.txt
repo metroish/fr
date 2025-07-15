@@ -1,19 +1,37 @@
-# 2025-07-14 09:25:59 Feeds Report 
+# 2025-07-15 09:27:43 Feeds Report 
 
-Daily Hacker News for 2025-07-13
-https://www.daemonology.net/hn-daily/2025-07-13.html
+Daily Hacker News for 2025-07-14
+https://www.daemonology.net/hn-daily/2025-07-14.html
 
-美國大型律師事務所疑遭中國駭客入侵，目標可能是蒐集臺灣、貿易、美國關稅等機密資訊
-https://www.ithome.com.tw/news/170048
+就是要 Markdown - SQL Schema 匯出 Markdown 表格轉 PDF
+https://blog.darkthread.net/blog/sql-schema-to-markdown-table/
 
-AI程式工具降低了資深開發者的生產力
-https://www.ithome.com.tw/news/170047
+OpenAI、Google、Anthropic與xAI各獲得2億美元的國防部合約
+https://www.ithome.com.tw/news/170067
 
-RealSense脫離英特爾，完成5,000萬美元的A輪融資
-https://www.ithome.com.tw/news/170042
+容器管理工具Docker Compose升級整合AI代理，連結雲端算力擴展應用彈性
+https://www.ithome.com.tw/news/170065
 
-外傳xAI的50億美元股權投資中，有20億美元來自SpaceX
-https://www.ithome.com.tw/news/170041
+網釣手法FileFix再度出現，勒索軟體駭客Interlock以此散布RAT木馬程式
+https://www.ithome.com.tw/news/170063
+
+數發部預告促進資料創新利用發展條例草案，政府機關將設立資料長
+https://www.ithome.com.tw/news/170062
+
+祖克柏準備投入數千億美元以建置AI運算叢集
+https://www.ithome.com.tw/news/170060
+
+IDE開發工具Cursor AI用戶遭惡意延伸套件攻擊，50萬美元加密貨幣遭竊
+https://www.ithome.com.tw/news/170059
+
+Amazon預覽AI整合開發環境Kiro
+https://www.ithome.com.tw/news/170056
+
+英、韓LV系統遭駭　外洩客戶資料
+https://www.ithome.com.tw/news/170054
+
+Cognition收購Windsurf
+https://www.ithome.com.tw/news/170053
 
 Ruckus網路設備軟體、管理平臺存在一系列資安漏洞　還沒有修補程式
 https://www.ithome.com.tw/news/170036
@@ -30,113 +48,122 @@ https://www.ithome.com.tw/review/169420
 【資安週報】0707~0711，駭客打造上萬個投資詐騙網站，Deepfake偽冒政府官員
 https://www.ithome.com.tw/news/170030
 
-殭屍網路RondoDox鎖定TBK、四信連網設備而來，利用已知漏洞綁架DVR裝置
-https://www.ithome.com.tw/news/170028
+智慧充電：電動車電網友善充電管理
+https://www.inside.com.tw/article/38968-smart-charging-grid-friendly-ev-charging-management
 
-Inno Setup軟體安裝工具被濫用，駭客濫用內建指令碼功能引入惡意軟體
-https://www.ithome.com.tw/news/170029
+NVIDIA H20 GPU 可以出口中國了？黃仁勳：預計近期可恢復出貨
+https://www.inside.com.tw/article/38965-nvidia-h20-gpu-license-approval-china
 
-比特幣突破 12 萬美元創歷史新高 貝萊德 ETF 成主要推手
-https://www.inside.com.tw/article/38957-bitcoin-pass-120k
+軍用 AI 大戰開打！Google、OpenAI、xAI 各獲 2 億美元國防部合約
+https://www.inside.com.tw/article/38964-us-defense-ai-contracts-google-openai-xai-anthropic-200-million-200-million
 
-高雄小港三元能源鋰電池廠火災 15 傷，陳其邁令停工從嚴究責
-https://www.inside.com.tw/article/38956-kaohsiung-lithium-battery-factory-fire-injures-15-mayor-orders-shutdown-and-investigation
+「電商風向球」Amazon Prime Day 成績出爐：AI 導流達到驚人的 3300%
+https://www.inside.com.tw/article/38963-prime-day-event-drove-over-24b-in-u-s-e-commerce-sales-gen-ai-traffic-was-up-3300
 
-南方產業新勢力：智慧轉型、節能創新、人才升級，南臺灣如何寫下產業新局
-https://www.inside.com.tw/article/38955-seats
+祖克伯宣布投資數千億美元建 AI 資料中心！Meta 全力衝刺超級智慧
+https://www.inside.com.tw/article/38962-zuckerberg-meta-ai-data-center-investment-artificial-intelligence-dominance
 
-彭博：庫克短期內不會離職，但 Apple 高層大洗牌即將來臨
-https://www.inside.com.tw/article/38954-is-apple-going-to-replace-ceo-tim-cook-who-is-the-next-ceo-of-apple
+NotebookLM 新增精選筆記本，包含《經濟學人》、莎士比亞作品集
+https://www.inside.com.tw/article/38961-notebooklm-featured-notebooks
 
-Adobe 預測 Amazon Prime Day 的生成式 AI 流量年增 32 倍
-https://www.inside.com.tw/article/38953-genai-as-a-shopping-assistant-set-to-explode-during-prime-day-sales
+當AI成為公共討論的調解者：「哈伯瑪斯機器」應許的理性民主承諾？
+https://voicettank.org/20250715-1/
 
-SpaceX 將投資 xAI 20 億美元！進一步加深馬斯克旗下事業合作
-https://www.inside.com.tw/article/38952-spacex-to-invest-2b-into-xai
+街口消失的36億：從中國支付經驗到「新創例外主義」
+https://voicettank.org/20250714-1/
 
-NVIDIA CEO 黃仁勳：中國軍方不太可能使用美國 AI 晶片
-https://www.inside.com.tw/article/38951-nvidia-s-huang-says-china-s-military-unlikely-to-use-us-ai-chips
+2025年半導體業景氣與發展走向
+https://voicettank.org/20250714-2/
 
-Amazon Prime Day｜Staub和食鍋18cm粉紅雪酪：下殺85折4450元（含運）
-https://www.businessyee.com/article/6596-amazon-prime-day-staub
+祖克柏豪擲數千億美元為「Meta超級智慧」蓋資料中心！
+https://www.businessyee.com/article/6606-meta-to-build-several-gigawatt-size-data-center
 
-積極強化AI人聲，Meta併購AI語音新創Play AI
-https://www.businessyee.com/article/6595-meta-acquires-voice-startup-play-ai
+美元貶值是危機還是入手機會？美元保單、定存、換匯一次看懂！
+https://www.businessyee.com/article/6607-us-dollar-denominated-investments
 
-中信銀數存戶注意！7/28起ATM單日提款上限12萬降至1萬
-https://www.businessyee.com/article/6594-ctbc-atm-limit
+AI 進軍國安！美國防部聯手四大 AI 巨頭簽訂2億美元合約
+https://www.businessyee.com/article/6604-us-department-defense-AI-contracts
 
-黃仁勳：美國再工業化有助台灣緩解壓力
-https://www.businessyee.com/article/6593-manufacturing-back-to-the-US
+中國可以買輝達晶片了！黃仁勳：剝奪對手技術不能讓國家變強
+https://www.businessyee.com/article/6603-nvidia-ceo-promotes-ai-in-china
 
-川普政府節流大砍雲端預算，Google遭施壓「比照甲骨文」給超低價
-https://www.businessyee.com/article/6592-Trump-pressures-Google-offer-low-prices
+美眾院本週推動「加密貨幣三法」，比特幣攀12萬美元新高
+https://www.businessyee.com/article/6602-GENIUS-Act-bitcoin-reach-120k
 
-Using Groq Chat with Spring AI
-https://feeds.feedblitz.com/~/921621275/0/baeldung~Using-Groq-Chat-with-Spring-AI
+xAI獲美國國防部2億美元合約，成立專責部門Grok for Government
+https://www.businessyee.com/article/6601-Grok-for-Government
 
-A Practical Guide to RecordBuilder in Java
-https://feeds.feedblitz.com/~/921621278/0/baeldung~A-Practical-Guide-to-RecordBuilder-in-Java
+今年以來第3度前往中國，黃仁勳16日將在北京出席鏈博會
+https://www.businessyee.com/article/6600-NVIDIA-china
 
-Create Array of Linked Lists in Java
-https://feeds.feedblitz.com/~/921621281/0/baeldung~Create-Array-of-Linked-Lists-in-Java
+Amazon Prime Day｜最後倒數2小時！皓茹2025精選總整理
+https://www.businessyee.com/article/6599-amazon-prime-day-matome
 
-Store tags after payloads
-https://www.scattered-thoughts.net/writing/store-tags-after-payloads/
+高資產客戶錢進私募資產，台灣如何把握亞資中心新契機？
+https://www.businessyee.com/article/6598-tw-PE-Fund
 
-Programming Language Theory has a public relations problem
-https://happyfellow.bearblog.dev/programming-language-theory-has-a-public-relations-problem/
+麥肯錫：受AI裁員潮衝擊，英國白領職缺數大減40%
+https://www.businessyee.com/article/6597-ai-already-showing-signs-slashing-jobs
 
-Algorithms for making interesting organic simulations
-https://bleuje.com/physarum-explanation/
+Panasonic + OpenBSD = <3
+https://x61.sh/log/2025/07/03072025160538-panasonic_openbsd.html
 
-Improving AVIF in Open Source
-https://halide.cx/blog/improving-avif-in-open-source/index.html
+The Best C++ Library
+https://mcyoung.xyz/2025/07/14/best/#fnref:terrible-people
 
-detour: A detour through the Linux dynamic linker
-https://github.com/graphitemaster/detour
+Using Elm in 2025
+https://engagesoftware.com/news/post/7033/using-elm-in-2025
 
-Let's Learn x86-64 Assembly! Part 0 - Setup and First Steps
-https://gpfault.net/posts/asm-tut-0.txt.html
+Ten years of running every day, visualized
+https://nodaysoff.run/
 
-Using a USB Foot Pedal for Vibe Coding
-https://coding.napolux.com/using-a-usb-foot-pedal-for-vibe-coding/
+The hunt for a perfect laptop continues
+https://pointieststick.com/2025/07/13/the-hunt-for-a-perfect-laptop-continues/
 
-Task Runner Census 2025
-https://aleyan.com/blog/2025-task-runners-census/
+Trying Guix: A Nixer's Impressions
+https://tazj.in/blog/trying-guix
 
-Bash patch - Add shopt for implicit && in place of ; for functions end of lines
-https://savannah.gnu.org/patch/?10534
+Diving into Plasma Bigscreen
+https://espi.dev/posts/2025/07/plasma-bigscreen/
 
-Exploiting All Google kernelCTF Instances And Debian 12 With A 0-Day For $82k: A RBTree Family Drama (Part One)
-https://syst3mfailure.io/rbtree-family-drama/
+you are in a box
+https://jyn.dev/you-are-in-a-box/
 
-Stepanov’s biggest blunder
-https://mmapped.blog/posts/43-stepanovs-biggest-blunder
+Automerge 3.0
+https://automerge.github.io/blog/automerge-3/
 
-Notes on Graham's ANSI Common Lisp
-https://courses.cs.northwestern.edu/325/readings/graham/graham-notes.html
+Bedrock: A tiny, portable 8-bit virtual computer (uxn fork)
+https://benbridle.com/projects/bedrock.html
 
-How does a screen work?
-https://www.makingsoftware.com/chapters/how-a-screen-works
+Data alignment for speed: myth or reality? (2012)
+https://lemire.me/blog/2012/05/31/data-alignment-for-speed-myth-or-reality/
 
-perldelta - what is new for perl v5.42.0
-https://perldoc.perl.org/5.42.0/perldelta
+Initial implementation of the experimental C++ Lifetime Safety Analysis (-Wexperimental-lifetime-safety) has just landed in Clang
+https://discourse.llvm.org/t/announcing-the-lifetime-safety-breakout-group/87333
 
-How to bring data centre-like connectivity to your home with IPTTTH
-https://www.daryllswer.com/how-to-bring-data-centre-like-connectivity-to-your-home-with-ipttth/
+Guessing the player's sunrise
+https://docs.getlost.gg/latest/blog/sun-time/
 
-C-: A Portable Assembly Language (1997)
-https://www.microsoft.com/en-us/research/publication/c-a-portable-assembly-language/
+Strategies for very fast Lexers
+https://xnacly.me/posts/2025/fast-lexer-strategies/
 
-FairLight TV #127, $D011 Mayhem
-https://www.youtube.com/watch?v=0KhH4YrUsXo
+PHP RFC: Switching to 3-clause BSD licence
+https://wiki.php.net/rfc/php_license_update
 
-Apple Trace Cache
-https://www.realworldtech.com/forum/?threadid=223220
+What are you doing this week?
+https://lobste.rs/s/omytrc/what_are_you_doing_this_week
 
-Haiku Activity & Contract Report, June 2025
-https://www.haiku-os.org/blog/waddlesplash/2025-07-12-haiku_activity_contract_report_june_2025/
+Row Polymorphic Programming
+https://www.stranger.systems/posts/by-slug/row-polymorphic-programming.html
 
-æè¨ç¼æéäº
-https://wiwi.blog/blog/please-invent-these
+Upyo: Simple and modern email sending library for JavaScript
+https://upyo.org/
+
+Introducing TCP-in-UDP solution (eBPF)
+https://blog.mptcp.dev/2025/07/14/TCP-in-UDP.html
+
+When SIGTERM Does Nothing: A Postgres Mystery
+https://clickhouse.com/blog/sigterm-postgres-mystery
+
+å®¶æç¶²
+https://wiwi.blog/blog/tutor-site-trap
