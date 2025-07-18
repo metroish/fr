@@ -1,28 +1,61 @@
-# 2025-07-17 09:22:54 Feeds Report 
+# 2025-07-18 09:22:57 Feeds Report 
 
-Daily Hacker News for 2025-07-16
-https://www.daemonology.net/hn-daily/2025-07-16.html
+Daily Hacker News for 2025-07-17
+https://www.daemonology.net/hn-daily/2025-07-17.html
 
-FortiWeb重大漏洞已出現濫用活動
-https://www.ithome.com.tw/news/170108
+Linux 桌面在美國超過 5% 的市占率
+https://blog.gslin.org/archives/2025/07/18/12512/linux-%e6%a1%8c%e9%9d%a2%e5%9c%a8%e7%be%8e%e5%9c%8b%e8%b6%85%e9%81%8e-5-%e7%9a%84%e5%b8%82%e5%8d%a0%e7%8e%87/
 
-微軟.NET 10加入JIT最佳化、一次性CLI工具，預先公開後量子加密API
-https://www.ithome.com.tw/news/170104
+所以前幾天 1.1.1.1 的狀況是 Cloudflare 自家系統出的包...
+https://blog.gslin.org/archives/2025/07/18/12511/%e6%89%80%e4%bb%a5%e5%89%8d%e5%b9%be%e5%a4%a9-1-1-1-1-%e7%9a%84%e7%8b%80%e6%b3%81%e6%98%af-cloudflare-%e8%87%aa%e5%ae%b6%e7%b3%bb%e7%b5%b1%e5%87%ba%e7%9a%84%e5%8c%85/
 
-【資安日報】7月17日，精品品牌LV在多國的分公司接連傳出網路攻擊事故
-https://www.ithome.com.tw/news/170105
+瑞典AI程式設計新創Lovable獲得2億美元的A輪融資
+https://www.ithome.com.tw/news/170136
 
-Reflection AI發表程式碼研究代理人Asimov
-https://www.ithome.com.tw/news/170103
+內容訂閱平臺Substack完成1億美元融資
+https://www.ithome.com.tw/news/170135
 
-AWS預覽AI代理人平臺Amazon Bedrock AgentCore
-https://www.ithome.com.tw/news/170102
+Uber與Lucid及Nuro合作以於美國部署2萬輛自駕計程車
+https://www.ithome.com.tw/news/170134
+
+Mistral AI聊天機器人加入Deep Research、Think Mode等功能
+https://www.ithome.com.tw/news/170133
+
+Meta指派專人Connor Hayes負責Threads
+https://www.ithome.com.tw/news/170132
+
+Google Search在美提供AI商務通話功能、AI Mode升級Gemini 2.5 Pro
+https://www.ithome.com.tw/news/170129
+
+【資安日報】7月18日，中國駭客鎖定臺灣半導體生態系從事大規模網釣，假冒研究生求職與投資分析合作
+https://www.ithome.com.tw/news/170130
+
+什麼是LLMOps？
+https://www.ithome.com.tw/article/170032
+
+思科網路存取控制平臺ISE用戶注意！不到一個月，又有另一個滿分資安漏洞要修補
+https://www.ithome.com.tw/news/170123
+
+為了攻破臺灣矽盾，中國駭客對臺灣半導體生態系狂發研究生求職釣魚信，投資分析師也遭鎖定
+https://www.ithome.com.tw/news/170122
+
+OpenAI推出ChatGPT通用代理人 付費用戶現可啟用
+https://www.ithome.com.tw/news/170121
+
+Perforce發表免維護腳本的自動化軟體測試平臺Perfecto AI
+https://www.ithome.com.tw/news/170118
+
+多團隊開發如何落實敏捷
+https://www.ithome.com.tw/article/170031
 
 Google證實AI代理可幫忙找資安漏洞，SQLite零時差漏洞因此浮出檯面
 https://www.ithome.com.tw/news/170101
 
 LV土耳其也傳客戶個資外洩　影響14萬人
 https://www.ithome.com.tw/news/170106
+
+國科會揭明年度科技預算先期規畫、晶創臺灣方案和災防科技進展
+https://www.ithome.com.tw/news/170117
 
 Nvidia宣布美國即將放行H20出口至中國
 https://www.ithome.com.tw/news/170099
@@ -33,152 +66,152 @@ https://www.ithome.com.tw/news/170098
 甫正式發表的大型語言模型Grok 4遭到越獄
 https://www.ithome.com.tw/news/170097
 
-微軟開源Copilot Chat擴充功能，強化VS Code MCP及AI功能整合
-https://www.ithome.com.tw/news/170095
+EVOASIS 攜手格上打造共享電動車新體驗，從充電站出發的電動新生活
+https://www.inside.com.tw/article/39011-evoasis-and-carplus-partner-to-create-a-new-shared-ev-experience-starting-at-charging-stations
 
-Claude金融分析方案登場，內建多方MCP連接器並支援複雜模擬分析
-https://www.ithome.com.tw/news/170089
+第三類半導體的交會點：碳化矽如何重塑能源、通訊與台灣的全球角色
+https://www.inside.com.tw/article/39009-the-intersection-of-third-generation-semiconductors-how-silicon-carbide-is-reshaping-energy-communications-and-taiwans-global-role
 
-微軟釋出桌機版推理AI模型Phi-4-mini-flash-reasoning　以新混合架構提升效能
-https://www.ithome.com.tw/news/170082
+用時間軸，看懂 LINE Pay 與一卡通長達 4 年的分手紀
+https://www.inside.com.tw/article/39008-steam-data-shows-ai-game-surge-one-in-five-new-games-uses-generative-ai-in-2025
 
-VMware修補虛擬化平臺重大層級的資安漏洞
-https://www.ithome.com.tw/news/170081
+飛越碳排的天花板！ MIT 新創奧榮科技用 AI 無人機衝淨零
+https://www.inside.com.tw/article/39007-net-zero-transformation
 
-蘋果與MP Materials簽署5億美元合作協議，再利用回收稀土
-https://www.ithome.com.tw/news/170080
+美法院准作家集體訴訟　Anthropic 捲入 AI「盜書訓練」侵權案
+https://www.inside.com.tw/article/39005-fair-use-vs-direct-infringement
 
-WordPress表單外掛Gravity Forms疑遭供應鏈攻擊，被植入後門程式
-https://www.ithome.com.tw/news/170079
+Meta 股東曾因用戶隱私權問題，向祖克柏求償 80 億美元！現今達成和解
+https://www.inside.com.tw/article/39006-zuckerberg-settles-with-shareholders
 
-Mistral AI開源語音模型Voxtral
-https://www.ithome.com.tw/news/170077
+【超強案例一次看】OpenAI 推出 ChatGPT Agent！AI 助理能做到什麼？
+https://www.inside.com.tw/article/39004-chatgpt-agent
 
-Perplexity讓大學生、研究人員免費使用Pro方案
-https://www.ithome.com.tw/news/170076
+數位雙生也能減碳？加速製造業邁向永續
+https://www.inside.com.tw/feature/digital-twin/38066-how-digital-twin-manufacturing-is-reshaping-the-industrial-chain-from-factories-to-sustainability
 
-迎戰「兆級」商機與挑戰：75% 晶片專案延誤，西門子 EDA 如何破局？
-https://www.inside.com.tw/article/38997-siemens-eda-trillion-market-opportunity-challenge
+LINE Pay 申設電子支付獲准，有望成第 10 家專營機構
+https://www.inside.com.tw/article/39003-line-pay-approved-to-operate-as-epayment-provider-may-become-10th-licensed-institution
 
-ChatGPT 要變購物助手了！OpenAI 擬推支付功能，打造「一條龍」購物體驗
-https://www.inside.com.tw/article/38996-openai-working-payment-checkout-system-within-chatgpt-ft-reports
+製造業缺工新解方？數位雙生 + 生成式 AI 如何重塑未來勞動力？
+https://www.inside.com.tw/feature/digital-twin/37954-digital-twin-generative-ai-manufacturing-workforce
 
-AWS 再砸 1 億美元！Bedrock AgentCore 為何是企業部署 AI Agents 的新關鍵？
-https://www.inside.com.tw/article/38994-aws-bedrock-agentcore
+罷免是愛，非關藍綠
+https://voicettank.org/20250718-1/
 
-Google 宣布 8 月推 Pixel 新機！AI 功能與台積電晶片成亮點
-https://www.inside.com.tw/article/38995-google-pixel-10-launch-tsmc-tensor-g5-ai
+CoWoS技術不只是改變晶片！用5個台積電思維，讓你的人生逆轉勝
+https://www.businessyee.com/article/6641-CoWoS-life
 
-AI 數位分身結合地熱鹵水，美國開發低碳鋰供應鏈新藍圖
-https://www.inside.com.tw/article/38992-us-researchers-unlock-clean-lithium-for-evs
+不在半導體業，也能做到台積電精神！前資深主管分享15種管理術
+https://www.businessyee.com/article/6640-tsmc-management
 
-Google 前頂尖 AI 科學家打造 Asimov AI Agen！新創 Reflection 要讓 AI 看懂開發流程
-https://www.inside.com.tw/article/38989-asimov-ai-agent-by-reflection
+美眾院通過加密貨幣三法，川普傳擬開放退休基金投資
+https://www.businessyee.com/article/6639-trump-crypto-act
 
-和椿組織再造交出 YoY 69.08% 成績！程天縱：進軍人形機器人
-https://www.inside.com.tw/article/38993-aurotek-2025
+受台積電文化洗禮多年，他歸納8個「不平凡人生」的成功方程式
+https://www.businessyee.com/article/6638-formula-for-success
 
-繼 AI  女友後，馬斯克預告 AI 男友：靈感來自暮光之城加格雷的五十道陰影
-https://www.inside.com.tw/article/38991-grok-ai-companion-male-character
+部屬績效總是不達標？運用PRA高效解題三部曲，提升你的領導力
+https://www.businessyee.com/article/6637-pra
 
-Steam 數據：AI 遊戲激增！2025 每五款新遊戲就有一款用生成式 AI
-https://www.inside.com.tw/article/38988-steam-data-shows-ai-game-surge-one-in-five-new-games-uses-generative-ai-in-2025
+員工被動，持續改善活動沒效果？3個關鍵能力，提升員工當責精神
+https://www.businessyee.com/article/6636-accountability
 
-加工精度5微米、效率提高3倍！一圖看懂 航太用AI優化放電加工設備，看設備如何「越加工越聰明」？如何協助業者搶到國際億元大單？
-https://www.inside.com.tw/article/38910-mirdc
+投資ESG或特斯拉？釐清投資理念做出不後悔的資產配置！
+https://www.businessyee.com/article/6635-belief-driven-investing
 
-美國太平洋陸軍成立多域司令部之戰略意涵
-https://voicettank.org/20250716-2/
+ChatGPT agent功能有哪些？如何使用？OpenAI親自教學！
+https://www.businessyee.com/article/6634-ChatGPT-agent
 
-普發一萬的政治效果
-https://voicettank.org/20250717-1/
+馬斯克公司Neuralink估值90億美元卻說自己弱勢惹爭議
+https://www.businessyee.com/article/6633-Neuralink-disadvantaged-business
 
-金管會核准LINE Pay電子支付執照，LINE Pay money拚明年開業
-https://www.businessyee.com/article/6630-line-Pay-%EF%BC%ADoney-e-payment
+【Netflix Q2財報】營收成長16%超預期，上調全年營收展望
+https://www.businessyee.com/article/6632-netflix-q2-earnings
 
-超越AI的AI助理！祖克柏不惜砸數十億美元開發「個人超級智慧」
-https://www.businessyee.com/article/6629-zuckerberg-is-pouring-billions-into-plans-for-personal-superintelligence
+駐日美軍首度使用石垣民間漁港進行救難演習，申請資料與實情不符惹議
+https://changyuchieh.com/2025/07/18/ishigaki-rescue-drill/?utm_source=rss&utm_medium=rss&utm_campaign=ishigaki-rescue-drill
 
-川普促美版可口可樂改用蔗糖，官方稱很快公布創新細節
-https://www.businessyee.com/article/6628-trump-coca-cola
+Introduction to Jimmer ORM
+https://feeds.feedblitz.com/~/921833603/0/baeldung~Introduction-to-Jimmer-ORM
 
-【台積電法說會】Q2營收300.7億美元，年增44.4%，ADR盤前漲4%！
-https://www.businessyee.com/article/6627-tsmc-q2-earnigns
+Convert JSON Object to JSON Array in Java
+https://feeds.feedblitz.com/~/921829163/0/baeldung~Convert-JSON-Object-to-JSON-Array-in-Java
 
-【聽進理投】主動ETF好嗎？經理人選股，你也在選經理人！
-https://www.businessyee.com/article/6605-ep134
+Does Spring @Transactional Annotation Work on a Private Method?
+https://feeds.feedblitz.com/~/921829166/0/baeldung~Does-Spring-Transactional-Annotation-Work-on-a-Private-Method
 
-黃仁勳：想賣比H20更好的晶片給中國
-https://www.businessyee.com/article/6626-nvidia-china
+Secure Kafka With SASL/PLAIN Authentication
+https://feeds.feedblitz.com/~/921829169/0/baeldung~Secure-Kafka-With-SASLPLAIN-Authentication
 
-市場拿不準川普是否開除鮑爾，美元、債券殖利率仍跌
-https://www.businessyee.com/article/6624-fed-trump
+Java Weekly, Issue 603
+https://feeds.feedblitz.com/~/921801428/0/baeldung~Java-Weekly-Issue
 
-市場波動助攻！高盛Q2獲利超預期、股息升至4美元新高
-https://www.businessyee.com/article/6623-gs-2025-q2-result
+NIH Is Far Cheaper Than The Wrong Dependency
+https://lewiscampbell.tech/blog/250718.html
 
-大摩Q2財報優於預期，投銀業務年減5%股價走跌
-https://www.businessyee.com/article/6622-ms-2025-q2-result
+Two Simple Rules to Fix Code Reviews
+https://serce.me/posts/2025-07-17-two-simple-rules-to-fix-code-reviews
 
-美銀Q2營收、淨利息收入未達預期，股價走跌
-https://www.businessyee.com/article/6621-bofa-2025-q2-result
+lsr: ls but with io_uring
+https://tangled.sh/@rockorager.dev/lsr
 
-Artisanal Handcrafted Git Repositories
-https://drew.silcock.dev/blog/artisanal-git/
+Forgejo v12
+https://forgejo.org/2025-07-release-v12-0/
 
-Underused Techniques for Effective Emails
-https://refactoringenglish.com/chapters/techniques-for-writing-emails/
+Firefox dev says Intel Raptor Lake crashes are increasing with rising temperatures in record European heat wave
+https://www.tomshardware.com/pc-components/cpus/firefox-dev-says-intel-raptor-lake-crashes-are-increasing-with-rising-temperatures-in-record-european-heat-wave-mozilla-staffs-tracking-overwhelmed-by-intel-crash-reports-team-disables-the-function
 
-A Rust shaped hole
-https://mnvr.in/rust
+The Big OOPs: Anatomy of a Thirty-five-year Mistake
+https://www.youtube.com/watch?v=wo84LFzx5nI
 
-Pre-disclosure: Upcoming coordinated security fix for all Matrix server implementations
-https://matrix.org/blog/2025/07/security-predisclosure/
+Zig's new Writer
+https://www.openmymind.net/Zigs-New-Writer/
 
-I'm unsatisfied with easing functions
-https://www.davepagurek.com/blog/easing-functions/
+Parsing Protobuf Like Never Before
+https://mcyoung.xyz/2025/07/16/hyperpb/
 
-Cloudflare 1.1.1.1 incident postmortem for July 14, 2025
-https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/
+Magic The Gathering - Deal infinite damage for 4GRU, as long as the twin primes conjecture is true
+https://www.reddit.com/r/BadMtgCombos/comments/1feps3y/deal_infinite_damage_for_4gru_as_long_as_the_twin/
 
-Iris-WebP: Fast, efficient WebP encoder
-https://halide.cx/iris
+How I Became the First Linux User in India
+https://medium.com/@vishalmisra/how-i-became-the-first-linux-user-in-india-b86be9d2a6c5
 
-Blender HDR and the reference white issue
-https://blog.sebastianwick.net/posts/blender-hdr-reference-white/
+Supporting Faster File Load Times with Memory Optimizations in Rust
+https://www.figma.com/blog/supporting-faster-file-load-times-with-memory-optimizations-in-rust/
 
-I was wrong about robots.txt
-https://evgeniipendragon.com/posts/i-was-wrong-about-robots-txt/
+Hackers exploit a blind spot by hiding malware inside DNS records
+https://arstechnica.com/security/2025/07/hackers-exploit-a-blind-spot-by-hiding-malware-inside-dns-records/
 
-Geomys, a blueprint for a sustainable open source maintenance firm (2024)
-https://words.filippo.io/geomys/
+Defeating Dependency Duplication in Tests?
+https://lobste.rs/s/vpzlcr/defeating_dependency_duplication_tests
 
-Fedora SIG changes Python packaging strategy
-https://lwn.net/SubscriberLink/1029354/8e707178c74ae2f8/
+Firefox Security & Privacy newsletter 2025 Q2
+https://attackanddefense.dev/2025/07/17/firefox-security-privacy-newsletter-2025-q2.html
 
-timep - trap-based profiler, flamegraph for bash
-https://github.com/jkool702/timep
+How Go 1.24's Swiss Tables saved us hundreds of gigabytes
+https://www.datadoghq.com/blog/engineering/go-swiss-tables/
 
-"Bypassing" specialization in Rust or How I Learned to Stop Worrying and Love Function Pointers
-https://oakchris1955.eu/posts/bypassing_specialization/
+The Mercury Protocol
+https://raw.githubusercontent.com/floren/mercury/master/SPEC
 
-gren-tui: Pure functional TUIs with The Elm Architecture
-https://github.com/blaix/gren-tui
+Terminal Trove - The $HOME of all things in the terminal
+https://terminaltrove.com/
 
-Open Sesame: Poems with Entropy
-https://www.benwr.net/2025/07/16/opensesame.html
+Why pull-based pipelines are faster
+https://blog.sequinstream.com/why-pull-based-pipelines-are-faster/
 
-Let Me Cook You a Vulnerability: Exploiting the Thermomix TM5
-https://www.synacktiv.com/en/publications/let-me-cook-you-a-vulnerability-exploiting-the-thermomix-tm5
+When Root Meets Immutable: OpenBSD chflags vs. Log Tampering
+https://rsadowski.de/posts/2025/openbsd-immutable-system-logs/
 
-A Wide Reduction Trick (2022)
-https://words.filippo.io/wide-reduction/
+Engineering the End of Work
+https://schmud.de/posts/2025-07-15-engineering-end-of-work.html
 
-C++ Trailing Return Types (2022)
-https://danielsieger.com/blog/2022/01/28/cpp-trailing-return-types.html
+My favorite use-case for AI is writing logs
+https://newsletter.vickiboykis.com/archive/my-favorite-use-case-for-ai-is-writing-logs/
 
-Project SERVFAIL: one year in
-https://sdomi.pl/weblog/25-servfail-first-year/
+Scientists create babies with three people's DNA + 7 more stories
+https://newsletter.newsminimalist.com/p/scientists-create-babies-with-three-people-s-dna-7-more-stories-b14b
 
-å°åèªè¨æ¨¡å
-https://wiwi.blog/blog/gemma3n
+AI YouTuber ä¾äºï¼
+https://wiwi.blog/blog/veo-3
