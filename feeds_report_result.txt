@@ -1,103 +1,82 @@
-# 2025-07-19 09:18:03 Feeds Report 
+# 2025-07-20 09:18:24 Feeds Report 
 
-Daily Hacker News for 2025-07-18
-https://www.daemonology.net/hn-daily/2025-07-18.html
+Daily Hacker News for 2025-07-19
+https://www.daemonology.net/hn-daily/2025-07-19.html
 
-Nord Security跨入威脅情資領域，整合暗網監控與攻擊面管理
-https://www.ithome.com.tw/review/170112
+Weekly Ask Hacker News for 2025-07-13 -- 2025-07-19
+http://www.daemonology.net/hn-weekly-ask/2025-07-19.html
 
-什麼是LLMOps？
-https://www.ithome.com.tw/article/170032
+BSD 系的 chflags (sappend 以及 schg)
+https://blog.gslin.org/archives/2025/07/20/12515/bsd-%e7%b3%bb%e7%9a%84-chflags-sappend-%e4%bb%a5%e5%8f%8a-schg/
 
-思科網路存取控制平臺ISE用戶注意！不到一個月，又有另一個滿分資安漏洞要修補
-https://www.ithome.com.tw/news/170123
+Apple 弄的 MLX 可以跑在 CUDA 上了
+https://blog.gslin.org/archives/2025/07/20/12514/apple-%e5%bc%84%e7%9a%84-mlx-%e5%8f%af%e4%bb%a5%e8%b7%91%e5%9c%a8-cuda-%e4%b8%8a%e4%ba%86/
 
-為了攻破臺灣矽盾，中國駭客對臺灣半導體生態系狂發研究生求職釣魚信，投資分析師也遭鎖定
-https://www.ithome.com.tw/news/170122
+KDDI 的 FTP 伺服器歷史
+https://blog.gslin.org/archives/2025/07/19/12513/kddi-%e7%9a%84-ftp-%e4%bc%ba%e6%9c%8d%e5%99%a8%e6%ad%b7%e5%8f%b2/
 
-特斯拉交車不順、人事動震，但股價為什麼仍逆勢上漲？
-https://www.inside.com.tw/article/39018-tesla-faces-delivery-issues-and-personnel-changes-why-stock-still-rises-against-trend
+AWS S3 Vectors預覽上線，支援原生向量資料儲存、查詢
+https://www.ithome.com.tw/news/170146
 
-習近平罕見對「各省」說重話：怎麼都只提 AI、電動車？
-https://www.inside.com.tw/article/39017-xi-jinping-rare-harsh-words-to-provinces-why-only-focus-on-ai-and-electric-vehicles
+川普簽署穩定幣監管法案《GENIUS Act》
+https://www.ithome.com.tw/news/170148
 
-微軟被爆讓中國工程師碰美軍系統，國防部啟動調查
-https://www.inside.com.tw/article/39016-microsoft-allegedly-allowed-chinese-engineers-access-to-us-military-systems-pentagon-launches-investigation
+將新皮質擴展至雲端
+https://www.ithome.com.tw/article/170147
 
-World Liberty Financial 創辦人 Zach Witkoff 親揭「川普家族穩定幣」進軍亞洲的策略
-https://www.inside.com.tw/article/38919-world-liberty-financial-founder-zach-witkoff-reveals-trump-family-stablecoin-asia-strategy
+Apache HTTP Server高風險漏洞遭濫用，主機淪為駭客挖礦工具
+https://www.ithome.com.tw/news/170143
 
-川普簽了！《GENIUS法案》美國穩定幣監管框架正式上路
-https://www.inside.com.tw/article/39015-trump-signs-genius-act-crypto-bill
+Smart Money Smart Kids
+https://dushuyizhi.net/smart-money-smart-kids/
 
-Google 起訴 25 名 BadBox 2.0 殭屍網路營運者，全都在中國
-https://www.inside.com.tw/article/39014-google-sues-25-badbox-2-0-botnet-operators-all-based-in-china
+Do you understand f-strings?
+https://fstrings.wtf/
 
-Coldplay 演唱會疑外遇曝光後，Astronomer CEO、人資長遭停職調查
-https://www.inside.com.tw/article/39013-astronomer-ceo-embraces-employee-concert
+Why you should choose HTMX for your next web-based side project - and ditch the crufty MPA and complex SPA
+https://hamy.xyz/blog/2024-02_htmx-for-side-projects
 
-白宮加密賭局：一文解釋《GENIUS》法案，川普為何為穩定幣鋪上紅毯？
-https://www.inside.com.tw/article/39010-trumps-stablecoin-gambit
+The borrowchecker is what I like the least about Rust
+https://viralinstruction.com/posts/borrowchecker/
 
-罷免是愛，非關藍綠
-https://voicettank.org/20250718-1/
+Giving Up on Element & Matrix.org
+https://xn--gckvb8fzb.com/giving-up-on-element-and-matrixorg/
 
-【好險有聽】《找出生活中的灰犀牛》導讀：你的風險指紋會說話（上）
-https://www.businessyee.com/article/6642-ep39
+My Ultimate Self-hosting Setup
+https://codecaptured.com/blog/my-ultimate-self-hosting-setup/
 
-Asynchrony is not Concurrency
-https://kristoff.it/blog/asynchrony-is-not-concurrency/
+Make Your Own Backup System – Part 1: Strategy Before Scripts
+https://it-notes.dragas.net/2025/07/18/make-your-own-backup-system-part-1-strategy-before-scripts/
 
-Async Rust Is A Bad Language (2023)
-https://bitbashing.io/async-rust.html
+metap: A Meta-Programming Layer for Python
+https://sbaziotis.com/compilers/metap.html
 
-firefox-patch-bin, librewolf-fix-bin and zen-browser-patched-bin AUR packages contain malware
-https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/7EZTJXLIAQLARQNTMEW2HBWZYE626IFJ/
+Legendary Software Rendering Era with Sean Barrett
+https://www.youtube.com/watch?v=T1tXepGXDDM
 
-The current technology is not ready for proper blending
-https://blog.pkh.me/p/43-the-current-technology-is-not-ready-for-proper-blending.html
+Rethinking CLI interfaces for AI
+https://www.notcheckmark.com/2025/07/rethinking-cli-interfaces-for-ai/
 
-Shutting down Clear Linux OS
-https://community.clearlinux.org/t/all-good-things-come-to-an-end-shutting-down-clear-linux-os/10716
+Structuring large Clojure codebases with Biff
+https://biffweb.com/p/structuring-large-codebases/
 
-Jsonptr: Using Wuffs’ Memory-Safe, Zero-Allocation JSON Decoder
-https://nigeltao.github.io/blog/2020/jsonptr.html
+FAQ: What’s a @KevlinHenney?
+https://kevlinhenney.medium.com/faq-whats-a-kevlinhenney-cc98d172f811
 
-Pimping my Casio: Part Deux
-https://blog.jgc.org/2025/07/pimping-my-casio-part-deux.html
+Parallelizing the physics solver
+https://youtu.be/Kvsvd67XUKw
 
-Servo adds support for network inspector devtools
-https://servo.org/blog/2025/07/17/this-month-in-servo/
+Using leaked data to examine vulnerabilities in SMS routing and SS7 signalling
+https://medium.com/@lighthousereports/using-leaked-data-to-examine-vulnerabilities-in-sms-routing-and-ss7-signalling-8e30298491d9
 
-polycode: Encode a binary file as a rational polynomial function
-https://codeberg.org/cve/polycode
+Trigon: exploiting coprocessors for fun and for profit (part 2)
+https://alfiecg.uk/2025/07/16/Trigon.html
 
-How I Fixed Ruby's Most Annoying Problem: 60-Second Gem Installs
-https://mensfeld.pl/2025/07/solving-ruby-rdkafka-installation-problem/
+🐢 US passes its first major national crypto law + 7 more stories
+https://newsletter.newsminimalist.com/p/us-passes-its-first-major-national-crypto-law-7-more-stories-a9fd
 
-Petition: Repeal the Online Safety Act
-https://petition.parliament.uk/petitions/722903
-
-Super Mario Bros is (Computationally) Hard
-https://www.youtube.com/watch?v=unLPk4H1hto
-
-Linux and Secure Boot certificate expiration
-https://lwn.net/SubscriberLink/1029767/43b62a7a7408c2a9/
-
-Frequently Asked Questions about FHE
-https://www.jeremykun.com/frequently-asked-questions-about-fhe/
-
-Kap lang
-https://kapdemo.dhsdevelopments.com/
-
-What are you doing this weekend?
-https://lobste.rs/s/dw7vlt/what_are_you_doing_this_weekend
-
-How do you compute the midpoint of an interval? (2014)
-https://hal.science/file/index/docid/576641/filename/computing-midpoint.pdf
+å¹³æ¿æå­¸
+https://wiwi.blog/blog/tablet-education
 
 æå 0 åäº
 https://wiwi.blog/blog/zero-dollar-again
-
-åé ­ãåºé ­ï¼å»å»åä¸æ¸æ¥
-https://wiwi.blog/blog/chu-tou
