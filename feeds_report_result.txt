@@ -1,82 +1,160 @@
-# 2025-07-20 09:18:24 Feeds Report 
+# 2025-07-21 09:26:58 Feeds Report 
 
-Daily Hacker News for 2025-07-19
-https://www.daemonology.net/hn-daily/2025-07-19.html
+Daily Hacker News for 2025-07-20
+https://www.daemonology.net/hn-daily/2025-07-20.html
 
-Weekly Ask Hacker News for 2025-07-13 -- 2025-07-19
-http://www.daemonology.net/hn-weekly-ask/2025-07-19.html
+Chrome 新增的 HTTP Header
+https://blog.gslin.org/archives/2025/07/21/12521/chrome-%e6%96%b0%e5%a2%9e%e7%9a%84-http-header/
 
-BSD 系的 chflags (sappend 以及 schg)
-https://blog.gslin.org/archives/2025/07/20/12515/bsd-%e7%b3%bb%e7%9a%84-chflags-sappend-%e4%bb%a5%e5%8f%8a-schg/
+PHP 提議將軟體授權改為 BSD-3-Clause
+https://blog.gslin.org/archives/2025/07/20/12520/php-%e6%8f%90%e8%ad%b0%e5%b0%87%e8%bb%9f%e9%ab%94%e6%8e%88%e6%ac%8a%e6%94%b9%e7%82%ba-bsd-3-clause/
 
-Apple 弄的 MLX 可以跑在 CUDA 上了
-https://blog.gslin.org/archives/2025/07/20/12514/apple-%e5%bc%84%e7%9a%84-mlx-%e5%8f%af%e4%bb%a5%e8%b7%91%e5%9c%a8-cuda-%e4%b8%8a%e4%ba%86/
+Zend 的多次易主
+https://blog.gslin.org/archives/2025/07/20/12518/zend-%e7%9a%84%e5%a4%9a%e6%ac%a1%e6%98%93%e4%b8%bb/
 
-KDDI 的 FTP 伺服器歷史
-https://blog.gslin.org/archives/2025/07/19/12513/kddi-%e7%9a%84-ftp-%e4%bc%ba%e6%9c%8d%e5%99%a8%e6%ad%b7%e5%8f%b2/
+OSI 的 legacy approval
+https://blog.gslin.org/archives/2025/07/20/12517/osi-%e7%9a%84-legacy-approval/
 
-AWS S3 Vectors預覽上線，支援原生向量資料儲存、查詢
-https://www.ithome.com.tw/news/170146
+OpenAI的實驗性模型已達數奧金牌程度
+https://www.ithome.com.tw/news/170164
 
-川普簽署穩定幣監管法案《GENIUS Act》
-https://www.ithome.com.tw/news/170148
+歐洲刑警與12國執法機關聯手，摧毀俄羅斯DDoS駭客NoName057(16)基礎設施
+https://www.ithome.com.tw/news/170163
 
-將新皮質擴展至雲端
-https://www.ithome.com.tw/article/170147
+SharePoint驚傳零時差漏洞攻擊，微軟緊急發布修補程式
+https://www.ithome.com.tw/news/170162
 
-Apache HTTP Server高風險漏洞遭濫用，主機淪為駭客挖礦工具
-https://www.ithome.com.tw/news/170143
+微軟宣布美國國防部技術支援業務將排除中國工程團隊
+https://www.ithome.com.tw/news/170158
 
-Smart Money Smart Kids
-https://dushuyizhi.net/smart-money-smart-kids/
+Ivanti SSL VPN系統零時差漏洞遭到利用，駭客用來散布MDifyLoader、Cobalt Strike
+https://www.ithome.com.tw/news/170149
 
-Do you understand f-strings?
-https://fstrings.wtf/
+Martech雙周報第78期：AI爬蟲衝擊出版商流量及收益，IAB Tech Lab和Cloudflare相繼推出網站主對爬蟲系統收費的機制
+https://www.ithome.com.tw/news/170094
 
-Why you should choose HTMX for your next web-based side project - and ditch the crufty MPA and complex SPA
-https://hamy.xyz/blog/2024-02_htmx-for-side-projects
+【資安週報】0714~0718，中國駭客網釣信鎖定臺灣半導體人資單位！全球還有Vishing、AI偽冒攻擊擴大
+https://www.ithome.com.tw/news/170152
 
-The borrowchecker is what I like the least about Rust
-https://viralinstruction.com/posts/borrowchecker/
+日本警方釋出勒索軟體Phobos、8Base解密金鑰
+https://www.ithome.com.tw/news/170151
 
-Giving Up on Element & Matrix.org
-https://xn--gckvb8fzb.com/giving-up-on-element-and-matrixorg/
+微軟允許Exchange Server 2016、2019部份客戶購買6個月安全更新
+https://www.ithome.com.tw/news/170150
 
-My Ultimate Self-hosting Setup
-https://codecaptured.com/blog/my-ultimate-self-hosting-setup/
+大潤發為什麼改名「大全聯」？詳解全聯併購全記錄
+https://www.inside.com.tw/article/39026-pxmart-rt-mart
 
-Make Your Own Backup System – Part 1: Strategy Before Scripts
-https://it-notes.dragas.net/2025/07/18/make-your-own-backup-system-part-1-strategy-before-scripts/
+馬斯克預告將推出兒童版 AI「Baby Grok」！
+https://www.inside.com.tw/article/39025-baby-grok
 
-metap: A Meta-Programming Layer for Python
-https://sbaziotis.com/compilers/metap.html
+大宇資訊參與光罩私募！董事長凃俊光：台灣不能沒有光罩產業
+https://www.inside.com.tw/article/39024-softstar-mask
 
-Legendary Software Rendering Era with Sean Barrett
-https://www.youtube.com/watch?v=T1tXepGXDDM
+Astronomer 執行長因 Coldplay 演唱會「親密鏡頭」風波請辭，由共同創辦人 Pete DeJoy 暫代職務
+https://www.inside.com.tw/article/39023-astronomer-kisscam-ceo-scandal
 
-Rethinking CLI interfaces for AI
-https://www.notcheckmark.com/2025/07/rethinking-cli-interfaces-for-ai/
+【獨家】AWS 怎押注 AI Agent 未來？深度拆解他們獨有「公有雲」布局
+https://www.inside.com.tw/feature/ai-agent-new-wave/39012-aws-interview-bedrock-agentcore
 
-Structuring large Clojure codebases with Biff
-https://biffweb.com/p/structuring-large-codebases/
+AI Agent 理想破局？ Y Combinator 新創 Pig.dev 揭示企業自動化的盲點與轉機
+https://www.inside.com.tw/feature/ai-agent-new-wave/39021-aiagents-ycombinatoralumni-desktopautomation
 
-FAQ: What’s a @KevlinHenney?
-https://kevlinhenney.medium.com/faq-whats-a-kevlinhenney-cc98d172f811
+蘋果 2026 將推出摺疊 iPhone！外媒：不會有太多創新
+https://www.inside.com.tw/article/39022-apple-to-launch-foldable-iphone-in-2026
 
-Parallelizing the physics solver
-https://youtu.be/Kvsvd67XUKw
+微軟緊急警報！SharePoint 零日攻擊已鎖定數萬台伺服器
+https://www.inside.com.tw/article/39020-microsoft-alerts-businesses-governments-server-software-attack
 
-Using leaked data to examine vulnerabilities in SMS routing and SS7 signalling
-https://medium.com/@lighthousereports/using-leaked-data-to-examine-vulnerabilities-in-sms-routing-and-ss7-signalling-8e30298491d9
+台灣食農創新再進化，好食好事國際級策略實戰營攜手國際專家打造跨境成長新典範
+https://www.inside.com.tw/article/38990-haoshi
 
-Trigon: exploiting coprocessors for fun and for profit (part 2)
-https://alfiecg.uk/2025/07/16/Trigon.html
+政府宜藉由台積電海外投資布局強化國際合作
+https://voicettank.org/20241028-2/
 
-🐢 US passes its first major national crypto law + 7 more stories
-https://newsletter.newsminimalist.com/p/us-passes-its-first-major-national-crypto-law-7-more-stories-a9fd
+為何要罷國民黨：房間裡的大象
+https://voicettank.org/20250721-1/
 
-å¹³æ¿æå­¸
-https://wiwi.blog/blog/tablet-education
+鄭麗君再赴美第4輪對談，郭智輝：有把握台灣稅率優於日韓
+https://www.businessyee.com/article/6648-us-taiwan-tariff
 
-æå 0 åäº
-https://wiwi.blog/blog/zero-dollar-again
+黃仁勳再套現近1300萬鎂；另考慮銷中比H20更先進晶片
+https://www.businessyee.com/article/6645-nvidia-ceo-jensen-huang-sells-shares
+
+父母沒有保險怎麼辦？為年邁雙親打造安心保障的實務指南
+https://www.businessyee.com/article/6644-parents-insurance
+
+輝達H20銷陸恐無貨可供?黃仁勳：台積電已將產能挪作他用
+https://www.businessyee.com/article/6643-Nvidia-H20-sell-china
+
+Using a Different Client Certificate per Connection in Java
+https://feeds.feedblitz.com/~/921947534/0/baeldung~Using-a-Different-Client-Certificate-per-Connection-in-Java
+
+Why Lexing and Parsing Should Be Separate
+https://github.com/oils-for-unix/oils/wiki/Why-Lexing-and-Parsing-Should-Be-Separate
+
+Coding with LLMs in the summer of 2025 (an update)
+https://antirez.com/news/154
+
+Bad Apple!! CD+G on a karaoke machine
+https://gashlin.net/blog/pages/2025-07-19-bad-apple-cdg.html
+
+How do you bundle application data in different languages?
+https://lobste.rs/s/dvzkbd/how_do_you_bundle_application_data
+
+Introducing XMLUI
+https://blog.jonudell.net/2025/07/18/introducing-xmlui/
+
+They're putting blue food coloring in everything
+https://blog.foxtrotluna.social/theyre-putting-blue-food-coloring-in-everything/
+
+stdio(3) change: FILE is now opaque
+https://undeadly.org/cgi?action=article;sid=20250717103345
+
+Why Some Satellites Use NetBSD?
+https://machaddr.substack.com/p/why-some-satellites-use-netbsd
+
+How I Found Myself In the Game Industry
+https://nothings.org/gamedev/how_i_found_myself_in_the_game_industry.html
+
+Rust Clippy performance status update
+https://blog.goose.love/posts/clippy-performance-status-update/
+
+Async I/O on Linux and durability
+https://blog.canoozie.net/async-i-o-on-linux-and-durability/
+
+Tools of the Trade
+https://www.youtube.com/watch?v=YNtoDGS4uak
+
+I’m Tired of Talking About AI
+https://paddy.carvers.com/posts/2025/07/ai/
+
+ESP32-Faikin: ESP32 based module to control Daikin aircon units
+https://github.com/revk/ESP32-Faikin
+
+Type-level programming for safer resource management
+https://frasertweedale.github.io/blog-fp/posts/2025-07-19-type-nats-and-constraints.html
+
+The Foo Archive
+https://soda.privatevoid.net/foo/
+
+Responsible AI in Enterprise Applications: A Practitioner's View
+https://www.jjude.com/responsible-ai-in-enterprise-apps/
+
+A tour of Microsoft's MacBU lab (2006)
+https://davidweiss.blogspot.com/2006/04/tour-of-microsofts-mac-lab.html
+
+Exploring the Secrets of layoutPriority in SwiftUI ZStack
+https://fatbobman.com/en/posts/exploring-the-secrets-of-layoutpriority-in-zstack/
+
+Is there any good onboarding SaaS tool for iOS apps?
+https://lobste.rs/s/bd2ssn/is_there_any_good_onboarding_saas_tool_for
+
+å»å¹´çé³æ¨æå½±ç
+https://wiwi.blog/blog/peggy-concert-replay
+
+ä¸­æ ð
+https://wiwi.blog/blog/middle-finger
+
+å¬è»åèç¾è±¡ ððð
+https://wiwi.blog/blog/bus-bunching
