@@ -12,7 +12,7 @@ class Item:
 		return "\n" + self.title + "\n" + self.link + "\n"
 
 def get_response(url):
-	headers = {'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36'}
+	headers = {'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36'}
 	try:
 		with requests.get(url, headers=headers, timeout = 30) as resp:
 			if resp.status_code == 200:
