@@ -1,33 +1,36 @@
-# 2025-07-22 09:24:06 Feeds Report 
+# 2025-07-23 09:25:47 Feeds Report 
 
-Daily Hacker News for 2025-07-21
-https://www.daemonology.net/hn-daily/2025-07-21.html
+Daily Hacker News for 2025-07-22
+https://www.daemonology.net/hn-daily/2025-07-22.html
 
-PyPI 宣佈阻擋 inbox.ru 的註冊
-https://blog.gslin.org/archives/2025/07/21/12524/pypi-%e5%ae%a3%e4%bd%88%e9%98%bb%e6%93%8b-inbox-ru-%e7%9a%84%e8%a8%bb%e5%86%8a/
+與時俱進：.NET 版號加註 Git 版控資訊
+https://blog.darkthread.net/blog/dotnet-version-w-commit-hash/
 
-Steam (Valve) 確認是因為金流公司 (信用卡公司) 的壓力下架成人遊戲
-https://blog.gslin.org/archives/2025/07/21/12523/steam-valve-%e7%a2%ba%e8%aa%8d%e6%98%af%e5%9b%a0%e7%82%ba%e9%87%91%e6%b5%81%e5%85%ac%e5%8f%b8-%e4%bf%a1%e7%94%a8%e5%8d%a1%e5%85%ac%e5%8f%b8-%e7%9a%84%e5%a3%93%e5%8a%9b%e4%b8%8b%e6%9e%b6%e6%88%90/
+Mistral AI發布全球首份AI模型的生命周期環境影響報告，揭露碳、水、資源消耗影響
+https://www.ithome.com.tw/news/170227
 
-蒜皮小技 - 瀏覽器 F12 開發者工具轉存物件到 JSON 檔
-https://blog.darkthread.net/blog/export-obj-to-file-in-f12-devtools/
+Qwen釋出程式代理模型Qwen3-Coder與命令列AI代理工具
+https://www.ithome.com.tw/news/170226
 
-後門程式GhostContainer鎖定政府機關、高科技產業，利用已知漏洞攻擊Exchange伺服器
-https://www.ithome.com.tw/news/170196
+英國計畫禁止公部門、基礎架構業者付錢給勒索軟體歹徒
+https://www.ithome.com.tw/news/170224
 
-GovTech月報第43期：丹娜絲颱風重創南臺灣，政府協調OneWeb衛星行動車建立災區緊急通訊網路；美國政府Login.gov擬納入行動駕照強化身分驗證
-https://www.ithome.com.tw/news/170137
+Amazon買下AI裝置新創Bee
+https://www.ithome.com.tw/news/170223
 
-HPE修補Aruba無線路由器的密碼寫死漏洞
-https://www.ithome.com.tw/news/170193
+OpenAI與Oracle宣布擴大Stargate資料中心容量
+https://www.ithome.com.tw/news/170222
 
-OpenAI應用部門即將由Simo掌舵，六大應用面向成產品新指標
-https://www.ithome.com.tw/news/170192
+駭客組織UNG0002鎖定中國、香港、巴基斯坦，利用LNK檔案從事攻擊
+https://www.ithome.com.tw/news/170213
 
-熱門全端框架Nuxt 4.0正式登場，專案結構、資料擷取與型別安全同步升級
-https://www.ithome.com.tw/news/170191
+思科ISE三項滿分漏洞已遭人濫用
+https://www.ithome.com.tw/news/170218
 
-Dell傳出遭駭客組織World Leaks勒索，該公司坦承實驗室測試平臺遭駭
+新加坡關鍵基礎設施遭中國駭客UNC3886鎖定，或透過路由器與資安設備滲透
+https://www.ithome.com.tw/news/170195
+
+Dell傳出遭駭客組織World Leaks勒索，該公司坦承測試平臺遭駭
 https://www.ithome.com.tw/news/170190
 
 SharePoint Server重大漏洞遭駭客濫用　美國政府傳受害　近萬家組織曝險
@@ -36,167 +39,119 @@ https://www.ithome.com.tw/news/170186
 Google Gemini Deep Think也突破今年數奧金牌門檻
 https://www.ithome.com.tw/news/170184
 
-GitLab Duo代理平臺公測，AI代理加入開發流程加速協作
-https://www.ithome.com.tw/news/170173
+Amazon 也進軍穿戴式 AI 裝置！將收購新創「Bee」
+https://www.inside.com.tw/article/39042-amazon-acquires-bee
 
-Seagate正式開賣30 TB容量NAS硬碟，採用Mozaic 3+平臺
-https://www.ithome.com.tw/review/170144
+日本關稅 15%！日本承諾投資美國 5500 億美元，汽車談判是最大突破口
+https://www.inside.com.tw/article/39041-japan-15-percent-tariff-japan-pledges-550-billion-dollar-us-investment-auto-negotiations-key-breakthrough
 
-歐洲刑警與12國執法機關聯手，摧毀俄羅斯DDoS駭客NoName057(16)基礎設施
-https://www.ithome.com.tw/news/170163
+專訪 Omnichat CEO 陳正達：「對話式商務」怎用 AI Agent 自我進化？
+https://www.inside.com.tw/feature/ai-agent-new-wave/39039-exclusive-interview-omnichat-ceo-how-conversational-commerce-evolves-with-ai-agents
 
-SharePoint驚傳零時差漏洞攻擊，微軟緊急發布修補程式
-https://www.ithome.com.tw/news/170162
+美國陸軍批准量產精準打擊飛彈之戰略意涵
+https://voicettank.org/20250723-1/
 
-微軟宣布美國國防部技術支援業務將排除中國工程團隊
-https://www.ithome.com.tw/news/170158
+「星際之門」擴建啟動！OpenAI聯手甲骨文打造4.5GW資料中心
+https://www.businessyee.com/article/6671-stargate-OpenAI-partnership-with-oracle
 
-Ivanti SSL VPN系統零時差漏洞遭到利用，駭客用來散布MDifyLoader、Cobalt Strike
-https://www.ithome.com.tw/news/170149
+馬斯克旗下xAI融資120億美元，將大買輝達晶片建設超大型資料中心
+https://www.businessyee.com/article/6670-musks-xai-raise-up-12-billion-debt-ai
 
-全新改款 BMW iX 豪華純電旗艦休旅強勢上市！「THE NEW BMW iX」現場直擊，亮點分享一次了解！
-https://www.inside.com.tw/article/38998-BMW
+對等關稅｜鄧振中：台灣可加強轉運管制、市場准入
+https://www.businessyee.com/article/6669-us-taiwan-tariff
 
-德國商報：川普新歡已經變成黃仁勳！
-https://www.inside.com.tw/article/39038-handelsblatt-op-ed-trumps-new-favorite-is-jensen-huang
+SpaceX不再獨霸？路透：川普金穹計畫招新夥伴，亞馬遜也入列
+https://www.businessyee.com/article/6668-us-golden-dome-new-supplier-amazon-kuiper
 
-台灣共享機車怎麼重新定義城市空間、移動方式？
-https://www.inside.com.tw/article/39037-the-new-key-to-modern-urban-governance-how-shared-scooters-are-reshaping-urban-space-and-mobility
+AI帶旺晶圓與伺服器需求！6月美國接單年增34.8%，創同期新高
+https://www.businessyee.com/article/6667-ai-server-foundry
 
-在 Messenger 就能辨識詐騙！Meta 捐贈百萬給台灣研發 AI 詐騙偵測器
-https://www.inside.com.tw/article/39036-meta-scam-taiwan
+對等關稅｜川普親自社群公布！對日本課徵15%、對印尼與菲律賓同徵19%
+https://www.businessyee.com/article/6666-us-tariff-japan-indonesia-philippines
 
-Figma 準備在紐約證券所 IPO，估值有望達 164 億美元
-https://www.inside.com.tw/article/39032-figma-ipo-aims-16b-valuation
+日股大漲千點！對等關稅開獎15%，汽車類股慶祝行情8%起跳、Mazda漲停
+https://www.businessyee.com/article/6665-us-japan-tariff-stock
 
-「星際之門」卡關中：SoftBank × OpenAI 的 5,000 億美元 AI 雄圖，為何半年後仍難起飛？
-https://www.inside.com.tw/article/39033-softbank-openai-stargate
+台灣資產管理打亞洲盃！銀行局長：不會成稅務天堂，但會思考租稅誘因
+https://www.businessyee.com/article/6664-asia-asset-managment-hub-tax
 
-涉竊偵測核彈發射機密 美籍華人工程師認罪
-https://www.inside.com.tw/article/39031-military-tech-espionage
+搶家族辦公室商機！外商投信投顧湧進高雄專區試辦EAM，利潤模式待觀察
+https://www.businessyee.com/article/6662-asia-asset-managment-hub-eam
 
-台美太空港真的有望？國科會：樂觀其成、進一步評估
-https://www.inside.com.tw/article/39029-us-taiwan-spaceport-cooperation
+台灣資產管理打亞洲盃！銀行局長童政彰：下階段開放跨境金融服務
+https://www.businessyee.com/article/6661-asia-asset-managment-hub-4
 
-Google：Gemini Deep Think 在國際數學奧林匹亞獲得金牌水準
-https://www.inside.com.tw/article/39030-google-gemini-deep-think-achieves-gold-medal-level-at-international-mathematical-olympiad
+Executing SQL Scripts in H2 Database
+https://feeds.feedblitz.com/~/922051277/0/baeldung~Executing-SQL-Scripts-in-H-Database
 
-Google Pixel 10 系列要來了！官方搶先曝光，新機設計與升級亮點一次看
-https://www.inside.com.tw/article/39028-google-pixel-10-series-coming-official-preview-shows-new-design-and-upgrade-highlights
+Creating an AI Agent in Java Using Embabel Agent Framework
+https://feeds.feedblitz.com/~/922051280/0/baeldung~Creating-an-AI-Agent-in-Java-Using-Embabel-Agent-Framework
 
-中國科研船頻繁進出台灣東部及關島海域之研析
-https://voicettank.org/20250722-2/
+Tailwind is the Worst of All Worlds
+https://colton.dev/blog/tailwind-is-the-worst-of-all-worlds/
 
-從曼哈頓街頭到台灣罷免行動，看民主的韌性與公民責任
-https://voicettank.org/20250722-1/
+TODOs aren’t for doing
+https://sophiebits.com/2025/07/21/todos-arent-for-doing
 
-台灣亟需制定《保護台灣人免受境外敵對勢力控制應用程式法案》：借鏡美國經驗，強化國家資安防線
-https://voicettank.org/20250721-2/
+Comparing the Glove80 and Maltron keyboards
+https://tratt.net/laurie/blog/2025/comparing_the_glove80_and_maltron_keyboards.html
 
-「日產小鎮」不再？銷量銳減、精神象徵追浜工廠將關閉，與鴻海合作協議左右2400員工職涯
-https://www.businessyee.com/article/6660-nissan-motor-oppama-plant-honhai
+Python 3.14 release candidate 1 is go
+https://pythoninsider.blogspot.com/2025/07/python-314-release-candidate-1-is-go.html
 
-三巨頭談不攏！川普「星際之門」僅落地一座「小型」資料中心
-https://www.businessyee.com/article/6658-softbank-openais-stargate
+Fedora Must (Carefully) Embrace Flathub
+https://blogs.gnome.org/mcatanzaro/2025/07/21/fedora-must-carefully-embrace-flathub/
 
-打造亞洲那斯達克！經發會拚AI新十大建設、促資本市場升級
-https://www.businessyee.com/article/6659-asia-NASDAQ
+More than you wanted to know about how Game Boy cartridges work
+https://abc.decontextualize.com/more-than-you-wanted-to-know/
 
-亞資中心高雄揭牌！彭金隆：三方向推動專區發展，提醒「三要一不」
-https://www.businessyee.com/article/6657-asia-asset-managment-hub-3
+Is it feasible to start a local forum in 2025?
+https://lobste.rs/s/txrjel/is_it_feasible_start_local_forum_2025
 
-黃仁勳：如果今天回到20歲，我會在大學攻讀這一科
-https://www.businessyee.com/article/6655-nvidia-jensen-huang-physical-ai
+AI Coding Agents Are Removing Programming Language Barriers
+https://railsatscale.com/2025-07-19-ai-coding-agents-are-removing-programming-language-barriers/
 
-不只比特幣！以太幣悄悄成為企業資產配置新寵
-https://www.businessyee.com/article/6656-companies-bs-add-eth
+Monads as Graphs (2019)
+http://neilmitchell.blogspot.com/2019/10/monads-as-graphs.html
 
-台塑四寶半年大虧213億，台塑員工：調薪不敢樂觀
-https://www.businessyee.com/article/6654-formosa-plastics-salary-increase
+Extending Emacs with Fennel
+https://andreyor.st/posts/2024-12-20-extending-emacs-with-fennel/
 
-馬斯克重回辦公室睡覺！財報前夕投資人聚焦自駕、機器人消息
-https://www.businessyee.com/article/6653-tesla-elon-musk-sleep-office
+Fun with Gzip Bombs and Email Clients
+https://www.grepular.com/Fun_with_Gzip_Bombs_and_Email_Clients
 
-台股甩關稅陰霾？科技、傳產上半年營收強弱分明
-https://www.businessyee.com/article/6652-taiwan-stock-h1-result
+Display Next Hackfest 2025
+https://zamundaaa.github.io/wayland/2025/07/22/display-next-hackfest-2025.html
 
-AIT談台美太空港對接！國科會：樂觀其成、待評估討論
-https://www.businessyee.com/article/6651-ait-tasa-space-port
+Library of Babel
+https://libraryofbabel.app/about
 
-為新建核電廠鋪路！關西電力美濱核電廠展開地質調查，成福島第一核電廠事故後首例
-https://changyuchieh.com/2025/07/22/mihama-research/?utm_source=rss&utm_medium=rss&utm_campaign=mihama-research
+Kelp: A UI library for people who love HTML, powered by modern CSS and Web Components
+https://kelpui.com/
 
-Working on a Programming Language in the Age of LLMs
-https://ryelang.org/blog/posts/programming-language-in-age-of-llms/
+Introducing swift-erlang-actor-system
+https://forums.swift.org/t/introducing-swift-erlang-actor-system/81248
 
-Jujutsu For Busy Devs
-https://maddie.wtf/posts/2025-07-21-jujutsu-for-busy-devs
+Detecting Organic Contaminants With Less Data
+https://mirawelner.com/posts/spectroscopy.html
 
-Dissertation Typesetting Considerations
-https://tony-zorman.com/posts/phd-typesetting.html
+NVIDIA announced this week that they are bringing their CUDA software to RISC-V processors
+https://www.phoronix.com/news/NVIDIA-CUDA-Coming-To-RISC-V
 
-connmap: X11 desktop widget that shows location of your current network peers on a world map in real-time
-https://github.com/h2337/connmap
+What to expect from Debian/trixie
+https://michael-prokop.at/blog/2025/07/20/what-to-expect-from-debian-trixie-newintrixie/
 
-Sapling
-https://sapling-scm.com/
+TapTrap: Animation‑Driven Tapjacking on Android
+https://taptrap.click/
 
-Deeper theories of program design
-https://typesanitizer.com/blog/deeper-theories.html
+Revere proxy deep dive
+https://startwithawhy.com/reverseproxy/2024/01/15/ReverseProxy-Deep-Dive.html
 
-Garbage Collection for Systems Programmers (2023)
-https://bitbashing.io/gc-for-systems-programmers.html
+Reverse Proxy Deep Dive Part 2: Why HTTP Parsing at the Edge Is Harder Than It Looks
+https://startwithawhy.com/reverseproxy/2025/07/20/ReverseProxy-Deep-Dive-Part2.html
 
-RFC 865: Quote of the Day Protocol
-https://datatracker.ietf.org/doc/html/rfc865
+🐢AI wins gold at international math competition + 8 more stories
+https://newsletter.newsminimalist.com/p/ai-wins-gold-at-international-math-competition-8-more-stories
 
-Pogocache - Fast caching software
-https://github.com/tidwall/pogocache
-
-What are you doing this week?
-https://lobste.rs/s/uzzuto/what_are_you_doing_this_week
-
-Advanced version of Gemini with Deep Think officially achieves gold-medal standard at the International Mathematical Olympiad
-https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/
-
-devenv 1.8: Progress TUI, SecretSpec Integration, Listing Tasks, and Smaller Containers
-https://devenv.sh/blog/2025/07/22/devenv-18-progress-tui-secretspec-integration-listing-tasks-and-smaller-containers
-
-Automating Away Claude's Bad Habits with Hooks
-https://writeaheadblogg.ing/posts/claude-hooks-auto-fix-trailing-whitespace/
-
-Rickrolling Turso DB (SQLite rewrite in Rust)
-https://avi.im/blag/2025/rickrolling-turso/
-
-Fuzzing the Kotlin Compiler
-https://blog.jetbrains.com/research/2025/07/fuzzing-the-kotlin-compiler/
-
-Gren 25S: Easier interop, concurrent tasks and zero-install packages
-https://gren-lang.org/news/250721_gren_25s/
-
-LL and LR Parsing Demystified (2013)
-https://blog.reverberate.org/2013/07/ll-and-lr-parsing-demystified.html
-
-Safe Cell field projection in Rust (2020)
-https://www.abubalay.com/blog/2020/01/05/cell-field-projection
-
-cppq: Simple, reliable & efficient distributed task queues for C++17
-https://github.com/h2337/cppq
-
-Semi-Automated Assembly Verification in Python using pypcode Semantics
-https://www.philipzucker.com/assembly_verify/
-
-A reckless introduction to Hindley-Milner type inference
-https://reasonableapproximation.net/2019/05/05/hindley-milner.html
-
-ä¸æ¸¸
-https://wiwi.blog/blog/upstream
-
-æ¥æåè¡¨
-https://wiwi.blog/blog/date-list
-
-å»å¹´çé³æ¨æå½±ç
-https://wiwi.blog/blog/peggy-concert-replay
-
-ä¸­æ ð
-https://wiwi.blog/blog/middle-finger
+2008 å¹´çè²¼æ
+https://wiwi.blog/blog/posts-from-2008
