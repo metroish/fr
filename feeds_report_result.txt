@@ -1,25 +1,40 @@
-# 2025-07-23 09:25:47 Feeds Report 
+# 2025-07-24 09:23:36 Feeds Report 
 
-Daily Hacker News for 2025-07-22
-https://www.daemonology.net/hn-daily/2025-07-22.html
+Daily Hacker News for 2025-07-23
+https://www.daemonology.net/hn-daily/2025-07-23.html
 
-與時俱進：.NET 版號加註 Git 版控資訊
-https://blog.darkthread.net/blog/dotnet-version-w-commit-hash/
+Google DeepMind發表可用來分析古代拉丁銘文的AI模型Aeneas
+https://www.ithome.com.tw/news/170250
 
-Mistral AI發布全球首份AI模型的生命周期環境影響報告，揭露碳、水、資源消耗影響
-https://www.ithome.com.tw/news/170227
+美國核武機構傳出遭遇SharePoint漏洞攻擊
+https://www.ithome.com.tw/news/170248
 
-Qwen釋出程式代理模型Qwen3-Coder與命令列AI代理工具
-https://www.ithome.com.tw/news/170226
+【資安日報】7月24日，微軟支援身障者無障礙用途的UI自動化機制首遭惡意程式濫用
+https://www.ithome.com.tw/news/170243
 
-英國計畫禁止公部門、基礎架構業者付錢給勒索軟體歹徒
-https://www.ithome.com.tw/news/170224
+白宮發表AI Action Plan以鞏固美國AI領導地位
+https://www.ithome.com.tw/news/170242
 
-Amazon買下AI裝置新創Bee
-https://www.ithome.com.tw/news/170223
+中國駭客APT41鎖定非洲政府IT基礎設施而來，入侵SharePoint伺服器充當C2
+https://www.ithome.com.tw/news/170241
+
+Docker、電商平臺Magento遭到鎖定，駭客運用多種隱密的手法挖礦、架設代理伺服器
+https://www.ithome.com.tw/news/170240
+
+Alphabet財報出爐，AI發威，Gemini每月用戶超越4.5億人
+https://www.ithome.com.tw/news/170239
+
+首度發現UI Automation遭濫用！Coyote惡意軟體瞄準民眾金融帳密下手
+https://www.ithome.com.tw/news/170237
+
+Sophos修補防火牆軟體RCE、指令注入漏洞
+https://www.ithome.com.tw/news/170236
 
 OpenAI與Oracle宣布擴大Stargate資料中心容量
 https://www.ithome.com.tw/news/170222
+
+SharePoint零時差漏洞攻擊事故傳出是多組中國駭客所為
+https://www.ithome.com.tw/news/170221
 
 駭客組織UNG0002鎖定中國、香港、巴基斯坦，利用LNK檔案從事攻擊
 https://www.ithome.com.tw/news/170213
@@ -27,131 +42,131 @@ https://www.ithome.com.tw/news/170213
 思科ISE三項滿分漏洞已遭人濫用
 https://www.ithome.com.tw/news/170218
 
-新加坡關鍵基礎設施遭中國駭客UNC3886鎖定，或透過路由器與資安設備滲透
-https://www.ithome.com.tw/news/170195
+台新新光金控合併完成，8.3 兆元資產躋身台灣第 4 大
+https://www.inside.com.tw/article/39057-taishin-sk-marge
 
-Dell傳出遭駭客組織World Leaks勒索，該公司坦承測試平臺遭駭
-https://www.ithome.com.tw/news/170190
+致敬任天堂經典！Lego 推出 Game Boy 積木組，畫面可變換還原遊戲場景
+https://www.inside.com.tw/article/39056-lego-nintendo-gameboy
 
-SharePoint Server重大漏洞遭駭客濫用　美國政府傳受害　近萬家組織曝險
-https://www.ithome.com.tw/news/170186
+馬斯克：美國政府砍電動車補助，會讓特斯拉一段日子不好過
+https://www.inside.com.tw/article/39055-musk-admits-us-government-cutting-ev-subsidies-will-make-life-difficult-for-tesla
 
-Google Gemini Deep Think也突破今年數奧金牌門檻
-https://www.ithome.com.tw/news/170184
+AI 幫歷史學家還原拉丁文銘文！Google DeepMind 發表特殊 AI 「Aeneas」
+https://www.inside.com.tw/article/39054-google-deepmind-aeneas
 
-Amazon 也進軍穿戴式 AI 裝置！將收購新創「Bee」
-https://www.inside.com.tw/article/39042-amazon-acquires-bee
+金融業身份驗證方式會「幾乎失守」！Sam Altman 警告：AI 詐騙危機即將爆發
+https://www.inside.com.tw/article/39053-openai-chatgpt-sam-altman-ai-fraud
 
-日本關稅 15%！日本承諾投資美國 5500 億美元，汽車談判是最大突破口
-https://www.inside.com.tw/article/39041-japan-15-percent-tariff-japan-pledges-550-billion-dollar-us-investment-auto-negotiations-key-breakthrough
+Nintendo Switch 2 改寫美國遊戲史！第一個月就狂銷 160 萬台創紀錄
+https://www.inside.com.tw/article/39052--nintendo-switch-2-is-the-fastest-selling-gaming-hardware-in-us-history
 
-專訪 Omnichat CEO 陳正達：「對話式商務」怎用 AI Agent 自我進化？
-https://www.inside.com.tw/feature/ai-agent-new-wave/39039-exclusive-interview-omnichat-ceo-how-conversational-commerce-evolves-with-ai-agents
+川普簽署 AI 大鬆綁政策：美國要贏 AI 競賽！
+https://www.inside.com.tw/article/39051-trump-administration-aipolicy-techregulation
 
-美國陸軍批准量產精準打擊飛彈之戰略意涵
-https://voicettank.org/20250723-1/
+免費將相簿照片轉成 6 秒影片！Google Photos 推 photo-to-video 功能
+https://www.inside.com.tw/article/39050-google-photos-new-video-feature
 
-「星際之門」擴建啟動！OpenAI聯手甲骨文打造4.5GW資料中心
-https://www.businessyee.com/article/6671-stargate-OpenAI-partnership-with-oracle
+Google Q2 營收創紀錄！一口氣整理 Alphabet 財報全亮點
+https://www.inside.com.tw/article/39049-alphabet-q2-2025-earnings
 
-馬斯克旗下xAI融資120億美元，將大買輝達晶片建設超大型資料中心
-https://www.businessyee.com/article/6670-musks-xai-raise-up-12-billion-debt-ai
+寶可夢首座常設園區來了 2026 春季東京開幕
+https://www.inside.com.tw/article/39047-nintendo-pokeparkkanto-yomiuriland
 
-對等關稅｜鄧振中：台灣可加強轉運管制、市場准入
-https://www.businessyee.com/article/6669-us-taiwan-tariff
+巨浪過後的香港對台灣的警示
+https://voicettank.org/20250723-2/
 
-SpaceX不再獨霸？路透：川普金穹計畫招新夥伴，亞馬遜也入列
-https://www.businessyee.com/article/6668-us-golden-dome-new-supplier-amazon-kuiper
+【書摘】《博物館裡的臺灣史：博物館與紀念場址如何建構臺灣人身分認同、形塑歷史記憶，定調「臺灣的故事」》
+https://voicettank.org/20250724-1/
 
-AI帶旺晶圓與伺服器需求！6月美國接單年增34.8%，創同期新高
-https://www.businessyee.com/article/6667-ai-server-foundry
+半導體製造設備賣不停！SEMI：2026年銷售額可望再創新高
+https://www.businessyee.com/article/6683-semi-ai-manufacturing-equipment
 
-對等關稅｜川普親自社群公布！對日本課徵15%、對印尼與菲律賓同徵19%
-https://www.businessyee.com/article/6666-us-tariff-japan-indonesia-philippines
+美通過支持穩定幣三法！什麼是穩定幣？對金融市場有哪些影響？
+https://www.businessyee.com/article/6682-stablecoin-GENIUS-act
 
-日股大漲千點！對等關稅開獎15%，汽車類股慶祝行情8%起跳、Mazda漲停
-https://www.businessyee.com/article/6665-us-japan-tariff-stock
+【SK海力士Q2財報】HBM需求旺盛助攻，獲利飆漲近7成、營收刷新紀錄！
+https://www.businessyee.com/article/6681-sk-hynix-second-quarter-earnings
 
-台灣資產管理打亞洲盃！銀行局長：不會成稅務天堂，但會思考租稅誘因
-https://www.businessyee.com/article/6664-asia-asset-managment-hub-tax
+「台新新光金」新股上市躍第四大金控，總座林維俊：繼續努力往前衝
+https://www.businessyee.com/article/6680-tai-shin-shinkong-merge-firstday
 
-搶家族辦公室商機！外商投信投顧湧進高雄專區試辦EAM，利潤模式待觀察
-https://www.businessyee.com/article/6662-asia-asset-managment-hub-eam
+【Alphabet Q2財報】營收獲利均超乎預期、大手筆追加AI資本支出
+https://www.businessyee.com/article/6678-alphabet-google-q2-earnings
 
-台灣資產管理打亞洲盃！銀行局長童政彰：下階段開放跨境金融服務
-https://www.businessyee.com/article/6661-asia-asset-managment-hub-4
+真正的職場高手做事不只憑經驗，腦中隨時記住3個數字
+https://www.businessyee.com/article/6646-numerical-ability
 
-Executing SQL Scripts in H2 Database
-https://feeds.feedblitz.com/~/922051277/0/baeldung~Executing-SQL-Scripts-in-H-Database
+蘇姿丰：美國代工貴兩成！台積電亞利桑那廠成本曝光
+https://www.businessyee.com/article/6679-amd-lisa-su-tsmc
 
-Creating an AI Agent in Java Using Embabel Agent Framework
-https://feeds.feedblitz.com/~/922051280/0/baeldung~Creating-an-AI-Agent-in-Java-Using-Embabel-Agent-Framework
+【特斯拉 Q2 財報】連兩季營收衰退！汽車銷量不振、robotaxi與人型機器人無亮點，盤後下滑近5%
+https://www.businessyee.com/article/6677-tesla-earnings-q2
 
-Tailwind is the Worst of All Worlds
-https://colton.dev/blog/tailwind-is-the-worst-of-all-worlds/
+【聽進理投】如果戰爭真的發生，我的金融韌性是否能挺過危機？
+https://www.businessyee.com/article/6676-ep135
 
-TODOs aren’t for doing
-https://sophiebits.com/2025/07/21/todos-arent-for-doing
+九壽險釋出責任準備金2687億，有意釋出年底前仍可申請
+https://www.businessyee.com/article/6675-insurance-annual-report
 
-Comparing the Glove80 and Maltron keyboards
-https://tratt.net/laurie/blog/2025/comparing_the_glove80_and_maltron_keyboards.html
+You Can Now Disable All AI Features in Zed
+https://zed.dev/blog/disable-ai-features
 
-Python 3.14 release candidate 1 is go
-https://pythoninsider.blogspot.com/2025/07/python-314-release-candidate-1-is-go.html
+font-size-adjust Is Useful
+https://matklad.github.io/2025/07/16/font-size-adjust.html
 
-Fedora Must (Carefully) Embrace Flathub
-https://blogs.gnome.org/mcatanzaro/2025/07/21/fedora-must-carefully-embrace-flathub/
+Developing our position on AI
+https://www.recurse.com/blog/191-developing-our-position-on-ai
 
-More than you wanted to know about how Game Boy cartridges work
-https://abc.decontextualize.com/more-than-you-wanted-to-know/
+Migrating a ZFS pool from RAIDZ1 to RAIDZ2
+https://mtlynch.io/raidz1-to-raidz2/
 
-Is it feasible to start a local forum in 2025?
-https://lobste.rs/s/txrjel/is_it_feasible_start_local_forum_2025
+systemd 258-rc1 Is A Massive Feature Release With New Tools, More Than 260 Changes
+https://www.phoronix.com/news/systemd-258-rc1
 
-AI Coding Agents Are Removing Programming Language Barriers
-https://railsatscale.com/2025-07-19-ai-coding-agents-are-removing-programming-language-barriers/
+The Promised LAN
+https://tpl.house/
 
-Monads as Graphs (2019)
-http://neilmitchell.blogspot.com/2019/10/monads-as-graphs.html
+How we discovered, and recovered from, Postgres corruption on the matrix.org homeserver
+https://matrix.org/blog/2025/07/postgres-corruption-postmortem/
 
-Extending Emacs with Fennel
-https://andreyor.st/posts/2024-12-20-extending-emacs-with-fennel/
+The Death Of Industrial Design And The Era Of Dull Electronics
+https://hackaday.com/2025/07/23/the-death-of-industrial-design-and-the-era-of-dull-electronics/
 
-Fun with Gzip Bombs and Email Clients
-https://www.grepular.com/Fun_with_Gzip_Bombs_and_Email_Clients
+Superfunctions: solve the "color" problem of Python
+https://github.com/pomponchik/transfunctions
 
-Display Next Hackfest 2025
-https://zamundaaa.github.io/wayland/2025/07/22/display-next-hackfest-2025.html
+20 years of Linux on the Desktop (part 4)
+https://ploum.net/2025-07-23-linux_desktop4.html
 
-Library of Babel
-https://libraryofbabel.app/about
+Branch Coverage Won't Prove The Collatz Conjecture
+https://concerningquality.com/collatz-conjecture/
 
-Kelp: A UI library for people who love HTML, powered by modern CSS and Web Components
-https://kelpui.com/
+Computational Tyranny
+https://happyfellow.bearblog.dev/computational-tyranny/
 
-Introducing swift-erlang-actor-system
-https://forums.swift.org/t/introducing-swift-erlang-actor-system/81248
+JNJ: J iN Janet
+https://sr.ht/~subsetpark/JNJ/
 
-Detecting Organic Contaminants With Less Data
-https://mirawelner.com/posts/spectroscopy.html
+Kernel
+https://web.cs.wpi.edu/%7Ejshutt/kernel.html#:%7E:text=On%20the%20theoretical%20side%2C%20the,also:%20My%20Academic%20Work%20page
 
-NVIDIA announced this week that they are bringing their CUDA software to RISC-V processors
-https://www.phoronix.com/news/NVIDIA-CUDA-Coming-To-RISC-V
+Vintage Macintosh Programming Book Library
+https://vintageapple.org/macprogramming/index_year.html
 
-What to expect from Debian/trixie
-https://michael-prokop.at/blog/2025/07/20/what-to-expect-from-debian-trixie-newintrixie/
+Implementing dynamic scope for Fennel and Lua
+https://andreyor.st/posts/2025-06-09-implementing-dynamic-scope-for-fennel-and-lua/
 
-TapTrap: Animation‑Driven Tapjacking on Android
-https://taptrap.click/
+How much do you spend on AI-assisted tools?
+https://lobste.rs/s/jcfozl/how_much_do_you_spend_on_ai_assisted_tools
 
-Revere proxy deep dive
-https://startwithawhy.com/reverseproxy/2024/01/15/ReverseProxy-Deep-Dive.html
+NPM 'accidentally' removes Stylus package, breaks builds and pipelines
+https://www.bleepingcomputer.com/news/security/npm-accidentally-removes-stylus-package-breaks-builds-and-pipelines/
 
-Reverse Proxy Deep Dive Part 2: Why HTTP Parsing at the Edge Is Harder Than It Looks
-https://startwithawhy.com/reverseproxy/2025/07/20/ReverseProxy-Deep-Dive-Part2.html
+Using Radicle CI for Development
+https://radicle.xyz/2025/07/23/using-radicle-ci-for-development
 
-🐢AI wins gold at international math competition + 8 more stories
-https://newsletter.newsminimalist.com/p/ai-wins-gold-at-international-math-competition-8-more-stories
+TrackWeight: Use your Mac trackpad as a weighing scale
+https://github.com/KrishKrosh/TrackWeight
 
-2008 å¹´çè²¼æ
-https://wiwi.blog/blog/posts-from-2008
+ç©ºç½åå¹´
+https://wiwi.blog/blog/social-media-lost-decade
