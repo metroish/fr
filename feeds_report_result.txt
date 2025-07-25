@@ -1,22 +1,37 @@
-# 2025-07-24 09:23:36 Feeds Report 
+# 2025-07-25 09:22:46 Feeds Report 
 
-Daily Hacker News for 2025-07-23
-https://www.daemonology.net/hn-daily/2025-07-23.html
+Daily Hacker News for 2025-07-24
+https://www.daemonology.net/hn-daily/2025-07-24.html
 
-Google DeepMind發表可用來分析古代拉丁銘文的AI模型Aeneas
-https://www.ithome.com.tw/news/170250
+皮尤研究顯示，Google AI Overviews降低用戶點擊率
+https://www.ithome.com.tw/news/170268
 
-美國核武機構傳出遭遇SharePoint漏洞攻擊
-https://www.ithome.com.tw/news/170248
+【資安日報】7月25日，SharePoint零時差漏洞災情浮現，恐成為全球危機
+https://www.ithome.com.tw/news/170267
 
-【資安日報】7月24日，微軟支援身障者無障礙用途的UI自動化機制首遭惡意程式濫用
-https://www.ithome.com.tw/news/170243
+中國駭客Storm-2603從事SharePoint零時差漏洞攻擊，意圖散布勒索軟體Warlock
+https://www.ithome.com.tw/news/170266
 
-白宮發表AI Action Plan以鞏固美國AI領導地位
-https://www.ithome.com.tw/news/170242
+Google釋出OSS Rebuild確保開源套件安全
+https://www.ithome.com.tw/news/170265
 
-中國駭客APT41鎖定非洲政府IT基礎設施而來，入侵SharePoint伺服器充當C2
-https://www.ithome.com.tw/news/170241
+Direct to Cell衛星通訊服務T-Satellite上線，Starlink全球服務中斷2.5小時
+https://www.ithome.com.tw/news/170264
+
+英特爾Q2財報持平，放棄歐洲製造專案
+https://www.ithome.com.tw/news/170263
+
+熱門NPM套件遭到挾持，駭客上架新套件散布惡意程式，起因是維護者遭網釣導致Token外流
+https://www.ithome.com.tw/news/170262
+
+Dior通報客戶年初的資料外洩事件
+https://www.ithome.com.tw/news/170260
+
+AI應用的反思
+https://www.ithome.com.tw/voice/170259
+
+七年分階段打下創新基礎，一銀要靠GAI蛻變科技金融
+https://www.ithome.com.tw/people/170254
 
 Docker、電商平臺Magento遭到鎖定，駭客運用多種隱密的手法挖礦、架設代理伺服器
 https://www.ithome.com.tw/news/170240
@@ -30,143 +45,140 @@ https://www.ithome.com.tw/news/170237
 Sophos修補防火牆軟體RCE、指令注入漏洞
 https://www.ithome.com.tw/news/170236
 
-OpenAI與Oracle宣布擴大Stargate資料中心容量
-https://www.ithome.com.tw/news/170222
+日本首例：以最高時速 60 公里為電動車進行 10kW 無線連續供電
+https://www.inside.com.tw/article/39069-japan-achieves-first-10kw-wireless-ev-charging-at-60-km-h
 
-SharePoint零時差漏洞攻擊事故傳出是多組中國駭客所為
-https://www.ithome.com.tw/news/170221
+Google 推出 AI 試穿功能！只要上傳一張照片，就能試任何服飾產品
+https://www.inside.com.tw/article/39067-google-ai-try-on-feature-launch
 
-駭客組織UNG0002鎖定中國、香港、巴基斯坦，利用LNK檔案從事攻擊
-https://www.ithome.com.tw/news/170213
+三菱汽車結束瀋陽車廠合資關係，徹底退出中國市場
+https://www.inside.com.tw/article/39060-mitsubishi-motors-ends-shenyang-joint-venture-and-fully-exits-china-market
 
-思科ISE三項滿分漏洞已遭人濫用
-https://www.ithome.com.tw/news/170218
+金融時報：中國黑市交易輝達 B200 晶片 如「海鮮市場」貨源充足
+https://www.inside.com.tw/article/39066-nvidia-ai-chips-smuggled-to-china-after-export-controls%20%20%20%20%20%20%20%20%20%20%E8%A9%A2%E5%95%8F%20ChatGPT
 
-台新新光金控合併完成，8.3 兆元資產躋身台灣第 4 大
-https://www.inside.com.tw/article/39057-taishin-sk-marge
+Intel 財報後宣布大砍晶圓廠擴建計畫，裁員 15%
+https://www.inside.com.tw/article/39064-intel-slashes-fab-expansion-plans-and-cuts-15-percent-workforce-after-earnings-report
 
-致敬任天堂經典！Lego 推出 Game Boy 積木組，畫面可變換還原遊戲場景
-https://www.inside.com.tw/article/39056-lego-nintendo-gameboy
+一文分析：鴻海在星際之門扮演什麼角色？德州是鴻海「機會之地」嗎？
+https://www.inside.com.tw/article/39065-analysis-foxconn-role-in-stargate-project-is-texas-opportunity-land-for-foxconn
 
-馬斯克：美國政府砍電動車補助，會讓特斯拉一段日子不好過
-https://www.inside.com.tw/article/39055-musk-admits-us-government-cutting-ev-subsidies-will-make-life-difficult-for-tesla
+AI 幫搜尋結果分類整理！Google 推出實驗性功能「Web Guide」
+https://www.inside.com.tw/article/39062-google-launches-web-guide
 
-AI 幫歷史學家還原拉丁文銘文！Google DeepMind 發表特殊 AI 「Aeneas」
-https://www.inside.com.tw/article/39054-google-deepmind-aeneas
+川普：日本承諾大幅投資換降低關稅　他國可比照辦理
+https://www.inside.com.tw/article/39063-us-japan-signingbonus
 
-金融業身份驗證方式會「幾乎失守」！Sam Altman 警告：AI 詐騙危機即將爆發
-https://www.inside.com.tw/article/39053-openai-chatgpt-sam-altman-ai-fraud
+2025 消費者搜尋洞察報告觀察搜尋行為  預見消費者需求掌握銷售先機
+https://www.inside.com.tw/article/39048-yahoo
 
-Nintendo Switch 2 改寫美國遊戲史！第一個月就狂銷 160 萬台創紀錄
-https://www.inside.com.tw/article/39052--nintendo-switch-2-is-the-fastest-selling-gaming-hardware-in-us-history
+中國爆發「網紅衛生棉致癌」！疑 30 人患甲狀腺癌
+https://www.inside.com.tw/article/39061-china-erupts-over-influencer-promoted-sanitary-pads-linked-to-cancer-30-suspected-thyroid-cases
 
-川普簽署 AI 大鬆綁政策：美國要贏 AI 競賽！
-https://www.inside.com.tw/article/39051-trump-administration-aipolicy-techregulation
+貴哥的政治辯論戰場
+https://ckhung0.blogspot.com/2025/07/battlefield.html
 
-免費將相簿照片轉成 6 秒影片！Google Photos 推 photo-to-video 功能
-https://www.inside.com.tw/article/39050-google-photos-new-video-feature
+後安倍時代的來臨？2025年日本參議院選舉的觀察
+https://voicettank.org/20250725-2/
 
-Google Q2 營收創紀錄！一口氣整理 Alphabet 財報全亮點
-https://www.inside.com.tw/article/39049-alphabet-q2-2025-earnings
-
-寶可夢首座常設園區來了 2026 春季東京開幕
-https://www.inside.com.tw/article/39047-nintendo-pokeparkkanto-yomiuriland
+人民正在重建國會──罷免運動是一股什麼樣的力量？
+https://voicettank.org/20250725-1/
 
 巨浪過後的香港對台灣的警示
 https://voicettank.org/20250723-2/
 
-【書摘】《博物館裡的臺灣史：博物館與紀念場址如何建構臺灣人身分認同、形塑歷史記憶，定調「臺灣的故事」》
-https://voicettank.org/20250724-1/
+【書摘】《為愛而罷：公民做主，反共不分藍綠！》
+https://voicettank.org/20250725-3/
 
-半導體製造設備賣不停！SEMI：2026年銷售額可望再創新高
-https://www.businessyee.com/article/6683-semi-ai-manufacturing-equipment
+關稅衝擊延後爆發？美經濟學家：2026 才是通膨真正高峰
+https://www.businessyee.com/article/6691-trump-tariff-Inflation-2026
 
-美通過支持穩定幣三法！什麼是穩定幣？對金融市場有哪些影響？
-https://www.businessyee.com/article/6682-stablecoin-GENIUS-act
+雲端大單！Google、ServiceNow簽5年12億鎂合約，與AWS、Azure爭搶企業客戶
+https://www.businessyee.com/article/6690-google-servicenow-cloud
 
-【SK海力士Q2財報】HBM需求旺盛助攻，獲利飆漲近7成、營收刷新紀錄！
-https://www.businessyee.com/article/6681-sk-hynix-second-quarter-earnings
+流入中國？金融時報：黑市NVIDIA B200晶片猖獗，如「海鮮市場」
+https://www.businessyee.com/article/6689-financial-times-nvidia-b200-china
 
-「台新新光金」新股上市躍第四大金控，總座林維俊：繼續努力往前衝
-https://www.businessyee.com/article/6680-tai-shin-shinkong-merge-firstday
+對等關稅｜美半導體關稅揭曉倒數！專家：對台先進製程影響有限、成熟製程壓力大
+https://www.businessyee.com/article/6688-us-taiwan-semiconductor-tariff
 
-【Alphabet Q2財報】營收獲利均超乎預期、大手筆追加AI資本支出
-https://www.businessyee.com/article/6678-alphabet-google-q2-earnings
+NVIDIA高階晶片新朝代：今年Blackwell GPU出貨比重上看8成
+https://www.businessyee.com/article/6687-nvidia-blackwell-gpu
 
-真正的職場高手做事不只憑經驗，腦中隨時記住3個數字
-https://www.businessyee.com/article/6646-numerical-ability
+【Intel Q2 財報】營收優於預期、大砍晶圓代工支出！陳立武：「不再無限撒錢」
+https://www.businessyee.com/article/6686-intel-q2-2025-earnings
 
-蘇姿丰：美國代工貴兩成！台積電亞利桑那廠成本曝光
-https://www.businessyee.com/article/6679-amd-lisa-su-tsmc
+Sony到手KADOKAWA、再染指日本最強IP鋼彈？斥資680億日圓取得萬代南夢宮2.5%股權
+https://www.businessyee.com/article/6685-sony-bandai-namco-kadokawa
 
-【特斯拉 Q2 財報】連兩季營收衰退！汽車銷量不振、robotaxi與人型機器人無亮點，盤後下滑近5%
-https://www.businessyee.com/article/6677-tesla-earnings-q2
+台新新光金9月揭完整財報，董座吳東亮談父親感性落淚
+https://www.businessyee.com/article/6684-tai-shin-shin-start
 
-【聽進理投】如果戰爭真的發生，我的金融韌性是否能挺過危機？
-https://www.businessyee.com/article/6676-ep135
+【版主有話說】黑川開拓團與戰時性暴力
+https://changyuchieh.com/2025/07/25/kurokawa-kaitakudan/?utm_source=rss&utm_medium=rss&utm_campaign=kurokawa-kaitakudan
 
-九壽險釋出責任準備金2687億，有意釋出年底前仍可申請
-https://www.businessyee.com/article/6675-insurance-annual-report
+Java Weekly, Issue 604
+https://feeds.feedblitz.com/~/922132757/0/baeldung~Java-Weekly-Issue
 
-You Can Now Disable All AI Features in Zed
-https://zed.dev/blog/disable-ai-features
+Renting is for Suckers
+https://andrewkelley.me/post/renting-is-for-suckers.html
 
-font-size-adjust Is Useful
-https://matklad.github.io/2025/07/16/font-size-adjust.html
+Wayback 0.1 released
+https://wayback.freedesktop.org/news/2025/07/23/wayback-0.1-released/
 
-Developing our position on AI
-https://www.recurse.com/blog/191-developing-our-position-on-ai
+Racket as a first language
+https://felleisen.org/matthias/Thoughts/py.html
 
-Migrating a ZFS pool from RAIDZ1 to RAIDZ2
-https://mtlynch.io/raidz1-to-raidz2/
+There is no memory safety without thread safety
+https://www.ralfj.de/blog/2025/07/24/memory-safety.html
 
-systemd 258-rc1 Is A Massive Feature Release With New Tools, More Than 260 Changes
-https://www.phoronix.com/news/systemd-258-rc1
+New Aarch64 Backend
+https://ziglang.org/devlog/2025/#2025-07-23
 
-The Promised LAN
-https://tpl.house/
+PSA: SQLite WAL checksums fail silently and may lose data
+https://avi.im/blag/2025/sqlite-wal-checksum/
 
-How we discovered, and recovered from, Postgres corruption on the matrix.org homeserver
-https://matrix.org/blog/2025/07/postgres-corruption-postmortem/
+Use Your Type System
+https://www.dzombak.com/blog/2025/07/use-your-type-system/
 
-The Death Of Industrial Design And The Era Of Dull Electronics
-https://hackaday.com/2025/07/23/the-death-of-industrial-design-and-the-era-of-dull-electronics/
+A valid HTML zip bomb
+https://ache.one/notes/html_zip_bomb
 
-Superfunctions: solve the "color" problem of Python
-https://github.com/pomponchik/transfunctions
+Three HTTP versions later, forms are still a mess
+https://yorickpeterse.com/articles/three-http-versions-later-forms-are-still-a-mess/
 
-20 years of Linux on the Desktop (part 4)
-https://ploum.net/2025-07-23-linux_desktop4.html
+Relational Thinking in J
+https://storytotell.org/relational-thinking-in-j
 
-Branch Coverage Won't Prove The Collatz Conjecture
-https://concerningquality.com/collatz-conjecture/
+Fallout's Memory Model
+https://youtube.com/watch?v=6kB_fko6SIg
 
-Computational Tyranny
-https://happyfellow.bearblog.dev/computational-tyranny/
+When Is WebAssembly Going to Get DOM Support? Or, how I learned to stop worrying and love glue code
+https://queue.acm.org/detail.cfm?id=3746174
 
-JNJ: J iN Janet
-https://sr.ht/~subsetpark/JNJ/
+A WebTransport implementation in C
+https://github.com/andrewmd5/libwtf
 
-Kernel
-https://web.cs.wpi.edu/%7Ejshutt/kernel.html#:%7E:text=On%20the%20theoretical%20side%2C%20the,also:%20My%20Academic%20Work%20page
+That time I wasted weeks hand optimizing assembly because I benchmarked on random data
+https://www.vidarholen.net/contents/blog/?p=1160
 
-Vintage Macintosh Programming Book Library
-https://vintageapple.org/macprogramming/index_year.html
+Programming Vehicles in Games
+https://www.youtube.com/watch?v=MrIAw980iYg
 
-Implementing dynamic scope for Fennel and Lua
-https://andreyor.st/posts/2025-06-09-implementing-dynamic-scope-for-fennel-and-lua/
+vet a command-line tool that acts as a safety net for the risky curl | bash pattern
+https://github.com/vet-run/vet
 
-How much do you spend on AI-assisted tools?
-https://lobste.rs/s/jcfozl/how_much_do_you_spend_on_ai_assisted_tools
+Celebrating 20 years of MDN
+https://developer.mozilla.org/en-US/blog/mdn-turns-20/
 
-NPM 'accidentally' removes Stylus package, breaks builds and pipelines
-https://www.bleepingcomputer.com/news/security/npm-accidentally-removes-stylus-package-breaks-builds-and-pipelines/
+The FastLanes File Format
+https://github.com/cwida/FastLanes/blob/dev/docs/specification.pdf
 
-Using Radicle CI for Development
-https://radicle.xyz/2025/07/23/using-radicle-ci-for-development
+Jitsi privacy flaw that enables one-click stealth audio and video capture
+https://zimzi.substack.com/p/jitsi-privacy-flaw-that-enables-one
 
-TrackWeight: Use your Mac trackpad as a weighing scale
-https://github.com/KrishKrosh/TrackWeight
+🐢 UN court declares healthy environment a human right + 7 more stories
+https://newsletter.newsminimalist.com/p/un-court-declares-healthy-environment-a-human-right-7-more-stories
 
-ç©ºç½åå¹´
-https://wiwi.blog/blog/social-media-lost-decade
+Blog è®å»¢æç¾å½¢
+https://wiwi.blog/blog/social-vs-blog-content
