@@ -16,7 +16,7 @@ def get_response(url):
 	try:
 		with requests.get(url, headers=headers, timeout = 30) as resp:
 			if resp.status_code == 200:
-				return resp.text
+				return resp.content.decode('utf-8')
 	except:
 		pass
 	return "fail"
