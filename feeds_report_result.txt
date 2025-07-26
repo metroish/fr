@@ -1,25 +1,19 @@
-# 2025-07-25 09:22:46 Feeds Report 
+# 2025-07-26 09:18:20 Feeds Report 
 
-Daily Hacker News for 2025-07-24
-https://www.daemonology.net/hn-daily/2025-07-24.html
+Daily Hacker News for 2025-07-25
+https://www.daemonology.net/hn-daily/2025-07-25.html
 
-皮尤研究顯示，Google AI Overviews降低用戶點擊率
-https://www.ithome.com.tw/news/170268
+英國的電信業者與 Starlink 同一天出現 outage
+https://blog.gslin.org/archives/2025/07/26/12526/%e8%8b%b1%e5%9c%8b%e7%9a%84%e9%9b%bb%e4%bf%a1%e6%a5%ad%e8%80%85%e8%88%87-starlink-%e5%90%8c%e4%b8%80%e5%a4%a9%e5%87%ba%e7%8f%be-outage/
 
-【資安日報】7月25日，SharePoint零時差漏洞災情浮現，恐成為全球危機
-https://www.ithome.com.tw/news/170267
+好用的 Chrome/Edge 內建 JavaScript 程式片段收藏箱 - Snippets
+https://blog.darkthread.net/blog/chromium-snippets/
 
-中國駭客Storm-2603從事SharePoint零時差漏洞攻擊，意圖散布勒索軟體Warlock
-https://www.ithome.com.tw/news/170266
+Check Point翻新防火牆硬體機型，效能至少提升1倍
+https://www.ithome.com.tw/review/170183
 
-Google釋出OSS Rebuild確保開源套件安全
-https://www.ithome.com.tw/news/170265
-
-Direct to Cell衛星通訊服務T-Satellite上線，Starlink全球服務中斷2.5小時
-https://www.ithome.com.tw/news/170264
-
-英特爾Q2財報持平，放棄歐洲製造專案
-https://www.ithome.com.tw/news/170263
+DevOps快報第5期：AI開發工具Kiro和Duo開放試用，Line母公司大秀AI開發成效，創用CC新專案與AI有關
+https://www.ithome.com.tw/news/170269
 
 熱門NPM套件遭到挾持，駭客上架新套件散布惡意程式，起因是維護者遭網釣導致Token外流
 https://www.ithome.com.tw/news/170262
@@ -30,155 +24,68 @@ https://www.ithome.com.tw/news/170260
 AI應用的反思
 https://www.ithome.com.tw/voice/170259
 
-七年分階段打下創新基礎，一銀要靠GAI蛻變科技金融
-https://www.ithome.com.tw/people/170254
+共筆維護試算表、地圖自動更新 - 大尺寸版
+https://newtoypia.blogspot.com/2025/07/big-gsheet-umap.html
 
-Docker、電商平臺Magento遭到鎖定，駭客運用多種隱密的手法挖礦、架設代理伺服器
-https://www.ithome.com.tw/news/170240
+【好險有聽】《找出生活中的灰犀牛》導讀（下）：你的風險指紋會說話
+https://www.businessyee.com/article/6693-ep40
 
-Alphabet財報出爐，AI發威，Gemini每月用戶超越4.5億人
-https://www.ithome.com.tw/news/170239
+五条老師也抽不到！從企業信任出發，Switch 2 抽選制度背後的文化密碼
+https://www.businessyee.com/article/6692-nintendo-switch-2-nakamura-yuichi
 
-首度發現UI Automation遭濫用！Coyote惡意軟體瞄準民眾金融帳密下手
-https://www.ithome.com.tw/news/170237
+Lobsters Interview with Technomancy
+https://lobste.rs/s/terwiu/lobsters_interview_with_technomancy
 
-Sophos修補防火牆軟體RCE、指令注入漏洞
-https://www.ithome.com.tw/news/170236
+Efficient Computer's Electron E1 CPU - claims 100x more efficient than ARM
+https://morethanmoore.substack.com/p/efficient-computers-electron-e1-cpu
 
-日本首例：以最高時速 60 公里為電動車進行 10kW 無線連續供電
-https://www.inside.com.tw/article/39069-japan-achieves-first-10kw-wireless-ev-charging-at-60-km-h
+Using fortune to reinforce habits
+https://www.judy.co.uk/blog/using-fortune-to-reinforce-habits/
 
-Google 推出 AI 試穿功能！只要上傳一張照片，就能試任何服飾產品
-https://www.inside.com.tw/article/39067-google-ai-try-on-feature-launch
+The MonTana Mini Computer
+https://mtmc.cs.montana.edu
 
-三菱汽車結束瀋陽車廠合資關係，徹底退出中國市場
-https://www.inside.com.tw/article/39060-mitsubishi-motors-ends-shenyang-joint-venture-and-fully-exits-china-market
+Split Flap
+https://fx.hot.page/split-flap
 
-金融時報：中國黑市交易輝達 B200 晶片 如「海鮮市場」貨源充足
-https://www.inside.com.tw/article/39066-nvidia-ai-chips-smuggled-to-china-after-export-controls%20%20%20%20%20%20%20%20%20%20%E8%A9%A2%E5%95%8F%20ChatGPT
+Rust running on every major GPU platform
+https://rust-gpu.github.io/blog/2025/07/25/rust-on-every-gpu/
 
-Intel 財報後宣布大砍晶圓廠擴建計畫，裁員 15%
-https://www.inside.com.tw/article/39064-intel-slashes-fab-expansion-plans-and-cuts-15-percent-workforce-after-earnings-report
+Bringing a Decade Old Bicycle Navigator Back to Life with Open Source Software (and DOOM)
+https://raymii.org/s/blog/Bringing_a_Decade_Old_Bicycle_Navigator_Back_to_Life_with_Open_Source_Software_and_DOOM.html
 
-一文分析：鴻海在星際之門扮演什麼角色？德州是鴻海「機會之地」嗎？
-https://www.inside.com.tw/article/39065-analysis-foxconn-role-in-stargate-project-is-texas-opportunity-land-for-foxconn
+GNOME Calendar: A New Era of Accessibility Achieved in 90 Days
+https://tesk.page/2025/07/25/gnome-calendar-a-new-era-of-accessibility-achieved-in-90-days/
 
-AI 幫搜尋結果分類整理！Google 推出實驗性功能「Web Guide」
-https://www.inside.com.tw/article/39062-google-launches-web-guide
-
-川普：日本承諾大幅投資換降低關稅　他國可比照辦理
-https://www.inside.com.tw/article/39063-us-japan-signingbonus
-
-2025 消費者搜尋洞察報告觀察搜尋行為  預見消費者需求掌握銷售先機
-https://www.inside.com.tw/article/39048-yahoo
-
-中國爆發「網紅衛生棉致癌」！疑 30 人患甲狀腺癌
-https://www.inside.com.tw/article/39061-china-erupts-over-influencer-promoted-sanitary-pads-linked-to-cancer-30-suspected-thyroid-cases
-
-貴哥的政治辯論戰場
-https://ckhung0.blogspot.com/2025/07/battlefield.html
-
-後安倍時代的來臨？2025年日本參議院選舉的觀察
-https://voicettank.org/20250725-2/
-
-人民正在重建國會──罷免運動是一股什麼樣的力量？
-https://voicettank.org/20250725-1/
-
-巨浪過後的香港對台灣的警示
-https://voicettank.org/20250723-2/
-
-【書摘】《為愛而罷：公民做主，反共不分藍綠！》
-https://voicettank.org/20250725-3/
-
-關稅衝擊延後爆發？美經濟學家：2026 才是通膨真正高峰
-https://www.businessyee.com/article/6691-trump-tariff-Inflation-2026
-
-雲端大單！Google、ServiceNow簽5年12億鎂合約，與AWS、Azure爭搶企業客戶
-https://www.businessyee.com/article/6690-google-servicenow-cloud
-
-流入中國？金融時報：黑市NVIDIA B200晶片猖獗，如「海鮮市場」
-https://www.businessyee.com/article/6689-financial-times-nvidia-b200-china
-
-對等關稅｜美半導體關稅揭曉倒數！專家：對台先進製程影響有限、成熟製程壓力大
-https://www.businessyee.com/article/6688-us-taiwan-semiconductor-tariff
-
-NVIDIA高階晶片新朝代：今年Blackwell GPU出貨比重上看8成
-https://www.businessyee.com/article/6687-nvidia-blackwell-gpu
-
-【Intel Q2 財報】營收優於預期、大砍晶圓代工支出！陳立武：「不再無限撒錢」
-https://www.businessyee.com/article/6686-intel-q2-2025-earnings
-
-Sony到手KADOKAWA、再染指日本最強IP鋼彈？斥資680億日圓取得萬代南夢宮2.5%股權
-https://www.businessyee.com/article/6685-sony-bandai-namco-kadokawa
-
-台新新光金9月揭完整財報，董座吳東亮談父親感性落淚
-https://www.businessyee.com/article/6684-tai-shin-shin-start
-
-【版主有話說】黑川開拓團與戰時性暴力
-https://changyuchieh.com/2025/07/25/kurokawa-kaitakudan/?utm_source=rss&utm_medium=rss&utm_campaign=kurokawa-kaitakudan
-
-Java Weekly, Issue 604
-https://feeds.feedblitz.com/~/922132757/0/baeldung~Java-Weekly-Issue
-
-Renting is for Suckers
-https://andrewkelley.me/post/renting-is-for-suckers.html
-
-Wayback 0.1 released
-https://wayback.freedesktop.org/news/2025/07/23/wayback-0.1-released/
-
-Racket as a first language
-https://felleisen.org/matthias/Thoughts/py.html
-
-There is no memory safety without thread safety
-https://www.ralfj.de/blog/2025/07/24/memory-safety.html
-
-New Aarch64 Backend
-https://ziglang.org/devlog/2025/#2025-07-23
-
-PSA: SQLite WAL checksums fail silently and may lose data
-https://avi.im/blag/2025/sqlite-wal-checksum/
-
-Use Your Type System
-https://www.dzombak.com/blog/2025/07/use-your-type-system/
-
-A valid HTML zip bomb
-https://ache.one/notes/html_zip_bomb
-
-Three HTTP versions later, forms are still a mess
-https://yorickpeterse.com/articles/three-http-versions-later-forms-are-still-a-mess/
-
-Relational Thinking in J
-https://storytotell.org/relational-thinking-in-j
-
-Fallout's Memory Model
-https://youtube.com/watch?v=6kB_fko6SIg
-
-When Is WebAssembly Going to Get DOM Support? Or, how I learned to stop worrying and love glue code
-https://queue.acm.org/detail.cfm?id=3746174
-
-A WebTransport implementation in C
-https://github.com/andrewmd5/libwtf
-
-That time I wasted weeks hand optimizing assembly because I benchmarked on random data
-https://www.vidarholen.net/contents/blog/?p=1160
+It's time for modern CSS to kill the SPA
+https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/
 
 Programming Vehicles in Games
-https://www.youtube.com/watch?v=MrIAw980iYg
+https://wassimulator.com/blog/programming/programming_vehicles_in_games.html
 
-vet a command-line tool that acts as a safety net for the risky curl | bash pattern
-https://github.com/vet-run/vet
+HTTP/1.1 Must Die
+https://http1mustdie.com/
 
-Celebrating 20 years of MDN
-https://developer.mozilla.org/en-US/blog/mdn-turns-20/
+Monotonic and Wall Clock Time in the Go time package
+https://victoriametrics.com/blog/go-time-monotonic-wall-clock/
 
-The FastLanes File Format
-https://github.com/cwida/FastLanes/blob/dev/docs/specification.pdf
+Nullable but not null
+https://efe.me/posts/nullable-but-not-null/
 
-Jitsi privacy flaw that enables one-click stealth audio and video capture
-https://zimzi.substack.com/p/jitsi-privacy-flaw-that-enables-one
+Combinatory Programming
+https://blog.zdsmith.com/posts/combinatory-programming.html
 
-🐢 UN court declares healthy environment a human right + 7 more stories
-https://newsletter.newsminimalist.com/p/un-court-declares-healthy-environment-a-human-right-7-more-stories
+What are you doing this weekend?
+https://lobste.rs/s/nz9afc/what_are_you_doing_this_weekend
 
-Blog è®å»¢æç¾å½¢
-https://wiwi.blog/blog/social-vs-blog-content
+433: How to Make a Font that Says Nothing
+https://untested.sonnet.io/notes/433-how-to-make-a-font-that-says-nothing/
+
+Implementing a Functional Language with Graph Reduction
+https://thma.github.io/posts/2021-12-27-Implementing-a-functional-language-with-Graph-Reduction.html
+
+é±å¯éè£½ï¼å¨å¤©ç´æ­
+https://wiwi.blog/blog/waves-glasses
+
+çºä»éº¼æ Burnoutï¼
+https://wiwi.blog/blog/why-burnout
