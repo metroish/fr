@@ -1,16 +1,40 @@
-# 2025-07-28 09:26:44 Feeds Report 
+# 2025-07-29 09:25:05 Feeds Report 
 
-Daily Hacker News for 2025-07-27
-https://www.daemonology.net/hn-daily/2025-07-27.html
+Daily Hacker News for 2025-07-28
+https://www.daemonology.net/hn-daily/2025-07-28.html
 
-MDN 過了 20 年
-https://blog.gslin.org/archives/2025/07/28/12530/mdn-%e9%81%8e%e4%ba%86-20-%e5%b9%b4/
+Itch.io 也受到金流廠商的壓力下架成人遊戲
+https://blog.gslin.org/archives/2025/07/29/12534/itch-io-%e4%b9%9f%e5%8f%97%e5%88%b0%e9%87%91%e6%b5%81%e5%bb%a0%e5%95%86%e7%9a%84%e5%a3%93%e5%8a%9b%e4%b8%8b%e6%9e%b6%e6%88%90%e4%ba%ba%e9%81%8a%e6%88%b2/
 
-ARM Desktop 的情況
-https://blog.gslin.org/archives/2025/07/28/12529/arm-desktop-%e7%9a%84%e6%83%85%e6%b3%81/
+Tailwind Plus 支援純 JavaScript 的版本
+https://blog.gslin.org/archives/2025/07/29/12533/tailwind-plus-%e6%94%af%e6%8f%b4%e7%b4%94-javascript-%e7%9a%84%e7%89%88%e6%9c%ac/
 
-OpenStreetMap 導入 Vector Tiles
-https://blog.gslin.org/archives/2025/07/28/12528/openstreetmap-%e5%b0%8e%e5%85%a5-vector-tiles/
+用飛機的 ADS-B 資料推估氣象資訊 (風力資訊)
+https://blog.gslin.org/archives/2025/07/29/12532/%e7%94%a8%e9%a3%9b%e6%a9%9f%e7%9a%84-ads-b-%e8%b3%87%e6%96%99%e6%8e%a8%e4%bc%b0%e6%b0%a3%e8%b1%a1%e8%b3%87%e8%a8%8a-%e9%a2%a8%e5%8a%9b%e8%b3%87%e8%a8%8a/
+
+ACME Renewal Information 的設計問題
+https://blog.gslin.org/archives/2025/07/29/12531/acme-renewal-information-%e7%9a%84%e8%a8%ad%e8%a8%88%e5%95%8f%e9%a1%8c/
+
+向AI瀏覽器邁進　Edge測試Copilot模式
+https://www.ithome.com.tw/news/170294
+
+Scattered Spider鎖定VMware vSphere而來，部署勒索軟體並竊取資料
+https://www.ithome.com.tw/news/170293
+
+EssilorLuxottica財報出爐，Ray-Ban Meta眼鏡銷量成長200%
+https://www.ithome.com.tw/news/170292
+
+AI新創Harmonic以Aristotle模型追上OpenAI及Google Gemini，取得數奧金牌
+https://www.ithome.com.tw/news/170291
+
+中國AI新創Z.ai開源GLM‑4.5模型，號稱效能全球第三、開源之最
+https://www.ithome.com.tw/news/170290
+
+率先通過FIPS 140-3安全認證，金士頓新一代加密隨身碟上場
+https://www.ithome.com.tw/review/170272
+
+Anthropic 8月起將對Claude Code重度用戶實施限流措施　號稱影響人數小於5%
+https://www.ithome.com.tw/news/170289
 
 駭客組織Silver Fox針對中文用戶散布Windows惡意程式
 https://www.ithome.com.tw/news/170281
@@ -30,146 +54,110 @@ https://www.ithome.com.tw/news/170271
 SonicWall警告SMA 100系列設備存在重大層級的任意檔案上傳漏洞
 https://www.ithome.com.tw/news/170270
 
-【資安週報】0721~0725，中國駭客鎖定SharePoint Server零時差漏洞發動大規模攻擊
-https://www.ithome.com.tw/news/170277
+飛鳥涼不涼站長 Sam｜行銷心法全拆解：遊戲業經驗超萬用【塞掐 Side Chat】E360
+https://www.inside.com.tw/feature/side-chat/39019-side-chat-e360
 
-OpenAI預告GPT-5即將釋出
-https://www.ithome.com.tw/news/170276
+奧義智慧共同創辦人暨技術長 Birdman 邱銘彰：資安創業兩度成功被併購，這次想挑戰 IPO【塞掐 Side Chat】E362
+https://www.inside.com.tw/feature/side-chat/39071-side-chat-e362
 
-Meta開發用以手勢控制的智慧腕帶裝置
-https://www.ithome.com.tw/news/170275
+中國輸出通縮何時了?
+https://voicettank.org/20250728-2/
 
-祖克柏任命OpenAI關鍵模型共同建置者Shengjia Zhao為MSL科學長
-https://www.ithome.com.tw/news/170274
+七二六第一階段大罷免結果與效應分析
+https://voicettank.org/20270729-1/
 
-美國女子協助北韓IT工作者滲透300家美國企業，判刑逾8年
-https://www.ithome.com.tw/news/170273
+晶圓代工黃金時代！研調：2025總營收年增估近2成，3奈米年增可逾6倍
+https://www.businessyee.com/article/6708-foundry-semiconductor-2025-revenue
 
-最新調查：超過 50% 廣告主已經在用 AI 生成影片了
-https://www.inside.com.tw/article/39088-over-half-of-ad-buyers-are-using-generative-ai-for-video-creation-iab
+Anthropic為何這麼會寫程式？官方親揭Claude表現出色5大原因
+https://www.businessyee.com/article/6706-anthropic-ai-breakthrough-coding-revolution
 
-「媒體末日」Google AI Overviews 到底會降多少流量？最新研究有解答
-https://www.inside.com.tw/article/39086-google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results
+數位服務法再出擊！歐盟點名Temu違法，可能遭罰全球營收6%
+https://www.businessyee.com/article/6707-eu-dsa-temu
 
-中華電信多軌衛星布局再下一城！獨家代理 OneWeb ，華航機上網路全線啟用！
-https://www.inside.com.tw/article/39085-oneweb-cal-cht
+「重塑全球晶片供應鏈」！魏哲家、劉德音獲美半導體界最高獎肯定
+https://www.businessyee.com/article/6705-sia-mark-lu-cc-wei
 
-EVOX《對話式 AI 白皮書》：掌握 AI 商務溝通新趨勢
-https://www.inside.com.tw/article/39059-evoxai
+P&G財報前夕換帥！分析：是接力賽交棒而非大洗牌
+https://www.businessyee.com/article/6704-pg-new-president-and-ceo
 
-美國新創 Skylark 打造「雲端公分級定位」要為自駕與機器人導入鋪路
-https://www.inside.com.tw/article/39080-robots-autonomous-vehicles-positioning-more-accurate
+晶片門再起？特斯拉下單三星AI6晶片，鳴槍台積電2奈米競速戰
+https://www.businessyee.com/article/6703-tesla-tsmc-samsung
 
-AI 幫你找回遺失物！日本公司運用 AI 技術同時解決遺失端與招領端困難
-https://www.inside.com.tw/article/39083-ai-helps-reunite-lost-items-japanese-company-solves-problems-for-both-losers-and-finders
+對等關稅｜貝森特與何立峰領軍再談第3輪！外媒：美中試圖延長關稅停火協議
+https://www.businessyee.com/article/6702-trump-us-china-tariff
 
-重磅！Tesla、三星簽下 165 億美元晶片大單 股價應聲大漲 4%
-https://www.inside.com.tw/article/39084-musk-says-tesla-samsung-electronics-sign-165-billion-chip-supply-deal
+川普關稅政策將出爐！CNN示警：全球經濟將迎來最關鍵的一週
+https://www.businessyee.com/article/6701-us-tariff-economy-trump-fed-earnings
 
-Google 新 vibe-coding 工具「Opal」：輸入指令就能生成 App
-https://www.inside.com.tw/article/39081-google-launches-opal
+Should Jackson’s ObjectMapper be Declared as a Static Field?
+https://feeds.feedblitz.com/~/922350494/0/baeldung
 
-【圖表】iPASS MONEY 將與 LINE Pay 分家，誰會是台灣現今最大電子支付龍頭？
-https://www.inside.com.tw/article/39082-ipass-money-line-pay-split-who-leads-taiwan-e-payment-market
+Understanding Message Delivery with Multiple Partitions
+https://feeds.feedblitz.com/~/922350497/0/baeldung
 
-Meta 挖角 OpenAI 大腦！Shengjia Zhao 領軍超級智慧實驗室，AI 軍備競賽再升溫
-https://www.inside.com.tw/article/39079-openai-meta-shengjiazhao
+How to Use ParameterizedTypeReference in Java
+https://feeds.feedblitz.com/~/922350050/0/baeldung
 
-《以眼淚為食的幻獸》：當演算法獵捕脆友，我們就變身誇誇部隊
-https://voicettank.org/20250728-1/
+Restart a Job on Failure and Continue in Spring Batch
+https://feeds.feedblitz.com/~/922350053/0/baeldung
 
-你買的書不是書？日本出版商「宝島社」Mook附錄經濟學：贈品才是本體！
-https://www.businessyee.com/article/6700-tkj-mook
+No more Erlang manuals
+https://blog.whenhen.com/posts/no-more-erlang-manuals.html
 
-對等關稅｜韓國開獎前夕，傳提供美國造船合作方案換減稅
-https://www.businessyee.com/article/6699-us-korea-tariff-ship-yard
+An AI tool I find useful
+https://notes.billmill.org/blog/2025/07/An_AI_tool_I_find_useful.html
 
-馬斯克證實：三星已簽下特斯拉165億美元晶片大單
-https://www.businessyee.com/article/6698-samsung-tesla-electronics-new-chip-supply
+I designed my own ridiculously fast game streaming video codec
+https://themaister.net/blog/2025/06/16/i-designed-my-own-ridiculously-fast-game-streaming-video-codec-pyrowave/
 
-歐洲新藍海！台灣無人機出口激增 7.49 倍，非紅供應鏈打開新市場
-https://www.businessyee.com/article/6697-taiwan-hexacopter-drone-eu-market
+No moar cookies
+https://paretosecurity.com/blog/no-moar-cookies/
 
-對等關稅｜232結果倒數！美商務部長：2週內公布半導體調查報告
-https://www.businessyee.com/article/6695-us-tariff-semiconductor-section-232
+On designing application UIs for children
+https://shaneosullivan.wordpress.com/2025/07/28/on-designing-for-children/
 
-對等關稅｜歐盟砸上兆美元訂單！美方關稅砍半降至15%
-https://www.businessyee.com/article/6694-trump-us-eu-tariff-15per
+Make Your Own Backup System – Part 2: Forging the FreeBSD Backup Stronghold
+https://it-notes.dragas.net/2025/07/29/make-your-own-backup-system-part-2-forging-the-freebsd-backup-stronghold/
 
-Change Highlight Color in Eclipse
-https://feeds.feedblitz.com/~/922279601/0/baeldung~Change-Highlight-Color-in-Eclipse
+Weather Model based on ADS-B
+https://obrhubr.org/adsb-weather-model
 
-How to Avoid Busy-Waiting in Java
-https://feeds.feedblitz.com/~/922279604/0/baeldung~How-to-Avoid-BusyWaiting-in-Java
+Following up on the Python JIT
+https://lwn.net/Articles/1029307/
 
-Introduction to Smithy
-https://feeds.feedblitz.com/~/922279607/0/baeldung~Introduction-to-Smithy
+Linux 6.16 changelog
+https://kernelnewbies.org/Linux_6.16
 
-EU age verification app to ban any Android system not licensed by Google
-https://www.reddit.com/r/degoogle/comments/1mau7yl/eu_age_verification_app_to_ban_any_android_system/
+Bevy in Production: Building Modeling at Metabuild
+https://www.youtube.com/watch?v=16r9plbAhXo
 
-TIL: Exception.add_note
-https://daniel.feldroy.com/posts/til-2025-05-exception-add_note
+From XML to JSON to CBOR
+https://cborbook.com/introduction/from_xml_to_json_to_cbor.html
 
-The JJ VCS Workshop: A Zero-to-Hero Speedrun
-https://github.com/jkoppel/jj-workshop
+What are you doing this week?
+https://lobste.rs/s/2ftfd1/what_are_you_doing_this_week
 
-Enough AI copilots! We need AI HUDs
-https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds
+Giving Benchmarks a Boat
+https://buttondown.com/jaffray/archive/giving-benchmarks-a-boat/
 
-[trane]
-https://lisp.trane.studio/?tutor
+Contraction Hierarchies: HMC Clinic Project Recap
+https://blog.appliedcomputing.io/p/contraction-hierarchies-hmc-clinic
 
-Revontuli Colorscheme Collection
-https://codeberg.org/akselmo/Revontuli
+Tandy Color Computer 1 composite video
+https://www.leadedsolder.com/2025/07/15/tandy-trs80-coco-composite-mod-aquarius.html
 
-How I hacked my washing machine
-https://nexy.blog/2025/07/27/how-i-hacked-my-washing-machine/
+Testing the GCC-based Rust compiler(backend)
+https://fractalfir.github.io/generated_html/cg_gcc_bootstrap_2.html
 
-Programming Languages: Application and Interpretation (3rd edition)
-https://www.plai.org
+Identity and behaviour
+https://ismaelcelis.com/posts/2025-07-identity-and-behaviour/
 
-multiplex: Command-line process mutliplexer
-https://github.com/sebastien/multiplex
+Jeopardy! world
+https://hauleth.dev/post/jeopardy-world/
 
-copyparty: portable file server with resumable uploads, dedup, WebDAV, and more
-https://github.com/9001/copyparty
+WiwiStudio 音樂能力測驗
+https://wiwi.blog/blog/wiwistudio-musictest
 
-The many JavaScript runtimes of the last decade
-https://buttondown.com/whatever_jamie/archive/the-many-many-many-javascript-runtimes-of-the-last-decade/
-
-LLVM integrated assembler: Engineering better fragments
-https://maskray.me/blog/2025-07-27-llvm-integrated-assembler-engineering-better-fragments
-
-The ultimate meeting culture
-https://abitmighty.com/posts/the-ultimate-meeting-culture
-
-Yalep - Micro language based on Lean for teaching mathematical high-school proofs
-https://gricad-gitlab.univ-grenoble-alpes.fr/yalep/Yalep
-
-The Bard and The Shell
-https://journal.bsd.cafe/2025/07/28/the-bard-and-the-shell/
-
-Designing a flatpack bed
-https://kevinlynagh.com/newsletter/2025_07_flatpack/
-
-Formal specs as sets of behaviors
-https://surfingcomplexity.blog/2025/07/26/formal-specs-as-sets-of-behaviors/
-
-Dynamic Phase Alignment in Audio
-https://www.youtube.com/watch?v=JNCVj_RtdZw
-
-printSim: a command-line python program that turns gcode into realistic 3d printer sound
-https://github.com/dannyboy1996/printSim
-
-Bringing together Clazy and Clang-Tidy
-https://alex1701c.github.io/2025/07/27/clazy-clangtidy.html
-
-LLMs are bad at returning code in JSON
-https://aider.chat/2024/08/14/code-in-json.html
-
-Certificate Transparency - Part 1
-https://ipng.ch/s/articles/2025/07/26/certificate-transparency-part-1/
-
-不要擋住我
-https://wiwi.blog/blog/dont-block-my-video
+挖出了更多舊貼文
+https://wiwi.blog/blog/more-old-blog-posts
