@@ -1,34 +1,46 @@
-# 2025-07-29 09:25:05 Feeds Report 
+# 2025-07-30 09:26:31 Feeds Report 
 
-Daily Hacker News for 2025-07-28
-https://www.daemonology.net/hn-daily/2025-07-28.html
+Daily Hacker News for 2025-07-29
+https://www.daemonology.net/hn-daily/2025-07-29.html
 
-Itch.io 也受到金流廠商的壓力下架成人遊戲
-https://blog.gslin.org/archives/2025/07/29/12534/itch-io-%e4%b9%9f%e5%8f%97%e5%88%b0%e9%87%91%e6%b5%81%e5%bb%a0%e5%95%86%e7%9a%84%e5%a3%93%e5%8a%9b%e4%b8%8b%e6%9e%b6%e6%88%90%e4%ba%ba%e9%81%8a%e6%88%b2/
+Debian 預定在 13 版 (trixie) 全面將 time_t 從 32-bit integer 換為 64-bit integer
+https://blog.gslin.org/archives/2025/07/30/12538/debian-%e9%a0%90%e5%ae%9a%e5%9c%a8-13-%e7%89%88-trixie-%e5%85%a8%e9%9d%a2%e5%b0%87-time_t-%e5%be%9e-32-bit-integer-%e6%8f%9b%e7%82%ba-64-bit-integer/
 
-Tailwind Plus 支援純 JavaScript 的版本
-https://blog.gslin.org/archives/2025/07/29/12533/tailwind-plus-%e6%94%af%e6%8f%b4%e7%b4%94-javascript-%e7%9a%84%e7%89%88%e6%9c%ac/
+PyroWave：自幹的超高速 codec
+https://blog.gslin.org/archives/2025/07/30/12536/pyrowave%ef%bc%9a%e8%87%aa%e5%b9%b9%e7%9a%84%e8%b6%85%e9%ab%98%e9%80%9f-codec/
 
-用飛機的 ADS-B 資料推估氣象資訊 (風力資訊)
-https://blog.gslin.org/archives/2025/07/29/12532/%e7%94%a8%e9%a3%9b%e6%a9%9f%e7%9a%84-ads-b-%e8%b3%87%e6%96%99%e6%8e%a8%e4%bc%b0%e6%b0%a3%e8%b1%a1%e8%b3%87%e8%a8%8a-%e9%a2%a8%e5%8a%9b%e8%b3%87%e8%a8%8a/
+Claude Code 要更嚴格的限流了
+https://blog.gslin.org/archives/2025/07/29/12535/claude-code-%e8%a6%81%e6%9b%b4%e5%9a%b4%e6%a0%bc%e7%9a%84%e9%99%90%e6%b5%81%e4%ba%86/
 
-ACME Renewal Information 的設計問題
-https://blog.gslin.org/archives/2025/07/29/12531/acme-renewal-information-%e7%9a%84%e8%a8%ad%e8%a8%88%e5%95%8f%e9%a1%8c/
+在瀏覽器裡跑 SQL 引擎 - SQLite WASM
+https://blog.darkthread.net/blog/sqlite-wasm/
 
-向AI瀏覽器邁進　Edge測試Copilot模式
-https://www.ithome.com.tw/news/170294
+研究人員揭露Gemini CLI漏洞，可竊取開發人員機密資訊
+https://www.ithome.com.tw/news/170322
 
-Scattered Spider鎖定VMware vSphere而來，部署勒索軟體並竊取資料
-https://www.ithome.com.tw/news/170293
+俄羅斯航空公司遭駭 近百航班受影響
+https://www.ithome.com.tw/news/170321
 
-EssilorLuxottica財報出爐，Ray-Ban Meta眼鏡銷量成長200%
-https://www.ithome.com.tw/news/170292
+YouTube開始於美國嵌入青少年保護機制
+https://www.ithome.com.tw/news/170319
 
-AI新創Harmonic以Aristotle模型追上OpenAI及Google Gemini，取得數奧金牌
-https://www.ithome.com.tw/news/170291
+SAP Netweaver滿分漏洞遭到利用，駭客企圖散布惡意程式Auto-Color
+https://www.ithome.com.tw/news/170318
 
-中國AI新創Z.ai開源GLM‑4.5模型，號稱效能全球第三、開源之最
-https://www.ithome.com.tw/news/170290
+法國電信公司Orange網攻事件引發部分企業及消費者服務系統斷線數天
+https://www.ithome.com.tw/news/170317
+
+法國國防業者Naval Group傳出遭駭，攻擊者竊得1 TB內部資料
+https://www.ithome.com.tw/news/170316
+
+OpenAI發表ChatGPT學習模式
+https://www.ithome.com.tw/news/170315
+
+Google NotebookLM正式推出Video Overviews
+https://www.ithome.com.tw/news/170313
+
+因應遭到網路攻擊，明尼蘇達州動員美國國民兵部隊
+https://www.ithome.com.tw/news/170312
 
 率先通過FIPS 140-3安全認證，金士頓新一代加密隨身碟上場
 https://www.ithome.com.tw/review/170272
@@ -36,128 +48,137 @@ https://www.ithome.com.tw/review/170272
 Anthropic 8月起將對Claude Code重度用戶實施限流措施　號稱影響人數小於5%
 https://www.ithome.com.tw/news/170289
 
-駭客組織Silver Fox針對中文用戶散布Windows惡意程式
-https://www.ithome.com.tw/news/170281
+日產宣布 2026 年前關閉墨西哥 Civac 工廠！持續推進全球重組計畫
+https://www.inside.com.tw/article/39110-nissan-to-close-mexico-civac-plant-by-2026-as-part-of-global-restructuring-plan
 
-【資安日報】7月28日，勒索軟體ShinyHunters傳出對保險公司安聯人壽發動攻擊
-https://www.ithome.com.tw/news/170280
+東元暫停交易傳將攜鴻海結盟，今下午揭曉
+https://www.inside.com.tw/article/39109-teco-halts-trading-amid-rumors-of-alliance-with-foxconn-announcement-expected-this-afternoon
 
-為保護用戶隱私，Brave加入封鎖Windows 11 Recall功能的行列
-https://www.ithome.com.tw/news/170279
+2027 年超過 40% Agentic AI 專案會失敗！企業成功關鍵在哪？AWS：就像是在做鳳梨酥
+https://www.inside.com.tw/article/39108-aws-summit-taipei-agentic-ai
 
-安聯人壽美國分公司傳出遭勒索軟體ShinyHunters攻擊，140萬人個資恐外洩
-https://www.ithome.com.tw/news/170278
+Apple 一個月流失四名 AI 研究員！Meta 人才爭奪戰白熱化
+https://www.inside.com.tw/article/39103-apple-ai
 
-Mitel整合式通訊系統MX-ONE存在重大漏洞，恐被用於繞過身分驗證
-https://www.ithome.com.tw/news/170271
+三場活動接力登場，台灣金融科技區塊鏈盛會 9 月展開
+https://www.inside.com.tw/article/39105-three-events-in-succession-taiwan-fintech-blockchain-festival-begins-in-september
 
-SonicWall警告SMA 100系列設備存在重大層級的任意檔案上傳漏洞
-https://www.ithome.com.tw/news/170270
+OpenAI 祭出 ChatGPT「學習模式」！但教育界買單嗎？
+https://www.inside.com.tw/article/39104-studymode-socraticmethod-criticalthinking
 
-飛鳥涼不涼站長 Sam｜行銷心法全拆解：遊戲業經驗超萬用【塞掐 Side Chat】E360
-https://www.inside.com.tw/feature/side-chat/39019-side-chat-e360
+用藻類造飛機、做賽車？德國科學家以藻類打造永續碳纖維
+https://www.inside.com.tw/article/39101-algae-carbon-fiber-airbus-test
 
-奧義智慧共同創辦人暨技術長 Birdman 邱銘彰：資安創業兩度成功被併購，這次想挑戰 IPO【塞掐 Side Chat】E362
-https://www.inside.com.tw/feature/side-chat/39071-side-chat-e362
+Google 再升級 NotebookLM 推出「Video Overviews」，可直接生成簡報動畫
+https://www.inside.com.tw/article/39102-google-notebooklm-video-overview
 
-中國輸出通縮何時了?
-https://voicettank.org/20250728-2/
+星鏈成詐騙新工具！美國議員：馬斯克請幫忙阻止東南亞犯罪
+https://www.inside.com.tw/article/39100-starlink-used-as-scamming-network
 
-七二六第一階段大罷免結果與效應分析
+下一代 AI 平台的氣勢？雷朋 Meta 智慧眼鏡銷量翻三倍
+https://www.inside.com.tw/article/39099-ray-ban-meta-sales-triple-as-glasses-become-next-computing-platform
+
+七二六大罷免結果與效應分析
 https://voicettank.org/20270729-1/
 
-晶圓代工黃金時代！研調：2025總營收年增估近2成，3奈米年增可逾6倍
-https://www.businessyee.com/article/6708-foundry-semiconductor-2025-revenue
+美菲海岸防衛隊加入海軍演訓之研析
+https://voicettank.org/20250729-2/
 
-Anthropic為何這麼會寫程式？官方親揭Claude表現出色5大原因
-https://www.businessyee.com/article/6706-anthropic-ai-breakthrough-coding-revolution
+可以失望悲傷，但不能停止前行
+https://voicettank.org/20250730-1/
 
-數位服務法再出擊！歐盟點名Temu違法，可能遭罰全球營收6%
-https://www.businessyee.com/article/6707-eu-dsa-temu
+Nissan再傳關廠！今年內結束首座海外基地，衝擊Q1虧損劇烈
+https://www.businessyee.com/article/6718-nissan-earnings-2025-q1
 
-「重塑全球晶片供應鏈」！魏哲家、劉德音獲美半導體界最高獎肯定
-https://www.businessyee.com/article/6705-sia-mark-lu-cc-wei
+國外掀「7月不買挑戰」，理財顧問：要達成可靠這４招
+https://www.businessyee.com/article/6717-4-reasons-no-buy-July
 
-P&G財報前夕換帥！分析：是接力賽交棒而非大洗牌
-https://www.businessyee.com/article/6704-pg-new-president-and-ceo
+232調查結果將出爐，經部：半導體對美出口僅占 4%，影響有限
+https://www.businessyee.com/article/6716-us-tariff-semiconductor-section-232
 
-晶片門再起？特斯拉下單三星AI6晶片，鳴槍台積電2奈米競速戰
-https://www.businessyee.com/article/6703-tesla-tsmc-samsung
+【星巴克 Q3 財報】營收超乎預期、執行長稱轉型進度超前，盤後樂漲4%
+https://www.businessyee.com/article/6715-starbucks-sbux-q3-2025-earnings
 
-對等關稅｜貝森特與何立峰領軍再談第3輪！外媒：美中試圖延長關稅停火協議
-https://www.businessyee.com/article/6702-trump-us-china-tariff
+AI軍工龍頭Palantir首度來台！與AWS攜手，喊話「台灣製造」搶AI自動化先機
+https://www.businessyee.com/article/6714-palantir-aws-taiwan
 
-川普關稅政策將出爐！CNN示警：全球經濟將迎來最關鍵的一週
-https://www.businessyee.com/article/6701-us-tariff-economy-trump-fed-earnings
+PayPal Q2獲利超預期，交易利潤成長放緩，股價大跌8%
+https://www.businessyee.com/article/6713-paypal-2025-q2-result
 
-Should Jackson’s ObjectMapper be Declared as a Static Field?
-https://feeds.feedblitz.com/~/922350494/0/baeldung
+Visa獲利優於預期，全年展望保守，股價下跌近2%
+https://www.businessyee.com/article/6712-visa-2025-q3-result
 
-Understanding Message Delivery with Multiple Partitions
-https://feeds.feedblitz.com/~/922350497/0/baeldung
+對等關稅｜中美未達重大突破？中方：雙方同意延長休戰
+https://www.businessyee.com/article/6711-trump-us-china-tariff
 
-How to Use ParameterizedTypeReference in Java
-https://feeds.feedblitz.com/~/922350050/0/baeldung
+【波音Q2財報】營收優於預期、虧損收斂！新執行長上任一年，能帶領飛機巨頭走出泥淖？
+https://www.businessyee.com/article/6710-boeing-earnings-2025-q2
 
-Restart a Job on Failure and Continue in Spring Batch
-https://feeds.feedblitz.com/~/922350053/0/baeldung
+【Spotify Q2 財報】營收不如預期、財測疲弱，盤前股價慘跌5%
+https://www.businessyee.com/article/6709-spotify-spot-stock-q2-2025-earnings
 
-No more Erlang manuals
-https://blog.whenhen.com/posts/no-more-erlang-manuals.html
+Printing a Book at Home with Minimal Equipment
+https://huijzer.xyz/posts/98/printing-a-book-at-home-with-minimal-equipment
 
-An AI tool I find useful
-https://notes.billmill.org/blog/2025/07/An_AI_tool_I_find_useful.html
+I want to defend Wayland here and explain a crucial piece that I think people are missing
+https://ordinary.cafe/@technobaboo/114935252929285259
 
-I designed my own ridiculously fast game streaming video codec
-https://themaister.net/blog/2025/06/16/i-designed-my-own-ridiculously-fast-game-streaming-video-codec-pyrowave/
+Ethersync: Peer-to-peer collaborative editing of local text files
+https://github.com/ethersync/ethersync
 
-No moar cookies
-https://paretosecurity.com/blog/no-moar-cookies/
+2025 Stack Overflow Developer Survey
+https://survey.stackoverflow.co/2025/
 
-On designing application UIs for children
-https://shaneosullivan.wordpress.com/2025/07/28/on-designing-for-children/
+A pretty nice web framework
+https://github.com/blaix/prettynice
 
-Make Your Own Backup System – Part 2: Forging the FreeBSD Backup Stronghold
-https://it-notes.dragas.net/2025/07/29/make-your-own-backup-system-part-2-forging-the-freebsd-backup-stronghold/
+I'm never going back to Matrix
+https://shkspr.mobi/blog/2025/07/im-never-going-back-to-matrix/
 
-Weather Model based on ADS-B
-https://obrhubr.org/adsb-weather-model
+PKGBASE Removes FreeBSD Base System Feature
+https://lists.freebsd.org/archives/freebsd-pkgbase/2025-July/000590.html
 
-Following up on the Python JIT
-https://lwn.net/Articles/1029307/
+Flat design vs realistic (“skeuomorphic”) design
+https://www.flatisbad.com/
 
-Linux 6.16 changelog
-https://kernelnewbies.org/Linux_6.16
+bookmarkfs: FUSE-based pseudo-filesystem for managing web browser bookmarks
+https://sr.ht/~cismonx/bookmarkfs/
 
-Bevy in Production: Building Modeling at Metabuild
-https://www.youtube.com/watch?v=16r9plbAhXo
+A month using XMPP for every call and chat (2023)
+https://neilzone.co.uk/2023/08/a-month-using-xmpp-using-snikket-for-every-call-and-chat/
 
-From XML to JSON to CBOR
-https://cborbook.com/introduction/from_xml_to_json_to_cbor.html
+Nadim Kobeissi's Applied Cryptography Course
+https://www.youtube.com/watch?v=z6kK7rIbyB0
 
-What are you doing this week?
-https://lobste.rs/s/2ftfd1/what_are_you_doing_this_week
+KernelScript: DSL for eBPF-Centric Development
+https://github.com/multikernel/kernelscript
 
-Giving Benchmarks a Boat
-https://buttondown.com/jaffray/archive/giving-benchmarks-a-boat/
+Typechecking Is Undecidable When 'Type' Is a Type (1989)
+https://dspace.mit.edu/bitstream/handle/1721.1/149366/MIT-LCS-TR-458.pdf?sequence=6
 
-Contraction Hierarchies: HMC Clinic Project Recap
-https://blog.appliedcomputing.io/p/contraction-hierarchies-hmc-clinic
+rules_derive: deriving using macro_rules
+https://matx.com/research/rules_derive
 
-Tandy Color Computer 1 composite video
-https://www.leadedsolder.com/2025/07/15/tandy-trs80-coco-composite-mod-aquarius.html
+Raspberry Pi RP2350 A4 stepping fixes E9 GPIO Erratum, glitching bugs, introduces 2MB flash variants
+https://www.cnx-software.com/2025/07/29/raspberry-pi-rp2350-a4-stepping-fixes-e9-gpio-erratum-9-glitching-bugs-introduces-2mb-flash-variants/
 
-Testing the GCC-based Rust compiler(backend)
-https://fractalfir.github.io/generated_html/cg_gcc_bootstrap_2.html
+Artificial Intelligence and the Linux Community
+https://blogs.gnome.org/uraeus/2025/07/29/artificial-intelligence-and-the-linux-community/
 
-Identity and behaviour
-https://ismaelcelis.com/posts/2025-07-identity-and-behaviour/
+PHP-ORT: Machine Learning Inference for the Web
+https://krakjoe.github.io/ort/
 
-Jeopardy! world
-https://hauleth.dev/post/jeopardy-world/
+The Useless useCallback
+https://tkdodo.eu/blog/the-useless-use-callback
 
-WiwiStudio 音樂能力測驗
-https://wiwi.blog/blog/wiwistudio-musictest
+This Was Not Really Quite Simple: Building a Redstone Calculator in Minecraft
+https://www.youtube.com/watch?v=lebdqAN1pd8
 
-挖出了更多舊貼文
-https://wiwi.blog/blog/more-old-blog-posts
+Loading credentials from Bitwarden with direnv
+https://ergaster.org/posts/2025/07/28-direnv-bitwarden-integration/
+
+India overtakes China in U.S. smartphone exports + 7 more stories
+https://newsletter.newsminimalist.com/p/india-overtakes-china-in-u-s-smartphone-exports-7-more-stories
+
+當仙草凍比遊戲還大
+https://wiwi.blog/blog/jelly-bigger-than-games
