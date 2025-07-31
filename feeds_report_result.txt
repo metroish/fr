@@ -1,34 +1,43 @@
-# 2025-07-30 09:26:31 Feeds Report 
+# 2025-07-31 09:25:18 Feeds Report 
 
-Daily Hacker News for 2025-07-29
-https://www.daemonology.net/hn-daily/2025-07-29.html
+Daily Hacker News for 2025-07-30
+https://www.daemonology.net/hn-daily/2025-07-30.html
 
-Debian 預定在 13 版 (trixie) 全面將 time_t 從 32-bit integer 換為 64-bit integer
-https://blog.gslin.org/archives/2025/07/30/12538/debian-%e9%a0%90%e5%ae%9a%e5%9c%a8-13-%e7%89%88-trixie-%e5%85%a8%e9%9d%a2%e5%b0%87-time_t-%e5%be%9e-32-bit-integer-%e6%8f%9b%e7%82%ba-64-bit-integer/
+關於 Anker PowerCore 10000 召回的電腦斷層掃描分析
+https://blog.gslin.org/archives/2025/07/31/12544/%e9%97%9c%e6%96%bc-anker-powercore-10000-%e5%8f%ac%e5%9b%9e%e7%9a%84%e9%9b%bb%e8%85%a6%e6%96%b7%e5%b1%a4%e6%8e%83%e6%8f%8f%e5%88%86%e6%9e%90/
 
-PyroWave：自幹的超高速 codec
-https://blog.gslin.org/archives/2025/07/30/12536/pyrowave%ef%bc%9a%e8%87%aa%e5%b9%b9%e7%9a%84%e8%b6%85%e9%ab%98%e9%80%9f-codec/
+FAIR 0.4.0 支援透過 FAIR Protocol 安裝 Plugin 了
+https://blog.gslin.org/archives/2025/07/31/12543/fair-0-4-0-%e6%94%af%e6%8f%b4%e9%80%8f%e9%81%8e-fair-protocol-%e5%ae%89%e8%a3%9d-plugin-%e4%ba%86/
 
-Claude Code 要更嚴格的限流了
-https://blog.gslin.org/archives/2025/07/29/12535/claude-code-%e8%a6%81%e6%9b%b4%e5%9a%b4%e6%a0%bc%e7%9a%84%e9%99%90%e6%b5%81%e4%ba%86/
+goo.gl 要關閉了 (2025/08/25)
+https://blog.gslin.org/archives/2025/07/30/12542/goo-gl-%e8%a6%81%e9%97%9c%e9%96%89%e4%ba%86-2025-08-25/
 
-在瀏覽器裡跑 SQL 引擎 - SQLite WASM
-https://blog.darkthread.net/blog/sqlite-wasm/
+透過 SVG 的 filter 做到手繪動圖的效果
+https://blog.gslin.org/archives/2025/07/30/12541/%e9%80%8f%e9%81%8e-svg-%e7%9a%84-filter-%e5%81%9a%e5%88%b0%e6%89%8b%e7%b9%aa%e5%8b%95%e5%9c%96%e7%9a%84%e6%95%88%e6%9e%9c/
 
-研究人員揭露Gemini CLI漏洞，可竊取開發人員機密資訊
-https://www.ithome.com.tw/news/170322
+ACM 的 Open Access 進展？
+https://blog.gslin.org/archives/2025/07/30/12540/acm-%e7%9a%84-open-access-%e9%80%b2%e5%b1%95%ef%bc%9f/
 
-俄羅斯航空公司遭駭 近百航班受影響
-https://www.ithome.com.tw/news/170321
+答客問 - SQLite WASM 資料庫如何長期保存？
+https://blog.darkthread.net/blog/sqlite-wasm-persistence/
 
-YouTube開始於美國嵌入青少年保護機制
-https://www.ithome.com.tw/news/170319
+駭客架設冒牌PyPI網站，企圖竊取套件開發者的帳密資料
+https://www.ithome.com.tw/news/170341
 
-SAP Netweaver滿分漏洞遭到利用，駭客企圖散布惡意程式Auto-Color
-https://www.ithome.com.tw/news/170318
+Figma將以每股33美元登上紐約股市
+https://www.ithome.com.tw/news/170336
 
-法國電信公司Orange網攻事件引發部分企業及消費者服務系統斷線數天
-https://www.ithome.com.tw/news/170317
+Meta營收成長22%，祖克柏宣告超級智慧即將到來
+https://www.ithome.com.tw/news/170335
+
+Palo Alto以250億美元收購身份安全產品商CyberArk
+https://www.ithome.com.tw/news/170334
+
+微軟財報出爐，營收成長18%，淨收入飆升近24%
+https://www.ithome.com.tw/news/170332
+
+聯想桌機韌體存在可用以繞過開機防護的漏洞
+https://www.ithome.com.tw/news/170331
 
 法國國防業者Naval Group傳出遭駭，攻擊者竊得1 TB內部資料
 https://www.ithome.com.tw/news/170316
@@ -42,143 +51,101 @@ https://www.ithome.com.tw/news/170313
 因應遭到網路攻擊，明尼蘇達州動員美國國民兵部隊
 https://www.ithome.com.tw/news/170312
 
-率先通過FIPS 140-3安全認證，金士頓新一代加密隨身碟上場
-https://www.ithome.com.tw/review/170272
+替未來做些改變！Social Designer 青年永續社會設計挑戰賽，新北市政府青年局打造公共參與實驗場
+https://www.inside.com.tw/article/39116-Social%20Designer
 
-Anthropic 8月起將對Claude Code重度用戶實施限流措施　號稱影響人數小於5%
-https://www.ithome.com.tw/news/170289
+【書摘】《醬缸裏的欺負鏈：東亞大陸帝國意識形態的起源【上古到近世】》
+https://voicettank.org/20250731-2/
 
-日產宣布 2026 年前關閉墨西哥 Civac 工廠！持續推進全球重組計畫
-https://www.inside.com.tw/article/39110-nissan-to-close-mexico-civac-plant-by-2026-as-part-of-global-restructuring-plan
+大罷免的消耗戰、詮釋權與之後的事
+https://voicettank.org/20250731-1/
 
-東元暫停交易傳將攜鴻海結盟，今下午揭曉
-https://www.inside.com.tw/article/39109-teco-halts-trading-amid-rumors-of-alliance-with-foxconn-announcement-expected-this-afternoon
+三商壽「資本顯著不足」少發債175億，金管會砍董座年薪三成
+https://www.businessyee.com/article/6724-Mercuries-life-insurance-rbc-%20insufficient
 
-2027 年超過 40% Agentic AI 專案會失敗！企業成功關鍵在哪？AWS：就像是在做鳳梨酥
-https://www.inside.com.tw/article/39108-aws-summit-taipei-agentic-ai
+【高通 Q3 財報】蘋果漸行漸遠？AI・汽車晶片強勁、財報優，但高階手機晶片趨弱，股價重挫逾 6％
+https://www.businessyee.com/article/6723-qualcomm-2025-q3-earnings
 
-Apple 一個月流失四名 AI 研究員！Meta 人才爭奪戰白熱化
-https://www.inside.com.tw/article/39103-apple-ai
+【Meta Q2 財報】廣告營收遠超預期！AI投放技術加持，股價飆漲逾10%
+https://www.businessyee.com/article/6722-meta-2025-q2-earnings
 
-三場活動接力登場，台灣金融科技區塊鏈盛會 9 月展開
-https://www.inside.com.tw/article/39105-three-events-in-succession-taiwan-fintech-blockchain-festival-begins-in-september
+遇到問題提解方只是及格，真正的職場高手會多這一步
+https://www.businessyee.com/article/6647-dichotomy
 
-OpenAI 祭出 ChatGPT「學習模式」！但教育界買單嗎？
-https://www.inside.com.tw/article/39104-studymode-socraticmethod-criticalthinking
+Robinhood Q2獲利翻倍超預期，散戶私銀業務今秋推出
+https://www.businessyee.com/article/6721-Robinhood-2025-q2-result
 
-用藻類造飛機、做賽車？德國科學家以藻類打造永續碳纖維
-https://www.inside.com.tw/article/39101-algae-carbon-fiber-airbus-test
+【微軟 2025 Q4 財報】Azure 年收破 750 億美元、AI 投資大加碼！盤後飆漲 9%
+https://www.businessyee.com/article/6720-microsoft-earnings-2025-q4
 
-Google 再升級 NotebookLM 推出「Video Overviews」，可直接生成簡報動畫
-https://www.inside.com.tw/article/39102-google-notebooklm-video-overview
+How to Pass a Variable From One Thread Group to Another in JMeter
+https://feeds.feedblitz.com/~/922429586/0/baeldung~How-to-Pass-a-Variable-From-One-Thread-Group-to-Another-in-JMeter
 
-星鏈成詐騙新工具！美國議員：馬斯克請幫忙阻止東南亞犯罪
-https://www.inside.com.tw/article/39100-starlink-used-as-scamming-network
+Change the Alias of a Key Within a Keystore in Java
+https://feeds.feedblitz.com/~/922428881/0/baeldung~Change-the-Alias-of-a-Key-Within-a-Keystore-in-Java
 
-下一代 AI 平台的氣勢？雷朋 Meta 智慧眼鏡銷量翻三倍
-https://www.inside.com.tw/article/39099-ray-ban-meta-sales-triple-as-glasses-become-next-computing-platform
+A Dive Into Open Chat Protocols
+https://wiki.alopex.li/ADiveIntoOpenChat
 
-七二六大罷免結果與效應分析
-https://voicettank.org/20270729-1/
+I built my blog with C preprocessor macros
+https://wheybags.com/blog/macroblog.html
 
-美菲海岸防衛隊加入海軍演訓之研析
-https://voicettank.org/20250729-2/
+[RFC] Upstream target support for CHERI-enabled architectures
+https://discourse.llvm.org/t/rfc-upstream-target-support-for-cheri-enabled-architectures/87623
 
-可以失望悲傷，但不能停止前行
-https://voicettank.org/20250730-1/
+Writing memory efficient C structs
+https://tomscheers.github.io/2025/07/29/writing-memory-efficient-structs-post.html
 
-Nissan再傳關廠！今年內結束首座海外基地，衝擊Q1虧損劇烈
-https://www.businessyee.com/article/6718-nissan-earnings-2025-q1
+You Are The BIOS Now: Building A Hypervisor In Rust With KVM
+https://yeet.cx/blog/you-are-the-bios-now
 
-國外掀「7月不買挑戰」，理財顧問：要達成可靠這４招
-https://www.businessyee.com/article/6717-4-reasons-no-buy-July
+always bet on text (2014)
+https://graydon2.dreamwidth.org/193447.html
 
-232調查結果將出爐，經部：半導體對美出口僅占 4%，影響有限
-https://www.businessyee.com/article/6716-us-tariff-semiconductor-section-232
+Mounting The Atmosphere
+https://oppi.li/posts/mounting_the_atmosphere/
 
-【星巴克 Q3 財報】營收超乎預期、執行長稱轉型進度超前，盤後樂漲4%
-https://www.businessyee.com/article/6715-starbucks-sbux-q3-2025-earnings
+The Hype is the Product
+https://rys.io/en/180.html
 
-AI軍工龍頭Palantir首度來台！與AWS攜手，喊話「台灣製造」搶AI自動化先機
-https://www.businessyee.com/article/6714-palantir-aws-taiwan
+2000 words about arrays and tables
+https://buttondown.com/hillelwayne/archive/2000-words-about-arrays-and-tables/
 
-PayPal Q2獲利超預期，交易利潤成長放緩，股價大跌8%
-https://www.businessyee.com/article/6713-paypal-2025-q2-result
+Crush: The glamourous AI coding agent for your favourite terminal
+https://github.com/charmbracelet/crush
 
-Visa獲利優於預期，全年展望保守，股價下跌近2%
-https://www.businessyee.com/article/6712-visa-2025-q3-result
+Go's race detector has a mutex blind spot
+https://doublefree.dev/go-race-mutex-blindspot/
 
-對等關稅｜中美未達重大突破？中方：雙方同意延長休戰
-https://www.businessyee.com/article/6711-trump-us-china-tariff
+Emacs: The MacOS Bug
+https://xlii.space/eng/emacs-the-macos-bug/
 
-【波音Q2財報】營收優於預期、虧損收斂！新執行長上任一年，能帶領飛機巨頭走出泥淖？
-https://www.businessyee.com/article/6710-boeing-earnings-2025-q2
+Books about Lisp's "beauty"?
+https://lobste.rs/s/4hwugo/books_about_lisp_s_beauty
 
-【Spotify Q2 財報】營收不如預期、財測疲弱，盤前股價慘跌5%
-https://www.businessyee.com/article/6709-spotify-spot-stock-q2-2025-earnings
+Why We Need to Know LR and Recursive Descent Parsing Techniques
+https://tratt.net/laurie/blog/2023/why_we_need_to_know_lr_and_recursive_descent_parsing_techniques.html
 
-Printing a Book at Home with Minimal Equipment
-https://huijzer.xyz/posts/98/printing-a-book-at-home-with-minimal-equipment
+Architecture Decision Record
+https://github.com/joelparkerhenderson/architecture-decision-record
 
-I want to defend Wayland here and explain a crucial piece that I think people are missing
-https://ordinary.cafe/@technobaboo/114935252929285259
+a5-py: Pentagonal geospatial indexing system DGGS
+https://github.com/felixpalmer/a5-py
 
-Ethersync: Peer-to-peer collaborative editing of local text files
-https://github.com/ethersync/ethersync
+Build Your Own Minisforum N5 Inspired Mini NAS: A Comprehensive Guide
+https://jackharvest.com/index.php/2025/07/27/build-your-own-minisforum-n5-inspired-mini-nas-a-comprehensive-guide/
 
-2025 Stack Overflow Developer Survey
-https://survey.stackoverflow.co/2025/
+Tracking source locations in the Futhark compiler
+https://futhark-lang.org/blog/2025-07-29-tracking-source-locations.html
 
-A pretty nice web framework
-https://github.com/blaix/prettynice
+Interacting With Text Adventures Through Perl
+https://entropicthoughts.com/interacting-with-text-adventures-through-perl
 
-I'm never going back to Matrix
-https://shkspr.mobi/blog/2025/07/im-never-going-back-to-matrix/
+Agentic Coding Things That Didn’t Work
+https://lucumr.pocoo.org/2025/7/30/things-that-didnt-work/
 
-PKGBASE Removes FreeBSD Base System Feature
-https://lists.freebsd.org/archives/freebsd-pkgbase/2025-July/000590.html
+Verified Assembly 2: Memory, RISC-V, Cuts for Invariants, and Ghost Code
+https://www.philipzucker.com/asm_verify2/
 
-Flat design vs realistic (“skeuomorphic”) design
-https://www.flatisbad.com/
-
-bookmarkfs: FUSE-based pseudo-filesystem for managing web browser bookmarks
-https://sr.ht/~cismonx/bookmarkfs/
-
-A month using XMPP for every call and chat (2023)
-https://neilzone.co.uk/2023/08/a-month-using-xmpp-using-snikket-for-every-call-and-chat/
-
-Nadim Kobeissi's Applied Cryptography Course
-https://www.youtube.com/watch?v=z6kK7rIbyB0
-
-KernelScript: DSL for eBPF-Centric Development
-https://github.com/multikernel/kernelscript
-
-Typechecking Is Undecidable When 'Type' Is a Type (1989)
-https://dspace.mit.edu/bitstream/handle/1721.1/149366/MIT-LCS-TR-458.pdf?sequence=6
-
-rules_derive: deriving using macro_rules
-https://matx.com/research/rules_derive
-
-Raspberry Pi RP2350 A4 stepping fixes E9 GPIO Erratum, glitching bugs, introduces 2MB flash variants
-https://www.cnx-software.com/2025/07/29/raspberry-pi-rp2350-a4-stepping-fixes-e9-gpio-erratum-9-glitching-bugs-introduces-2mb-flash-variants/
-
-Artificial Intelligence and the Linux Community
-https://blogs.gnome.org/uraeus/2025/07/29/artificial-intelligence-and-the-linux-community/
-
-PHP-ORT: Machine Learning Inference for the Web
-https://krakjoe.github.io/ort/
-
-The Useless useCallback
-https://tkdodo.eu/blog/the-useless-use-callback
-
-This Was Not Really Quite Simple: Building a Redstone Calculator in Minecraft
-https://www.youtube.com/watch?v=lebdqAN1pd8
-
-Loading credentials from Bitwarden with direnv
-https://ergaster.org/posts/2025/07/28-direnv-bitwarden-integration/
-
-India overtakes China in U.S. smartphone exports + 7 more stories
-https://newsletter.newsminimalist.com/p/india-overtakes-china-in-u-s-smartphone-exports-7-more-stories
-
-當仙草凍比遊戲還大
-https://wiwi.blog/blog/jelly-bigger-than-games
+選擇文字
+https://wiwi.blog/blog/select-text
