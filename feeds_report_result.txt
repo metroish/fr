@@ -1,31 +1,58 @@
-# 2025-07-31 09:25:18 Feeds Report 
+# 2025-08-01 09:24:41 Feeds Report 
 
-Daily Hacker News for 2025-07-30
-https://www.daemonology.net/hn-daily/2025-07-30.html
+Daily Hacker News for 2025-07-31
+https://www.daemonology.net/hn-daily/2025-07-31.html
 
-關於 Anker PowerCore 10000 召回的電腦斷層掃描分析
-https://blog.gslin.org/archives/2025/07/31/12544/%e9%97%9c%e6%96%bc-anker-powercore-10000-%e5%8f%ac%e5%9b%9e%e7%9a%84%e9%9b%bb%e8%85%a6%e6%96%b7%e5%b1%a4%e6%8e%83%e6%8f%8f%e5%88%86%e6%9e%90/
+陶哲軒對使用 AI 的看法
+https://blog.gslin.org/archives/2025/08/01/12549/%e9%99%b6%e5%93%b2%e8%bb%92%e5%b0%8d%e4%bd%bf%e7%94%a8-ai-%e7%9a%84%e7%9c%8b%e6%b3%95/
 
-FAIR 0.4.0 支援透過 FAIR Protocol 安裝 Plugin 了
-https://blog.gslin.org/archives/2025/07/31/12543/fair-0-4-0-%e6%94%af%e6%8f%b4%e9%80%8f%e9%81%8e-fair-protocol-%e5%ae%89%e8%a3%9d-plugin-%e4%ba%86/
+Cache full 時的 2-random 演算法
+https://blog.gslin.org/archives/2025/07/31/12547/cache-full-%e6%99%82%e7%9a%84-2-random-%e6%bc%94%e7%ae%97%e6%b3%95/
 
-goo.gl 要關閉了 (2025/08/25)
-https://blog.gslin.org/archives/2025/07/30/12542/goo-gl-%e8%a6%81%e9%97%9c%e9%96%89%e4%ba%86-2025-08-25/
+文化部提出文化藝術應用生成式AI指引，說明生成式AI應用潛在風險
+https://www.ithome.com.tw/news/170362
 
-透過 SVG 的 filter 做到手繪動圖的效果
-https://blog.gslin.org/archives/2025/07/30/12541/%e9%80%8f%e9%81%8e-svg-%e7%9a%84-filter-%e5%81%9a%e5%88%b0%e6%89%8b%e7%b9%aa%e5%8b%95%e5%9c%96%e7%9a%84%e6%95%88%e6%9e%9c/
+美國證券交易委員會宣布啟動Project Crypto，以迎接加密資產的浪潮
+https://www.ithome.com.tw/news/170361
 
-ACM 的 Open Access 進展？
-https://blog.gslin.org/archives/2025/07/30/12540/acm-%e7%9a%84-open-access-%e9%80%b2%e5%b1%95%ef%bc%9f/
+Figma上市首日飆漲250%，市值達470億美元
+https://www.ithome.com.tw/news/170360
 
-答客問 - SQLite WASM 資料庫如何長期保存？
-https://blog.darkthread.net/blog/sqlite-wasm-persistence/
+【資安日報】8月1日，俄羅斯駭客針對當地外交單位從事網路間諜活動
+https://www.ithome.com.tw/news/170359
 
-駭客架設冒牌PyPI網站，企圖竊取套件開發者的帳密資料
-https://www.ithome.com.tw/news/170341
+Amazon財報出爐，AWS成長17.5%
+https://www.ithome.com.tw/news/170358
 
-Figma將以每股33美元登上紐約股市
-https://www.ithome.com.tw/news/170336
+徵信社從駭客網站取得臺灣民眾個資，並轉賣給他人牟利
+https://www.ithome.com.tw/news/170357
+
+Manus推出Wide Research功能 最多同時執行上百個代理人
+https://www.ithome.com.tw/news/170356
+
+跨國媒體怎麼迎戰GAI潮流和流量雪崩危機，關鍵評論網集團CTO靠三大戰略
+https://www.ithome.com.tw/news/170349
+
+Martech雙周報第79期：傳統搜尋頁面迎來更多AI更新，Google開始實驗用AI將連結分成不同主題群組
+https://www.ithome.com.tw/news/170350
+
+俄羅斯駭客Secret Blizzard鎖定大使館而來，濫用ISP發動AiTM網釣
+https://www.ithome.com.tw/news/170355
+
+蘋果財報出爐，將增加對AI的投資
+https://www.ithome.com.tw/news/170354
+
+全球科技監理之戰
+https://www.ithome.com.tw/article/170288
+
+ChatGPT分享連結功能可讓Google搜尋到用戶對話，OpenAI緊急關閉
+https://www.ithome.com.tw/news/170351
+
+加速氣象超級電腦效能升級，氣象署發展AI測報輔助天氣預報
+https://www.ithome.com.tw/people/170346
+
+穩定幣與央行數位貨幣
+https://www.ithome.com.tw/article/170287
 
 Meta營收成長22%，祖克柏宣告超級智慧即將到來
 https://www.ithome.com.tw/news/170335
@@ -39,113 +66,134 @@ https://www.ithome.com.tw/news/170332
 聯想桌機韌體存在可用以繞過開機防護的漏洞
 https://www.ithome.com.tw/news/170331
 
-法國國防業者Naval Group傳出遭駭，攻擊者竊得1 TB內部資料
-https://www.ithome.com.tw/news/170316
+簡立峰陳立人重磅對談：軟體機器人成內需新引擎連結全球資本！DEAT 大會聚焦 AI 政策與數位轉型願景
+https://www.inside.com.tw/article/39146-deat-ai-2025
 
-OpenAI發表ChatGPT學習模式
-https://www.ithome.com.tw/news/170315
+Amazon Alexa+ 營收新布局：AI 對話式廣告成解方？
+https://www.inside.com.tw/article/39144-alexa-amazon-earnings
 
-Google NotebookLM正式推出Video Overviews
-https://www.ithome.com.tw/news/170313
+台灣對等關稅暫行稅率 20%，工商界籲出口轉型補助
+https://www.inside.com.tw/article/39142-tariffs-resilience-negotiation
 
-因應遭到網路攻擊，明尼蘇達州動員美國國民兵部隊
-https://www.ithome.com.tw/news/170312
+Figma 上市首日股價漲 250%！市值接近 680 億美元
+https://www.inside.com.tw/article/39141-figma-starts-trading
 
-替未來做些改變！Social Designer 青年永續社會設計挑戰賽，新北市政府青年局打造公共參與實驗場
-https://www.inside.com.tw/article/39116-Social%20Designer
+OpenAI 今年前 7 個月營收翻倍，每月可創造 10 億美元收入
+https://www.inside.com.tw/article/39138-openai-revenue-hits-12b
 
-【書摘】《醬缸裏的欺負鏈：東亞大陸帝國意識形態的起源【上古到近世】》
-https://voicettank.org/20250731-2/
+韓國官員：跟川普談判，要訣是簡潔跟「讚對方偉人」
+https://www.inside.com.tw/article/39140-korean-official-keys-to-trump-negotiations-are-brevity-and-praising-him-as-great-leader
 
-大罷免的消耗戰、詮釋權與之後的事
-https://voicettank.org/20250731-1/
+全球首座核融合電廠動工，Helion 目標 2028 年為微軟資料中心供電
+https://www.inside.com.tw/article/39139-world-first-fusion-power-plant-helion
 
-三商壽「資本顯著不足」少發債175億，金管會砍董座年薪三成
-https://www.businessyee.com/article/6724-Mercuries-life-insurance-rbc-%20insufficient
+庫克：Apple 將大幅擴增 AI 投資，積極尋求併購機會
+https://www.inside.com.tw/article/39136-apple-open-to-ai-acquisitions
 
-【高通 Q3 財報】蘋果漸行漸遠？AI・汽車晶片強勁、財報優，但高階手機晶片趨弱，股價重挫逾 6％
-https://www.businessyee.com/article/6723-qualcomm-2025-q3-earnings
+Anthropic 估值有望翻 3 倍！接近完成新一輪達 50 億美元融資
+https://www.inside.com.tw/article/39137-anthropic-new-5b-round
 
-【Meta Q2 財報】廣告營收遠超預期！AI投放技術加持，股價飆漲逾10%
-https://www.businessyee.com/article/6722-meta-2025-q2-earnings
+中南部豪雨致災！將來銀啟動水災紓困案，信貸 1.88％優利免開辦費
+https://www.inside.com.tw/article/39131-next-bank
 
-遇到問題提解方只是及格，真正的職場高手會多這一步
-https://www.businessyee.com/article/6647-dichotomy
+從青蛙到駱駝：事後諸葛的政治隱喻
+https://voicettank.org/20250801-1/
 
-Robinhood Q2獲利翻倍超預期，散戶私銀業務今秋推出
-https://www.businessyee.com/article/6721-Robinhood-2025-q2-result
+【書摘】《二次建國：重塑美國憲法的關鍵時刻》
+https://voicettank.org/20250801-2/
 
-【微軟 2025 Q4 財報】Azure 年收破 750 億美元、AI 投資大加碼！盤後飆漲 9%
-https://www.businessyee.com/article/6720-microsoft-earnings-2025-q4
+【好險有聽】你的醫療險會賠嗎？評議中心主委羅俊瑋解釋「必要性醫療」（上）
+https://www.businessyee.com/article/6725-ep41
 
-How to Pass a Variable From One Thread Group to Another in JMeter
-https://feeds.feedblitz.com/~/922429586/0/baeldung~How-to-Pass-a-Variable-From-One-Thread-Group-to-Another-in-JMeter
+【Amazon Q2財報】財報亮眼但財測失色！市場質疑AI投資回報，股價跌逾7%
+https://www.businessyee.com/article/6732-amazon-earnings-2025-q2
 
-Change the Alias of a Key Within a Keystore in Java
-https://feeds.feedblitz.com/~/922428881/0/baeldung~Change-the-Alias-of-a-Key-Within-a-Keystore-in-Java
+台灣沒有特價這色！日亞Staub限時特價，尤加利綠（莫蘭迪綠）16cm平煎鍋3千有找（含運）
+https://www.businessyee.com/article/6730-staub-16cm-eucalyptus
 
-A Dive Into Open Chat Protocols
-https://wiki.alopex.li/ADiveIntoOpenChat
+萬事達卡Q2獲利超預期，Q3展望樂觀，積極布局穩定幣
+https://www.businessyee.com/article/6729-ma-2025-q2-result
 
-I built my blog with C preprocessor macros
-https://wheybags.com/blog/macroblog.html
+【Apple Q3 財報】營收創4年最大成長！iPhone 16挽回中國市場？庫克自承大增AI投資
+https://www.businessyee.com/article/6728-apple-q3-earnings
 
-[RFC] Upstream target support for CHERI-enabled architectures
-https://discourse.llvm.org/t/rfc-upstream-target-support-for-cheri-enabled-architectures/87623
+Coinbase Q2財報遜，股價盤後重挫逾 9%，欲打造「萬物交易所」
+https://www.businessyee.com/article/6727-Coinbase-2025-q2-result
 
-Writing memory efficient C structs
-https://tomscheers.github.io/2025/07/29/writing-memory-efficient-structs-post.html
+東亞最高！美對台關稅20%，半導體232調查成後續最大變數
+https://www.businessyee.com/article/6726-taiwan-tariff-2.0
 
-You Are The BIOS Now: Building A Hypervisor In Rust With KVM
-https://yeet.cx/blog/you-are-the-bios-now
+Java Weekly, Issue 605
+https://feeds.feedblitz.com/~/922497656/0/baeldung~Java-Weekly-Issue
 
-always bet on text (2014)
-https://graydon2.dreamwidth.org/193447.html
+You might not need tmux
+https://bower.sh/you-might-not-need-tmux
 
-Mounting The Atmosphere
-https://oppi.li/posts/mounting_the_atmosphere/
+The Math Is Haunted
+https://overreacted.io/the-math-is-haunted/
 
-The Hype is the Product
-https://rys.io/en/180.html
+6 Weeks of Claude Code
+https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/
 
-2000 words about arrays and tables
-https://buttondown.com/hillelwayne/archive/2000-words-about-arrays-and-tables/
+Age Verification Doesn’t Need to Be a Privacy Footgun
+https://soatok.blog/2025/07/31/age-verification-doesnt-need-to-be-a-privacy-footgun/
 
-Crush: The glamourous AI coding agent for your favourite terminal
-https://github.com/charmbracelet/crush
+Sync primitives are Functionally Complete
+http://kprotty.me/2025/07/31/sync-primitives-are-functionally-complete.html
 
-Go's race detector has a mutex blind spot
-https://doublefree.dev/go-race-mutex-blindspot/
+The smallest embeddable scripting language, part 1
+https://log.schemescape.com/posts/static-site-generators/smallest-scripting-language.html
 
-Emacs: The MacOS Bug
-https://xlii.space/eng/emacs-the-macos-bug/
+QUIC for the kernel
+https://lwn.net/Articles/1029851/
 
-Books about Lisp's "beauty"?
-https://lobste.rs/s/4hwugo/books_about_lisp_s_beauty
+Our first outage from LLM-written code
+https://sketch.dev/blog/our-first-outage-from-llm-written-code
 
-Why We Need to Know LR and Recursive Descent Parsing Techniques
-https://tratt.net/laurie/blog/2023/why_we_need_to_know_lr_and_recursive_descent_parsing_techniques.html
+Local-first search. A tale of frustrated dreams, utopian user experiences and calculated tradeoffs
+https://fika.bar/paoramen/local-first-search-01K1B0WM1X4P5SV5QAES0Z5N75
 
-Architecture Decision Record
-https://github.com/joelparkerhenderson/architecture-decision-record
+Ramblings
+https://stephango.com/ramblings
 
-a5-py: Pentagonal geospatial indexing system DGGS
-https://github.com/felixpalmer/a5-py
+If Odin Had Macros
+https://www.gingerbill.org/article/2025/07/31/if-odin-had-macros/
 
-Build Your Own Minisforum N5 Inspired Mini NAS: A Comprehensive Guide
-https://jackharvest.com/index.php/2025/07/27/build-your-own-minisforum-n5-inspired-mini-nas-a-comprehensive-guide/
+Schematra: Sinatra inspired Chicken web framework
+https://github.com/rolandoam/schematra
 
-Tracking source locations in the Futhark compiler
-https://futhark-lang.org/blog/2025-07-29-tracking-source-locations.html
+Secure boot certificate rollover is real but probably won't hurt you
+https://mjg59.dreamwidth.org/72892.html
 
-Interacting With Text Adventures Through Perl
-https://entropicthoughts.com/interacting-with-text-adventures-through-perl
+What is gVisor?
+https://blog.yelinaung.com/posts/gvisor/
 
-Agentic Coding Things That Didn’t Work
-https://lucumr.pocoo.org/2025/7/30/things-that-didnt-work/
+Go Assembly Mutation Testing
+https://words.filippo.io/assembly-mutation/
 
-Verified Assembly 2: Memory, RISC-V, Cuts for Invariants, and Ghost Code
-https://www.philipzucker.com/asm_verify2/
+C++26 Reflections adventures & compile time UML
+https://www.reachablecode.com/2025/07/31/c26-reflections-adventures-compile-time-uml/
 
-選擇文字
-https://wiwi.blog/blog/select-text
+We Asked 100+ AI Models to Write Code. Here’s How Many Failed Security Tests
+https://www.veracode.com/blog/genai-code-security-report/
+
+My favourite German word
+https://vurt.org/articles/my-favourite-german-word/
+
+PyPI Phishing Attack: Incident Report
+https://blog.pypi.org/posts/2025-07-31-incident-report-phishing-attack/
+
+In search of riches, hackers plant 4G-enabled Raspberry Pi in bank network
+https://arstechnica.com/security/2025/07/in-search-of-riches-hackers-plant-4g-enabled-raspberry-pi-in-bank-network/
+
+Vanity import paths in Go (2019)
+https://sagikazarmark.hu/blog/vanity-import-paths-in-go/
+
+Resurrecting a MOTU 2408 with ADAT
+http://women-and-dreams.blogspot.com/2025/08/resurrecting-motu-2408-with-adat.html
+
+🐢 Australia bans YouTube for children under 16 + 9 more stories
+https://newsletter.newsminimalist.com/p/australia-bans-youtube-for-children-under-16-9-more-stories
+
+彈珠檯
+https://wiwi.blog/blog/pinball
