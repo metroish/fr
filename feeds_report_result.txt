@@ -1,40 +1,7 @@
-# 2025-08-01 09:24:41 Feeds Report 
+# 2025-08-02 09:20:55 Feeds Report 
 
-Daily Hacker News for 2025-07-31
-https://www.daemonology.net/hn-daily/2025-07-31.html
-
-陶哲軒對使用 AI 的看法
-https://blog.gslin.org/archives/2025/08/01/12549/%e9%99%b6%e5%93%b2%e8%bb%92%e5%b0%8d%e4%bd%bf%e7%94%a8-ai-%e7%9a%84%e7%9c%8b%e6%b3%95/
-
-Cache full 時的 2-random 演算法
-https://blog.gslin.org/archives/2025/07/31/12547/cache-full-%e6%99%82%e7%9a%84-2-random-%e6%bc%94%e7%ae%97%e6%b3%95/
-
-文化部提出文化藝術應用生成式AI指引，說明生成式AI應用潛在風險
-https://www.ithome.com.tw/news/170362
-
-美國證券交易委員會宣布啟動Project Crypto，以迎接加密資產的浪潮
-https://www.ithome.com.tw/news/170361
-
-Figma上市首日飆漲250%，市值達470億美元
-https://www.ithome.com.tw/news/170360
-
-【資安日報】8月1日，俄羅斯駭客針對當地外交單位從事網路間諜活動
-https://www.ithome.com.tw/news/170359
-
-Amazon財報出爐，AWS成長17.5%
-https://www.ithome.com.tw/news/170358
-
-徵信社從駭客網站取得臺灣民眾個資，並轉賣給他人牟利
-https://www.ithome.com.tw/news/170357
-
-Manus推出Wide Research功能 最多同時執行上百個代理人
-https://www.ithome.com.tw/news/170356
-
-跨國媒體怎麼迎戰GAI潮流和流量雪崩危機，關鍵評論網集團CTO靠三大戰略
-https://www.ithome.com.tw/news/170349
-
-Martech雙周報第79期：傳統搜尋頁面迎來更多AI更新，Google開始實驗用AI將連結分成不同主題群組
-https://www.ithome.com.tw/news/170350
+Daily Hacker News for 2025-08-01
+https://www.daemonology.net/hn-daily/2025-08-01.html
 
 俄羅斯駭客Secret Blizzard鎖定大使館而來，濫用ISP發動AiTM網釣
 https://www.ithome.com.tw/news/170355
@@ -48,152 +15,74 @@ https://www.ithome.com.tw/article/170288
 ChatGPT分享連結功能可讓Google搜尋到用戶對話，OpenAI緊急關閉
 https://www.ithome.com.tw/news/170351
 
-加速氣象超級電腦效能升級，氣象署發展AI測報輔助天氣預報
-https://www.ithome.com.tw/people/170346
+BMW Q2 財報：獲利年減三成、電動 MINI 驚艷市場，但中國市場壓力不減
+https://www.inside.com.tw/article/39143-bmw-2025-q2-financial-report
 
-穩定幣與央行數位貨幣
-https://www.ithome.com.tw/article/170287
+苔蒎/菁蔦/烏薩奇們瘋傳醜圖的正面意義
+https://ckhung0.blogspot.com/2025/08/crazy-birds.html
 
-Meta營收成長22%，祖克柏宣告超級智慧即將到來
-https://www.ithome.com.tw/news/170335
+是否要長期配置白銀？要使用什麼投資工具？
+https://www.businessyee.com/article/6734-long-term-allocation-silver
 
-Palo Alto以250億美元收購身份安全產品商CyberArk
-https://www.ithome.com.tw/news/170334
+Figma是什麼來頭？為何IPO首日股價能瘋漲250%？
+https://www.businessyee.com/article/6731-figma-stock-soars-250-in-first-day
 
-微軟財報出爐，營收成長18%，淨收入飆升近24%
-https://www.ithome.com.tw/news/170332
+It's rude to show AI output to people
+https://distantprovince.by/posts/its-rude-to-show-ai-output-to-people/
 
-聯想桌機韌體存在可用以繞過開機防護的漏洞
-https://www.ithome.com.tw/news/170331
+Jujutsu For Busy Devs, Part 2: "How Do I...?"
+https://maddie.wtf/posts/2025-07-21-jujutsu-for-busy-devs/entry/1
 
-簡立峰陳立人重磅對談：軟體機器人成內需新引擎連結全球資本！DEAT 大會聚焦 AI 政策與數位轉型願景
-https://www.inside.com.tw/article/39146-deat-ai-2025
+Lobsters Interview with Icefox
+https://lobste.rs/s/2vfx6w/lobsters_interview_with_icefox
 
-Amazon Alexa+ 營收新布局：AI 對話式廣告成解方？
-https://www.inside.com.tw/article/39144-alexa-amazon-earnings
+Wayback 0.2 released
+https://wayback.freedesktop.org/news/2025/07/31/wayback-0.2-released/
 
-台灣對等關稅暫行稅率 20%，工商界籲出口轉型補助
-https://www.inside.com.tw/article/39142-tariffs-resilience-negotiation
+How NixOS is built
+https://blog.erethon.com/blog/2025/07/31/how-nixos-is-built/
 
-Figma 上市首日股價漲 250%！市值接近 680 億美元
-https://www.inside.com.tw/article/39141-figma-starts-trading
+candyfloss: an ergonomic python library for running video pipelines
+https://git.hella.cheap/bob/candyfloss
 
-OpenAI 今年前 7 個月營收翻倍，每月可創造 10 億美元收入
-https://www.inside.com.tw/article/39138-openai-revenue-hits-12b
+agendafs: A filesystem for syncing notes to your calendar
+https://sr.ht/~marcc/agendafs/
 
-韓國官員：跟川普談判，要訣是簡潔跟「讚對方偉人」
-https://www.inside.com.tw/article/39140-korean-official-keys-to-trump-negotiations-are-brevity-and-praising-him-as-great-leader
+Vibe code is legacy code
+https://blog.val.town/vibe-code
 
-全球首座核融合電廠動工，Helion 目標 2028 年為微軟資料中心供電
-https://www.inside.com.tw/article/39139-world-first-fusion-power-plant-helion
+Unit Testing Principles
+https://olano.dev/blog/unit-testing-principles/
 
-庫克：Apple 將大幅擴增 AI 投資，積極尋求併購機會
-https://www.inside.com.tw/article/39136-apple-open-to-ai-acquisitions
+What Declarative Languages Are (2013)
+https://semantic-domain.blogspot.com/2013/07/what-declarative-languages-are.html
 
-Anthropic 估值有望翻 3 倍！接近完成新一輪達 50 億美元融資
-https://www.inside.com.tw/article/39137-anthropic-new-5b-round
+Reflections on Matrix criticism over the last week
+https://youtu.be/OyuqM7RbX5E
 
-中南部豪雨致災！將來銀啟動水災紓困案，信貸 1.88％優利免開辦費
-https://www.inside.com.tw/article/39131-next-bank
+Long Term Support
+https://www.sqlite.org/lts.html
 
-從青蛙到駱駝：事後諸葛的政治隱喻
-https://voicettank.org/20250801-1/
+Keep calm and carry on
+https://boston.conman.org/2025/08/01.1
 
-【書摘】《二次建國：重塑美國憲法的關鍵時刻》
-https://voicettank.org/20250801-2/
+What are you doing this weekend?
+https://lobste.rs/s/twphly/what_are_you_doing_this_weekend
 
-【好險有聽】你的醫療險會賠嗎？評議中心主委羅俊瑋解釋「必要性醫療」（上）
-https://www.businessyee.com/article/6725-ep41
+I couldn't submit a PR, so I got hired and fixed it myself
+https://www.skeptrune.com/posts/doing-the-little-things/
 
-【Amazon Q2財報】財報亮眼但財測失色！市場質疑AI投資回報，股價跌逾7%
-https://www.businessyee.com/article/6732-amazon-earnings-2025-q2
+Pride Versioning
+https://pridever.org/
 
-台灣沒有特價這色！日亞Staub限時特價，尤加利綠（莫蘭迪綠）16cm平煎鍋3千有找（含運）
-https://www.businessyee.com/article/6730-staub-16cm-eucalyptus
+libvirt - incremental backups for raw devices
+https://abbbi.github.io/datafile/
 
-萬事達卡Q2獲利超預期，Q3展望樂觀，積極布局穩定幣
-https://www.businessyee.com/article/6729-ma-2025-q2-result
+Stack traces for Postgres errors with backtrace_functions
+https://www.enterprisedb.com/blog/stack-traces-postgres-errors-backtracefunctions
 
-【Apple Q3 財報】營收創4年最大成長！iPhone 16挽回中國市場？庫克自承大增AI投資
-https://www.businessyee.com/article/6728-apple-q3-earnings
+Code.Wiwi.Blog
+https://wiwi.blog/blog/code-wiwi-blog
 
-Coinbase Q2財報遜，股價盤後重挫逾 9%，欲打造「萬物交易所」
-https://www.businessyee.com/article/6727-Coinbase-2025-q2-result
-
-東亞最高！美對台關稅20%，半導體232調查成後續最大變數
-https://www.businessyee.com/article/6726-taiwan-tariff-2.0
-
-Java Weekly, Issue 605
-https://feeds.feedblitz.com/~/922497656/0/baeldung~Java-Weekly-Issue
-
-You might not need tmux
-https://bower.sh/you-might-not-need-tmux
-
-The Math Is Haunted
-https://overreacted.io/the-math-is-haunted/
-
-6 Weeks of Claude Code
-https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/
-
-Age Verification Doesn’t Need to Be a Privacy Footgun
-https://soatok.blog/2025/07/31/age-verification-doesnt-need-to-be-a-privacy-footgun/
-
-Sync primitives are Functionally Complete
-http://kprotty.me/2025/07/31/sync-primitives-are-functionally-complete.html
-
-The smallest embeddable scripting language, part 1
-https://log.schemescape.com/posts/static-site-generators/smallest-scripting-language.html
-
-QUIC for the kernel
-https://lwn.net/Articles/1029851/
-
-Our first outage from LLM-written code
-https://sketch.dev/blog/our-first-outage-from-llm-written-code
-
-Local-first search. A tale of frustrated dreams, utopian user experiences and calculated tradeoffs
-https://fika.bar/paoramen/local-first-search-01K1B0WM1X4P5SV5QAES0Z5N75
-
-Ramblings
-https://stephango.com/ramblings
-
-If Odin Had Macros
-https://www.gingerbill.org/article/2025/07/31/if-odin-had-macros/
-
-Schematra: Sinatra inspired Chicken web framework
-https://github.com/rolandoam/schematra
-
-Secure boot certificate rollover is real but probably won't hurt you
-https://mjg59.dreamwidth.org/72892.html
-
-What is gVisor?
-https://blog.yelinaung.com/posts/gvisor/
-
-Go Assembly Mutation Testing
-https://words.filippo.io/assembly-mutation/
-
-C++26 Reflections adventures & compile time UML
-https://www.reachablecode.com/2025/07/31/c26-reflections-adventures-compile-time-uml/
-
-We Asked 100+ AI Models to Write Code. Here’s How Many Failed Security Tests
-https://www.veracode.com/blog/genai-code-security-report/
-
-My favourite German word
-https://vurt.org/articles/my-favourite-german-word/
-
-PyPI Phishing Attack: Incident Report
-https://blog.pypi.org/posts/2025-07-31-incident-report-phishing-attack/
-
-In search of riches, hackers plant 4G-enabled Raspberry Pi in bank network
-https://arstechnica.com/security/2025/07/in-search-of-riches-hackers-plant-4g-enabled-raspberry-pi-in-bank-network/
-
-Vanity import paths in Go (2019)
-https://sagikazarmark.hu/blog/vanity-import-paths-in-go/
-
-Resurrecting a MOTU 2408 with ADAT
-http://women-and-dreams.blogspot.com/2025/08/resurrecting-motu-2408-with-adat.html
-
-🐢 Australia bans YouTube for children under 16 + 9 more stories
-https://newsletter.newsminimalist.com/p/australia-bans-youtube-for-children-under-16-9-more-stories
-
-彈珠檯
-https://wiwi.blog/blog/pinball
+撲克牌密碼
+https://wiwi.blog/blog/text-to-cards
