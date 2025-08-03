@@ -1,88 +1,76 @@
-# 2025-08-02 09:20:55 Feeds Report 
+# 2025-08-03 09:18:30 Feeds Report 
 
-Daily Hacker News for 2025-08-01
-https://www.daemonology.net/hn-daily/2025-08-01.html
+Daily Hacker News for 2025-08-02
+https://www.daemonology.net/hn-daily/2025-08-02.html
 
-俄羅斯駭客Secret Blizzard鎖定大使館而來，濫用ISP發動AiTM網釣
-https://www.ithome.com.tw/news/170355
+Weekly Ask Hacker News for 2025-07-27 -- 2025-08-02
+http://www.daemonology.net/hn-weekly-ask/2025-08-02.html
 
-蘋果財報出爐，將增加對AI的投資
-https://www.ithome.com.tw/news/170354
+AV1 的膠片模擬
+https://blog.gslin.org/archives/2025/08/03/12551/av1-%e7%9a%84%e8%86%a0%e7%89%87%e6%a8%a1%e6%93%ac/
 
-全球科技監理之戰
-https://www.ithome.com.tw/article/170288
+goo.gl 政策轉彎：會繼續服務「有在用的連結」
+https://blog.gslin.org/archives/2025/08/02/12550/goo-gl-%e6%94%bf%e7%ad%96%e8%bd%89%e5%bd%8e%ef%bc%9a%e6%9c%83%e7%b9%bc%e7%ba%8c%e6%9c%8d%e5%8b%99%e3%80%8c%e6%9c%89%e5%9c%a8%e7%94%a8%e7%9a%84%e9%80%a3%e7%b5%90%e3%80%8d/
 
-ChatGPT分享連結功能可讓Google搜尋到用戶對話，OpenAI緊急關閉
-https://www.ithome.com.tw/news/170351
+Culpability
+https://dushuyizhi.net/culpability/
 
-BMW Q2 財報：獲利年減三成、電動 MINI 驚艷市場，但中國市場壓力不減
-https://www.inside.com.tw/article/39143-bmw-2025-q2-financial-report
+A Practical Guide to Null-Safety in Java With JSpecify
+https://feeds.feedblitz.com/~/922603523/0/baeldung~A-Practical-Guide-to-NullSafety-in-Java-With-JSpecify
 
-苔蒎/菁蔦/烏薩奇們瘋傳醜圖的正面意義
-https://ckhung0.blogspot.com/2025/08/crazy-birds.html
+Inline Images in Email Using Java Mail
+https://feeds.feedblitz.com/~/922603526/0/baeldung~Inline-Images-in-Email-Using-Java-Mail
 
-是否要長期配置白銀？要使用什麼投資工具？
-https://www.businessyee.com/article/6734-long-term-allocation-silver
+The /o in Ruby regex stands for “oh the humanity!”
+https://jpcamara.com/2025/08/02/the-o-in-ruby-regex.html
 
-Figma是什麼來頭？為何IPO首日股價能瘋漲250%？
-https://www.businessyee.com/article/6731-figma-stock-soars-250-in-first-day
+How do you backup your non-work-related data?
+https://lobste.rs/s/ngo3ex/how_do_you_backup_your_non_work_related
 
-It's rude to show AI output to people
-https://distantprovince.by/posts/its-rude-to-show-ai-output-to-people/
+Tagged Unions are actually quite sexy
+https://ciesie.com/post/tagged_unions/
 
-Jujutsu For Busy Devs, Part 2: "How Do I...?"
-https://maddie.wtf/posts/2025-07-21-jujutsu-for-busy-devs/entry/1
+Parse, don’t validate
+https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/
 
-Lobsters Interview with Icefox
-https://lobste.rs/s/2vfx6w/lobsters_interview_with_icefox
+How to help someone use a computer
+https://pages.gseis.ucla.edu/faculty/agre/how-to-help.html
 
-Wayback 0.2 released
-https://wayback.freedesktop.org/news/2025/07/31/wayback-0.2-released/
+This Month in Ladybird - July 2025
+https://ladybird.org/newsletter/2025-07-31/
 
-How NixOS is built
-https://blog.erethon.com/blog/2025/07/31/how-nixos-is-built/
+A real PowerBook: the Macintosh Application Environment on a PA-RISC laptop
+http://oldvcr.blogspot.com/2025/08/a-real-powerbook-macintosh-application.html
 
-candyfloss: an ergonomic python library for running video pipelines
-https://git.hella.cheap/bob/candyfloss
+Twenty Eighth International Obfuscated C Code Contest
+https://www.ioccc.org/2024/index.html
 
-agendafs: A filesystem for syncing notes to your calendar
-https://sr.ht/~marcc/agendafs/
+Compressing Icelandic name declension patterns into a 3.27 kB trie
+https://alexharri.com/blog/icelandic-name-declension-trie
 
-Vibe code is legacy code
-https://blog.val.town/vibe-code
+C Language Enum Tips & Tricks (2021)
+https://kubyshkin.name/posts/c-language-enums-tips-and-tricks/
 
-Unit Testing Principles
-https://olano.dev/blog/unit-testing-principles/
+The Rubik's Cube Perfect Scramble
+https://www.solutionslookingforproblems.com/post/the-rubik-s-cube-perfect-scramble
 
-What Declarative Languages Are (2013)
-https://semantic-domain.blogspot.com/2013/07/what-declarative-languages-are.html
+Less Glue, More Product: Why Elixir Shrinks Architectural Complexity
+https://iamkonstantin.eu/blog/less-glue-more-product-why-elixir-shrinks-architectural-complexity/
 
-Reflections on Matrix criticism over the last week
-https://youtu.be/OyuqM7RbX5E
+A Bytecode VM for Arithmetic: The Parser
+https://abhinavsarkar.net/posts/arithmetic-bytecode-vm-parser/
 
-Long Term Support
-https://www.sqlite.org/lts.html
+Executing arbitrary Python code from a comment
+https://www.hacktron.ai/blog/posts/python-zip-confusion/
 
-Keep calm and carry on
-https://boston.conman.org/2025/08/01.1
+Type Safety Back and Forth
+https://www.parsonsmatt.org/2017/10/11/type_safety_back_and_forth.html
 
-What are you doing this weekend?
-https://lobste.rs/s/twphly/what_are_you_doing_this_weekend
+How to reverse engineer an analog chip: the TDA7000 FM radio receiver
+http://www.righto.com/2025/08/reverse-engineering-analog-TDA7000.html
 
-I couldn't submit a PR, so I got hired and fixed it myself
-https://www.skeptrune.com/posts/doing-the-little-things/
+🐢 Court confirms Google's app store is an illegal monopoly + 7 more stories
+https://newsletter.newsminimalist.com/p/court-confirms-google-s-app-store-is-an-illegal-monopoly-7-more-stories
 
-Pride Versioning
-https://pridever.org/
-
-libvirt - incremental backups for raw devices
-https://abbbi.github.io/datafile/
-
-Stack traces for Postgres errors with backtrace_functions
-https://www.enterprisedb.com/blog/stack-traces-postgres-errors-backtracefunctions
-
-Code.Wiwi.Blog
-https://wiwi.blog/blog/code-wiwi-blog
-
-撲克牌密碼
-https://wiwi.blog/blog/text-to-cards
+自己來
+https://wiwi.blog/blog/do-it-yourself

@@ -1,7 +1,7 @@
-https://www.daemonology.net/hn-daily/index.rss|2025-08-02 09:20:31
-https://www.daemonology.net/hn-weekly-ask/index.rss|2025-07-27 09:18:39
+https://www.daemonology.net/hn-daily/index.rss|2025-08-03 09:18:12
+https://www.daemonology.net/hn-weekly-ask/index.rss|2025-08-03 09:18:12
 https://feedpress.me/lobsters-daily|2023-09-21 09:12:16
-https://blog.gslin.org/feed|2025-08-01 09:24:25
+https://blog.gslin.org/feed|2025-08-03 09:18:15
 https://feeds.feedburner.com/Darkthread|2025-07-31 09:25:04
 https://www.ithome.com.tw/rss|2025-08-02 09:20:42
 https://www.inside.com.tw/feed/rss|2025-08-02 09:20:42
@@ -12,9 +12,9 @@ https://www.blogger.com/feeds/1264116278467470539/posts/default?alt=rss|2025-02-
 https://voicettank.org/sitemap.rss|2025-08-01 09:24:30
 https://www.businessyee.com/rss|2025-08-02 09:20:47
 https://manny-li.com/feed|2025-01-23 15:07:51
-https://dushuyizhi.net/feed|2025-07-27 09:18:50
+https://dushuyizhi.net/feed|2025-08-03 09:18:23
 https://changyuchieh.com/feed|2025-07-25 09:22:43
-https://feeds.feedblitz.com/baeldung&x=1|2025-08-01 09:24:37
-https://lobste.rs/rss|2025-08-02 09:20:53
-https://rss.beehiiv.com/feeds/4aF2pGVAEN.xml|2025-08-01 09:24:39
-https://wiwi.blog/blog/rss.xml|2025-08-02 09:20:55
+https://feeds.feedblitz.com/baeldung&x=1|2025-08-03 09:18:27
+https://lobste.rs/rss|2025-08-03 09:18:27
+https://rss.beehiiv.com/feeds/4aF2pGVAEN.xml|2025-08-03 09:18:28
+https://wiwi.blog/blog/rss.xml|2025-08-03 09:18:30
