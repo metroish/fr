@@ -1,76 +1,115 @@
-# 2025-08-03 09:18:30 Feeds Report 
+# 2025-08-04 09:30:13 Feeds Report 
 
-Daily Hacker News for 2025-08-02
-https://www.daemonology.net/hn-daily/2025-08-02.html
+Daily Hacker News for 2025-08-03
+https://www.daemonology.net/hn-daily/2025-08-03.html
 
-Weekly Ask Hacker News for 2025-07-27 -- 2025-08-02
-http://www.daemonology.net/hn-weekly-ask/2025-08-02.html
+蘋果發布多個作業系統平臺更新，修補已遭利用的Chrome零時差漏洞
+https://www.ithome.com.tw/news/170408
 
-AV1 的膠片模擬
-https://blog.gslin.org/archives/2025/08/03/12551/av1-%e7%9a%84%e8%86%a0%e7%89%87%e6%a8%a1%e6%93%ac/
+西亞電信業去年遭中國駭客CL-STA-0969長期網攻，採用近10種專屬工具輪番滲透
+https://www.ithome.com.tw/news/170407
 
-goo.gl 政策轉彎：會繼續服務「有在用的連結」
-https://blog.gslin.org/archives/2025/08/02/12550/goo-gl-%e6%94%bf%e7%ad%96%e8%bd%89%e5%bd%8e%ef%bc%9a%e6%9c%83%e7%b9%bc%e7%ba%8c%e6%9c%8d%e5%8b%99%e3%80%8c%e6%9c%89%e5%9c%a8%e7%94%a8%e7%9a%84%e9%80%a3%e7%b5%90%e3%80%8d/
+美國CISA開源Thorium惡意程式分析平臺
+https://www.ithome.com.tw/news/170400
 
-Culpability
-https://dushuyizhi.net/culpability/
+Anthropic拒絕讓OpenAI以API存取Claude 理由是違反服務條款
+https://www.ithome.com.tw/news/170398
 
-A Practical Guide to Null-Safety in Java With JSpecify
-https://feeds.feedblitz.com/~/922603523/0/baeldung~A-Practical-Guide-to-NullSafety-in-Java-With-JSpecify
+Google Gemini Deep Think提供給AI Ultra方案用戶
+https://www.ithome.com.tw/news/170397
 
-Inline Images in Email Using Java Mail
-https://feeds.feedblitz.com/~/922603526/0/baeldung~Inline-Images-in-Email-Using-Java-Mail
+微軟將在明年終止對Windows 11 SE的支援
+https://www.ithome.com.tw/news/170396
 
-The /o in Ruby regex stands for “oh the humanity!”
-https://jpcamara.com/2025/08/02/the-o-in-ruby-regex.html
+Neuralink將於英國展開臨床實驗
+https://www.ithome.com.tw/news/170395
 
-How do you backup your non-work-related data?
-https://lobste.rs/s/ngo3ex/how_do_you_backup_your_non_work_related
+率先採用Xeon 6 P-core處理器，Google擴C4運算服務陣容
+https://www.ithome.com.tw/review/170393
 
-Tagged Unions are actually quite sexy
-https://ciesie.com/post/tagged_unions/
+AI 學會愧疚感有利合作？科學家用賽局理論讓 AI「自我懲罰」
+https://www.inside.com.tw/article/39154-ai-guilt-feel-emotion-game-theory
 
-Parse, don’t validate
-https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/
+特斯拉自駕車禍敗訴！須負 33% 責任，判賠 2.43 億美元
+https://www.inside.com.tw/article/39152-tesla-tsla-is-found-liable-in-fatal-autopilot-crash-has-to-pay-329-million
 
-How to help someone use a computer
-https://pages.gseis.ucla.edu/faculty/agre/how-to-help.html
+營業稅法新制指南：「電子發票存證資訊」誰上傳、傳什麼、怎麼罰？修法重點一次看
+https://www.inside.com.tw/article/39076-e-invoice
 
-This Month in Ladybird - July 2025
-https://ladybird.org/newsletter/2025-07-31/
+專訪台智雲：AI Agent 加福爾摩沙模型，怎麼重新定義台灣 AI 產業？
+https://www.inside.com.tw/feature/ai-agent-new-wave/39145-exclusive-interview-taiwan-ai-cloud-how-ai-agents-and-formosa-models-redefine-taiwan-ai-industry
 
-A real PowerBook: the Macintosh Application Environment on a PA-RISC laptop
-http://oldvcr.blogspot.com/2025/08/a-real-powerbook-macintosh-application.html
+對關稅有基本認識才有助對外談判
+https://voicettank.org/20250804-2/
 
-Twenty Eighth International Obfuscated C Code Contest
-https://www.ioccc.org/2024/index.html
+823前夕：百家爭鳴，剎那繁華
+https://voicettank.org/20250804-1/
 
-Compressing Icelandic name declension patterns into a 3.27 kB trie
-https://alexharri.com/blog/icelandic-name-declension-trie
+台灣首檔債券主動式ETF上櫃掛牌，為亞資中心注入新動能! 台灣首檔債券主動式ETF－00980D，聯博投信發行之聯博投資等級債入息
+https://www.businessyee.com/article/6739-tpex
 
-C Language Enum Tips & Tricks (2021)
-https://kubyshkin.name/posts/c-language-enums-tips-and-tricks/
+本週市場前瞻｜就業數據疲軟、科技股續挺全球股市？財報第二週見真章
+https://www.businessyee.com/article/6736-job-market-concerns-take-center-stage
 
-The Rubik's Cube Perfect Scramble
-https://www.solutionslookingforproblems.com/post/the-rubik-s-cube-perfect-scramble
+Staub鑄鐵鍋台日對決：Amazon灰色22cm下殺55折、momo浮誇愛心鍋20cm折價近5000，讓你選擇障礙！
+https://www.businessyee.com/article/6737-staub-gray-22cm-heart-pink-red-20cm
 
-Less Glue, More Product: Why Elixir Shrinks Architectural Complexity
-https://iamkonstantin.eu/blog/less-glue-more-product-why-elixir-shrinks-architectural-complexity/
+對等關稅｜8/7川普新稅上路，海外專家：台灣或可在緩衝期內達成協議
+https://www.businessyee.com/article/6735-tariff-taiwan
 
-A Bytecode VM for Arithmetic: The Parser
-https://abhinavsarkar.net/posts/arithmetic-bytecode-vm-parser/
+營業稅法新制指南：「電子發票存證資訊」誰上傳、傳什麼、怎麼罰？修法重點一次看
+https://www.businessyee.com/article/6696-e-invoice
 
-Executing arbitrary Python code from a comment
-https://www.hacktron.ai/blog/posts/python-zip-confusion/
+The Q Programming Language
+https://git.urbach.dev/cli/q
 
-Type Safety Back and Forth
-https://www.parsonsmatt.org/2017/10/11/type_safety_back_and_forth.html
+So you want to parse a PDF?
+https://eliot-jones.com/2025/8/pdf-parsing-xref
 
-How to reverse engineer an analog chip: the TDA7000 FM radio receiver
-http://www.righto.com/2025/08/reverse-engineering-analog-TDA7000.html
+The Future is NOT Self-Hosted
+https://www.drewlyton.com/story/the-future-is-not-self-hosted/
 
-🐢 Court confirms Google's app store is an illegal monopoly + 7 more stories
-https://newsletter.newsminimalist.com/p/court-confirms-google-s-app-store-is-an-illegal-monopoly-7-more-stories
+a parser for typescript types, written in typescript types
+https://github.com/easrng/tsints
 
-自己來
-https://wiwi.blog/blog/do-it-yourself
+People still use our old-fashioned Unix login servers
+https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LoginServersStillUsed
+
+Maybe the Fastest Disk Usage Program on macOS
+https://healeycodes.com/maybe-the-fastest-disk-usage-program-on-macos
+
+CriTcl: easily embed C code in Tcl
+https://andreas-kupries.github.io/critcl/
+
+Why Semantic HTML Still Matters
+https://www.jonoalderson.com/conjecture/why-semantic-html-still-matters/
+
+Render your Jupyter notebooks in OpenGist
+https://blog.fabiomanganiello.com/article/render-your-jupyter-notebooks-in-opengist
+
+Unnumbered IPv4 Interfaces
+https://blog.ipspace.net/series/unnumbered-interfaces/
+
+Governance in GNOME
+https://www.bassi.io
+
+More retrocomputing, less nostalgia
+https://datagubbe.se/retnost/
+
+Practical Static Analysis for Privacy Bugs
+https://blog.brownplt.org/2025/08/03/paralegal.html
+
+Injecting Java from native libraries on Android
+https://octet-stream.net/b/scb/2025-08-03-injecting-java-from-native-libraries-on-android.html
+
+AssemblyScript
+https://www.assemblyscript.org/
+
+Measuring AI Ability to Complete Long Tasks
+https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/
+
+The Future Of Software Is Small
+https://www.aparker.io/post/3lvjepuyf4q2w
+
+專有軟體必變爛理論
+https://wiwi.blog/blog/notebooklm-enshittification
