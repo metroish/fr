@@ -1,115 +1,169 @@
-# 2025-08-04 09:30:13 Feeds Report 
+# 2025-08-05 09:25:54 Feeds Report 
 
-Daily Hacker News for 2025-08-03
-https://www.daemonology.net/hn-daily/2025-08-03.html
+Daily Hacker News for 2025-08-04
+https://www.daemonology.net/hn-daily/2025-08-04.html
 
-蘋果發布多個作業系統平臺更新，修補已遭利用的Chrome零時差漏洞
-https://www.ithome.com.tw/news/170408
+德國 Google Maps 的評論不可信的問題
+https://blog.gslin.org/archives/2025/08/05/12555/%e5%be%b7%e5%9c%8b-google-maps-%e7%9a%84%e8%a9%95%e8%ab%96%e4%b8%8d%e5%8f%af%e4%bf%a1%e7%9a%84%e5%95%8f%e9%a1%8c/
 
-西亞電信業去年遭中國駭客CL-STA-0969長期網攻，採用近10種專屬工具輪番滲透
-https://www.ithome.com.tw/news/170407
+關於 Android 偵測地震的隱私問題
+https://blog.gslin.org/archives/2025/08/05/12553/%e9%97%9c%e6%96%bc-android-%e5%81%b5%e6%b8%ac%e5%9c%b0%e9%9c%87%e7%9a%84%e9%9a%b1%e7%a7%81%e5%95%8f%e9%a1%8c/
+
+好多沒用過的 Server 端 Node.js 功能...
+https://blog.gslin.org/archives/2025/08/05/12552/%e5%a5%bd%e5%a4%9a%e6%b2%92%e7%94%a8%e9%81%8e%e7%9a%84-server-%e7%ab%af-node-js-%e5%8a%9f%e8%83%bd/
+
+歹徒以普發現金為由、冒名中央存保發動網釣攻擊，意圖騙取信用卡資料
+https://www.ithome.com.tw/news/170424
+
+中國駭客挾持全球逾1.1萬臺Android裝置，MaaS模式威脅持續擴大
+https://www.ithome.com.tw/news/170421
+
+兩家資安業者惡意網址檢測服務遭濫用，駭客用來隱藏有效酬載
+https://www.ithome.com.tw/news/170420
+
+駭客鎖定Firefox附加元件開發者發動網釣攻擊
+https://www.ithome.com.tw/news/170418
+
+勒索軟體Anubis攻擊Windows、安卓裝置竊取資料、刪除檔案
+https://www.ithome.com.tw/news/170417
+
+ChatGPT用戶逼近7億，AI投資熱潮引發泡沫化討論
+https://www.ithome.com.tw/news/170416
+
+Google Project Zero測試新漏洞揭露政策，將提早公布部份細節
+https://www.ithome.com.tw/news/170415
+
+第三方支付公會正式成立，綠界、Line Pay、momo等都加入
+https://www.ithome.com.tw/news/170413
+
+Cloudflare指控Perplexity偷耙人家網站
+https://www.ithome.com.tw/news/170412
 
 美國CISA開源Thorium惡意程式分析平臺
 https://www.ithome.com.tw/news/170400
 
-Anthropic拒絕讓OpenAI以API存取Claude 理由是違反服務條款
-https://www.ithome.com.tw/news/170398
+特斯拉批准 8600 多億元股票獎勵，以留住馬斯克掌舵
+https://www.inside.com.tw/article/39177-tesla-approves-over-nt860-billion-stock-award-to-retain-elon-musk-as-ceo
 
-Google Gemini Deep Think提供給AI Ultra方案用戶
-https://www.ithome.com.tw/news/170397
+新加坡基本軍訓納無人機 防長：強化士兵 3D 思維
+https://www.inside.com.tw/article/39171-sg-3d-military-training
 
-微軟將在明年終止對Windows 11 SE的支援
-https://www.ithome.com.tw/news/170396
+和 AI 聊太久了嗎？ChatGPT 將透過彈出式視窗提醒使用者休息
+https://www.inside.com.tw/article/39176-chatgpt-break-reminder
 
-Neuralink將於英國展開臨床實驗
-https://www.ithome.com.tw/news/170395
+比亞迪將來台？什麼又是騰勢？一文看清宴請國會高層的背後動機
+https://www.inside.com.tw/article/39175-byd-denza-is-coming-in-to-taiwan
 
-率先採用Xeon 6 P-core處理器，Google擴C4運算服務陣容
-https://www.ithome.com.tw/review/170393
+【圖表一次懂】從「不作惡」到「愛國者」：矽谷科技業為何告別反戰立場？
+https://www.inside.com.tw/article/39174-google-meta-openai-military-war
 
-AI 學會愧疚感有利合作？科學家用賽局理論讓 AI「自我懲罰」
-https://www.inside.com.tw/article/39154-ai-guilt-feel-emotion-game-theory
+韋伯太空望遠鏡首度捕捉塵埃星系中黑洞「秘密進食」畫面
+https://www.inside.com.tw/article/39173-jwst-swallowed-a-blackhole
 
-特斯拉自駕車禍敗訴！須負 33% 責任，判賠 2.43 億美元
-https://www.inside.com.tw/article/39152-tesla-tsla-is-found-liable-in-fatal-autopilot-crash-has-to-pay-329-million
+Cloudflare 爆 Perplexity 無視網站「禁止爬取」私下去爬蟲
+https://www.inside.com.tw/article/39169-perplexity-scraping-websites
 
-營業稅法新制指南：「電子發票存證資訊」誰上傳、傳什麼、怎麼罰？修法重點一次看
-https://www.inside.com.tw/article/39076-e-invoice
+【影片】Google 趁 Apple Intelligence 跳票狠酸對手 新廣告諷「不如直接換手機」
+https://www.inside.com.tw/article/39172-google-apple-intelligence-pixel-10-ad
 
-專訪台智雲：AI Agent 加福爾摩沙模型，怎麼重新定義台灣 AI 產業？
-https://www.inside.com.tw/feature/ai-agent-new-wave/39145-exclusive-interview-taiwan-ai-cloud-how-ai-agents-and-formosa-models-redefine-taiwan-ai-industry
+AI Agent 來臨，你的基礎設施準備好了嗎？HPE 解析私有雲 AI 平台的三大支柱
+https://www.inside.com.tw/feature/ai-agent-new-wave/39132-hpe-local-ai-deployment
+
+xAI Grok Imagine 影像生成器開放！內建「麻辣模式」可產出 NSFW 內容
+https://www.inside.com.tw/article/39170-grok-imagine-xais-new-ai-image
 
 對關稅有基本認識才有助對外談判
 https://voicettank.org/20250804-2/
 
-823前夕：百家爭鳴，剎那繁華
-https://voicettank.org/20250804-1/
+Staub鑄鐵鍋台日對決：和食鍋篇！Amazon 18cm基本色3200元起；momo 16cm瑪格麗特夢幻限定版4399元
+https://www.businessyee.com/article/6746-staub-wa-nabe-momo-amazon
 
-台灣首檔債券主動式ETF上櫃掛牌，為亞資中心注入新動能! 台灣首檔債券主動式ETF－00980D，聯博投信發行之聯博投資等級債入息
-https://www.businessyee.com/article/6739-tpex
+【Palantir Q2 財報】AI界的梅西！營收首破10億美元、上調全年財測，盤後股價勁揚4.5%
+https://www.businessyee.com/article/6744-palantir-pltr-q2-earnings-2025
 
-本週市場前瞻｜就業數據疲軟、科技股續挺全球股市？財報第二週見真章
-https://www.businessyee.com/article/6736-job-market-concerns-take-center-stage
+與那指死亡交叉！波克夏股價重演 1999 年網路泡沫前景象
+https://www.businessyee.com/article/6743-brk-stock-with-NASDAQ
 
-Staub鑄鐵鍋台日對決：Amazon灰色22cm下殺55折、momo浮誇愛心鍋20cm折價近5000，讓你選擇障礙！
-https://www.businessyee.com/article/6737-staub-gray-22cm-heart-pink-red-20cm
+我最強國防夥伴！美新創Anduril：台灣擁電子製造優勢，正站上世界國防科技復興浪尖
+https://www.businessyee.com/article/6742-anduril-palmer-luckey
 
-對等關稅｜8/7川普新稅上路，海外專家：台灣或可在緩衝期內達成協議
-https://www.businessyee.com/article/6735-tariff-taiwan
+業界首創！永豐銀推AI代理人iWish ，加速GAI創新應用
+https://www.businessyee.com/article/6741-sinopac-iwish
 
-營業稅法新制指南：「電子發票存證資訊」誰上傳、傳什麼、怎麼罰？修法重點一次看
-https://www.businessyee.com/article/6696-e-invoice
+全球半導體投資睽違3年首回溫！台積電帶頭擴產，AI推升10大廠資本支出共64.5兆元
+https://www.businessyee.com/article/6740-semiconductor-capital-expenditure
 
-The Q Programming Language
-https://git.urbach.dev/cli/q
+波克夏連11季拋售股票！股神巴菲特為什麼狂賣股？
+https://www.businessyee.com/article/6738-berkshire-hathaway-sell
 
-So you want to parse a PDF?
-https://eliot-jones.com/2025/8/pdf-parsing-xref
+Markdown Monster
+https://git.sr.ht/~xigoi/markdown-monster/blob/master/monster.md
 
-The Future is NOT Self-Hosted
-https://www.drewlyton.com/story/the-future-is-not-self-hosted/
+How Perplexity is Evading Anti-crawling Measures
+https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/
 
-a parser for typescript types, written in typescript types
-https://github.com/easrng/tsints
+Polish Train Maker Is Suing the Hackers Who Exposed Its Anti-Repair Tricks
+https://www.ifixit.com/News/112008/polish-train-maker-is-suing-the-hackers-who-exposed-its-anti-repair-tricks
 
-People still use our old-fashioned Unix login servers
-https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LoginServersStillUsed
+Lisp interpreter with GC in <750 lines of Odin (and <500 lines of C)
+https://github.com/krig/LISP
 
-Maybe the Fastest Disk Usage Program on macOS
-https://healeycodes.com/maybe-the-fastest-disk-usage-program-on-macos
+Every reason why I hate Ai
+https://malwaretech.com/2025/08/every-reason-why-i-hate-ai.html
 
-CriTcl: easily embed C code in Tcl
-https://andreas-kupries.github.io/critcl/
+The Generativity Pattern in Rust
+https://arhan.sh/blog/the-generativity-pattern-in-rust/
 
-Why Semantic HTML Still Matters
-https://www.jonoalderson.com/conjecture/why-semantic-html-still-matters/
+What trick of the trade took you too long to learn?
+https://lobste.rs/s/a1njck/what_trick_trade_took_you_too_long_learn
 
-Render your Jupyter notebooks in OpenGist
-https://blog.fabiomanganiello.com/article/render-your-jupyter-notebooks-in-opengist
+How we made JSON.stringify more than twice as fast
+https://v8.dev/blog/json-stringify
 
-Unnumbered IPv4 Interfaces
-https://blog.ipspace.net/series/unnumbered-interfaces/
+When vibe coding, isn't the source code the prompt?
+https://boston.conman.org/2025/08/04.1
 
-Governance in GNOME
-https://www.bassi.io
+p-fast trie: lexically ordered hash map
+https://dotat.at/@/2025-08-04-p-fast-trie.html
 
-More retrocomputing, less nostalgia
-https://datagubbe.se/retnost/
+The Toyota Corolla Of Programming
+https://deprogrammaticaipsum.com/the-toyota-corolla-of-programming/
 
-Practical Static Analysis for Privacy Bugs
-https://blog.brownplt.org/2025/08/03/paralegal.html
+Introducing luzer, a coverage-guided Lua fuzzing engine
+https://bronevichok.ru/posts/introducing-luzer.html
 
-Injecting Java from native libraries on Android
-https://octet-stream.net/b/scb/2025-08-03-injecting-java-from-native-libraries-on-android.html
+My Ideal Array Language
+https://www.ashermancinelli.com/csblog/2025-7-20-Ideal-Array-Language.html
 
-AssemblyScript
-https://www.assemblyscript.org/
+Getting Started with Randomised Testing
+https://lewiscampbell.tech/blog/250805.html
 
-Measuring AI Ability to Complete Long Tasks
-https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/
+HTMX is hard so let's get it right
+https://github.com/BookOfCooks/blog/blob/master/htmx-is-hard-so-lets-get-it-right.md
 
-The Future Of Software Is Small
-https://www.aparker.io/post/3lvjepuyf4q2w
+Rust, Python, and TypeScript: the new trifecta
+https://smallcultfollowing.com/babysteps/blog/2025/07/31/rs-py-ts-trifecta/
 
-專有軟體必變爛理論
-https://wiwi.blog/blog/notebooklm-enshittification
+Open Sourcing Shaper: Minimal Data Platform for Embedded Analytics
+https://github.com/taleshape-com/shaper
+
+Pragmatism in Programming Proverbs
+https://www.gingerbill.org/article/2020/05/31/progamming-pragmatist-proverbs/
+
+A Few Things About the Anchor Element’s href You Might Not Have Known
+https://blog.jim-nielsen.com/2025/href-value-possibilities/
+
+Cordoomceps - replacing an Amiga's brain with Doom
+https://mjg59.dreamwidth.org/73001.html
+
+Getting an LLM to Play Text Adventures
+https://entropicthoughts.com/getting-an-llm-to-play-text-adventures
+
+Complex Iterators are Slow
+https://caolan.uk/notes/2025-07-31_complex_iterators_are_slow.cm
+
+NetBSD 11.0 release process underway
+https://blog.netbsd.org/tnf/entry/netbsd_11_0_release_process
+
+破碎像素地牢
+https://wiwi.blog/blog/shattered-pixel-dungeon
