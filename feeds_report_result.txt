@@ -1,34 +1,67 @@
-# 2025-08-05 09:25:54 Feeds Report 
+# 2025-08-06 09:26:47 Feeds Report 
 
-Daily Hacker News for 2025-08-04
-https://www.daemonology.net/hn-daily/2025-08-04.html
+Daily Hacker News for 2025-08-05
+https://www.daemonology.net/hn-daily/2025-08-05.html
 
-德國 Google Maps 的評論不可信的問題
-https://blog.gslin.org/archives/2025/08/05/12555/%e5%be%b7%e5%9c%8b-google-maps-%e7%9a%84%e8%a9%95%e8%ab%96%e4%b8%8d%e5%8f%af%e4%bf%a1%e7%9a%84%e5%95%8f%e9%a1%8c/
+關於 Embedding 搜尋問題的坑
+https://blog.gslin.org/archives/2025/08/06/12559/%e9%97%9c%e6%96%bc-embedding-%e6%90%9c%e5%b0%8b%e5%95%8f%e9%a1%8c%e7%9a%84%e5%9d%91/
 
-關於 Android 偵測地震的隱私問題
-https://blog.gslin.org/archives/2025/08/05/12553/%e9%97%9c%e6%96%bc-android-%e5%81%b5%e6%b8%ac%e5%9c%b0%e9%9c%87%e7%9a%84%e9%9a%b1%e7%a7%81%e5%95%8f%e9%a1%8c/
+PHP 8.5 將會有的 Pipe Operator
+https://blog.gslin.org/archives/2025/08/06/12558/php-8-5-%e5%b0%87%e6%9c%83%e6%9c%89%e7%9a%84-pipe-operator/
 
-好多沒用過的 Server 端 Node.js 功能...
-https://blog.gslin.org/archives/2025/08/05/12552/%e5%a5%bd%e5%a4%9a%e6%b2%92%e7%94%a8%e9%81%8e%e7%9a%84-server-%e7%ab%af-node-js-%e5%8a%9f%e8%83%bd/
+uBlock Origin Lite 可以在各平台的 Safari 上使用了
+https://blog.gslin.org/archives/2025/08/06/12557/ublock-origin-lite-%e5%8f%af%e4%bb%a5%e5%9c%a8%e5%90%84%e5%b9%b3%e5%8f%b0%e7%9a%84-safari-%e4%b8%8a%e4%bd%bf%e7%94%a8%e4%ba%86/
 
-歹徒以普發現金為由、冒名中央存保發動網釣攻擊，意圖騙取信用卡資料
-https://www.ithome.com.tw/news/170424
+OpenAI 放出兩個 Apache License 2.0 的 Model：gpt-oss-20b 與 gpt-oss-120b
+https://blog.gslin.org/archives/2025/08/06/12556/openai-%e6%94%be%e5%87%ba%e5%85%a9%e5%80%8b-apache-license-2-0-%e7%9a%84-model%ef%bc%9agpt-oss-20b-%e8%88%87-gpt-oss-120b/
 
-中國駭客挾持全球逾1.1萬臺Android裝置，MaaS模式威脅持續擴大
-https://www.ithome.com.tw/news/170421
+AI程式碼編輯器Cursor存在資安漏洞CurXecute，恐被用於提示注入攻擊
+https://www.ithome.com.tw/news/170455
 
-兩家資安業者惡意網址檢測服務遭濫用，駭客用來隱藏有效酬載
-https://www.ithome.com.tw/news/170420
+ElevenLabs推出音樂生成模型Eleven Music
+https://www.ithome.com.tw/news/170449
 
-駭客鎖定Firefox附加元件開發者發動網釣攻擊
-https://www.ithome.com.tw/news/170418
+國內首次啟動災害漫遊機制，臺南七股、嘉義布袋8月7日將啟動災害漫遊
+https://www.ithome.com.tw/news/170448
 
-勒索軟體Anubis攻擊Windows、安卓裝置竊取資料、刪除檔案
-https://www.ithome.com.tw/news/170417
+微軟OAuth應用程式遭冒充，攻擊者以釣魚手法繞過多因素驗證
+https://www.ithome.com.tw/news/170446
 
-ChatGPT用戶逼近7億，AI投資熱潮引發泡沫化討論
-https://www.ithome.com.tw/news/170416
+Adobe緊急修補電子表單平臺AEM Forms零時差漏洞
+https://www.ithome.com.tw/news/170441
+
+DeepMind發表可以生成數分鐘3D虛擬世界的Genie 3
+https://www.ithome.com.tw/news/170440
+
+SharePoint四大零時差漏洞ToolShell遭4L4MD4R勒索軟體濫用
+https://www.ithome.com.tw/news/170434
+
+思科、Google雙雙發生員工遭網釣 致CRM資料外洩
+https://www.ithome.com.tw/news/170439
+
+Pandora資料外洩 可能為Salesforce相關事件最新受害品牌
+https://www.ithome.com.tw/news/170438
+
+阿里巴巴開源首個圖像生成模型Qwen-Image
+https://www.ithome.com.tw/news/170437
+
+Anthropic釋出Claude Opus 4.1，強化代理任務、程式碼與推理能力
+https://www.ithome.com.tw/news/170435
+
+Ollama推出Turbo雲端服務，加速開源模型推論並支援大型模型
+https://www.ithome.com.tw/news/170432
+
+6年後 OpenAI再釋出開放權重的語言模型
+https://www.ithome.com.tw/news/170433
+
+時尚精品業者香奈兒發生資料外洩事故，傳出是該公司的Salesforce帳密遭駭所致
+https://www.ithome.com.tw/news/170431
+
+Google更新V8引擎，物件序列化速度翻倍
+https://www.ithome.com.tw/news/170425
+
+WordPress布景主題Alone存在重大漏洞，已被用於實際攻擊行動
+https://www.ithome.com.tw/news/170422
 
 Google Project Zero測試新漏洞揭露政策，將提早公布部份細節
 https://www.ithome.com.tw/news/170415
@@ -39,131 +72,119 @@ https://www.ithome.com.tw/news/170413
 Cloudflare指控Perplexity偷耙人家網站
 https://www.ithome.com.tw/news/170412
 
-美國CISA開源Thorium惡意程式分析平臺
-https://www.ithome.com.tw/news/170400
+AMD Q2 財報未達預期下跌約 5%，但看好 AI 營收增長
+https://www.inside.com.tw/article/39184-amd-2025-q2
 
-特斯拉批准 8600 多億元股票獎勵，以留住馬斯克掌舵
-https://www.inside.com.tw/article/39177-tesla-approves-over-nt860-billion-stock-award-to-retain-elon-musk-as-ceo
+酷澎第一次公布台灣市場現況：年增 3 位數、季增 54%！
+https://www.inside.com.tw/article/39195-coupang-first-taiwan-market-update-triple-digit-annual-growth-54-percent-quarterly-increase
 
-新加坡基本軍訓納無人機 防長：強化士兵 3D 思維
-https://www.inside.com.tw/article/39171-sg-3d-military-training
+「經」天判決出爐！Meta 遭控非法收集生理期 App 資料敗訴
+https://www.inside.com.tw/article/39194-meta-flo-data
 
-和 AI 聊太久了嗎？ChatGPT 將透過彈出式視窗提醒使用者休息
-https://www.inside.com.tw/article/39176-chatgpt-break-reminder
+台灣第三方支付邁入新紀元：產業公會正式成立，40 家業者共組共治平台
+https://www.inside.com.tw/article/39193-taiwans-third-party-payment-industry-enters-new-era-as-40-companies-form-self-governance-association
 
-比亞迪將來台？什麼又是騰勢？一文看清宴請國會高層的背後動機
-https://www.inside.com.tw/article/39175-byd-denza-is-coming-in-to-taiwan
+電信商內部文件洩密！Apple iPhone 17 發表會傳 9/10 凌晨登場
+https://www.inside.com.tw/article/39191-iphone-17-event-scheduled-for-september-9
 
-【圖表一次懂】從「不作惡」到「愛國者」：矽谷科技業為何告別反戰立場？
-https://www.inside.com.tw/article/39174-google-meta-openai-military-war
+傳奇架構師 Raja Koduri 創立 Oxmiq Labs，以 RISC-V 架構、軟體授權挑戰 CUDA 運算平台生態
+https://www.inside.com.tw/article/39192-legendary-architect-raja-koduri-founded-oxmiq-labs-challenging-the-cuda-computing-platform-ecosystem-with-risc-v-architecture-and-software-licensing
 
-韋伯太空望遠鏡首度捕捉塵埃星系中黑洞「秘密進食」畫面
-https://www.inside.com.tw/article/39173-jwst-swallowed-a-blackhole
+TBC 公告 Discovery、八大綜合等 4 頻道停播，NCC：違規就罰！
+https://www.inside.com.tw/article/39190-tbc-announces-shutdown-of-discovery-and-3-other-channels-ncc-warns-of-legal-action-if-violations-confirmed
 
-Cloudflare 爆 Perplexity 無視網站「禁止爬取」私下去爬蟲
-https://www.inside.com.tw/article/39169-perplexity-scraping-websites
+澳洲國家衛星網路採購案選了 Amazon 的 Kuiper，而非 Starlink
+https://www.inside.com.tw/article/39189-australia-selects-kuiper-over-starlink-for-national-satellite-network-deal
 
-【影片】Google 趁 Apple Intelligence 跳票狠酸對手 新廣告諷「不如直接換手機」
-https://www.inside.com.tw/article/39172-google-apple-intelligence-pixel-10-ad
+DeepMind 發表「世界模型」Genie 3，Google：AGI 關鍵一步
+https://www.inside.com.tw/article/39188-deepmind-thinks-genie-3-world-model
 
-AI Agent 來臨，你的基礎設施準備好了嗎？HPE 解析私有雲 AI 平台的三大支柱
-https://www.inside.com.tw/feature/ai-agent-new-wave/39132-hpe-local-ai-deployment
+PChome Q2 財報：曙光乍現，但匯兌損失成敗筆的一季
+https://www.inside.com.tw/article/39187-pchome-2025-q2
 
-xAI Grok Imagine 影像生成器開放！內建「麻辣模式」可產出 NSFW 內容
-https://www.inside.com.tw/article/39170-grok-imagine-xais-new-ai-image
+菲總統訪美與川普總統及政府要員會談之研析
+https://voicettank.org/20250805-1/
 
-對關稅有基本認識才有助對外談判
-https://voicettank.org/20250804-2/
+商益精選書單｜KOBO電子書今起3天75折！通膨、一人公司、失智症，今天的你掌握了哪些關鍵字？
+https://www.businessyee.com/article/6753-kobo-pchome-25per-off-k-book-day-aug
 
-Staub鑄鐵鍋台日對決：和食鍋篇！Amazon 18cm基本色3200元起；momo 16cm瑪格麗特夢幻限定版4399元
-https://www.businessyee.com/article/6746-staub-wa-nabe-momo-amazon
+捕捉墮落天使！首檔非投等債主動式ETF 中信價值策略(00981D) 8/26開募
+https://www.businessyee.com/article/6751-00981d-ipo
 
-【Palantir Q2 財報】AI界的梅西！營收首破10億美元、上調全年財測，盤後股價勁揚4.5%
-https://www.businessyee.com/article/6744-palantir-pltr-q2-earnings-2025
+【AMD Q2財報】營收表現優、獲利不如預期，盤後大跌6%
+https://www.businessyee.com/article/6749-amd-earnings-report-2q
 
-與那指死亡交叉！波克夏股價重演 1999 年網路泡沫前景象
-https://www.businessyee.com/article/6743-brk-stock-with-NASDAQ
+【美超微Q4財報】川普關稅壓力浮現！AI 伺服器需求降溫？疲弱財測引盤後股價暴跌16％
+https://www.businessyee.com/article/6750-super-micro-smci-q4-2025-earnings
 
-我最強國防夥伴！美新創Anduril：台灣擁電子製造優勢，正站上世界國防科技復興浪尖
-https://www.businessyee.com/article/6742-anduril-palmer-luckey
+專訪專業資產管理企業安誼金融：掌握 AI 產業脈動，搶先卡位未來投資風口
+https://www.businessyee.com/article/6733-assuredam
 
-業界首創！永豐銀推AI代理人iWish ，加速GAI創新應用
-https://www.businessyee.com/article/6741-sinopac-iwish
+川普掀底牌？晶片關稅一周內公佈，點名台積電投資3000億美元
+https://www.businessyee.com/article/6748-tsmc-300m-us-investing
 
-全球半導體投資睽違3年首回溫！台積電帶頭擴產，AI推升10大廠資本支出共64.5兆元
-https://www.businessyee.com/article/6740-semiconductor-capital-expenditure
+比亞迪繞道入台？業界警告：中國車傾銷恐毀台灣電動車生態系
+https://www.businessyee.com/article/6747-byd-taiwan
 
-波克夏連11季拋售股票！股神巴菲特為什麼狂賣股？
-https://www.businessyee.com/article/6738-berkshire-hathaway-sell
+太空軍加持：美國航太新創Firefly上修IPO發行價，估值有望破60億美元！
+https://www.businessyee.com/article/6745-firefly-aerospace-lifts-ipo
 
-Markdown Monster
-https://git.sr.ht/~xigoi/markdown-monster/blob/master/monster.md
+Gleam v1.12.0 released
+https://gleam.run/news/no-more-dependency-management-headaches/
 
-How Perplexity is Evading Anti-crawling Measures
-https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/
+TIL that You can spot base64 encoded JSON, certificates, and private keys
+https://ergaster.org/til/base64-encoded-json/
 
-Polish Train Maker Is Suing the Hackers Who Exposed Its Anti-Repair Tricks
-https://www.ifixit.com/News/112008/polish-train-maker-is-suing-the-hackers-who-exposed-its-anti-repair-tricks
+Have you ever regretted open-sourcing something?
+https://lobste.rs/s/uvvpzo/have_you_ever_regretted_open_sourcing
 
-Lisp interpreter with GC in <750 lines of Odin (and <500 lines of C)
-https://github.com/krig/LISP
+Be Careful with Go Struct Embedding
+https://mattjhall.co.uk/posts/be-careful-with-go-struct-embedding.html
 
-Every reason why I hate Ai
-https://malwaretech.com/2025/08/every-reason-why-i-hate-ai.html
+Quickshell, building blocks for your desktop
+https://quickshell.org/
 
-The Generativity Pattern in Rust
-https://arhan.sh/blog/the-generativity-pattern-in-rust/
+Rethinking devtools: Escaping the Cloud and SaaS trap
+https://lobste.rs/s/dstkgd/rethinking_devtools_escaping_cloud_saas
 
-What trick of the trade took you too long to learn?
-https://lobste.rs/s/a1njck/what_trick_trade_took_you_too_long_learn
+No, AI is not Making Engineers 10x as Productive
+https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/
 
-How we made JSON.stringify more than twice as fast
-https://v8.dev/blog/json-stringify
+A Proper X86 Assembler in Haskell Using the Escardó-Oliva Functional
+http://blog.vmchale.com/article/escardo-oliva-functional
 
-When vibe coding, isn't the source code the prompt?
-https://boston.conman.org/2025/08/04.1
+Gate-level emulation of an Intel 4004 in 4004 bytes of C
+https://nicholas.carlini.com/writing/2025/ioccc-intel-4004-in-4004-bytes-c.html
 
-p-fast trie: lexically ordered hash map
-https://dotat.at/@/2025-08-04-p-fast-trie.html
+cosmopolitan: build-once run-anywhere c library
+https://github.com/jart/cosmopolitan
 
-The Toyota Corolla Of Programming
-https://deprogrammaticaipsum.com/the-toyota-corolla-of-programming/
+Omarchy is on the move
+https://world.hey.com/dhh/omarchy-is-on-the-move-8f848fa4?__readwiseLocation=
 
-Introducing luzer, a coverage-guided Lua fuzzing engine
-https://bronevichok.ru/posts/introducing-luzer.html
+Proxmox Virtual Environment 9.0 with Debian 13 released
+https://www.proxmox.com/en/about/company-details/press-releases/proxmox-virtual-environment-9-0
 
-My Ideal Array Language
-https://www.ashermancinelli.com/csblog/2025-7-20-Ideal-Array-Language.html
+The wall confronting large language models
+https://arxiv.org/abs/2507.19703
 
-Getting Started with Randomised Testing
-https://lewiscampbell.tech/blog/250805.html
+Digital hygiene: Emails
+https://herman.bearblog.dev/digital-hygiene-emails/
 
-HTMX is hard so let's get it right
-https://github.com/BookOfCooks/blog/blob/master/htmx-is-hard-so-lets-get-it-right.md
+Rod Burstall: In Memoriam
+https://arxiv.org/html/2505.06456v1
 
-Rust, Python, and TypeScript: the new trifecta
-https://smallcultfollowing.com/babysteps/blog/2025/07/31/rs-py-ts-trifecta/
+Why are Windows semiannual updates named H1 and H2?
+https://devblogs.microsoft.com/oldnewthing/20250805-00/?p=111435
 
-Open Sourcing Shaper: Minimal Data Platform for Embedded Analytics
-https://github.com/taleshape-com/shaper
+Open models by OpenAI
+https://openai.com/open-models/
 
-Pragmatism in Programming Proverbs
-https://www.gingerbill.org/article/2020/05/31/progamming-pragmatist-proverbs/
+What are you doing this week?
+https://lobste.rs/s/99dxb4/what_are_you_doing_this_week
 
-A Few Things About the Anchor Element’s href You Might Not Have Known
-https://blog.jim-nielsen.com/2025/href-value-possibilities/
+The PSF has paused our Grants Program
+https://pyfound.blogspot.com/2025/08/the-psf-has-paused-our-grants-program.html
 
-Cordoomceps - replacing an Amiga's brain with Doom
-https://mjg59.dreamwidth.org/73001.html
-
-Getting an LLM to Play Text Adventures
-https://entropicthoughts.com/getting-an-llm-to-play-text-adventures
-
-Complex Iterators are Slow
-https://caolan.uk/notes/2025-07-31_complex_iterators_are_slow.cm
-
-NetBSD 11.0 release process underway
-https://blog.netbsd.org/tnf/entry/netbsd_11_0_release_process
-
-破碎像素地牢
-https://wiwi.blog/blog/shattered-pixel-dungeon
+離線演講
+https://wiwi.blog/blog/offline-presentation
