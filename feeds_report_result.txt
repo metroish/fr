@@ -1,43 +1,55 @@
-# 2025-08-06 09:26:47 Feeds Report 
+# 2025-08-07 09:25:40 Feeds Report 
 
-Daily Hacker News for 2025-08-05
-https://www.daemonology.net/hn-daily/2025-08-05.html
+Daily Hacker News for 2025-08-06
+https://www.daemonology.net/hn-daily/2025-08-06.html
 
-關於 Embedding 搜尋問題的坑
-https://blog.gslin.org/archives/2025/08/06/12559/%e9%97%9c%e6%96%bc-embedding-%e6%90%9c%e5%b0%8b%e5%95%8f%e9%a1%8c%e7%9a%84%e5%9d%91/
+前端練習 - 真·多執行緒背景作業 WebWorker
+https://blog.darkthread.net/blog/web-worker-tutorial/
 
-PHP 8.5 將會有的 Pipe Operator
-https://blog.gslin.org/archives/2025/08/06/12558/php-8-5-%e5%b0%87%e6%9c%83%e6%9c%89%e7%9a%84-pipe-operator/
+Apache Flink 2.1加入AI模型管理與即時推論功能，升級資料串流處理能力
+https://www.ithome.com.tw/news/170480
 
-uBlock Origin Lite 可以在各平台的 Safari 上使用了
-https://blog.gslin.org/archives/2025/08/06/12557/ublock-origin-lite-%e5%8f%af%e4%bb%a5%e5%9c%a8%e5%90%84%e5%b9%b3%e5%8f%b0%e7%9a%84-safari-%e4%b8%8a%e4%bd%bf%e7%94%a8%e4%ba%86/
+微軟公布惡意程式逆向工程AI代理人Project Ire原型
+https://www.ithome.com.tw/news/170481
 
-OpenAI 放出兩個 Apache License 2.0 的 Model：gpt-oss-20b 與 gpt-oss-120b
-https://blog.gslin.org/archives/2025/08/06/12556/openai-%e6%94%be%e5%87%ba%e5%85%a9%e5%80%8b-apache-license-2-0-%e7%9a%84-model%ef%bc%9agpt-oss-20b-%e8%88%87-gpt-oss-120b/
+Google的AI程式代理人Jules正式版出爐
+https://www.ithome.com.tw/news/170479
 
-AI程式碼編輯器Cursor存在資安漏洞CurXecute，恐被用於提示注入攻擊
-https://www.ithome.com.tw/news/170455
+OpenAI讓美國政府機關一年只要支付1美元就能使用ChatGPT
+https://www.ithome.com.tw/news/170476
 
-ElevenLabs推出音樂生成模型Eleven Music
-https://www.ithome.com.tw/news/170449
+後門程式Plague透過SSH入侵Linux伺服器，濫用身分驗證模組PAM匿蹤
+https://www.ithome.com.tw/news/170475
 
-國內首次啟動災害漫遊機制，臺南七股、嘉義布袋8月7日將啟動災害漫遊
-https://www.ithome.com.tw/news/170448
+OpenAI最新開放權重模型登上Windows 11 PC、AWS
+https://www.ithome.com.tw/news/170474
 
-微軟OAuth應用程式遭冒充，攻擊者以釣魚手法繞過多因素驗證
-https://www.ithome.com.tw/news/170446
+讀取效能高達28 GB/s與550萬IOPS，美光PCIe 6 SSD登場
+https://www.ithome.com.tw/review/170426
 
-Adobe緊急修補電子表單平臺AEM Forms零時差漏洞
-https://www.ithome.com.tw/news/170441
+Google擴大全球教育布局，AI工具Gemini與NotebookLM全面開放
+https://www.ithome.com.tw/news/170473
 
-DeepMind發表可以生成數分鐘3D虛擬世界的Genie 3
-https://www.ithome.com.tw/news/170440
+從臺日集團合併到赴美上市，關鍵評論網IT成溝通與法遵推手
+https://www.ithome.com.tw/people/170430
 
-SharePoint四大零時差漏洞ToolShell遭4L4MD4R勒索軟體濫用
-https://www.ithome.com.tw/news/170434
+蘋果在美投資總額擴大至6,000億美元，要在美國建置端至端晶片供應鏈
+https://www.ithome.com.tw/news/170472
 
-思科、Google雙雙發生員工遭網釣 致CRM資料外洩
-https://www.ithome.com.tw/news/170439
+管理網頁機器人程式的兩難
+https://www.ithome.com.tw/voice/170468
+
+TypeScript 5.9讓專案設定更簡單，並支援延遲載入模組提升啟動效能
+https://www.ithome.com.tw/news/170466
+
+趨勢科技端點防護軟體爆2項RCE漏洞 已發現攻擊行動
+https://www.ithome.com.tw/news/170467
+
+趨勢科技在黑帽大會展現AI資安創新，虛擬紅藍隊為主要焦點，另強調重視資料安全與Agentic SIEM的發展
+https://www.ithome.com.tw/news/170465
+
+JetBrains發表Kineto，強調零程式基礎也可快速產出網頁應用
+https://www.ithome.com.tw/news/170457
 
 Pandora資料外洩 可能為Salesforce相關事件最新受害品牌
 https://www.ithome.com.tw/news/170438
@@ -51,140 +63,131 @@ https://www.ithome.com.tw/news/170435
 Ollama推出Turbo雲端服務，加速開源模型推論並支援大型模型
 https://www.ithome.com.tw/news/170432
 
-6年後 OpenAI再釋出開放權重的語言模型
-https://www.ithome.com.tw/news/170433
+4SA 聯盟打造產業合作生態，搶占關鍵產業的全球商機
+https://www.inside.com.tw/article/39180-20254SAevet
 
-時尚精品業者香奈兒發生資料外洩事故，傳出是該公司的Salesforce帳密遭駭所致
-https://www.ithome.com.tw/news/170431
+Honda 2025 Q1 財報：電動車仍陷困境，營收微跌但利潤卻大幅下滑
+https://www.inside.com.tw/article/39205-honda-2025-q1-financial-report
 
-Google更新V8引擎，物件序列化速度翻倍
-https://www.ithome.com.tw/news/170425
+你的 AI 老師已上線！Google Gemini 推出「引導式學習」功能 搶攻學生市場與 ChatGPT 正面交鋒
+https://www.inside.com.tw/article/39208-google-gemini-guided-learning
 
-WordPress布景主題Alone存在重大漏洞，已被用於實際攻擊行動
-https://www.ithome.com.tw/news/170422
+BP 2025 Q2 財報：表現亮眼，核心業務強勁，潔淨能源漸轉為財務導向
+https://www.inside.com.tw/article/39198-bp-plc-2025-q2-financial-report
 
-Google Project Zero測試新漏洞揭露政策，將提早公布部份細節
-https://www.ithome.com.tw/news/170415
+達美航空與 AI 定價公司合作引爭議，美運輸部長：將嚴查
+https://www.inside.com.tw/article/39207-us-criticizes-use-ai-personalize-airline-ticket-prices-would-investigate
 
-第三方支付公會正式成立，綠界、Line Pay、momo等都加入
-https://www.ithome.com.tw/news/170413
+亞馬遜 Alexa+ 外媒實測：AI 助理號稱全面革新，實用性仍有待加強
+https://www.inside.com.tw/article/39203-first-impressions-of-alexa-amazons-upgraded
 
-Cloudflare指控Perplexity偷耙人家網站
-https://www.ithome.com.tw/news/170412
+【圖表】4 年投資 6000 億美元！一文看懂 Apple 美國製造計畫是什麼？
+https://www.inside.com.tw/article/39202-apple-increases-us-commitment-to-600-billion-usd-announces-ambitious-program
 
-AMD Q2 財報未達預期下跌約 5%，但看好 AI 營收增長
-https://www.inside.com.tw/article/39184-amd-2025-q2
+不當戰車當靶車？美軍證實採購特斯拉 Cybertruck 用於飛彈測試
+https://www.inside.com.tw/article/39201-us-military-buying-tesla-cybertruck-targets-missiles
 
-酷澎第一次公布台灣市場現況：年增 3 位數、季增 54%！
-https://www.inside.com.tw/article/39195-coupang-first-taiwan-market-update-triple-digit-annual-growth-54-percent-quarterly-increase
+川普、庫克白宮記者會：蘋果承諾額外對美投資 1000 億美元！
+https://www.inside.com.tw/article/39199-trump-cook-white-house-announcement
 
-「經」天判決出爐！Meta 遭控非法收集生理期 App 資料敗訴
-https://www.inside.com.tw/article/39194-meta-flo-data
+川普重磅宣布：晶片關稅 100%！但這些企業一毛都不用繳
+https://www.inside.com.tw/article/39200-trump-tariffs-chips
 
-台灣第三方支付邁入新紀元：產業公會正式成立，40 家業者共組共治平台
-https://www.inside.com.tw/article/39193-taiwans-third-party-payment-industry-enters-new-era-as-40-companies-form-self-governance-association
+美軍建立菲南海空燃料補給基地之戰略意涵
+https://voicettank.org/20250806-2/
 
-電信商內部文件洩密！Apple iPhone 17 發表會傳 9/10 凌晨登場
-https://www.inside.com.tw/article/39191-iphone-17-event-scheduled-for-september-9
+關稅失利，川普不再青睞台灣？
+https://voicettank.org/20250806-1/
 
-傳奇架構師 Raja Koduri 創立 Oxmiq Labs，以 RISC-V 架構、軟體授權挑戰 CUDA 運算平台生態
-https://www.inside.com.tw/article/39192-legendary-architect-raja-koduri-founded-oxmiq-labs-challenging-the-cuda-computing-platform-ecosystem-with-risc-v-architecture-and-software-licensing
+在初生時刻「加倍受傷」：大罷免中一個細微、現在無關緊要的國族生成之線
+https://voicettank.org/20250807-1/
 
-TBC 公告 Discovery、八大綜合等 4 頻道停播，NCC：違規就罰！
-https://www.inside.com.tw/article/39190-tbc-announces-shutdown-of-discovery-and-3-other-channels-ncc-warns-of-legal-action-if-violations-confirmed
+【Sony Q1財報】關稅影響縮小、遊戲音樂業務強勁，2026 年獲利上修！下午盤股價近歷史新高
+https://www.businessyee.com/article/6760-sony-earnings-q1-2026
 
-澳洲國家衛星網路採購案選了 Amazon 的 Kuiper，而非 Starlink
-https://www.inside.com.tw/article/39189-australia-selects-kuiper-over-starlink-for-national-satellite-network-deal
+【Shopify Q2 財報】營收年增31%、財測樂觀！CFO：關稅衝擊「根本沒發生」，股價飆21%
+https://www.businessyee.com/article/6759-shopify-earnings-2025-q2
 
-DeepMind 發表「世界模型」Genie 3，Google：AGI 關鍵一步
-https://www.inside.com.tw/article/39188-deepmind-thinks-genie-3-world-model
+蘋果宣布加碼美國製造！環球晶打入蘋果供應鏈，股價早盤亮燈漲停
+https://www.businessyee.com/article/6758-globalwafers-apple-0807
 
-PChome Q2 財報：曙光乍現，但匯兌損失成敗筆的一季
-https://www.inside.com.tw/article/39187-pchome-2025-q2
+對等關稅｜不是只看台積電！專家：應關注台灣半導體鏈本土生產比重
+https://www.businessyee.com/article/6757-us-trump-tariff-semiconductor-tsmc-supply-chain
 
-菲總統訪美與川普總統及政府要員會談之研析
-https://voicettank.org/20250805-1/
+對等關稅｜川普晶片關稅大絕：沒在美設廠，就課100%！
+https://www.businessyee.com/article/6756-us-trump-tariff-semiconductor
 
-商益精選書單｜KOBO電子書今起3天75折！通膨、一人公司、失智症，今天的你掌握了哪些關鍵字？
-https://www.businessyee.com/article/6753-kobo-pchome-25per-off-k-book-day-aug
+【迪士尼 Q3 財報】Disney+訂閱大增180萬、主題樂園單季新高！體育賽事授權成本增，ESPN上線串流謀突破
+https://www.businessyee.com/article/6755-disney-earning-2025-q3
 
-捕捉墮落天使！首檔非投等債主動式ETF 中信價值策略(00981D) 8/26開募
-https://www.businessyee.com/article/6751-00981d-ipo
+【Snap Q2 財報】ARPU不如預期、執行失誤拖累營收⋯⋯Snap 盤後重挫近20％
+https://www.businessyee.com/article/6754-snap-earnings-2025-q2
 
-【AMD Q2財報】營收表現優、獲利不如預期，盤後大跌6%
-https://www.businessyee.com/article/6749-amd-earnings-report-2q
+收益平準金動用變嚴，高股息ETF該怎麼選？
+https://www.businessyee.com/article/6752-etf-dividend-guidance
 
-【美超微Q4財報】川普關稅壓力浮現！AI 伺服器需求降溫？疲弱財測引盤後股價暴跌16％
-https://www.businessyee.com/article/6750-super-micro-smci-q4-2025-earnings
+Web Crawler Using WebMagic
+https://feeds.feedblitz.com/~/922790837/0/baeldung~Web-Crawler-Using-WebMagic
 
-專訪專業資產管理企業安誼金融：掌握 AI 產業脈動，搶先卡位未來投資風口
-https://www.businessyee.com/article/6733-assuredam
+The how and why of GitHub to Codeberg
+https://www.arscyni.cc/file/codeberg.html
 
-川普掀底牌？晶片關稅一周內公佈，點名台積電投資3000億美元
-https://www.businessyee.com/article/6748-tsmc-300m-us-investing
+Litestar is worth a look
+https://www.b-list.org/weblog/2025/aug/06/litestar/
 
-比亞迪繞道入台？業界警告：中國車傾銷恐毀台灣電動車生態系
-https://www.businessyee.com/article/6747-byd-taiwan
+We shouldn’t have needed lockfiles
+https://tonsky.me/blog/lockfiles/
 
-太空軍加持：美國航太新創Firefly上修IPO發行價，估值有望破60億美元！
-https://www.businessyee.com/article/6745-firefly-aerospace-lifts-ipo
+A Fast, Growable Array With Stable Pointers in C
+https://danielchasehooper.com/posts/segment_array/
 
-Gleam v1.12.0 released
-https://gleam.run/news/no-more-dependency-management-headaches/
+Why hx-boost is actually the most important feature of htmx
+https://dev.to/yawaramin/why-hx-boost-is-actually-the-most-important-feature-of-htmx-3nc0
 
-TIL that You can spot base64 encoded JSON, certificates, and private keys
-https://ergaster.org/til/base64-encoded-json/
+RFC 9457 - Problem Details for HTTP APIs
+https://datatracker.ietf.org/doc/html/rfc9457
 
-Have you ever regretted open-sourcing something?
-https://lobste.rs/s/uvvpzo/have_you_ever_regretted_open_sourcing
+zig-error-patterns
+https://glfmn.io/posts/zig-error-patterns/
 
-Be Careful with Go Struct Embedding
-https://mattjhall.co.uk/posts/be-careful-with-go-struct-embedding.html
+TUI version of dmidecode tool
+https://github.com/pythops/dmitui
 
-Quickshell, building blocks for your desktop
-https://quickshell.org/
+The Bluesky Dictionary
+https://www.avibagla.com/blueskydictionary/
 
-Rethinking devtools: Escaping the Cloud and SaaS trap
-https://lobste.rs/s/dstkgd/rethinking_devtools_escaping_cloud_saas
+Forsp: A Forth+Lisp Hybrid Lambda Calculus Language
+https://xorvoid.com/forsp.html
 
-No, AI is not Making Engineers 10x as Productive
-https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/
+HTTP/1.1 must die: the desync endgame
+https://portswigger.net/research/http1-must-die
 
-A Proper X86 Assembler in Haskell Using the Escardó-Oliva Functional
-http://blog.vmchale.com/article/escardo-oliva-functional
+uBlock Origin Lite for Safari
+https://mjtsai.com/blog/2025/08/06/ublock-origin-lite-for-safari/
 
-Gate-level emulation of an Intel 4004 in 4004 bytes of C
-https://nicholas.carlini.com/writing/2025/ioccc-intel-4004-in-4004-bytes-c.html
+LF AI & Data Foundation Hosts Vortex Project to Power High Performance Data Access for AI and Analytics
+https://www.linuxfoundation.org/press/lf-ai-data-foundation-hosts-vortex-project-to-power-high-performance-data-access-for-ai-and-analytics
 
-cosmopolitan: build-once run-anywhere c library
-https://github.com/jart/cosmopolitan
+onion-lang
+https://github.com/sjrsjz/onion-lang
 
-Omarchy is on the move
-https://world.hey.com/dhh/omarchy-is-on-the-move-8f848fa4?__readwiseLocation=
+comptime.ts — compile-time expressions for TypeScript
+https://comptime.js.org/
 
-Proxmox Virtual Environment 9.0 with Debian 13 released
-https://www.proxmox.com/en/about/company-details/press-releases/proxmox-virtual-environment-9-0
+Bag of words, have mercy on us
+https://www.experimental-history.com/p/bag-of-words-have-mercy-on-us
 
-The wall confronting large language models
-https://arxiv.org/abs/2507.19703
+Reasoning about systems' state spaces
+https://youtu.be/d9cM8f_qSLQ
 
-Digital hygiene: Emails
-https://herman.bearblog.dev/digital-hygiene-emails/
+One Billion Row Challenge (2024)
+https://curiouscoding.nl/posts/1brc/
 
-Rod Burstall: In Memoriam
-https://arxiv.org/html/2505.06456v1
+New Method Is the Fastest Way To Find the Best Routes
+https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/
 
-Why are Windows semiannual updates named H1 and H2?
-https://devblogs.microsoft.com/oldnewthing/20250805-00/?p=111435
+🐢 Google's new AI generates interactive worlds from text + 10 more stories
+https://newsletter.newsminimalist.com/p/google-s-new-ai-generates-interactive-worlds-from-text-10-more-stories
 
-Open models by OpenAI
-https://openai.com/open-models/
-
-What are you doing this week?
-https://lobste.rs/s/99dxb4/what_are_you_doing_this_week
-
-The PSF has paused our Grants Program
-https://pyfound.blogspot.com/2025/08/the-psf-has-paused-our-grants-program.html
-
-離線演講
-https://wiwi.blog/blog/offline-presentation
+做音樂不好玩
+https://wiwi.blog/blog/people-dont-enjoy-making-music
