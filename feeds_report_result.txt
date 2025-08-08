@@ -1,25 +1,49 @@
-# 2025-08-07 09:25:40 Feeds Report 
+# 2025-08-08 09:25:54 Feeds Report 
 
-Daily Hacker News for 2025-08-06
-https://www.daemonology.net/hn-daily/2025-08-06.html
+Daily Hacker News for 2025-08-07
+https://www.daemonology.net/hn-daily/2025-08-07.html
 
-前端練習 - 真·多執行緒背景作業 WebWorker
-https://blog.darkthread.net/blog/web-worker-tutorial/
+前端筆記 - 瀏覽器端資料長期儲存解決方案：localStorage、IndexedDB 與 OPFS
+https://blog.darkthread.net/blog/indexeddb-n-opfs/
 
-Apache Flink 2.1加入AI模型管理與即時推論功能，升級資料串流處理能力
-https://www.ithome.com.tw/news/170480
+Dell商務筆電特定晶片存在ReVault漏洞，影響逾百款機型恐遭持久控制與資料竊取
+https://www.ithome.com.tw/news/170492
 
-微軟公布惡意程式逆向工程AI代理人Project Ire原型
-https://www.ithome.com.tw/news/170481
+中國簡訊詐騙集團鎖定全球支付卡，利用數位錢包詐騙
+https://www.ithome.com.tw/news/170503
 
-Google的AI程式代理人Jules正式版出爐
-https://www.ithome.com.tw/news/170479
+川普放行401(k)退休基金投資數位資產
+https://www.ithome.com.tw/news/170502
 
-OpenAI讓美國政府機關一年只要支付1美元就能使用ChatGPT
-https://www.ithome.com.tw/news/170476
+PyPI推新規防堵ZIP混淆攻擊保護Python套件安全
+https://www.ithome.com.tw/news/170489
 
-後門程式Plague透過SSH入侵Linux伺服器，濫用身分驗證模組PAM匿蹤
-https://www.ithome.com.tw/news/170475
+Exchange Server混合環境存在重大提權攻擊漏洞
+https://www.ithome.com.tw/news/170498
+
+【資安日報】8月8日，越南駭客竊資軟體攻擊行動升溫，逾20萬組帳密遭竊
+https://www.ithome.com.tw/news/170497
+
+川普要求英特爾執行長陳立武立即辭職
+https://www.ithome.com.tw/news/170496
+
+CyberArk身分驗證資料管理平臺Conjur存在資安漏洞，攻擊者可進行串連，從而遠端執行任意程式碼
+https://www.ithome.com.tw/news/170495
+
+法航、荷航也傳客戶資料外洩
+https://www.ithome.com.tw/news/170491
+
+OpenAI釋出GPT-5，強化程式開發及代理任務
+https://www.ithome.com.tw/news/170490
+
+透過差異化競爭累積自信
+https://www.ithome.com.tw/article/170414
+
+Gemini CLI GitHub Actions上線，AI助自動化程式開發與團隊協作
+https://www.ithome.com.tw/news/170486
+
+Android Studio升級導入Gemini代理模式與XR開發支援
+https://www.ithome.com.tw/news/170485
 
 OpenAI最新開放權重模型登上Windows 11 PC、AWS
 https://www.ithome.com.tw/news/170474
@@ -42,152 +66,131 @@ https://www.ithome.com.tw/voice/170468
 TypeScript 5.9讓專案設定更簡單，並支援延遲載入模組提升啟動效能
 https://www.ithome.com.tw/news/170466
 
-趨勢科技端點防護軟體爆2項RCE漏洞 已發現攻擊行動
-https://www.ithome.com.tw/news/170467
+福衛八號第一顆衛星通過「送前審查」！預計第 4 季升空
+https://www.inside.com.tw/article/39227-tasa-fs-8a-spacex
 
-趨勢科技在黑帽大會展現AI資安創新，虛擬紅藍隊為主要焦點，另強調重視資料安全與Agentic SIEM的發展
-https://www.ithome.com.tw/news/170465
+台灣電池新創輝能推第四代固態電池，挑戰鋰電池 40 年安全難題
+https://www.inside.com.tw/article/39225-solid-state-batteries-not-the-ultimate-solution-prologium-highlights-inherently-non-flammable-electrolytes-with-active-defusing-safety-system
 
-JetBrains發表Kineto，強調零程式基礎也可快速產出網頁應用
-https://www.ithome.com.tw/news/170457
+【聲明全文】Intel CEO 陳立武發聲回應川普「辭職令」：我熱愛美國
+https://www.inside.com.tw/article/39226-lip-bu-my-commitment-to-you-and-our-company
 
-Pandora資料外洩 可能為Salesforce相關事件最新受害品牌
-https://www.ithome.com.tw/news/170438
+蘇格蘭大型電網電池上線，模擬慣性成電網穩定新解方
+https://www.inside.com.tw/article/39223-grid-scale-battery-scotland
 
-阿里巴巴開源首個圖像生成模型Qwen-Image
-https://www.ithome.com.tw/news/170437
+NASA 研究揭格陵蘭冰融新發現，超級電腦揭密冰層消融如何催生海洋生命
+https://www.inside.com.tw/article/39221-supercomputer-reveals-ice-melt-fuels-ocean-life
 
-Anthropic釋出Claude Opus 4.1，強化代理任務、程式碼與推理能力
-https://www.ithome.com.tw/news/170435
+特斯拉終止 Dojo 超級電腦計畫，轉向與 Nvidia、三星結盟
+https://www.inside.com.tw/article/39220-tesla-shuts-down-dojo-the-ai-training-supercomputer-that-musk-said-would-be-key-to-full-self-driving
 
-Ollama推出Turbo雲端服務，加速開源模型推論並支援大型模型
-https://www.ithome.com.tw/news/170432
+站上舞台，世界為你讓路！My Stage, My Rule，「新北國際街舞大賽」點燃青年夢想
+https://www.inside.com.tw/article/39204-newtaipeistreetdance2025
 
-4SA 聯盟打造產業合作生態，搶占關鍵產業的全球商機
-https://www.inside.com.tw/article/39180-20254SAevet
+川普 Truth Social 攜手 Perplexity，推出 AI 搜尋！
+https://www.inside.com.tw/article/39222-truth-social-perplexity
 
-Honda 2025 Q1 財報：電動車仍陷困境，營收微跌但利潤卻大幅下滑
-https://www.inside.com.tw/article/39205-honda-2025-q1-financial-report
+Meta 發表 VR 原型機「Tiramisu」，號稱視覺效果媲美真實世界
+https://www.inside.com.tw/article/39218-meta-tiramisu
 
-你的 AI 老師已上線！Google Gemini 推出「引導式學習」功能 搶攻學生市場與 ChatGPT 正面交鋒
-https://www.inside.com.tw/article/39208-google-gemini-guided-learning
+新工具 UnMarker 橫空出世，AI 浮水印技術面臨存亡危機，Google SynthID 也難逃一劫
+https://www.inside.com.tw/article/39219-ai-watermark-remover
 
-BP 2025 Q2 財報：表現亮眼，核心業務強勁，潔淨能源漸轉為財務導向
-https://www.inside.com.tw/article/39198-bp-plc-2025-q2-financial-report
+【書摘】《萬物的名字：博物學之父布豐與林奈的頂尖對決，一場影響日後三百年生物學發展的競賽》
+https://voicettank.org/20250807-2/
 
-達美航空與 AI 定價公司合作引爭議，美運輸部長：將嚴查
-https://www.inside.com.tw/article/39207-us-criticizes-use-ai-personalize-airline-ticket-prices-would-investigate
+【書摘】《「沒有人」的運動：黑客、鄉民、與g0v零時政府的數位行動主義》
+https://voicettank.org/20250808-2/
 
-亞馬遜 Alexa+ 外媒實測：AI 助理號稱全面革新，實用性仍有待加強
-https://www.inside.com.tw/article/39203-first-impressions-of-alexa-amazons-upgraded
+風力發電產業：一個國家、市場與公民社會的精彩故事
+https://voicettank.org/20250808-1/
 
-【圖表】4 年投資 6000 億美元！一文看懂 Apple 美國製造計畫是什麼？
-https://www.inside.com.tw/article/39202-apple-increases-us-commitment-to-600-billion-usd-announces-ambitious-program
+高齡健康產業博覽會今登場！五大金控參展，搶攻銀髮經濟商機
+https://www.businessyee.com/article/6766-Senior-Health-Industry-Expo
 
-不當戰車當靶車？美軍證實採購特斯拉 Cybertruck 用於飛彈測試
-https://www.inside.com.tw/article/39201-us-military-buying-tesla-cybertruck-targets-missiles
+月營收｜台積電 7月營收3,232億元，月增22.5%、累計年增37.6％！單月再創同期新高
+https://www.businessyee.com/article/6765-tsmc-revenue-july-2025
 
-川普、庫克白宮記者會：蘋果承諾額外對美投資 1000 億美元！
-https://www.inside.com.tw/article/39199-trump-cook-white-house-announcement
+國壽推男性專屬癌症險，單日銷量600張
+https://www.businessyee.com/article/6764-happy-father-day-insurance
 
-川普重磅宣布：晶片關稅 100%！但這些企業一毛都不用繳
-https://www.inside.com.tw/article/39200-trump-tariffs-chips
+GPT-5 全面解析｜速度快、思考深，商務與創作都能駕馭！一篇掌握功能與用法
+https://www.businessyee.com/article/6763-openai-chat-gpt5
 
-美軍建立菲南海空燃料補給基地之戰略意涵
-https://voicettank.org/20250806-2/
+輝達「最被市場小看」的生意正飛速成長？資料中心業績的基石：網路業務
+https://www.businessyee.com/article/6762-nvidias-most-underappreciated-business
 
-關稅失利，川普不再青睞台灣？
-https://voicettank.org/20250806-1/
+0728西南氣流豪雨重創中南部，金管會籲加保颱風洪水險強化保障
+https://www.businessyee.com/article/6761-typhoon-flood-insurance
 
-在初生時刻「加倍受傷」：大罷免中一個細微、現在無關緊要的國族生成之線
-https://voicettank.org/20250807-1/
+原爆投下前早有準備，終戰前美軍共進行49次「南瓜爆彈」模擬原爆實驗
+https://changyuchieh.com/2025/08/08/pumpkin-bomb/?utm_source=rss&utm_medium=rss&utm_campaign=pumpkin-bomb
 
-【Sony Q1財報】關稅影響縮小、遊戲音樂業務強勁，2026 年獲利上修！下午盤股價近歷史新高
-https://www.businessyee.com/article/6760-sony-earnings-q1-2026
+Java Weekly, Issue 606
+https://feeds.feedblitz.com/~/922871060/0/baeldung~Java-Weekly-Issue
 
-【Shopify Q2 財報】營收年增31%、財測樂觀！CFO：關稅衝擊「根本沒發生」，股價飆21%
-https://www.businessyee.com/article/6759-shopify-earnings-2025-q2
+We replaced passwords with something worse
+https://blog.danielh.cc/blog/passwords
 
-蘋果宣布加碼美國製造！環球晶打入蘋果供應鏈，股價早盤亮燈漲停
-https://www.businessyee.com/article/6758-globalwafers-apple-0807
+KomoDo, my first KDE app
+https://akselmo.dev/posts/komodo-my-first-kde-app/
 
-對等關稅｜不是只看台積電！專家：應關注台灣半導體鏈本土生產比重
-https://www.businessyee.com/article/6757-us-trump-tariff-semiconductor-tsmc-supply-chain
+GPT-5 is here
+https://openai.com/gpt-5/
 
-對等關稅｜川普晶片關稅大絕：沒在美設廠，就課100%！
-https://www.businessyee.com/article/6756-us-trump-tariff-semiconductor
+Who's Hiring? Q3 2025
+https://lobste.rs/s/tiiesw/who_s_hiring_q3_2025
 
-【迪士尼 Q3 財報】Disney+訂閱大增180萬、主題樂園單季新高！體育賽事授權成本增，ESPN上線串流謀突破
-https://www.businessyee.com/article/6755-disney-earning-2025-q3
+Writing surtoget.no with gleam
+https://lindbakk.com/blog/introducing-surtoget_no
 
-【Snap Q2 財報】ARPU不如預期、執行失誤拖累營收⋯⋯Snap 盤後重挫近20％
-https://www.businessyee.com/article/6754-snap-earnings-2025-q2
+Announcing Rust 1.89.0
+https://blog.rust-lang.org/2025/08/07/Rust-1.89.0/
 
-收益平準金動用變嚴，高股息ETF該怎麼選？
-https://www.businessyee.com/article/6752-etf-dividend-guidance
+Jepsen: Capela dda5892
+https://jepsen.io/analyses/capela-dda5892
 
-Web Crawler Using WebMagic
-https://feeds.feedblitz.com/~/922790837/0/baeldung~Web-Crawler-Using-WebMagic
+GPT-5 leaked system prompt
+https://gist.github.com/maoxiaoke/f6d5b28f9104cd856a2622a084f46fd7
 
-The how and why of GitHub to Codeberg
-https://www.arscyni.cc/file/codeberg.html
+Asahi Linux Progress Report: Linux 6.16
+https://asahilinux.org/2025/08/progress-report-6-16/
 
-Litestar is worth a look
-https://www.b-list.org/weblog/2025/aug/06/litestar/
+More shell tricks: first class lists, jq, and the es shell
+https://alurm.github.io/blog/2025-08-07-first-class-lists-in-shells.html
 
-We shouldn’t have needed lockfiles
-https://tonsky.me/blog/lockfiles/
+Mac history echoes in current Mac operating systems
+http://tenfourfox.blogspot.com/2025/08/mac-history-echoes-in-mac-operating.html
 
-A Fast, Growable Array With Stable Pointers in C
-https://danielchasehooper.com/posts/segment_array/
+A Full-Chain Exploit of an Unfused Qualcomm Device
+https://hhj4ck.github.io/qualcomm/2025/08/06/secboot-off-qcm2150.html
 
-Why hx-boost is actually the most important feature of htmx
-https://dev.to/yawaramin/why-hx-boost-is-actually-the-most-important-feature-of-htmx-3nc0
+Arenas in Rust
+https://russellw.github.io/arenas
 
-RFC 9457 - Problem Details for HTTP APIs
-https://datatracker.ietf.org/doc/html/rfc9457
+All the cool kids are doing it
+https://www.scattered-thoughts.net/writing/all-the-cool-kids-are-doing-it/
 
-zig-error-patterns
-https://glfmn.io/posts/zig-error-patterns/
+Nixpkgs module system config modules graph
+https://discourse.nixos.org/t/nixpkgs-module-system-config-modules-graph/67722
 
-TUI version of dmidecode tool
-https://github.com/pythops/dmitui
+Disposable Code Is Here to Stay, but Durable Code Is What Runs the World
+https://www.honeycomb.io/blog/disposable-code-is-here-to-stay
 
-The Bluesky Dictionary
-https://www.avibagla.com/blueskydictionary/
+Live coding sucks
+https://hadid.dev/posts/living-coding/
 
-Forsp: A Forth+Lisp Hybrid Lambda Calculus Language
-https://xorvoid.com/forsp.html
+You don't really need monads
+https://muratkasimov.art/Ya/Articles/You-don't-really-need-monads
 
-HTTP/1.1 must die: the desync endgame
-https://portswigger.net/research/http1-must-die
+Oops Safari, I think You Spilled Something
+https://blog.exodusintel.com/2025/08/04/oops-safari-i-think-you-spilled-something/
 
-uBlock Origin Lite for Safari
-https://mjtsai.com/blog/2025/08/06/ublock-origin-lite-for-safari/
+How I ended up writing Gleam for a living
+https://www.youtube.com/watch?v=BfPRcanTWXA
 
-LF AI & Data Foundation Hosts Vortex Project to Power High Performance Data Access for AI and Analytics
-https://www.linuxfoundation.org/press/lf-ai-data-foundation-hosts-vortex-project-to-power-high-performance-data-access-for-ai-and-analytics
+What are you doing this weekend?
+https://lobste.rs/s/qr1kro/what_are_you_doing_this_weekend
 
-onion-lang
-https://github.com/sjrsjz/onion-lang
-
-comptime.ts — compile-time expressions for TypeScript
-https://comptime.js.org/
-
-Bag of words, have mercy on us
-https://www.experimental-history.com/p/bag-of-words-have-mercy-on-us
-
-Reasoning about systems' state spaces
-https://youtu.be/d9cM8f_qSLQ
-
-One Billion Row Challenge (2024)
-https://curiouscoding.nl/posts/1brc/
-
-New Method Is the Fastest Way To Find the Best Routes
-https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/
-
-🐢 Google's new AI generates interactive worlds from text + 10 more stories
-https://newsletter.newsminimalist.com/p/google-s-new-ai-generates-interactive-worlds-from-text-10-more-stories
-
-做音樂不好玩
-https://wiwi.blog/blog/people-dont-enjoy-making-music
+輸入系統
+https://wiwi.blog/blog/input-systems
