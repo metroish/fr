@@ -1,31 +1,10 @@
-# 2025-08-08 09:25:54 Feeds Report 
+# 2025-08-09 09:18:12 Feeds Report 
 
-Daily Hacker News for 2025-08-07
-https://www.daemonology.net/hn-daily/2025-08-07.html
+Daily Hacker News for 2025-08-08
+https://www.daemonology.net/hn-daily/2025-08-08.html
 
-前端筆記 - 瀏覽器端資料長期儲存解決方案：localStorage、IndexedDB 與 OPFS
-https://blog.darkthread.net/blog/indexeddb-n-opfs/
-
-Dell商務筆電特定晶片存在ReVault漏洞，影響逾百款機型恐遭持久控制與資料竊取
-https://www.ithome.com.tw/news/170492
-
-中國簡訊詐騙集團鎖定全球支付卡，利用數位錢包詐騙
-https://www.ithome.com.tw/news/170503
-
-川普放行401(k)退休基金投資數位資產
-https://www.ithome.com.tw/news/170502
-
-PyPI推新規防堵ZIP混淆攻擊保護Python套件安全
-https://www.ithome.com.tw/news/170489
-
-Exchange Server混合環境存在重大提權攻擊漏洞
-https://www.ithome.com.tw/news/170498
-
-【資安日報】8月8日，越南駭客竊資軟體攻擊行動升溫，逾20萬組帳密遭竊
-https://www.ithome.com.tw/news/170497
-
-川普要求英特爾執行長陳立武立即辭職
-https://www.ithome.com.tw/news/170496
+GPT-5 出了
+https://blog.gslin.org/archives/2025/08/09/12560/gpt-5-%e5%87%ba%e4%ba%86/
 
 CyberArk身分驗證資料管理平臺Conjur存在資安漏洞，攻擊者可進行串連，從而遠端執行任意程式碼
 https://www.ithome.com.tw/news/170495
@@ -42,155 +21,83 @@ https://www.ithome.com.tw/article/170414
 Gemini CLI GitHub Actions上線，AI助自動化程式開發與團隊協作
 https://www.ithome.com.tw/news/170486
 
-Android Studio升級導入Gemini代理模式與XR開發支援
-https://www.ithome.com.tw/news/170485
+藍鑽級野獸！MrBeast 突破 4 億訂閱大關，獲頒 YouTube 史上第一「藍鑽獎牌」
+https://www.inside.com.tw/article/39228-mrbeast-and-his-400m-subscibes-medal
 
-OpenAI最新開放權重模型登上Windows 11 PC、AWS
-https://www.ithome.com.tw/news/170474
+國泰產險推全台首張電動輔具險，鎖定超高齡與弱勢族群
+https://www.businessyee.com/article/6770-electric-assistive-device-insurance
 
-讀取效能高達28 GB/s與550萬IOPS，美光PCIe 6 SSD登場
-https://www.ithome.com.tw/review/170426
+長天期保單研議可調漲保費，壽險業：有助風險控管與創新
+https://www.businessyee.com/article/6769-insurance-rate-fee-may-goes-up
 
-Google擴大全球教育布局，AI工具Gemini與NotebookLM全面開放
-https://www.ithome.com.tw/news/170473
+【月營收評比】晶圓廠7月營收：匯率比關稅凶險？台積電AI熱絡續強，成熟製程廠動能各異
+https://www.businessyee.com/article/6768-foundry-revenue-july-2025
 
-從臺日集團合併到赴美上市，關鍵評論網IT成溝通與法遵推手
-https://www.ithome.com.tw/people/170430
+【好險有聽】評議申訴勝率低？當評議委員秘辛大公開
+https://www.businessyee.com/article/6767-ep42
 
-蘋果在美投資總額擴大至6,000億美元，要在美國建置端至端晶片供應鏈
-https://www.ithome.com.tw/news/170472
+Parallel Flux vs Flux in Project Reactor
+https://feeds.feedblitz.com/~/922919054/0/baeldung~Parallel-Flux-vs-Flux-in-Project-Reactor
 
-管理網頁機器人程式的兩難
-https://www.ithome.com.tw/voice/170468
+Why is GitHub UI getting so much slower?
+https://yoyo-code.com/why-is-github-ui-getting-so-much-slower/
 
-TypeScript 5.9讓專案設定更簡單，並支援延遲載入模組提升啟動效能
-https://www.ithome.com.tw/news/170466
+HTTP is not simple
+https://daniel.haxx.se/blog/2025/08/08/http-is-not-simple/
 
-福衛八號第一顆衛星通過「送前審查」！預計第 4 季升空
-https://www.inside.com.tw/article/39227-tasa-fs-8a-spacex
+Lobsters Interview with Hwayne
+https://lobste.rs/s/bc53lh/lobsters_interview_with_hwayne
 
-台灣電池新創輝能推第四代固態電池，挑戰鋰電池 40 年安全難題
-https://www.inside.com.tw/article/39225-solid-state-batteries-not-the-ultimate-solution-prologium-highlights-inherently-non-flammable-electrolytes-with-active-defusing-safety-system
+A puzzling Python program
+https://jo3-l.dev/posts/python-countdown/
 
-【聲明全文】Intel CEO 陳立武發聲回應川普「辭職令」：我熱愛美國
-https://www.inside.com.tw/article/39226-lip-bu-my-commitment-to-you-and-our-company
+How long does it take to upgrade an eBook?
+https://shkspr.mobi/blog/2025/08/how-long-does-it-take-to-upgrade-an-ebook/
 
-蘇格蘭大型電網電池上線，模擬慣性成電網穩定新解方
-https://www.inside.com.tw/article/39223-grid-scale-battery-scotland
+Hypothesis is now thread-safe
+https://hypothesis.works/articles/thread-safe/
 
-NASA 研究揭格陵蘭冰融新發現，超級電腦揭密冰層消融如何催生海洋生命
-https://www.inside.com.tw/article/39221-supercomputer-reveals-ice-melt-fuels-ocean-life
+A Spellchecker Used to Be a Major Feat of Software Engineering (2008)
+https://prog21.dadgum.com/29.html
 
-特斯拉終止 Dojo 超級電腦計畫，轉向與 Nvidia、三星結盟
-https://www.inside.com.tw/article/39220-tesla-shuts-down-dojo-the-ai-training-supercomputer-that-musk-said-would-be-key-to-full-self-driving
+Programming as Extended Cognition
+https://ieeexplore.ieee.org/document/11119124
 
-站上舞台，世界為你讓路！My Stage, My Rule，「新北國際街舞大賽」點燃青年夢想
-https://www.inside.com.tw/article/39204-newtaipeistreetdance2025
+Over engineering my homelab so I don't pay cloud providers
+https://ergaster.org/posts/2025/08/04-overegineering-homelab/
 
-川普 Truth Social 攜手 Perplexity，推出 AI 搜尋！
-https://www.inside.com.tw/article/39222-truth-social-perplexity
+LVFS Sustainability Plan
+https://blogs.gnome.org/hughsie/2025/08/08/lvfs-sustainability-plan/
 
-Meta 發表 VR 原型機「Tiramisu」，號稱視覺效果媲美真實世界
-https://www.inside.com.tw/article/39218-meta-tiramisu
+Introducing spindle
+https://blog.tangled.sh/ci
 
-新工具 UnMarker 橫空出世，AI 浮水印技術面臨存亡危機，Google SynthID 也難逃一劫
-https://www.inside.com.tw/article/39219-ai-watermark-remover
+Virtual 6NF
+https://minimalmodeling.substack.com/p/virtual-6nf
 
-【書摘】《萬物的名字：博物學之父布豐與林奈的頂尖對決，一場影響日後三百年生物學發展的競賽》
-https://voicettank.org/20250807-2/
+Array Portal
+https://www.arrayportal.com/
 
-【書摘】《「沒有人」的運動：黑客、鄉民、與g0v零時政府的數位行動主義》
-https://voicettank.org/20250808-2/
+Why I prefer human-readable file formats
+https://adele.pollux.casa/gemlog/2025-08-04_why_I_prefer_human-readble_file_formats.gmi
 
-風力發電產業：一個國家、市場與公民社會的精彩故事
-https://voicettank.org/20250808-1/
+GNOME 49 Backlight Changes
+https://blog.sebastianwick.net/posts/gnome-49-backlight-changes/
 
-高齡健康產業博覽會今登場！五大金控參展，搶攻銀髮經濟商機
-https://www.businessyee.com/article/6766-Senior-Health-Industry-Expo
+Perfect web app (2023)
+https://yoyo-code.com/perfect-web-app/
 
-月營收｜台積電 7月營收3,232億元，月增22.5%、累計年增37.6％！單月再創同期新高
-https://www.businessyee.com/article/6765-tsmc-revenue-july-2025
+Accidentally writing a fast SAT solver
+https://blog.danielh.cc/blog/sat
 
-國壽推男性專屬癌症險，單日銷量600張
-https://www.businessyee.com/article/6764-happy-father-day-insurance
+Breaking the Sorting Barrier for Directed Single-Source Shortest Paths
+https://arxiv.org/abs/2504.17033
 
-GPT-5 全面解析｜速度快、思考深，商務與創作都能駕馭！一篇掌握功能與用法
-https://www.businessyee.com/article/6763-openai-chat-gpt5
+Understanding not just Clojure's comp function by re-implementing it
+https://www.evalapply.org/posts/lessons-from-reimplementing-clojure-comp-function/index.html
 
-輝達「最被市場小看」的生意正飛速成長？資料中心業績的基石：網路業務
-https://www.businessyee.com/article/6762-nvidias-most-underappreciated-business
+Eli Lilly obesity pill achieved 12% weight loss + 13 more stories
+https://newsletter.newsminimalist.com/p/eli-lilly-obesity-pill-achieved-12-weight-loss-13-more-stories
 
-0728西南氣流豪雨重創中南部，金管會籲加保颱風洪水險強化保障
-https://www.businessyee.com/article/6761-typhoon-flood-insurance
-
-原爆投下前早有準備，終戰前美軍共進行49次「南瓜爆彈」模擬原爆實驗
-https://changyuchieh.com/2025/08/08/pumpkin-bomb/?utm_source=rss&utm_medium=rss&utm_campaign=pumpkin-bomb
-
-Java Weekly, Issue 606
-https://feeds.feedblitz.com/~/922871060/0/baeldung~Java-Weekly-Issue
-
-We replaced passwords with something worse
-https://blog.danielh.cc/blog/passwords
-
-KomoDo, my first KDE app
-https://akselmo.dev/posts/komodo-my-first-kde-app/
-
-GPT-5 is here
-https://openai.com/gpt-5/
-
-Who's Hiring? Q3 2025
-https://lobste.rs/s/tiiesw/who_s_hiring_q3_2025
-
-Writing surtoget.no with gleam
-https://lindbakk.com/blog/introducing-surtoget_no
-
-Announcing Rust 1.89.0
-https://blog.rust-lang.org/2025/08/07/Rust-1.89.0/
-
-Jepsen: Capela dda5892
-https://jepsen.io/analyses/capela-dda5892
-
-GPT-5 leaked system prompt
-https://gist.github.com/maoxiaoke/f6d5b28f9104cd856a2622a084f46fd7
-
-Asahi Linux Progress Report: Linux 6.16
-https://asahilinux.org/2025/08/progress-report-6-16/
-
-More shell tricks: first class lists, jq, and the es shell
-https://alurm.github.io/blog/2025-08-07-first-class-lists-in-shells.html
-
-Mac history echoes in current Mac operating systems
-http://tenfourfox.blogspot.com/2025/08/mac-history-echoes-in-mac-operating.html
-
-A Full-Chain Exploit of an Unfused Qualcomm Device
-https://hhj4ck.github.io/qualcomm/2025/08/06/secboot-off-qcm2150.html
-
-Arenas in Rust
-https://russellw.github.io/arenas
-
-All the cool kids are doing it
-https://www.scattered-thoughts.net/writing/all-the-cool-kids-are-doing-it/
-
-Nixpkgs module system config modules graph
-https://discourse.nixos.org/t/nixpkgs-module-system-config-modules-graph/67722
-
-Disposable Code Is Here to Stay, but Durable Code Is What Runs the World
-https://www.honeycomb.io/blog/disposable-code-is-here-to-stay
-
-Live coding sucks
-https://hadid.dev/posts/living-coding/
-
-You don't really need monads
-https://muratkasimov.art/Ya/Articles/You-don't-really-need-monads
-
-Oops Safari, I think You Spilled Something
-https://blog.exodusintel.com/2025/08/04/oops-safari-i-think-you-spilled-something/
-
-How I ended up writing Gleam for a living
-https://www.youtube.com/watch?v=BfPRcanTWXA
-
-What are you doing this weekend?
-https://lobste.rs/s/qr1kro/what_are_you_doing_this_weekend
-
-輸入系統
-https://wiwi.blog/blog/input-systems
+What's On Your PowerBook?
+https://wiwi.blog/blog/whats-on-your-powerbook
